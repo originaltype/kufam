@@ -85383,43 +85383,10 @@ rightKerningGroup = p.sc;
 },
 {
 glyphname = thorn.sc;
-lastChange = "2018-11-12 14:52:30 +0000";
+lastChange = "2018-11-12 20:30:14 +0000";
 layers = (
 {
-color = 6;
-hints = (
-{
-horizontal = 1;
-place = "{0, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{52, 152}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{356, 160}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{572, -20}";
-target = down;
-type = TopGhost;
-},
-{
-place = "{64, 208}";
-type = Stem;
-},
-{
-place = "{412, 208}";
-type = Stem;
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+background = {
 paths = (
 {
 closed = 1;
@@ -85454,6 +85421,41 @@ nodes = (
 );
 }
 );
+};
+color = 6;
+hints = (
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{52, 152}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{356, 160}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{572, -20}";
+target = down;
+type = TopGhost;
+},
+{
+place = "{64, 208}";
+type = Stem;
+},
+{
+place = "{412, 208}";
+type = Stem;
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 640;
 },
 {
