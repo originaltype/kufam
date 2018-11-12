@@ -1,5 +1,8 @@
 {
 .appVersion = "1176";
+DisplayStrings = (
+"Þ/p.sc"
+);
 date = "2018-07-13 07:07:43 +0000";
 designer = "Wael Morcos & Artur Schmal";
 familyName = "Kufam Arabic Latin Roman";
@@ -85248,7 +85251,7 @@ rightMetricsKey = e.sc;
 },
 {
 glyphname = p.sc;
-lastChange = "2018-11-12 11:30:01 +0000";
+lastChange = "2018-11-12 20:30:51 +0000";
 layers = (
 {
 color = 4;
@@ -85283,9 +85286,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"64 0 LINE",
-"272 0 LINE",
-"272 108 LINE",
+"144 108 LINE",
 "328 108 LINE SMOOTH",
 "511 108 OFFCURVE",
 "620 202 OFFCURVE",
@@ -85293,7 +85294,7 @@ nodes = (
 "620 483 OFFCURVE",
 "529 572 OFFCURVE",
 "332 572 CURVE SMOOTH",
-"64 572 LINE"
+"144 572 LINE"
 );
 },
 {
