@@ -1,11 +1,7 @@
 {
 .appVersion = "1176";
 DisplayStrings = (
-"/jeem-ar.fina",
-"/_loop-ar/sad-ar.fina",
-"/tah-ar/_tahbarfinal-ar/tah-ar.fina/tah-ar.medi/tah-ar.init",
-"/dotcenter-ar",
-"/tah-ar"
+"GRU/Germandbls EN"
 );
 customParameters = (
 {
@@ -31130,7 +31126,7 @@ unicode = 1E62;
 },
 {
 glyphname = Germandbls;
-lastChange = "2018-11-16 22:33:54 +0000";
+lastChange = "2018-11-20 22:08:26 +0000";
 layers = (
 {
 background = {
@@ -31307,11 +31303,11 @@ nodes = (
 closed = 1;
 nodes = (
 "372 320 LINE",
-"426 320 LINE SMOOTH",
-"517 320 OFFCURVE",
-"522 268 OFFCURVE",
-"522 228 CURVE SMOOTH",
-"522 168 OFFCURVE",
+"416 320 LINE SMOOTH",
+"504 320 OFFCURVE",
+"520 268 OFFCURVE",
+"520 236 CURVE SMOOTH",
+"520 168 OFFCURVE",
 "480 144 OFFCURVE",
 "416 144 CURVE SMOOTH",
 "389 144 OFFCURVE",
@@ -31321,13 +31317,13 @@ nodes = (
 "340 0 LINE",
 "368 -7 OFFCURVE",
 "393 -12 OFFCURVE",
-"441 -12 CURVE SMOOTH",
+"456 -12 CURVE SMOOTH",
 "618 -12 OFFCURVE",
-"726 88 OFFCURVE",
-"726 228 CURVE SMOOTH",
-"726 344 OFFCURVE",
-"643 447 OFFCURVE",
-"486 429 CURVE",
+"724 88 OFFCURVE",
+"724 220 CURVE SMOOTH",
+"724 348 OFFCURVE",
+"636 444 OFFCURVE",
+"486 449 CURVE",
 "494 387 LINE",
 "613 584 LINE SMOOTH",
 "633 617 OFFCURVE",
@@ -31340,12 +31336,12 @@ nodes = (
 "186 720 LINE",
 "186 552 LINE",
 "473 552 LINE",
-"461 624 LINE",
-"347 415 LINE"
+"451 634 LINE",
+"337 425 LINE"
 );
 }
 );
-width = 712;
+width = 728;
 }
 );
 note = P;
