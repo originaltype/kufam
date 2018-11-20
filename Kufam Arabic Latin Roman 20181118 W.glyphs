@@ -1,8 +1,5 @@
 {
 .appVersion = "1176";
-DisplayStrings = (
-"GRU/Germandbls EN"
-);
 customParameters = (
 {
 name = glyphOrder;
