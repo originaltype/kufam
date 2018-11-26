@@ -3,60 +3,6 @@
 copyright = "Copyright (c) 2018 by Artur Schmal. All rights reserved.";
 customParameters = (
 {
-name = trademark;
-value = "Kufam is a trademark of OurType.";
-},
-{
-name = licenseURL;
-value = "http://www.ourtype.com";
-},
-{
-name = license;
-value = "A copy of the End-User License Agreement to this software can be found at http://www.ourtype.com";
-},
-{
-name = vendorID;
-value = OURT;
-},
-{
-name = panose;
-value = (
-2,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-32
-);
-},
-{
-name = codePageRanges;
-value = (
-1252,
-1250,
-1253,
-1254,
-1257
-);
-},
-{
-name = blueScale;
-value = 0.06463;
-},
-{
 name = glyphOrder;
 value = (
 .notdef,
