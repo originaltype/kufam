@@ -43277,9 +43277,8 @@ note = fraction;
 unicode = 2044;
 },
 {
-color = 0;
 glyphname = percent.sc;
-lastChange = "2018-12-07 23:04:02 +0000";
+lastChange = "2018-12-07 23:10:05 +0000";
 layers = (
 {
 background = {
@@ -43707,9 +43706,8 @@ width = 743;
 note = percent.sc;
 },
 {
-color = 0;
 glyphname = perthousand.sc;
-lastChange = "2018-12-07 23:03:42 +0000";
+lastChange = "2018-12-07 23:10:05 +0000";
 layers = (
 {
 background = {
