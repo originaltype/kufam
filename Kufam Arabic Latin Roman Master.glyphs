@@ -351,7 +351,7 @@ glyphs = (
 {
 color = 4;
 glyphname = a;
-lastChange = "2018-09-19 06:51:46 +0000";
+lastChange = "2018-12-07 16:06:15 +0000";
 layers = (
 {
 background = {
@@ -642,6 +642,23 @@ nodes = (
 "52 44 OFFCURVE",
 "130 -12 OFFCURVE",
 "286 -12 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"484 69 OFFCURVE",
+"627 212 OFFCURVE",
+"627 388 CURVE SMOOTH",
+"627 563 OFFCURVE",
+"484 706 OFFCURVE",
+"309 706 CURVE SMOOTH",
+"133 706 OFFCURVE",
+"-10 563 OFFCURVE",
+"-10 388 CURVE SMOOTH",
+"-10 212 OFFCURVE",
+"133 69 OFFCURVE",
+"309 69 CURVE SMOOTH"
 );
 }
 );
