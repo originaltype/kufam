@@ -221622,7 +221622,7 @@ unicode = 00A7;
 },
 {
 glyphname = copyright;
-lastChange = "2018-11-09 21:38:37 +0000";
+lastChange = "2018-12-07 22:57:10 +0000";
 layers = (
 {
 color = 4;
@@ -221846,7 +221846,7 @@ unicode = 00A9;
 },
 {
 glyphname = registered;
-lastChange = "2018-11-12 22:33:28 +0000";
+lastChange = "2018-12-07 22:57:15 +0000";
 layers = (
 {
 background = {
@@ -229292,7 +229292,7 @@ note = percent.sc;
 },
 {
 glyphname = perthousand.sc;
-lastChange = "2018-11-13 14:35:45 +0000";
+lastChange = "2018-12-07 23:03:16 +0000";
 layers = (
 {
 color = 4;
