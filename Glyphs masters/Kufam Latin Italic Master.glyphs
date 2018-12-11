@@ -1,5 +1,38 @@
 {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 .appVersion = "1184";
+=======
+.appVersion = "1141";
+DisplayStrings = (
+"/zero.denominator/zeroinferior/zeroinferior//  un/fraction/divisionslash/oneinferior/zerosuperior",
+"/tcedilla.sc/tcommaaccent.sc",
+"/Tcommaaccent/Tcedilla",
+"/idotless.sc",
+"/idotless.sc"
+);
+classes = (
+{
+automatic = 1;
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Delta Omega AE AEacute Agrave Aacute Adieresis Acircumflex Amacron Atilde Aring Abreve Aogonek Cacute Cdotaccent Ccircumflex Ccaron Ccedilla Eth Dcroat Dcaron Egrave Eacute Edotaccent Edieresis Ecircumflex Ecaron Emacron Ebreve Eogonek Gdotaccent Gcircumflex Gbreve Gcommaaccent Hbar Hcircumflex Igrave Iacute Idotaccent Idieresis Icircumflex Imacron Itilde Ibreve Iogonek IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lslash Ldot Lcaron Nacute Ncaron Ntilde Ncommaaccent Eng OE Ograve Oacute Ohungarumlaut Odieresis Ocircumflex Omacron Obreve Otilde Oslash Oslashacute Racute Rcaron Rcommaaccent Sacute Scaron Scircumflex Scommaaccent Scedilla Tcaron Tcommaaccent Tcommaaccent Tbar Thorn Ugrave Uacute Uhungarumlaut Udieresis Ucircumflex Umacron Utilde Ubreve Uring Uogonek Wgrave Wacute Wdieresis Wcircumflex Ygrave Yacute Ydieresis Ycircumflex Zacute Zdotaccent Zcaron Ddotbelow Dlinebelow Gcaron Hbrevebelow Hdotbelow Sdotbelow Germandbls Tdotbelow Tlinebelow Zdotbelow";
+=======
+.appVersion = "1141";
+classes = (
+{
+automatic = 1;
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Delta Omega AE AEacute Agrave Aacute Adieresis Acircumflex Amacron Atilde Aring Abreve Aogonek Cacute Cdotaccent Ccircumflex Ccaron Ccedilla Eth Dcroat Dcaron Egrave Eacute Edotaccent Edieresis Ecircumflex Ecaron Emacron Ebreve Eogonek Gdotaccent Gcircumflex Gbreve Gcommaaccent Hbar Hcircumflex Igrave Iacute Idotaccent Idieresis Icircumflex Imacron Itilde Ibreve Iogonek IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lslash Ldot Lcaron Nacute Ncaron Ntilde Ncommaaccent Eng OE Ograve Oacute Ohungarumlaut Odieresis Ocircumflex Omacron Obreve Otilde Oslash Oslashacute Racute Rcaron Rcommaaccent Sacute Scaron Scircumflex Scommaaccent Scedilla Tcaron Tcommaaccent Tbar Thorn Ugrave Uacute Uhungarumlaut Udieresis Ucircumflex Umacron Utilde Ubreve Uring Uogonek Wgrave Wacute Wdieresis Wcircumflex Ygrave Yacute Ydieresis Ycircumflex Zacute Zdotaccent Zcaron Ddotbelow Dlinebelow Gcaron Hbrevebelow Hdotbelow Sdotbelow Germandbls Tcedilla Tdotbelow Tlinebelow Zdotbelow";
+>>>>>>> Stashed changes
+name = Uppercase;
+},
+{
+code = "";
+name = xxxx;
+}
+);
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 copyright = "Copyright (c) 2018 by Artur Schmal. All rights reserved.";
 customParameters = (
 {
@@ -956,17 +989,26 @@ code = "lookup lookup_0 {\012sub zero.numerator fraction zero.numerator zero.num
 name = lookup_0;
 },
 {
-code = "lookup lookup_1 {\012sub zero.numerator fraction zero.numerator by percent;\012sub one.numerator fraction two.numerator by onehalf;\012sub one.numerator fraction three.numerator by uni2153;\012sub one.numerator fraction four.numerator by onequarter;\012sub one.numerator fraction five.numerator by uni2155;\012sub one.numerator fraction six.numerator by uni2159;\012sub one.numerator fraction eight.numerator by uni215B;\012sub two.numerator fraction three.numerator by uni2154;\012sub two.numerator fraction five.numerator by uni2156;\012sub three.numerator fraction four.numerator by threequarters;\012sub three.numerator fraction five.numerator by uni2157;\012sub three.numerator fraction eight.numerator by uni215C;\012sub four.numerator fraction five.numerator by uni2158;\012sub five.numerator fraction six.numerator by uni215A;\012sub five.numerator fraction eight.numerator by uni215D;\012sub seven.numerator fraction eight.numerator by uni215E;\012} lookup_1;\012";
+<<<<<<< Updated upstream
+code = "lookup lookup_1 {\012sub zero.numerator fraction zero.numerator by percent;\012sub one.numerator fraction two.numerator by onehalf;\012sub one.numerator fraction three.numerator by onethird;\012sub one.numerator fraction four.numerator by onequarter;\012sub one.numerator fraction five.numerator by onefifth;\012sub one.numerator fraction six.numerator by onesixth;\012sub one.numerator fraction eight.numerator by oneeight;\012sub two.numerator fraction three.numerator by twothirds;\012sub two.numerator fraction five.numerator by twofifths;\012sub three.numerator fraction four.numerator by threequarters;\012sub three.numerator fraction five.numerator by threefifths;\012sub three.numerator fraction eight.numerator by threeeighths;\012sub four.numerator fraction five.numerator by fourfifths;\012sub five.numerator fraction six.numerator by fivesixths;\012sub five.numerator fraction eight.numerator by fiveeighths;\012sub seven.numerator fraction eight.numerator by seveneighths;\012} lookup_1;";
+=======
+code = "lookup lookup_1 {\012sub zero.numerator fraction zero.numerator by percent;\012sub one.numerator fraction two.numerator by onehalf;\012sub one.numerator fraction three.numerator by onethird;\012sub one.numerator fraction four.numerator by onequarter;\012sub one.numerator fraction five.numerator by onefifth;\012sub one.numerator fraction six.numerator by onesixth;\012sub one.numerator fraction eight.numerator by oneeighth;\012sub two.numerator fraction three.numerator by twothirds;\012sub two.numerator fraction five.numerator by twofifths;\012sub three.numerator fraction four.numerator by threequarters;\012sub three.numerator fraction five.numerator by threefifths;\012sub three.numerator fraction eight.numerator by threeeighths;\012sub four.numerator fraction five.numerator by fourfifths;\012sub five.numerator fraction six.numerator by fivesixths;\012sub five.numerator fraction eight.numerator by fiveeighths;\012sub seven.numerator fraction eight.numerator by seveneighths;\012} lookup_1;";
+>>>>>>> Stashed changes
 name = lookup_1;
 },
 {
 code = "lookup lookup_2 {\012sub a.numerator by a.denominator;\012sub b.numerator by b.denominator;\012sub c.numerator by c.denominator;\012sub d.numerator by d.denominator;\012sub e.numerator by e.denominator;\012sub f.numerator by f.denominator;\012sub g.numerator by g.denominator;\012sub h.numerator by h.denominator;\012sub i.numerator by i.denominator;\012sub j.numerator by j.denominator;\012sub k.numerator by k.denominator;\012sub l.numerator by l.denominator;\012sub m.numerator by m.denominator;\012sub n.numerator by n.denominator;\012sub o.numerator by o.denominator;\012sub p.numerator by p.denominator;\012sub q.numerator by q.denominator;\012sub r.numerator by r.denominator;\012sub s.numerator by s.denominator;\012sub t.numerator by t.denominator;\012sub u.numerator by u.denominator;\012sub v.numerator by v.denominator;\012sub w.numerator by w.denominator;\012sub x.numerator by x.denominator;\012sub y.numerator by y.denominator;\012sub z.numerator by z.denominator;\012sub zero.numerator by zero.denominator;\012sub one.numerator by one.denominator;\012sub two.numerator by two.denominator;\012sub three.numerator by three.denominator;\012sub four.numerator by four.denominator;\012sub five.numerator by five.denominator;\012sub six.numerator by six.denominator;\012sub seven.numerator by seven.denominator;\012sub eight.numerator by eight.denominator;\012sub nine.numerator by nine.denominator;\012sub dollar.numerator by dollar.denominator;\012sub cent.numerator by cent.denominator;\012sub euro.numerator by euro.denominator;\012sub plus.numerator by plus.denominator;\012sub minus.numerator by minus.denominator;\012sub equal.numerator by equal.denominator;\012sub comma.numerator by comma.denominator;\012sub period.numerator by period.denominator;\012sub hyphen.numerator by hyphen.denominator;\012sub parenleft.numerator by parenleft.denominator;\012sub parenright.numerator by parenright.denominator;\012} lookup_2;\012";
 name = lookup_2;
+},
+{
+automatic = 1;
+code = "";
+name = xxxx;
 }
 );
 features = (
 {
-code = "sub at by at.sc;\012sub A by a.sc;\012sub B by b.sc;\012sub C by c.sc;\012sub D by d.sc;\012sub E by e.sc;\012sub F by f.sc;\012sub G by g.sc;\012sub H by h.sc;\012sub I by i.sc;\012sub J by j.sc;\012sub K by k.sc;\012sub L by l.sc;\012sub M by m.sc;\012sub N by n.sc;\012sub O by o.sc;\012sub P by p.sc;\012sub Q by q.sc;\012sub R by r.sc;\012sub S by s.sc;\012sub T by t.sc;\012sub U by u.sc;\012sub V by v.sc;\012sub W by w.sc;\012sub X by x.sc;\012sub Y by y.sc;\012sub Z by z.sc;\012sub ampersand by ampersand.sc;\012sub zero by zero.sc;\012sub one by one.sc;\012sub two by two.sc;\012sub three by three.sc;\012sub four by four.sc;\012sub five by five.sc;\012sub six by six.sc;\012sub seven by seven.sc;\012sub eight by eight.sc;\012sub nine by nine.sc;\012sub slashedzero by slashedzero.sc;\012sub zero.PPF by zero.scppf;\012sub one.PPF by one.scppf;\012sub two.PPF by two.scppf;\012sub three.PPF by three.scppf;\012sub four.PPF by four.scppf;\012sub five.PPF by five.scppf;\012sub six.PPF by six.scppf;\012sub seven.PPF by seven.scppf;\012sub eight.PPF by eight.scppf;\012sub nine.PPF by nine.scppf;\012sub slashedzero.PPF by slashedzero.scppf;\012sub zero.TOSF by zero.sc;\012sub one.TOSF by one.sc;\012sub two.TOSF by two.sc;\012sub three.TOSF by three.sc;\012sub four.TOSF by four.sc;\012sub five.TOSF by five.sc;\012sub six.TOSF by six.sc;\012sub seven.TOSF by seven.sc;\012sub eight.TOSF by eight.sc;\012sub nine.TOSF by nine.sc;\012sub slashedzero.TOSF by slashedzero.sc;\012sub zero.oldstyle by zero.scppf;\012sub one.oldstyle by one.scppf;\012sub two.oldstyle by two.scppf;\012sub three.oldstyle by three.scppf;\012sub four.oldstyle by four.scppf;\012sub five.oldstyle by five.scppf;\012sub six.oldstyle by six.scppf;\012sub seven.oldstyle by seven.scppf;\012sub eight.oldstyle by eight.scppf;\012sub nine.oldstyle by nine.scppf;\012sub slashedzero.oldstyle by slashedzero.scppf;\012sub percent by percent.sc;\012sub perthousand by perthousand.sc;\012sub period by period;\012sub comma by comma;\012sub colon by colon;\012sub semicolon by semicolon;\012sub exclam by exclam.sc;\012sub question by question.sc;\012sub slash by slash.sc;\012sub backslash by backslash.sc;\012sub quotesinglbase by quotesinglbase;\012sub quotedblbase by quotedblbase;\012sub quoteleft by quoteleft.sc;\012sub quotedblleft by quotedblleft.sc;\012sub quoteright by quoteright.sc;\012sub quotedblright by quotedblright.sc;\012sub asterisk by asterisk.sc;\012sub degree by degree.sc;\012sub quotesingle by quotesingle.sc;\012sub quotedbl by quotedbl.sc;\012sub ordfeminine by ordfeminine.sc;\012sub ordmasculine by ordmasculine.sc;\012sub trademark by trademark.sc;\012sub copyright by copyright.sc;\012sub registered by registered.sc;\012sub paragraph by paragraph.sc;\012sub dagger by dagger.sc;\012sub daggerdbl by daggerdbl.sc;\012sub section by section.sc;\012sub exclamdown.cap by exclamdown.sc;\012sub questiondown.cap by questiondown.sc;\012sub hyphen.cap by hyphen.sc;\012sub endash.cap by endash.sc;\012sub emdash.cap by emdash.sc;\012sub periodcentered.cap by periodcentered.sc;\012sub bullet.cap by bullet.sc;\012sub guilsinglleft.cap by guilsinglleft.sc;\012sub guilsinglright.cap by guilsinglright.sc;\012sub guillemotleft.cap by guillemotleft.sc;\012sub guillemotright.cap by guillemotright.sc;\012sub parenleft.cap by parenleft.sc;\012sub parenright.cap by parenright.sc;\012sub bracketleft.cap by bracketleft.sc;\012sub bracketright.cap by bracketright.sc;\012sub braceleft.cap by braceleft.sc;\012sub braceright.cap by braceright.sc;\012sub plus by plus.sc;\012sub minus by minus.sc;\012sub multiply by multiply.sc;\012sub divide by divide.sc;\012sub equal by equal.sc;\012sub less by less.sc;\012sub greater by greater.sc;\012sub plusminus by plusminus.sc;\012sub lessequal by lessequal.sc;\012sub greaterequal by greaterequal.sc;\012sub notequal by notequal.sc;\012sub logicalnot by logicalnot.sc;\012sub asciitilde by asciitilde.sc;\012sub approxequal by approxequal.sc;\012sub infinity by infinity.sc;\012sub numbersign by numbersign.sc;\012sub currency by currency.sc;\012sub dollar by dollar.sc;\012sub cent by cent.sc;\012sub Euro by Euro.sc;\012sub yen by yen.sc;\012sub sterling by sterling.sc;\012sub florin by florin.sc;\012sub currency.PPF by currency.scppf;\012sub dollar.PPF by dollar.scppf;\012sub cent.PPF by cent.scppf;\012sub Euro.PPF by Euro.scppf;\012sub yen.PPF by yen.scppf;\012sub sterling.PPF by sterling.scppf;\012sub florin.PPF by florin.scppf;\012sub AE by ae.sc;\012sub AEacute by aeacute.sc;\012sub Agrave by agrave.sc;\012sub Aacute by aacute.sc;\012sub Adieresis by adieresis.sc;\012sub Acircumflex by acircumflex.sc;\012sub Amacron by amacron.sc;\012sub Atilde by atilde.sc;\012sub Aring by aring.sc;\012sub Abreve by abreve.sc;\012sub Aogonek by aogonek.sc;\012sub Cacute by cacute.sc;\012sub Cdotaccent by cdotaccent.sc;\012sub Ccircumflex by ccircumflex.sc;\012sub Ccaron by ccaron.sc;\012sub Ccedilla by ccedilla.sc;\012sub Eth by eth.sc;\012sub Dcroat by dcroat.sc;\012sub Dcaron by dcaron.sc;\012sub Egrave by egrave.sc;\012sub Eacute by eacute.sc;\012sub Edotaccent by edotaccent.sc;\012sub Edieresis by edieresis.sc;\012sub Ecircumflex by ecircumflex.sc;\012sub Ecaron by ecaron.sc;\012sub Emacron by emacron.sc;\012sub Ebreve by ebreve.sc;\012sub Eogonek by eogonek.sc;\012sub Gdotaccent by gdotaccent.sc;\012sub Gcircumflex by gcircumflex.sc;\012sub Gbreve by gbreve.sc;\012sub Gcommaaccent by gcommaaccent.sc;\012sub Hbar by hbar.sc;\012sub Hcircumflex by hcircumflex.sc;\012sub Igrave by igrave.sc;\012sub Iacute by iacute.sc;\012sub Idotaccent by idotaccent.sc;\012sub Idieresis by idieresis.sc;\012sub Icircumflex by icircumflex.sc;\012sub Imacron by imacron.sc;\012sub Itilde by itilde.sc;\012sub Ibreve by ibreve.sc;\012sub Iogonek by iogonek.sc;\012sub IJ by ij.sc;\012sub Jcircumflex by jcircumflex.sc;\012sub Kcommaaccent by kcommaaccent.sc;\012sub Lacute by lacute.sc;\012sub Lcommaaccent by lcommaaccent.sc;\012sub Lslash by lslash.sc;\012sub Ldot by ldot.sc;\012sub Lcaron by lcaron.sc;\012sub Nacute by nacute.sc;\012sub Ncaron by ncaron.sc;\012sub Ntilde by ntilde.sc;\012sub Ncommaaccent by ncommaaccent.sc;\012sub Eng by eng.sc;\012sub OE by oe.sc;\012sub Ograve by ograve.sc;\012sub Oacute by oacute.sc;\012sub Ohungarumlaut by ohungarumlaut.sc;\012sub Odieresis by odieresis.sc;\012sub Ocircumflex by ocircumflex.sc;\012sub Omacron by omacron.sc;\012sub Obreve by obreve.sc;\012sub Otilde by otilde.sc;\012sub Oslash by oslash.sc;\012sub Oslashacute by oslashacute.sc;\012sub Racute by racute.sc;\012sub Rcaron by rcaron.sc;\012sub Rcommaaccent by rcommaaccent.sc;\012sub Sacute by sacute.sc;\012sub Scaron by scaron.sc;\012sub Scircumflex by scircumflex.sc;\012sub Scommaaccent by scommaaccent.sc;\012sub Scedilla by scedilla.sc;\012sub Tcaron by tcaron.sc;\012sub uni021A by uni021B.sc;\012sub Tcommaaccent by tcommaaccent.sc;\012sub Tbar by tbar.sc;\012sub Thorn by thorn.sc;\012sub Ugrave by ugrave.sc;\012sub Uacute by uacute.sc;\012sub Uhungarumlaut by uhungarumlaut.sc;\012sub Udieresis by udieresis.sc;\012sub Ucircumflex by ucircumflex.sc;\012sub Umacron by umacron.sc;\012sub Utilde by utilde.sc;\012sub Ubreve by ubreve.sc;\012sub Uring by uring.sc;\012sub Uogonek by uogonek.sc;\012sub Wgrave by wgrave.sc;\012sub Wacute by wacute.sc;\012sub Wdieresis by wdieresis.sc;\012sub Wcircumflex by wcircumflex.sc;\012sub Ygrave by ygrave.sc;\012sub Yacute by yacute.sc;\012sub Ydieresis by ydieresis.sc;\012sub Ycircumflex by ycircumflex.sc;\012sub Zacute by zacute.sc;\012sub Zdotaccent by zdotaccent.sc;\012sub Zcaron by zcaron.sc;\012";
+code = "sub at by at.sc;\012sub A by a.sc;\012sub B by b.sc;\012sub C by c.sc;\012sub D by d.sc;\012sub E by e.sc;\012sub F by f.sc;\012sub G by g.sc;\012sub H by h.sc;\012sub I by i.sc;\012sub J by j.sc;\012sub K by k.sc;\012sub L by l.sc;\012sub M by m.sc;\012sub N by n.sc;\012sub O by o.sc;\012sub P by p.sc;\012sub Q by q.sc;\012sub R by r.sc;\012sub S by s.sc;\012sub T by t.sc;\012sub U by u.sc;\012sub V by v.sc;\012sub W by w.sc;\012sub X by x.sc;\012sub Y by y.sc;\012sub Z by z.sc;\012sub ampersand by ampersand.sc;\012sub zero by zero.sc;\012sub one by one.sc;\012sub two by two.sc;\012sub three by three.sc;\012sub four by four.sc;\012sub five by five.sc;\012sub six by six.sc;\012sub seven by seven.sc;\012sub eight by eight.sc;\012sub nine by nine.sc;\012sub slashedzero by slashedzero.sc;\012sub zero.PPF by zero.scppf;\012sub one.PPF by one.scppf;\012sub two.PPF by two.scppf;\012sub three.PPF by three.scppf;\012sub four.PPF by four.scppf;\012sub five.PPF by five.scppf;\012sub six.PPF by six.scppf;\012sub seven.PPF by seven.scppf;\012sub eight.PPF by eight.scppf;\012sub nine.PPF by nine.scppf;\012sub slashedzero.PPF by slashedzero.scppf;\012sub zero.TOSF by zero.sc;\012sub one.TOSF by one.sc;\012sub two.TOSF by two.sc;\012sub three.TOSF by three.sc;\012sub four.TOSF by four.sc;\012sub five.TOSF by five.sc;\012sub six.TOSF by six.sc;\012sub seven.TOSF by seven.sc;\012sub eight.TOSF by eight.sc;\012sub nine.TOSF by nine.sc;\012sub slashedzero.TOSF by slashedzero.sc;\012sub zero.oldstyle by zero.scppf;\012sub one.oldstyle by one.scppf;\012sub two.oldstyle by two.scppf;\012sub three.oldstyle by three.scppf;\012sub four.oldstyle by four.scppf;\012sub five.oldstyle by five.scppf;\012sub six.oldstyle by six.scppf;\012sub seven.oldstyle by seven.scppf;\012sub eight.oldstyle by eight.scppf;\012sub nine.oldstyle by nine.scppf;\012sub slashedzero.oldstyle by slashedzero.scppf;\012sub percent by percent.sc;\012sub perthousand by perthousand.sc;\012sub period by period;\012sub comma by comma;\012sub colon by colon;\012sub semicolon by semicolon;\012sub exclam by exclam.sc;\012sub question by question.sc;\012sub slash by slash.sc;\012sub backslash by backslash.sc;\012sub quotesinglbase by quotesinglbase;\012sub quotedblbase by quotedblbase;\012sub quoteleft by quoteleft.sc;\012sub quotedblleft by quotedblleft.sc;\012sub quoteright by quoteright.sc;\012sub quotedblright by quotedblright.sc;\012sub asterisk by asterisk.sc;\012sub degree by degree.sc;\012sub quotesingle by quotesingle.sc;\012sub quotedbl by quotedbl.sc;\012sub ordfeminine by ordfeminine.sc;\012sub ordmasculine by ordmasculine.sc;\012sub trademark by trademark.sc;\012sub copyright by copyright.sc;\012sub registered by registered.sc;\012sub paragraph by paragraph.sc;\012sub dagger by dagger.sc;\012sub daggerdbl by daggerdbl.sc;\012sub section by section.sc;\012sub exclamdown.cap by exclamdown.sc;\012sub questiondown.cap by questiondown.sc;\012sub hyphen.cap by hyphen.sc;\012sub endash.cap by endash.sc;\012sub emdash.cap by emdash.sc;\012sub periodcentered.cap by periodcentered.sc;\012sub bullet.cap by bullet.sc;\012sub guilsinglleft.cap by guilsinglleft.sc;\012sub guilsinglright.cap by guilsinglright.sc;\012sub guillemotleft.cap by guillemotleft.sc;\012sub guillemotright.cap by guillemotright.sc;\012sub parenleft.cap by parenleft.sc;\012sub parenright.cap by parenright.sc;\012sub bracketleft.cap by bracketleft.sc;\012sub bracketright.cap by bracketright.sc;\012sub braceleft.cap by braceleft.sc;\012sub braceright.cap by braceright.sc;\012sub plus by plus.sc;\012sub minus by minus.sc;\012sub multiply by multiply.sc;\012sub divide by divide.sc;\012sub equal by equal.sc;\012sub less by less.sc;\012sub greater by greater.sc;\012sub plusminus by plusminus.sc;\012sub lessequal by lessequal.sc;\012sub greaterequal by greaterequal.sc;\012sub notequal by notequal.sc;\012sub logicalnot by logicalnot.sc;\012sub asciitilde by asciitilde.sc;\012sub approxequal by approxequal.sc;\012sub infinity by infinity.sc;\012sub numbersign by numbersign.sc;\012sub currency by currency.sc;\012sub dollar by dollar.sc;\012sub cent by cent.sc;\012sub Euro by Euro.sc;\012sub yen by yen.sc;\012sub sterling by sterling.sc;\012sub florin by florin.sc;\012sub currency.PPF by currency.scppf;\012sub dollar.PPF by dollar.scppf;\012sub cent.PPF by cent.scppf;\012sub Euro.PPF by Euro.scppf;\012sub yen.PPF by yen.scppf;\012sub sterling.PPF by sterling.scppf;\012sub florin.PPF by florin.scppf;\012sub AE by ae.sc;\012sub AEacute by aeacute.sc;\012sub Agrave by agrave.sc;\012sub Aacute by aacute.sc;\012sub Adieresis by adieresis.sc;\012sub Acircumflex by acircumflex.sc;\012sub Amacron by amacron.sc;\012sub Atilde by atilde.sc;\012sub Aring by aring.sc;\012sub Abreve by abreve.sc;\012sub Aogonek by aogonek.sc;\012sub Cacute by cacute.sc;\012sub Cdotaccent by cdotaccent.sc;\012sub Ccircumflex by ccircumflex.sc;\012sub Ccaron by ccaron.sc;\012sub Ccedilla by ccedilla.sc;\012sub Eth by eth.sc;\012sub Dcroat by dcroat.sc;\012sub Dcaron by dcaron.sc;\012sub Egrave by egrave.sc;\012sub Eacute by eacute.sc;\012sub Edotaccent by edotaccent.sc;\012sub Edieresis by edieresis.sc;\012sub Ecircumflex by ecircumflex.sc;\012sub Ecaron by ecaron.sc;\012sub Emacron by emacron.sc;\012sub Ebreve by ebreve.sc;\012sub Eogonek by eogonek.sc;\012sub Gdotaccent by gdotaccent.sc;\012sub Gcircumflex by gcircumflex.sc;\012sub Gbreve by gbreve.sc;\012sub Gcommaaccent by gcommaaccent.sc;\012sub Hbar by hbar.sc;\012sub Hcircumflex by hcircumflex.sc;\012sub Igrave by igrave.sc;\012sub Iacute by iacute.sc;\012sub Idotaccent by idotaccent.sc;\012sub Idieresis by idieresis.sc;\012sub Icircumflex by icircumflex.sc;\012sub Imacron by imacron.sc;\012sub Itilde by itilde.sc;\012sub Ibreve by ibreve.sc;\012sub Iogonek by iogonek.sc;\012sub IJ by ij.sc;\012sub Jcircumflex by jcircumflex.sc;\012sub Kcommaaccent by kcommaaccent.sc;\012sub Lacute by lacute.sc;\012sub Lcommaaccent by lcommaaccent.sc;\012sub Lslash by lslash.sc;\012sub Ldot by ldot.sc;\012sub Lcaron by lcaron.sc;\012sub Nacute by nacute.sc;\012sub Ncaron by ncaron.sc;\012sub Ntilde by ntilde.sc;\012sub Ncommaaccent by ncommaaccent.sc;\012sub Eng by eng.sc;\012sub OE by oe.sc;\012sub Ograve by ograve.sc;\012sub Oacute by oacute.sc;\012sub Ohungarumlaut by ohungarumlaut.sc;\012sub Odieresis by odieresis.sc;\012sub Ocircumflex by ocircumflex.sc;\012sub Omacron by omacron.sc;\012sub Obreve by obreve.sc;\012sub Otilde by otilde.sc;\012sub Oslash by oslash.sc;\012sub Oslashacute by oslashacute.sc;\012sub Racute by racute.sc;\012sub Rcaron by rcaron.sc;\012sub Rcommaaccent by rcommaaccent.sc;\012sub Sacute by sacute.sc;\012sub Scaron by scaron.sc;\012sub Scircumflex by scircumflex.sc;\012sub Scommaaccent by scommaaccent.sc;\012sub Scedilla by scedilla.sc;\012sub Tcaron by tcaron.sc;\012sub Tcedilla by tcedilla.sc;\012sub Tcommaaccent by tcommaaccent.sc;\012sub Tbar by tbar.sc;\012sub Thorn by thorn.sc;\012sub Ugrave by ugrave.sc;\012sub Uacute by uacute.sc;\012sub Uhungarumlaut by uhungarumlaut.sc;\012sub Udieresis by udieresis.sc;\012sub Ucircumflex by ucircumflex.sc;\012sub Umacron by umacron.sc;\012sub Utilde by utilde.sc;\012sub Ubreve by ubreve.sc;\012sub Uring by uring.sc;\012sub Uogonek by uogonek.sc;\012sub Wgrave by wgrave.sc;\012sub Wacute by wacute.sc;\012sub Wdieresis by wdieresis.sc;\012sub Wcircumflex by wcircumflex.sc;\012sub Ygrave by ygrave.sc;\012sub Yacute by yacute.sc;\012sub Ydieresis by ydieresis.sc;\012sub Ycircumflex by ycircumflex.sc;\012sub Zacute by zacute.sc;\012sub Zdotaccent by zdotaccent.sc;\012sub Zcaron by zcaron.sc;\012";
 name = c2sc;
 },
 {
@@ -978,11 +1020,11 @@ code = "sub t f by t_f;\012sub t t by t_t;\012";
 name = dlig;
 },
 {
-code = "sub a by a.denominator;\012sub b by b.denominator;\012sub c by c.denominator;\012sub d by d.denominator;\012sub e by e.denominator;\012sub f by f.denominator;\012sub g by g.denominator;\012sub h by h.denominator;\012sub i by i.denominator;\012sub j by j.denominator;\012sub k by k.denominator;\012sub l by l.denominator;\012sub m by m.denominator;\012sub n by n.denominator;\012sub o by o.denominator;\012sub p by p.denominator;\012sub q by q.denominator;\012sub r by r.denominator;\012sub s by s.denominator;\012sub t by t.denominator;\012sub u by u.denominator;\012sub v by v.denominator;\012sub w by w.denominator;\012sub x by x.denominator;\012sub y by y.denominator;\012sub z by z.denominator;\012sub zero by zero.denominator;\012sub one by one.denominator;\012sub two by two.denominator;\012sub three by three.denominator;\012sub four by four.denominator;\012sub five by five.denominator;\012sub six by six.denominator;\012sub seven by seven.denominator;\012sub eight by eight.denominator;\012sub nine by nine.denominator;\012sub slashedzero by uni2080;\012sub zero.PPF by zero.denominator;\012sub one.PPF by one.denominator;\012sub two.PPF by two.denominator;\012sub three.PPF by three.denominator;\012sub four.PPF by four.denominator;\012sub five.PPF by five.denominator;\012sub six.PPF by six.denominator;\012sub seven.PPF by seven.denominator;\012sub eight.PPF by eight.denominator;\012sub nine.PPF by nine.denominator;\012sub slashedzero.PPF by uni2080;\012sub zero.sc by zero.denominator;\012sub one.sc by one.denominator;\012sub two.sc by two.denominator;\012sub three.sc by three.denominator;\012sub four.sc by four.denominator;\012sub five.sc by five.denominator;\012sub six.sc by six.denominator;\012sub seven.sc by seven.denominator;\012sub eight.sc by eight.denominator;\012sub nine.sc by nine.denominator;\012sub slashedzero.sc by uni2080;\012sub zero.scppf by zero.denominator;\012sub one.scppf by one.denominator;\012sub two.scppf by two.denominator;\012sub three.scppf by three.denominator;\012sub four.scppf by four.denominator;\012sub five.scppf by five.denominator;\012sub six.scppf by six.denominator;\012sub seven.scppf by seven.denominator;\012sub eight.scppf by eight.denominator;\012sub nine.scppf by nine.denominator;\012sub slashedzero.scppf by uni2080;\012sub zero.TOSF by zero.denominator;\012sub one.TOSF by one.denominator;\012sub two.TOSF by two.denominator;\012sub three.TOSF by three.denominator;\012sub four.TOSF by four.denominator;\012sub five.TOSF by five.denominator;\012sub six.TOSF by six.denominator;\012sub seven.TOSF by seven.denominator;\012sub eight.TOSF by eight.denominator;\012sub nine.TOSF by nine.denominator;\012sub slashedzero.TOSF by uni2080;\012sub zero.oldstyle by zero.denominator;\012sub one.oldstyle by one.denominator;\012sub two.oldstyle by two.denominator;\012sub three.oldstyle by three.denominator;\012sub four.oldstyle by four.denominator;\012sub five.oldstyle by five.denominator;\012sub six.oldstyle by six.denominator;\012sub seven.oldstyle by seven.denominator;\012sub eight.oldstyle by eight.denominator;\012sub nine.oldstyle by nine.denominator;\012sub slashedzero.oldstyle by uni2080;\012sub a.inferior by a.denominator;\012sub b.inferior by b.denominator;\012sub c.inferior by c.denominator;\012sub d.inferior by d.denominator;\012sub e.inferior by e.denominator;\012sub f.inferior by f.denominator;\012sub g.inferior by g.denominator;\012sub h.inferior by h.denominator;\012sub i.inferior by i.denominator;\012sub j.inferior by j.denominator;\012sub k.inferior by k.denominator;\012sub l.inferior by l.denominator;\012sub m.inferior by m.denominator;\012sub n.inferior by n.denominator;\012sub o.inferior by o.denominator;\012sub p.inferior by p.denominator;\012sub q.inferior by q.denominator;\012sub r.inferior by r.denominator;\012sub s.inferior by s.denominator;\012sub t.inferior by t.denominator;\012sub u.inferior by u.denominator;\012sub v.inferior by v.denominator;\012sub w.inferior by w.denominator;\012sub x.inferior by x.denominator;\012sub y.inferior by y.denominator;\012sub z.inferior by z.denominator;\012sub uni2080 by zero.denominator;\012sub uni2081 by one.denominator;\012sub uni2082 by two.denominator;\012sub uni2083 by three.denominator;\012sub uni2084 by four.denominator;\012sub uni2085 by five.denominator;\012sub uni2086 by six.denominator;\012sub uni2087 by seven.denominator;\012sub uni2088 by eight.denominator;\012sub uni2089 by nine.denominator;\012sub dollar.inferior by dollar.denominator;\012sub cent.inferior by cent.denominator;\012sub euro.inferior by euro.denominator;\012sub plus.inferior by plus.denominator;\012sub minus.inferior by minus.denominator;\012sub equal.inferior by equal.denominator;\012sub comma.inferior by comma.denominator;\012sub period.inferior by period.denominator;\012sub hyphen.inferior by hyphen.denominator;\012sub parenleft.inferior by parenleft.denominator;\012sub parenright.inferior by parenright.denominator;\012sub a.numerator by a.denominator;\012sub b.numerator by b.denominator;\012sub c.numerator by c.denominator;\012sub d.numerator by d.denominator;\012sub e.numerator by e.denominator;\012sub f.numerator by f.denominator;\012sub g.numerator by g.denominator;\012sub h.numerator by h.denominator;\012sub i.numerator by i.denominator;\012sub j.numerator by j.denominator;\012sub k.numerator by k.denominator;\012sub l.numerator by l.denominator;\012sub m.numerator by m.denominator;\012sub n.numerator by n.denominator;\012sub o.numerator by o.denominator;\012sub p.numerator by p.denominator;\012sub q.numerator by q.denominator;\012sub r.numerator by r.denominator;\012sub s.numerator by s.denominator;\012sub t.numerator by t.denominator;\012sub u.numerator by u.denominator;\012sub v.numerator by v.denominator;\012sub w.numerator by w.denominator;\012sub x.numerator by x.denominator;\012sub y.numerator by y.denominator;\012sub z.numerator by z.denominator;\012sub zero.numerator by zero.denominator;\012sub one.numerator by one.denominator;\012sub two.numerator by two.denominator;\012sub three.numerator by three.denominator;\012sub four.numerator by four.denominator;\012sub five.numerator by five.denominator;\012sub six.numerator by six.denominator;\012sub seven.numerator by seven.denominator;\012sub eight.numerator by eight.denominator;\012sub nine.numerator by nine.denominator;\012sub dollar.numerator by dollar.denominator;\012sub cent.numerator by cent.denominator;\012sub euro.numerator by euro.denominator;\012sub plus.numerator by plus.denominator;\012sub minus.numerator by minus.denominator;\012sub equal.numerator by equal.denominator;\012sub comma.numerator by comma.denominator;\012sub period.numerator by period.denominator;\012sub hyphen.numerator by hyphen.denominator;\012sub parenleft.numerator by parenleft.denominator;\012sub parenright.numerator by parenright.denominator;\012sub a.superior by a.denominator;\012sub b.superior by b.denominator;\012sub c.superior by c.denominator;\012sub d.superior by d.denominator;\012sub e.superior by e.denominator;\012sub f.superior by f.denominator;\012sub g.superior by g.denominator;\012sub h.superior by h.denominator;\012sub i.superior by i.denominator;\012sub j.superior by j.denominator;\012sub k.superior by k.denominator;\012sub l.superior by l.denominator;\012sub m.superior by m.denominator;\012sub n.superior by n.denominator;\012sub o.superior by o.denominator;\012sub p.superior by p.denominator;\012sub q.superior by q.denominator;\012sub r.superior by r.denominator;\012sub s.superior by s.denominator;\012sub t.superior by t.denominator;\012sub u.superior by u.denominator;\012sub v.superior by v.denominator;\012sub w.superior by w.denominator;\012sub x.superior by x.denominator;\012sub y.superior by y.denominator;\012sub z.superior by z.denominator;\012sub uni2070 by zero.denominator;\012sub onesuperior by one.denominator;\012sub twosuperior by two.denominator;\012sub threesuperior by three.denominator;\012sub uni2074 by four.denominator;\012sub uni2075 by five.denominator;\012sub uni2076 by six.denominator;\012sub uni2077 by seven.denominator;\012sub uni2078 by eight.denominator;\012sub uni2079 by nine.denominator;\012sub dollar.superior by dollar.denominator;\012sub cent.superior by cent.denominator;\012sub euro.superior by euro.denominator;\012sub plus.superior by plus.denominator;\012sub minus.superior by minus.denominator;\012sub equal.superior by equal.denominator;\012sub comma.superior by comma.denominator;\012sub period.superior by period.denominator;\012sub hyphen.superior by hyphen.denominator;\012sub parenleft.superior by parenleft.denominator;\012sub parenright.superior by parenright.denominator;\012sub period by period.denominator;\012sub comma by comma.denominator;\012sub hyphen by hyphen.denominator;\012sub parenleft by parenleft.denominator;\012sub parenright by parenright.denominator;\012sub plus by plus.denominator;\012sub minus by minus.denominator;\012sub equal by equal.denominator;\012sub dollar by dollar.denominator;\012sub cent by cent.denominator;\012sub Euro by euro.denominator;\012sub dollar.PPF by dollar.denominator;\012sub cent.PPF by cent.denominator;\012sub Euro.PPF by euro.denominator;\012";
+code = "sub a by a.denominator;\012sub b by b.denominator;\012sub c by c.denominator;\012sub d by d.denominator;\012sub e by e.denominator;\012sub f by f.denominator;\012sub g by g.denominator;\012sub h by h.denominator;\012sub i by i.denominator;\012sub j by j.denominator;\012sub k by k.denominator;\012sub l by l.denominator;\012sub m by m.denominator;\012sub n by n.denominator;\012sub o by o.denominator;\012sub p by p.denominator;\012sub q by q.denominator;\012sub r by r.denominator;\012sub s by s.denominator;\012sub t by t.denominator;\012sub u by u.denominator;\012sub v by v.denominator;\012sub w by w.denominator;\012sub x by x.denominator;\012sub y by y.denominator;\012sub z by z.denominator;\012sub zero by zero.denominator;\012sub one by one.denominator;\012sub two by two.denominator;\012sub three by three.denominator;\012sub four by four.denominator;\012sub five by five.denominator;\012sub six by six.denominator;\012sub seven by seven.denominator;\012sub eight by eight.denominator;\012sub nine by nine.denominator;\012sub slashedzero by zeroinferior;\012sub zero.PPF by zero.denominator;\012sub one.PPF by one.denominator;\012sub two.PPF by two.denominator;\012sub three.PPF by three.denominator;\012sub four.PPF by four.denominator;\012sub five.PPF by five.denominator;\012sub six.PPF by six.denominator;\012sub seven.PPF by seven.denominator;\012sub eight.PPF by eight.denominator;\012sub nine.PPF by nine.denominator;\012sub slashedzero.PPF by zeroinferior;\012sub zero.sc by zero.denominator;\012sub one.sc by one.denominator;\012sub two.sc by two.denominator;\012sub three.sc by three.denominator;\012sub four.sc by four.denominator;\012sub five.sc by five.denominator;\012sub six.sc by six.denominator;\012sub seven.sc by seven.denominator;\012sub eight.sc by eight.denominator;\012sub nine.sc by nine.denominator;\012sub slashedzero.sc by zeroinferior;\012sub zero.scppf by zero.denominator;\012sub one.scppf by one.denominator;\012sub two.scppf by two.denominator;\012sub three.scppf by three.denominator;\012sub four.scppf by four.denominator;\012sub five.scppf by five.denominator;\012sub six.scppf by six.denominator;\012sub seven.scppf by seven.denominator;\012sub eight.scppf by eight.denominator;\012sub nine.scppf by nine.denominator;\012sub slashedzero.scppf by zeroinferior;\012sub zero.TOSF by zero.denominator;\012sub one.TOSF by one.denominator;\012sub two.TOSF by two.denominator;\012sub three.TOSF by three.denominator;\012sub four.TOSF by four.denominator;\012sub five.TOSF by five.denominator;\012sub six.TOSF by six.denominator;\012sub seven.TOSF by seven.denominator;\012sub eight.TOSF by eight.denominator;\012sub nine.TOSF by nine.denominator;\012sub slashedzero.TOSF by zeroinferior;\012sub zero.oldstyle by zero.denominator;\012sub one.oldstyle by one.denominator;\012sub two.oldstyle by two.denominator;\012sub three.oldstyle by three.denominator;\012sub four.oldstyle by four.denominator;\012sub five.oldstyle by five.denominator;\012sub six.oldstyle by six.denominator;\012sub seven.oldstyle by seven.denominator;\012sub eight.oldstyle by eight.denominator;\012sub nine.oldstyle by nine.denominator;\012sub slashedzero.oldstyle by zeroinferior;\012sub a.inferior by a.denominator;\012sub b.inferior by b.denominator;\012sub c.inferior by c.denominator;\012sub d.inferior by d.denominator;\012sub e.inferior by e.denominator;\012sub f.inferior by f.denominator;\012sub g.inferior by g.denominator;\012sub h.inferior by h.denominator;\012sub i.inferior by i.denominator;\012sub j.inferior by j.denominator;\012sub k.inferior by k.denominator;\012sub l.inferior by l.denominator;\012sub m.inferior by m.denominator;\012sub n.inferior by n.denominator;\012sub o.inferior by o.denominator;\012sub p.inferior by p.denominator;\012sub q.inferior by q.denominator;\012sub r.inferior by r.denominator;\012sub s.inferior by s.denominator;\012sub t.inferior by t.denominator;\012sub u.inferior by u.denominator;\012sub v.inferior by v.denominator;\012sub w.inferior by w.denominator;\012sub x.inferior by x.denominator;\012sub y.inferior by y.denominator;\012sub z.inferior by z.denominator;\012sub zeroinferior by zero.denominator;\012sub oneinferior by one.denominator;\012sub twoinferior by two.denominator;\012sub threeinferior by three.denominator;\012sub fourinferior by four.denominator;\012sub fiveinferior by five.denominator;\012sub sixinferior by six.denominator;\012sub seveninferior by seven.denominator;\012sub eightinferior by eight.denominator;\012sub nineinferior by nine.denominator;\012sub dollar.inferior by dollar.denominator;\012sub cent.inferior by cent.denominator;\012sub euro.inferior by euro.denominator;\012sub plus.inferior by plus.denominator;\012sub minus.inferior by minus.denominator;\012sub equal.inferior by equal.denominator;\012sub comma.inferior by comma.denominator;\012sub period.inferior by period.denominator;\012sub hyphen.inferior by hyphen.denominator;\012sub parenleft.inferior by parenleft.denominator;\012sub parenright.inferior by parenright.denominator;\012sub a.numerator by a.denominator;\012sub b.numerator by b.denominator;\012sub c.numerator by c.denominator;\012sub d.numerator by d.denominator;\012sub e.numerator by e.denominator;\012sub f.numerator by f.denominator;\012sub g.numerator by g.denominator;\012sub h.numerator by h.denominator;\012sub i.numerator by i.denominator;\012sub j.numerator by j.denominator;\012sub k.numerator by k.denominator;\012sub l.numerator by l.denominator;\012sub m.numerator by m.denominator;\012sub n.numerator by n.denominator;\012sub o.numerator by o.denominator;\012sub p.numerator by p.denominator;\012sub q.numerator by q.denominator;\012sub r.numerator by r.denominator;\012sub s.numerator by s.denominator;\012sub t.numerator by t.denominator;\012sub u.numerator by u.denominator;\012sub v.numerator by v.denominator;\012sub w.numerator by w.denominator;\012sub x.numerator by x.denominator;\012sub y.numerator by y.denominator;\012sub z.numerator by z.denominator;\012sub zero.numerator by zero.denominator;\012sub one.numerator by one.denominator;\012sub two.numerator by two.denominator;\012sub three.numerator by three.denominator;\012sub four.numerator by four.denominator;\012sub five.numerator by five.denominator;\012sub six.numerator by six.denominator;\012sub seven.numerator by seven.denominator;\012sub eight.numerator by eight.denominator;\012sub nine.numerator by nine.denominator;\012sub dollar.numerator by dollar.denominator;\012sub cent.numerator by cent.denominator;\012sub euro.numerator by euro.denominator;\012sub plus.numerator by plus.denominator;\012sub minus.numerator by minus.denominator;\012sub equal.numerator by equal.denominator;\012sub comma.numerator by comma.denominator;\012sub period.numerator by period.denominator;\012sub hyphen.numerator by hyphen.denominator;\012sub parenleft.numerator by parenleft.denominator;\012sub parenright.numerator by parenright.denominator;\012sub a.superior by a.denominator;\012sub b.superior by b.denominator;\012sub c.superior by c.denominator;\012sub d.superior by d.denominator;\012sub e.superior by e.denominator;\012sub f.superior by f.denominator;\012sub g.superior by g.denominator;\012sub h.superior by h.denominator;\012sub i.superior by i.denominator;\012sub j.superior by j.denominator;\012sub k.superior by k.denominator;\012sub l.superior by l.denominator;\012sub m.superior by m.denominator;\012sub n.superior by n.denominator;\012sub o.superior by o.denominator;\012sub p.superior by p.denominator;\012sub q.superior by q.denominator;\012sub r.superior by r.denominator;\012sub s.superior by s.denominator;\012sub t.superior by t.denominator;\012sub u.superior by u.denominator;\012sub v.superior by v.denominator;\012sub w.superior by w.denominator;\012sub x.superior by x.denominator;\012sub y.superior by y.denominator;\012sub z.superior by z.denominator;\012sub zerosuperior by zero.denominator;\012sub onesuperior by one.denominator;\012sub twosuperior by two.denominator;\012sub threesuperior by three.denominator;\012sub foursuperior by four.denominator;\012sub fivesuperior by five.denominator;\012sub sixsuperior by six.denominator;\012sub sevensuperior by seven.denominator;\012sub eightsuperior by eight.denominator;\012sub ninesuperior by nine.denominator;\012sub dollar.superior by dollar.denominator;\012sub cent.superior by cent.denominator;\012sub euro.superior by euro.denominator;\012sub plus.superior by plus.denominator;\012sub minus.superior by minus.denominator;\012sub equal.superior by equal.denominator;\012sub comma.superior by comma.denominator;\012sub period.superior by period.denominator;\012sub hyphen.superior by hyphen.denominator;\012sub parenleft.superior by parenleft.denominator;\012sub parenright.superior by parenright.denominator;\012sub period by period.denominator;\012sub comma by comma.denominator;\012sub hyphen by hyphen.denominator;\012sub parenleft by parenleft.denominator;\012sub parenright by parenright.denominator;\012sub plus by plus.denominator;\012sub minus by minus.denominator;\012sub equal by equal.denominator;\012sub dollar by dollar.denominator;\012sub cent by cent.denominator;\012sub Euro by euro.denominator;\012sub dollar.PPF by dollar.denominator;\012sub cent.PPF by cent.denominator;\012sub Euro.PPF by euro.denominator;\012";
 name = dnom;
 },
 {
-code = "lookup frac0 {\012	sub zero by zero.numerator;\012	sub one by one.numerator;\012	sub two by two.numerator;\012	sub three by three.numerator;\012	sub four by four.numerator;\012	sub five by five.numerator;\012	sub six by six.numerator;\012	sub seven by seven.numerator;\012	sub eight by eight.numerator;\012	sub nine by nine.numerator;\012	sub slashedzero by zero.numerator;\012	sub zero.PPF by zero.numerator;\012	sub one.PPF by one.numerator;\012	sub two.PPF by two.numerator;\012	sub three.PPF by three.numerator;\012	sub four.PPF by four.numerator;\012	sub five.PPF by five.numerator;\012	sub six.PPF by six.numerator;\012	sub seven.PPF by seven.numerator;\012	sub eight.PPF by eight.numerator;\012	sub nine.PPF by nine.numerator;\012	sub slashedzero.PPF by zero.numerator;\012	sub zero.sc by zero.numerator;\012	sub one.sc by one.numerator;\012	sub two.sc by two.numerator;\012	sub three.sc by three.numerator;\012	sub four.sc by four.numerator;\012	sub five.sc by five.numerator;\012	sub six.sc by six.numerator;\012	sub seven.sc by seven.numerator;\012	sub eight.sc by eight.numerator;\012	sub nine.sc by nine.numerator;\012	sub slashedzero.sc by zero.numerator;\012	sub zero.scppf by zero.numerator;\012	sub one.scppf by one.numerator;\012	sub two.scppf by two.numerator;\012	sub three.scppf by three.numerator;\012	sub four.scppf by four.numerator;\012	sub five.scppf by five.numerator;\012	sub six.scppf by six.numerator;\012	sub seven.scppf by seven.numerator;\012	sub eight.scppf by eight.numerator;\012	sub nine.scppf by nine.numerator;\012	sub slashedzero.scppf by zero.numerator;\012	sub zero.TOSF by zero.numerator;\012	sub one.TOSF by one.numerator;\012	sub two.TOSF by two.numerator;\012	sub three.TOSF by three.numerator;\012	sub four.TOSF by four.numerator;\012	sub five.TOSF by five.numerator;\012	sub six.TOSF by six.numerator;\012	sub seven.TOSF by seven.numerator;\012	sub eight.TOSF by eight.numerator;\012	sub nine.TOSF by nine.numerator;\012	sub slashedzero.TOSF by zero.numerator;\012	sub zero.oldstyle by zero.numerator;\012	sub one.oldstyle by one.numerator;\012	sub two.oldstyle by two.numerator;\012	sub three.oldstyle by three.numerator;\012	sub four.oldstyle by four.numerator;\012	sub five.oldstyle by five.numerator;\012	sub six.oldstyle by six.numerator;\012	sub seven.oldstyle by seven.numerator;\012	sub eight.oldstyle by eight.numerator;\012	sub nine.oldstyle by nine.numerator;\012	sub slashedzero.oldstyle by zero.numerator;\012	sub uni2081 by one.numerator;\012	sub uni2082 by two.numerator;\012	sub uni2083 by three.numerator;\012	sub uni2084 by four.numerator;\012	sub uni2085 by five.numerator;\012	sub uni2086 by six.numerator;\012	sub uni2087 by seven.numerator;\012	sub uni2088 by eight.numerator;\012	sub uni2089 by nine.numerator;\012	sub dollar.inferior by dollar.numerator;\012	sub cent.inferior by cent.numerator;\012	sub euro.inferior by euro.numerator;\012	sub plus.inferior by plus.numerator;\012	sub minus.inferior by minus.numerator;\012	sub equal.inferior by equal.numerator;\012	sub comma.inferior by comma.numerator;\012	sub period.inferior by period.numerator;\012	sub hyphen.inferior by hyphen.numerator;\012	sub parenleft.inferior by parenleft.numerator;\012	sub parenright.inferior by parenright.numerator;\012	sub one.denominator by one.numerator;\012	sub two.denominator by two.numerator;\012	sub three.denominator by three.numerator;\012	sub four.denominator by four.numerator;\012	sub five.denominator by five.numerator;\012	sub six.denominator by six.numerator;\012	sub seven.denominator by seven.numerator;\012	sub eight.denominator by eight.numerator;\012	sub nine.denominator by nine.numerator;\012	sub dollar.denominator by dollar.numerator;\012	sub cent.denominator by cent.numerator;\012	sub euro.denominator by euro.numerator;\012	sub plus.denominator by plus.numerator;\012	sub minus.denominator by minus.numerator;\012	sub equal.denominator by equal.numerator;\012	sub comma.denominator by comma.numerator;\012	sub period.denominator by period.numerator;\012	sub hyphen.denominator by hyphen.numerator;\012	sub parenleft.denominator by parenleft.numerator;\012	sub parenright.denominator by parenright.numerator;\012	sub onesuperior by one.numerator;\012	sub twosuperior by two.numerator;\012	sub threesuperior by three.numerator;\012	sub uni2074 by four.numerator;\012	sub uni2075 by five.numerator;\012	sub uni2076 by six.numerator;\012	sub uni2077 by seven.numerator;\012	sub uni2078 by eight.numerator;\012	sub uni2079 by nine.numerator;\012	sub dollar.superior by dollar.numerator;\012	sub cent.superior by cent.numerator;\012	sub euro.superior by euro.numerator;\012	sub plus.superior by plus.numerator;\012	sub minus.superior by minus.numerator;\012	sub equal.superior by equal.numerator;\012	sub comma.superior by comma.numerator;\012	sub period.superior by period.numerator;\012	sub hyphen.superior by hyphen.numerator;\012	sub parenleft.superior by parenleft.numerator;\012	sub parenright.superior by parenright.numerator;\012	sub period by period.numerator;\012	sub comma by comma.numerator;\012	sub hyphen by hyphen.numerator;\012	sub parenleft by parenleft.numerator;\012	sub parenright by parenright.numerator;\012	sub slash by fraction;\012	sub parenleft.cap by parenleft.numerator;\012	sub parenright.cap by parenright.numerator;\012	sub plus by plus.numerator;\012	sub minus by minus.numerator;\012	sub equal by equal.numerator;\012	sub dollar by dollar.numerator;\012	sub cent by cent.numerator;\012	sub Euro by euro.numerator;\012	sub dollar.PPF by dollar.numerator;\012	sub cent.PPF by cent.numerator;\012	sub Euro.PPF by euro.numerator;\012	sub dollar.scppf by dollar.numerator;\012	sub cent.scppf by cent.numerator;\012	sub Euro.scppf by euro.numerator;\012	sub dollar.sc by dollar.numerator;\012	sub cent.sc by cent.numerator;\012	sub Euro.sc by euro.numerator;\012	sub uni2215 by fraction;\012} frac0;\012lookup frac1 {\012	sub zero.numerator' lookup lookup_0 fraction' lookup lookup_0 zero.numerator' lookup lookup_0 zero.numerator' lookup lookup_0 ;\012	sub zero.numerator' lookup lookup_1 fraction' lookup lookup_1 zero.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 two.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 three.numerator' lookup lookup_1 ;\012	sub two.numerator' lookup lookup_1 fraction' lookup lookup_1 three.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 four.numerator' lookup lookup_1 ;\012	sub three.numerator' lookup lookup_1 fraction' lookup lookup_1 four.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 five.numerator' lookup lookup_1 ;\012	sub two.numerator' lookup lookup_1 fraction' lookup lookup_1 five.numerator' lookup lookup_1 ;\012	sub three.numerator' lookup lookup_1 fraction' lookup lookup_1 five.numerator' lookup lookup_1 ;\012	sub four.numerator' lookup lookup_1 fraction' lookup lookup_1 five.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 six.numerator' lookup lookup_1 ;\012	sub five.numerator' lookup lookup_1 fraction' lookup lookup_1 six.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 eight.numerator' lookup lookup_1 ;\012	sub three.numerator' lookup lookup_1 fraction' lookup lookup_1 eight.numerator' lookup lookup_1 ;\012	sub five.numerator' lookup lookup_1 fraction' lookup lookup_1 eight.numerator' lookup lookup_1 ;\012	sub seven.numerator' lookup lookup_1 fraction' lookup lookup_1 eight.numerator' lookup lookup_1 ;\012	sub [percent perthousand onehalf uni2153 uni2154 onequarter threequarters uni2155 uni2156 uni2157 uni2158 uni2159 uni215A uni215B uni215C uni215D uni215E fraction a.denominator b.denominator c.denominator d.denominator e.denominator f.denominator g.denominator h.denominator i.denominator j.denominator k.denominator l.denominator m.denominator n.denominator o.denominator p.denominator q.denominator r.denominator s.denominator t.denominator u.denominator v.denominator w.denominator x.denominator y.denominator z.denominator zero.denominator one.denominator two.denominator three.denominator four.denominator five.denominator six.denominator seven.denominator eight.denominator nine.denominator dollar.denominator cent.denominator euro.denominator plus.denominator minus.denominator equal.denominator comma.denominator period.denominator hyphen.denominator parenleft.denominator parenright.denominator] [a.numerator b.numerator c.numerator d.numerator e.numerator f.numerator g.numerator h.numerator i.numerator j.numerator k.numerator l.numerator m.numerator n.numerator o.numerator p.numerator q.numerator r.numerator s.numerator t.numerator u.numerator v.numerator w.numerator x.numerator y.numerator z.numerator zero.numerator one.numerator two.numerator three.numerator four.numerator five.numerator six.numerator seven.numerator eight.numerator nine.numerator dollar.numerator cent.numerator euro.numerator plus.numerator minus.numerator equal.numerator comma.numerator period.numerator hyphen.numerator parenleft.numerator parenright.numerator]' lookup lookup_2 ;\012} frac1;\012";
+code = "lookup frac0 {\012	sub zero by zero.numerator;\012	sub one by one.numerator;\012	sub two by two.numerator;\012	sub three by three.numerator;\012	sub four by four.numerator;\012	sub five by five.numerator;\012	sub six by six.numerator;\012	sub seven by seven.numerator;\012	sub eight by eight.numerator;\012	sub nine by nine.numerator;\012	sub slashedzero by zero.numerator;\012	sub zero.PPF by zero.numerator;\012	sub one.PPF by one.numerator;\012	sub two.PPF by two.numerator;\012	sub three.PPF by three.numerator;\012	sub four.PPF by four.numerator;\012	sub five.PPF by five.numerator;\012	sub six.PPF by six.numerator;\012	sub seven.PPF by seven.numerator;\012	sub eight.PPF by eight.numerator;\012	sub nine.PPF by nine.numerator;\012	sub slashedzero.PPF by zero.numerator;\012	sub zero.sc by zero.numerator;\012	sub one.sc by one.numerator;\012	sub two.sc by two.numerator;\012	sub three.sc by three.numerator;\012	sub four.sc by four.numerator;\012	sub five.sc by five.numerator;\012	sub six.sc by six.numerator;\012	sub seven.sc by seven.numerator;\012	sub eight.sc by eight.numerator;\012	sub nine.sc by nine.numerator;\012	sub slashedzero.sc by zero.numerator;\012	sub zero.scppf by zero.numerator;\012	sub one.scppf by one.numerator;\012	sub two.scppf by two.numerator;\012	sub three.scppf by three.numerator;\012	sub four.scppf by four.numerator;\012	sub five.scppf by five.numerator;\012	sub six.scppf by six.numerator;\012	sub seven.scppf by seven.numerator;\012	sub eight.scppf by eight.numerator;\012	sub nine.scppf by nine.numerator;\012	sub slashedzero.scppf by zero.numerator;\012	sub zero.TOSF by zero.numerator;\012	sub one.TOSF by one.numerator;\012	sub two.TOSF by two.numerator;\012	sub three.TOSF by three.numerator;\012	sub four.TOSF by four.numerator;\012	sub five.TOSF by five.numerator;\012	sub six.TOSF by six.numerator;\012	sub seven.TOSF by seven.numerator;\012	sub eight.TOSF by eight.numerator;\012	sub nine.TOSF by nine.numerator;\012	sub slashedzero.TOSF by zero.numerator;\012	sub zero.oldstyle by zero.numerator;\012	sub one.oldstyle by one.numerator;\012	sub two.oldstyle by two.numerator;\012	sub three.oldstyle by three.numerator;\012	sub four.oldstyle by four.numerator;\012	sub five.oldstyle by five.numerator;\012	sub six.oldstyle by six.numerator;\012	sub seven.oldstyle by seven.numerator;\012	sub eight.oldstyle by eight.numerator;\012	sub nine.oldstyle by nine.numerator;\012	sub slashedzero.oldstyle by zero.numerator;\012	sub oneinferior by one.numerator;\012	sub twoinferior by two.numerator;\012	sub threeinferior by three.numerator;\012	sub fourinferior by four.numerator;\012	sub fiveinferior by five.numerator;\012	sub sixinferior by six.numerator;\012	sub seveninferior by seven.numerator;\012	sub eightinferior by eight.numerator;\012	sub nineinferior by nine.numerator;\012	sub dollar.inferior by dollar.numerator;\012	sub cent.inferior by cent.numerator;\012	sub euro.inferior by euro.numerator;\012	sub plus.inferior by plus.numerator;\012	sub minus.inferior by minus.numerator;\012	sub equal.inferior by equal.numerator;\012	sub comma.inferior by comma.numerator;\012	sub period.inferior by period.numerator;\012	sub hyphen.inferior by hyphen.numerator;\012	sub parenleft.inferior by parenleft.numerator;\012	sub parenright.inferior by parenright.numerator;\012	sub one.denominator by one.numerator;\012	sub two.denominator by two.numerator;\012	sub three.denominator by three.numerator;\012	sub four.denominator by four.numerator;\012	sub five.denominator by five.numerator;\012	sub six.denominator by six.numerator;\012	sub seven.denominator by seven.numerator;\012	sub eight.denominator by eight.numerator;\012	sub nine.denominator by nine.numerator;\012	sub dollar.denominator by dollar.numerator;\012	sub cent.denominator by cent.numerator;\012	sub euro.denominator by euro.numerator;\012	sub plus.denominator by plus.numerator;\012	sub minus.denominator by minus.numerator;\012	sub equal.denominator by equal.numerator;\012	sub comma.denominator by comma.numerator;\012	sub period.denominator by period.numerator;\012	sub hyphen.denominator by hyphen.numerator;\012	sub parenleft.denominator by parenleft.numerator;\012	sub parenright.denominator by parenright.numerator;\012	sub onesuperior by one.numerator;\012	sub twosuperior by two.numerator;\012	sub threesuperior by three.numerator;\012	sub foursuperior by four.numerator;\012	sub fivesuperior by five.numerator;\012	sub sixsuperior by six.numerator;\012	sub sevensuperior by seven.numerator;\012	sub eightsuperior by eight.numerator;\012	sub ninesuperior by nine.numerator;\012	sub dollar.superior by dollar.numerator;\012	sub cent.superior by cent.numerator;\012	sub euro.superior by euro.numerator;\012	sub plus.superior by plus.numerator;\012	sub minus.superior by minus.numerator;\012	sub equal.superior by equal.numerator;\012	sub comma.superior by comma.numerator;\012	sub period.superior by period.numerator;\012	sub hyphen.superior by hyphen.numerator;\012	sub parenleft.superior by parenleft.numerator;\012	sub parenright.superior by parenright.numerator;\012	sub period by period.numerator;\012	sub comma by comma.numerator;\012	sub hyphen by hyphen.numerator;\012	sub parenleft by parenleft.numerator;\012	sub parenright by parenright.numerator;\012	sub slash by fraction;\012	sub parenleft.cap by parenleft.numerator;\012	sub parenright.cap by parenright.numerator;\012	sub plus by plus.numerator;\012	sub minus by minus.numerator;\012	sub equal by equal.numerator;\012	sub dollar by dollar.numerator;\012	sub cent by cent.numerator;\012	sub Euro by euro.numerator;\012	sub dollar.PPF by dollar.numerator;\012	sub cent.PPF by cent.numerator;\012	sub Euro.PPF by euro.numerator;\012	sub dollar.scppf by dollar.numerator;\012	sub cent.scppf by cent.numerator;\012	sub Euro.scppf by euro.numerator;\012	sub dollar.sc by dollar.numerator;\012	sub cent.sc by cent.numerator;\012	sub Euro.sc by euro.numerator;\012	sub divisionslash by fraction;\012} frac0;\012lookup frac1 {\012	sub zero.numerator' lookup lookup_0 fraction' lookup lookup_0 zero.numerator' lookup lookup_0 zero.numerator' lookup lookup_0 ;\012	sub zero.numerator' lookup lookup_1 fraction' lookup lookup_1 zero.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 two.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 three.numerator' lookup lookup_1 ;\012	sub two.numerator' lookup lookup_1 fraction' lookup lookup_1 three.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 four.numerator' lookup lookup_1 ;\012	sub three.numerator' lookup lookup_1 fraction' lookup lookup_1 four.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 five.numerator' lookup lookup_1 ;\012	sub two.numerator' lookup lookup_1 fraction' lookup lookup_1 five.numerator' lookup lookup_1 ;\012	sub three.numerator' lookup lookup_1 fraction' lookup lookup_1 five.numerator' lookup lookup_1 ;\012	sub four.numerator' lookup lookup_1 fraction' lookup lookup_1 five.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 six.numerator' lookup lookup_1 ;\012	sub five.numerator' lookup lookup_1 fraction' lookup lookup_1 six.numerator' lookup lookup_1 ;\012	sub one.numerator' lookup lookup_1 fraction' lookup lookup_1 eight.numerator' lookup lookup_1 ;\012	sub three.numerator' lookup lookup_1 fraction' lookup lookup_1 eight.numerator' lookup lookup_1 ;\012	sub five.numerator' lookup lookup_1 fraction' lookup lookup_1 eight.numerator' lookup lookup_1 ;\012	sub seven.numerator' lookup lookup_1 fraction' lookup lookup_1 eight.numerator' lookup lookup_1 ;\012	sub [percent perthousand onehalf onethird twothirds onequarter threequarters onefifth twofifths threefifths fourfifths onesixth fivesixths oneeighth threeeighths fiveeighths seveneighths fraction a.denominator b.denominator c.denominator d.denominator e.denominator f.denominator g.denominator h.denominator i.denominator j.denominator k.denominator l.denominator m.denominator n.denominator o.denominator p.denominator q.denominator r.denominator s.denominator t.denominator u.denominator v.denominator w.denominator x.denominator y.denominator z.denominator zero.denominator one.denominator two.denominator three.denominator four.denominator five.denominator six.denominator seven.denominator eight.denominator nine.denominator dollar.denominator cent.denominator euro.denominator plus.denominator minus.denominator equal.denominator comma.denominator period.denominator hyphen.denominator parenleft.denominator parenright.denominator] [a.numerator b.numerator c.numerator d.numerator e.numerator f.numerator g.numerator h.numerator i.numerator j.numerator k.numerator l.numerator m.numerator n.numerator o.numerator p.numerator q.numerator r.numerator s.numerator t.numerator u.numerator v.numerator w.numerator x.numerator y.numerator z.numerator zero.numerator one.numerator two.numerator three.numerator four.numerator five.numerator six.numerator seven.numerator eight.numerator nine.numerator dollar.numerator cent.numerator euro.numerator plus.numerator minus.numerator equal.numerator comma.numerator period.numerator hyphen.numerator parenleft.numerator parenright.numerator]' lookup lookup_2 ;\012} frac1;\012";
 name = frac;
 },
 {
@@ -998,15 +1040,21 @@ code = "script latn;\012language MOL ;\012sub Scedilla by Scommaaccent;\012sub s
 name = locl;
 },
 {
+<<<<<<< Updated upstream
 code = "sub a by a.numerator;\012sub b by b.numerator;\012sub c by c.numerator;\012sub d by d.numerator;\012sub e by e.numerator;\012sub f by f.numerator;\012sub g by g.numerator;\012sub h by h.numerator;\012sub i by i.numerator;\012sub j by j.numerator;\012sub k by k.numerator;\012sub l by l.numerator;\012sub m by m.numerator;\012sub n by n.numerator;\012sub o by o.numerator;\012sub p by p.numerator;\012sub q by q.numerator;\012sub r by r.numerator;\012sub s by s.numerator;\012sub t by t.numerator;\012sub u by u.numerator;\012sub v by v.numerator;\012sub w by w.numerator;\012sub x by x.numerator;\012sub y by y.numerator;\012sub z by z.numerator;\012sub zero by zero.numerator;\012sub one by one.numerator;\012sub two by two.numerator;\012sub three by three.numerator;\012sub four by four.numerator;\012sub five by five.numerator;\012sub six by six.numerator;\012sub seven by seven.numerator;\012sub eight by eight.numerator;\012sub nine by nine.numerator;\012sub slashedzero by uni2080;\012sub zero.PPF by zero.numerator;\012sub one.PPF by one.numerator;\012sub two.PPF by two.numerator;\012sub three.PPF by three.numerator;\012sub four.PPF by four.numerator;\012sub five.PPF by five.numerator;\012sub six.PPF by six.numerator;\012sub seven.PPF by seven.numerator;\012sub eight.PPF by eight.numerator;\012sub nine.PPF by nine.numerator;\012sub slashedzero.PPF by uni2080;\012sub zero.sc by zero.numerator;\012sub one.sc by one.numerator;\012sub two.sc by two.numerator;\012sub three.sc by three.numerator;\012sub four.sc by four.numerator;\012sub five.sc by five.numerator;\012sub six.sc by six.numerator;\012sub seven.sc by seven.numerator;\012sub eight.sc by eight.numerator;\012sub nine.sc by nine.numerator;\012sub slashedzero.sc by uni2080;\012sub zero.scppf by zero.numerator;\012sub one.scppf by one.numerator;\012sub two.scppf by two.numerator;\012sub three.scppf by three.numerator;\012sub four.scppf by four.numerator;\012sub five.scppf by five.numerator;\012sub six.scppf by six.numerator;\012sub seven.scppf by seven.numerator;\012sub eight.scppf by eight.numerator;\012sub nine.scppf by nine.numerator;\012sub slashedzero.scppf by uni2080;\012sub zero.TOSF by zero.numerator;\012sub one.TOSF by one.numerator;\012sub two.TOSF by two.numerator;\012sub three.TOSF by three.numerator;\012sub four.TOSF by four.numerator;\012sub five.TOSF by five.numerator;\012sub six.TOSF by six.numerator;\012sub seven.TOSF by seven.numerator;\012sub eight.TOSF by eight.numerator;\012sub nine.TOSF by nine.numerator;\012sub slashedzero.TOSF by uni2080;\012sub zero.oldstyle by zero.numerator;\012sub one.oldstyle by one.numerator;\012sub two.oldstyle by two.numerator;\012sub three.oldstyle by three.numerator;\012sub four.oldstyle by four.numerator;\012sub five.oldstyle by five.numerator;\012sub six.oldstyle by six.numerator;\012sub seven.oldstyle by seven.numerator;\012sub eight.oldstyle by eight.numerator;\012sub nine.oldstyle by nine.numerator;\012sub slashedzero.oldstyle by uni2080;\012sub a.inferior by a.numerator;\012sub b.inferior by b.numerator;\012sub c.inferior by c.numerator;\012sub d.inferior by d.numerator;\012sub e.inferior by e.numerator;\012sub f.inferior by f.numerator;\012sub g.inferior by g.numerator;\012sub h.inferior by h.numerator;\012sub i.inferior by i.numerator;\012sub j.inferior by j.numerator;\012sub k.inferior by k.numerator;\012sub l.inferior by l.numerator;\012sub m.inferior by m.numerator;\012sub n.inferior by n.numerator;\012sub o.inferior by o.numerator;\012sub p.inferior by p.numerator;\012sub q.inferior by q.numerator;\012sub r.inferior by r.numerator;\012sub s.inferior by s.numerator;\012sub t.inferior by t.numerator;\012sub u.inferior by u.numerator;\012sub v.inferior by v.numerator;\012sub w.inferior by w.numerator;\012sub x.inferior by x.numerator;\012sub y.inferior by y.numerator;\012sub z.inferior by z.numerator;\012sub uni2080 by zero.numerator;\012sub uni2081 by one.numerator;\012sub uni2082 by two.numerator;\012sub uni2083 by three.numerator;\012sub uni2084 by four.numerator;\012sub uni2085 by five.numerator;\012sub uni2086 by six.numerator;\012sub uni2087 by seven.numerator;\012sub uni2088 by eight.numerator;\012sub uni2089 by nine.numerator;\012sub dollar.inferior by dollar.numerator;\012sub cent.inferior by cent.numerator;\012sub euro.inferior by euro.numerator;\012sub plus.inferior by plus.numerator;\012sub minus.inferior by minus.numerator;\012sub equal.inferior by equal.numerator;\012sub comma.inferior by comma.numerator;\012sub period.inferior by period.numerator;\012sub hyphen.inferior by hyphen.numerator;\012sub parenleft.inferior by parenleft.numerator;\012sub parenright.inferior by parenright.numerator;\012sub a.denominator by a.numerator;\012sub b.denominator by b.numerator;\012sub c.denominator by c.numerator;\012sub d.denominator by d.numerator;\012sub e.denominator by e.numerator;\012sub f.denominator by f.numerator;\012sub g.denominator by g.numerator;\012sub h.denominator by h.numerator;\012sub i.denominator by i.numerator;\012sub j.denominator by j.numerator;\012sub k.denominator by k.numerator;\012sub l.denominator by l.numerator;\012sub m.denominator by m.numerator;\012sub n.denominator by n.numerator;\012sub o.denominator by o.numerator;\012sub p.denominator by p.numerator;\012sub q.denominator by q.numerator;\012sub r.denominator by r.numerator;\012sub s.denominator by s.numerator;\012sub t.denominator by t.numerator;\012sub u.denominator by u.numerator;\012sub v.denominator by v.numerator;\012sub w.denominator by w.numerator;\012sub x.denominator by x.numerator;\012sub y.denominator by y.numerator;\012sub z.denominator by z.numerator;\012sub zero.denominator by zero.numerator;\012sub one.denominator by one.numerator;\012sub two.denominator by two.numerator;\012sub three.denominator by three.numerator;\012sub four.denominator by four.numerator;\012sub five.denominator by five.numerator;\012sub six.denominator by six.numerator;\012sub seven.denominator by seven.numerator;\012sub eight.denominator by eight.numerator;\012sub nine.denominator by nine.numerator;\012sub dollar.denominator by dollar.numerator;\012sub cent.denominator by cent.numerator;\012sub euro.denominator by euro.numerator;\012sub plus.denominator by plus.numerator;\012sub minus.denominator by minus.numerator;\012sub equal.denominator by equal.numerator;\012sub comma.denominator by comma.numerator;\012sub period.denominator by period.numerator;\012sub hyphen.denominator by hyphen.numerator;\012sub parenleft.denominator by parenleft.numerator;\012sub parenright.denominator by parenright.numerator;\012sub a.superior by a.numerator;\012sub b.superior by b.numerator;\012sub c.superior by c.numerator;\012sub d.superior by d.numerator;\012sub e.superior by e.numerator;\012sub f.superior by f.numerator;\012sub g.superior by g.numerator;\012sub h.superior by h.numerator;\012sub i.superior by i.numerator;\012sub j.superior by j.numerator;\012sub k.superior by k.numerator;\012sub l.superior by l.numerator;\012sub m.superior by m.numerator;\012sub n.superior by n.numerator;\012sub o.superior by o.numerator;\012sub p.superior by p.numerator;\012sub q.superior by q.numerator;\012sub r.superior by r.numerator;\012sub s.superior by s.numerator;\012sub t.superior by t.numerator;\012sub u.superior by u.numerator;\012sub v.superior by v.numerator;\012sub w.superior by w.numerator;\012sub x.superior by x.numerator;\012sub y.superior by y.numerator;\012sub z.superior by z.numerator;\012sub uni2070 by zero.numerator;\012sub onesuperior by one.numerator;\012sub twosuperior by two.numerator;\012sub threesuperior by three.numerator;\012sub uni2074 by four.numerator;\012sub uni2075 by five.numerator;\012sub uni2076 by six.numerator;\012sub uni2077 by seven.numerator;\012sub uni2078 by eight.numerator;\012sub uni2079 by nine.numerator;\012sub dollar.superior by dollar.numerator;\012sub cent.superior by cent.numerator;\012sub euro.superior by euro.numerator;\012sub plus.superior by plus.numerator;\012sub minus.superior by minus.numerator;\012sub equal.superior by equal.numerator;\012sub comma.superior by comma.numerator;\012sub period.superior by period.numerator;\012sub hyphen.superior by hyphen.numerator;\012sub parenleft.superior by parenleft.numerator;\012sub parenright.superior by parenright.numerator;\012sub period by period.numerator;\012sub comma by comma.numerator;\012sub hyphen by hyphen.numerator;\012sub parenleft by parenleft.numerator;\012sub parenright by parenright.numerator;\012sub plus by plus.numerator;\012sub minus by minus.numerator;\012sub equal by equal.numerator;\012sub dollar by dollar.numerator;\012sub cent by cent.numerator;\012sub Euro by euro.numerator;\012sub dollar.PPF by dollar.numerator;\012sub cent.PPF by cent.numerator;\012sub Euro.PPF by euro.numerator;\012";
+disabled = 1;
+=======
+code = "sub a by a.numerator;\012sub b by b.numerator;\012sub c by c.numerator;\012sub d by d.numerator;\012sub e by e.numerator;\012sub f by f.numerator;\012sub g by g.numerator;\012sub h by h.numerator;\012sub i by i.numerator;\012sub j by j.numerator;\012sub k by k.numerator;\012sub l by l.numerator;\012sub m by m.numerator;\012sub n by n.numerator;\012sub o by o.numerator;\012sub p by p.numerator;\012sub q by q.numerator;\012sub r by r.numerator;\012sub s by s.numerator;\012sub t by t.numerator;\012sub u by u.numerator;\012sub v by v.numerator;\012sub w by w.numerator;\012sub x by x.numerator;\012sub y by y.numerator;\012sub z by z.numerator;\012sub zero by zero.numerator;\012sub one by one.numerator;\012sub two by two.numerator;\012sub three by three.numerator;\012sub four by four.numerator;\012sub five by five.numerator;\012sub six by six.numerator;\012sub seven by seven.numerator;\012sub eight by eight.numerator;\012sub nine by nine.numerator;\012sub slashedzero by zeroinferior;\012sub zero.PPF by zero.numerator;\012sub one.PPF by one.numerator;\012sub two.PPF by two.numerator;\012sub three.PPF by three.numerator;\012sub four.PPF by four.numerator;\012sub five.PPF by five.numerator;\012sub six.PPF by six.numerator;\012sub seven.PPF by seven.numerator;\012sub eight.PPF by eight.numerator;\012sub nine.PPF by nine.numerator;\012sub slashedzero.PPF by zeroinferior;\012sub zero.sc by zero.numerator;\012sub one.sc by one.numerator;\012sub two.sc by two.numerator;\012sub three.sc by three.numerator;\012sub four.sc by four.numerator;\012sub five.sc by five.numerator;\012sub six.sc by six.numerator;\012sub seven.sc by seven.numerator;\012sub eight.sc by eight.numerator;\012sub nine.sc by nine.numerator;\012sub slashedzero.sc by zeroinferior;\012sub zero.scppf by zero.numerator;\012sub one.scppf by one.numerator;\012sub two.scppf by two.numerator;\012sub three.scppf by three.numerator;\012sub four.scppf by four.numerator;\012sub five.scppf by five.numerator;\012sub six.scppf by six.numerator;\012sub seven.scppf by seven.numerator;\012sub eight.scppf by eight.numerator;\012sub nine.scppf by nine.numerator;\012sub slashedzero.scppf by zeroinferior;\012sub zero.TOSF by zero.numerator;\012sub one.TOSF by one.numerator;\012sub two.TOSF by two.numerator;\012sub three.TOSF by three.numerator;\012sub four.TOSF by four.numerator;\012sub five.TOSF by five.numerator;\012sub six.TOSF by six.numerator;\012sub seven.TOSF by seven.numerator;\012sub eight.TOSF by eight.numerator;\012sub nine.TOSF by nine.numerator;\012sub slashedzero.TOSF by zeroinferior;\012sub zero.oldstyle by zero.numerator;\012sub one.oldstyle by one.numerator;\012sub two.oldstyle by two.numerator;\012sub three.oldstyle by three.numerator;\012sub four.oldstyle by four.numerator;\012sub five.oldstyle by five.numerator;\012sub six.oldstyle by six.numerator;\012sub seven.oldstyle by seven.numerator;\012sub eight.oldstyle by eight.numerator;\012sub nine.oldstyle by nine.numerator;\012sub slashedzero.oldstyle by zeroinferior;\012sub a.inferior by a.numerator;\012sub b.inferior by b.numerator;\012sub c.inferior by c.numerator;\012sub d.inferior by d.numerator;\012sub e.inferior by e.numerator;\012sub f.inferior by f.numerator;\012sub g.inferior by g.numerator;\012sub h.inferior by h.numerator;\012sub i.inferior by i.numerator;\012sub j.inferior by j.numerator;\012sub k.inferior by k.numerator;\012sub l.inferior by l.numerator;\012sub m.inferior by m.numerator;\012sub n.inferior by n.numerator;\012sub o.inferior by o.numerator;\012sub p.inferior by p.numerator;\012sub q.inferior by q.numerator;\012sub r.inferior by r.numerator;\012sub s.inferior by s.numerator;\012sub t.inferior by t.numerator;\012sub u.inferior by u.numerator;\012sub v.inferior by v.numerator;\012sub w.inferior by w.numerator;\012sub x.inferior by x.numerator;\012sub y.inferior by y.numerator;\012sub z.inferior by z.numerator;\012sub zeroinferior by zero.numerator;\012sub oneinferior by one.numerator;\012sub twoinferior by two.numerator;\012sub threeinferior by three.numerator;\012sub fourinferior by four.numerator;\012sub fiveinferior by five.numerator;\012sub sixinferior by six.numerator;\012sub seveninferior by seven.numerator;\012sub eightinferior by eight.numerator;\012sub nineinferior by nine.numerator;\012sub dollar.inferior by dollar.numerator;\012sub cent.inferior by cent.numerator;\012sub euro.inferior by euro.numerator;\012sub plus.inferior by plus.numerator;\012sub minus.inferior by minus.numerator;\012sub equal.inferior by equal.numerator;\012sub comma.inferior by comma.numerator;\012sub period.inferior by period.numerator;\012sub hyphen.inferior by hyphen.numerator;\012sub parenleft.inferior by parenleft.numerator;\012sub parenright.inferior by parenright.numerator;\012sub a.denominator by a.numerator;\012sub b.denominator by b.numerator;\012sub c.denominator by c.numerator;\012sub d.denominator by d.numerator;\012sub e.denominator by e.numerator;\012sub f.denominator by f.numerator;\012sub g.denominator by g.numerator;\012sub h.denominator by h.numerator;\012sub i.denominator by i.numerator;\012sub j.denominator by j.numerator;\012sub k.denominator by k.numerator;\012sub l.denominator by l.numerator;\012sub m.denominator by m.numerator;\012sub n.denominator by n.numerator;\012sub o.denominator by o.numerator;\012sub p.denominator by p.numerator;\012sub q.denominator by q.numerator;\012sub r.denominator by r.numerator;\012sub s.denominator by s.numerator;\012sub t.denominator by t.numerator;\012sub u.denominator by u.numerator;\012sub v.denominator by v.numerator;\012sub w.denominator by w.numerator;\012sub x.denominator by x.numerator;\012sub y.denominator by y.numerator;\012sub z.denominator by z.numerator;\012sub zero.denominator by zero.numerator;\012sub one.denominator by one.numerator;\012sub two.denominator by two.numerator;\012sub three.denominator by three.numerator;\012sub four.denominator by four.numerator;\012sub five.denominator by five.numerator;\012sub six.denominator by six.numerator;\012sub seven.denominator by seven.numerator;\012sub eight.denominator by eight.numerator;\012sub nine.denominator by nine.numerator;\012sub dollar.denominator by dollar.numerator;\012sub cent.denominator by cent.numerator;\012sub euro.denominator by euro.numerator;\012sub plus.denominator by plus.numerator;\012sub minus.denominator by minus.numerator;\012sub equal.denominator by equal.numerator;\012sub comma.denominator by comma.numerator;\012sub period.denominator by period.numerator;\012sub hyphen.denominator by hyphen.numerator;\012sub parenleft.denominator by parenleft.numerator;\012sub parenright.denominator by parenright.numerator;\012sub a.superior by a.numerator;\012sub b.superior by b.numerator;\012sub c.superior by c.numerator;\012sub d.superior by d.numerator;\012sub e.superior by e.numerator;\012sub f.superior by f.numerator;\012sub g.superior by g.numerator;\012sub h.superior by h.numerator;\012sub i.superior by i.numerator;\012sub j.superior by j.numerator;\012sub k.superior by k.numerator;\012sub l.superior by l.numerator;\012sub m.superior by m.numerator;\012sub n.superior by n.numerator;\012sub o.superior by o.numerator;\012sub p.superior by p.numerator;\012sub q.superior by q.numerator;\012sub r.superior by r.numerator;\012sub s.superior by s.numerator;\012sub t.superior by t.numerator;\012sub u.superior by u.numerator;\012sub v.superior by v.numerator;\012sub w.superior by w.numerator;\012sub x.superior by x.numerator;\012sub y.superior by y.numerator;\012sub z.superior by z.numerator;\012sub zerosuperior by zero.numerator;\012sub onesuperior by one.numerator;\012sub twosuperior by two.numerator;\012sub threesuperior by three.numerator;\012sub foursuperior by four.numerator;\012sub fivesuperior by five.numerator;\012sub sixsuperior by six.numerator;\012sub sevensuperior by seven.numerator;\012sub eightsuperior by eight.numerator;\012sub ninesuperior by nine.numerator;\012sub dollar.superior by dollar.numerator;\012sub cent.superior by cent.numerator;\012sub euro.superior by euro.numerator;\012sub plus.superior by plus.numerator;\012sub minus.superior by minus.numerator;\012sub equal.superior by equal.numerator;\012sub comma.superior by comma.numerator;\012sub period.superior by period.numerator;\012sub hyphen.superior by hyphen.numerator;\012sub parenleft.superior by parenleft.numerator;\012sub parenright.superior by parenright.numerator;\012sub period by period.numerator;\012sub comma by comma.numerator;\012sub hyphen by hyphen.numerator;\012sub parenleft by parenleft.numerator;\012sub parenright by parenright.numerator;\012sub plus by plus.numerator;\012sub minus by minus.numerator;\012sub equal by equal.numerator;\012sub dollar by dollar.numerator;\012sub cent by cent.numerator;\012sub Euro by euro.numerator;\012sub dollar.PPF by dollar.numerator;\012sub cent.PPF by cent.numerator;\012sub Euro.PPF by euro.numerator;\012";
+>>>>>>> Stashed changes
 name = numr;
 },
 {
 code = "sub zero by zero.TOSF;\012sub one by one.TOSF;\012sub two by two.TOSF;\012sub three by three.TOSF;\012sub four by four.TOSF;\012sub five by five.TOSF;\012sub six by six.TOSF;\012sub seven by seven.TOSF;\012sub eight by eight.TOSF;\012sub nine by nine.TOSF;\012sub slashedzero by slashedzero.TOSF;\012sub zero.PPF by zero.oldstyle;\012sub one.PPF by one.oldstyle;\012sub two.PPF by two.oldstyle;\012sub three.PPF by three.oldstyle;\012sub four.PPF by four.oldstyle;\012sub five.PPF by five.oldstyle;\012sub six.PPF by six.oldstyle;\012sub seven.PPF by seven.oldstyle;\012sub eight.PPF by eight.oldstyle;\012sub nine.PPF by nine.oldstyle;\012sub slashedzero.PPF by slashedzero.oldstyle;\012sub zero.sc by zero.TOSF;\012sub one.sc by one.TOSF;\012sub two.sc by two.TOSF;\012sub three.sc by three.TOSF;\012sub four.sc by four.TOSF;\012sub five.sc by five.TOSF;\012sub six.sc by six.TOSF;\012sub seven.sc by seven.TOSF;\012sub eight.sc by eight.TOSF;\012sub nine.sc by nine.TOSF;\012sub slashedzero.sc by slashedzero.TOSF;\012sub zero.scppf by zero.oldstyle;\012sub one.scppf by one.oldstyle;\012sub two.scppf by two.oldstyle;\012sub three.scppf by three.oldstyle;\012sub four.scppf by four.oldstyle;\012sub five.scppf by five.oldstyle;\012sub six.scppf by six.oldstyle;\012sub seven.scppf by seven.oldstyle;\012sub eight.scppf by eight.oldstyle;\012sub nine.scppf by nine.oldstyle;\012sub slashedzero.scppf by slashedzero.oldstyle;\012";
+disabled = 1;
 name = onum;
 },
 {
-code = "lookup ordn0 {\012	sub A by ordfeminine;\012	sub B by b.numerator;\012	sub C by c.numerator;\012	sub D by d.numerator;\012	sub E by e.numerator;\012	sub F by f.numerator;\012	sub G by g.numerator;\012	sub H by h.numerator;\012	sub I by i.numerator;\012	sub J by j.numerator;\012	sub K by k.numerator;\012	sub L by l.numerator;\012	sub M by m.numerator;\012	sub N by n.numerator;\012	sub O by ordmasculine;\012	sub P by p.numerator;\012	sub Q by q.numerator;\012	sub R by r.numerator;\012	sub S by s.numerator;\012	sub T by t.numerator;\012	sub U by u.numerator;\012	sub V by v.numerator;\012	sub W by w.numerator;\012	sub X by x.numerator;\012	sub Y by y.numerator;\012	sub Z by z.numerator;\012	sub a.sc by ordfeminine;\012	sub b.sc by b.numerator;\012	sub c.sc by c.numerator;\012	sub d.sc by d.numerator;\012	sub e.sc by e.numerator;\012	sub f.sc by f.numerator;\012	sub g.sc by g.numerator;\012	sub h.sc by h.numerator;\012	sub i.sc by i.numerator;\012	sub j.sc by j.numerator;\012	sub k.sc by k.numerator;\012	sub l.sc by l.numerator;\012	sub m.sc by m.numerator;\012	sub n.sc by n.numerator;\012	sub o.sc by ordmasculine;\012	sub p.sc by p.numerator;\012	sub q.sc by q.numerator;\012	sub r.sc by r.numerator;\012	sub s.sc by s.numerator;\012	sub t.sc by t.numerator;\012	sub u.sc by u.numerator;\012	sub v.sc by v.numerator;\012	sub w.sc by w.numerator;\012	sub x.sc by x.numerator;\012	sub y.sc by y.numerator;\012	sub z.sc by z.numerator;\012	sub a by ordfeminine;\012	sub b by b.numerator;\012	sub c by c.numerator;\012	sub d by d.numerator;\012	sub e by e.numerator;\012	sub f by f.numerator;\012	sub g by g.numerator;\012	sub h by h.numerator;\012	sub i by i.numerator;\012	sub j by j.numerator;\012	sub k by k.numerator;\012	sub l by l.numerator;\012	sub m by m.numerator;\012	sub n by n.numerator;\012	sub o by ordmasculine;\012	sub p by p.numerator;\012	sub q by q.numerator;\012	sub r by r.numerator;\012	sub s by s.numerator;\012	sub t by t.numerator;\012	sub u by u.numerator;\012	sub v by v.numerator;\012	sub w by w.numerator;\012	sub x by x.numerator;\012	sub y by y.numerator;\012	sub z by z.numerator;\012} ordn0;\012lookup ordn1 {\012	sub N O by afii61352;\012	sub N o.sc by afii61352;\012	sub N o by afii61352;\012	sub n.sc O by afii61352;\012	sub n.sc o.sc by afii61352;\012	sub n.sc o by afii61352;\012	sub n O by afii61352;\012	sub n o.sc by afii61352;\012	sub n o by afii61352;\012} ordn1;\012";
+code = "lookup ordn0 {\012	sub A by ordfeminine;\012	sub B by b.numerator;\012	sub C by c.numerator;\012	sub D by d.numerator;\012	sub E by e.numerator;\012	sub F by f.numerator;\012	sub G by g.numerator;\012	sub H by h.numerator;\012	sub I by i.numerator;\012	sub J by j.numerator;\012	sub K by k.numerator;\012	sub L by l.numerator;\012	sub M by m.numerator;\012	sub N by n.numerator;\012	sub O by ordmasculine;\012	sub P by p.numerator;\012	sub Q by q.numerator;\012	sub R by r.numerator;\012	sub S by s.numerator;\012	sub T by t.numerator;\012	sub U by u.numerator;\012	sub V by v.numerator;\012	sub W by w.numerator;\012	sub X by x.numerator;\012	sub Y by y.numerator;\012	sub Z by z.numerator;\012	sub a.sc by ordfeminine;\012	sub b.sc by b.numerator;\012	sub c.sc by c.numerator;\012	sub d.sc by d.numerator;\012	sub e.sc by e.numerator;\012	sub f.sc by f.numerator;\012	sub g.sc by g.numerator;\012	sub h.sc by h.numerator;\012	sub i.sc by i.numerator;\012	sub j.sc by j.numerator;\012	sub k.sc by k.numerator;\012	sub l.sc by l.numerator;\012	sub m.sc by m.numerator;\012	sub n.sc by n.numerator;\012	sub o.sc by ordmasculine;\012	sub p.sc by p.numerator;\012	sub q.sc by q.numerator;\012	sub r.sc by r.numerator;\012	sub s.sc by s.numerator;\012	sub t.sc by t.numerator;\012	sub u.sc by u.numerator;\012	sub v.sc by v.numerator;\012	sub w.sc by w.numerator;\012	sub x.sc by x.numerator;\012	sub y.sc by y.numerator;\012	sub z.sc by z.numerator;\012	sub a by ordfeminine;\012	sub b by b.numerator;\012	sub c by c.numerator;\012	sub d by d.numerator;\012	sub e by e.numerator;\012	sub f by f.numerator;\012	sub g by g.numerator;\012	sub h by h.numerator;\012	sub i by i.numerator;\012	sub j by j.numerator;\012	sub k by k.numerator;\012	sub l by l.numerator;\012	sub m by m.numerator;\012	sub n by n.numerator;\012	sub o by ordmasculine;\012	sub p by p.numerator;\012	sub q by q.numerator;\012	sub r by r.numerator;\012	sub s by s.numerator;\012	sub t by t.numerator;\012	sub u by u.numerator;\012	sub v by v.numerator;\012	sub w by w.numerator;\012	sub x by x.numerator;\012	sub y by y.numerator;\012	sub z by z.numerator;\012} ordn0;\012lookup ordn1 {\012	sub N O by numero;\012	sub N o.sc by numero;\012	sub N o by numero;\012	sub n.sc O by numero;\012	sub n.sc o.sc by numero;\012	sub n.sc o by numero;\012	sub n O by numero;\012	sub n o.sc by numero;\012	sub n o by numero;\012} ordn1;\012";
 name = ordn;
 },
 {
@@ -1014,15 +1062,25 @@ code = "sub zero by zero.PPF;\012sub one by one.PPF;\012sub two by two.PPF;\012s
 name = pnum;
 },
 {
+<<<<<<< Updated upstream
 code = "sub a by a.inferior;\012sub b by b.inferior;\012sub c by c.inferior;\012sub d by d.inferior;\012sub e by e.inferior;\012sub f by f.inferior;\012sub g by g.inferior;\012sub h by h.inferior;\012sub i by i.inferior;\012sub j by j.inferior;\012sub k by k.inferior;\012sub l by l.inferior;\012sub m by m.inferior;\012sub n by n.inferior;\012sub o by o.inferior;\012sub p by p.inferior;\012sub q by q.inferior;\012sub r by r.inferior;\012sub s by s.inferior;\012sub t by t.inferior;\012sub u by u.inferior;\012sub v by v.inferior;\012sub w by w.inferior;\012sub x by x.inferior;\012sub y by y.inferior;\012sub z by z.inferior;\012sub zero by uni2080;\012sub one by uni2081;\012sub two by uni2082;\012sub three by uni2083;\012sub four by uni2084;\012sub five by uni2085;\012sub six by uni2086;\012sub seven by uni2087;\012sub eight by uni2088;\012sub nine by uni2089;\012sub slashedzero by uni2080;\012sub zero.PPF by uni2080;\012sub one.PPF by uni2081;\012sub two.PPF by uni2082;\012sub three.PPF by uni2083;\012sub four.PPF by uni2084;\012sub five.PPF by uni2085;\012sub six.PPF by uni2086;\012sub seven.PPF by uni2087;\012sub eight.PPF by uni2088;\012sub nine.PPF by uni2089;\012sub slashedzero.PPF by uni2080;\012sub zero.sc by uni2080;\012sub one.sc by uni2081;\012sub two.sc by uni2082;\012sub three.sc by uni2083;\012sub four.sc by uni2084;\012sub five.sc by uni2085;\012sub six.sc by uni2086;\012sub seven.sc by uni2087;\012sub eight.sc by uni2088;\012sub nine.sc by uni2089;\012sub slashedzero.sc by uni2080;\012sub zero.scppf by uni2080;\012sub one.scppf by uni2081;\012sub two.scppf by uni2082;\012sub three.scppf by uni2083;\012sub four.scppf by uni2084;\012sub five.scppf by uni2085;\012sub six.scppf by uni2086;\012sub seven.scppf by uni2087;\012sub eight.scppf by uni2088;\012sub nine.scppf by uni2089;\012sub slashedzero.scppf by uni2080;\012sub zero.TOSF by uni2080;\012sub one.TOSF by uni2081;\012sub two.TOSF by uni2082;\012sub three.TOSF by uni2083;\012sub four.TOSF by uni2084;\012sub five.TOSF by uni2085;\012sub six.TOSF by uni2086;\012sub seven.TOSF by uni2087;\012sub eight.TOSF by uni2088;\012sub nine.TOSF by uni2089;\012sub slashedzero.TOSF by uni2080;\012sub zero.oldstyle by uni2080;\012sub one.oldstyle by uni2081;\012sub two.oldstyle by uni2082;\012sub three.oldstyle by uni2083;\012sub four.oldstyle by uni2084;\012sub five.oldstyle by uni2085;\012sub six.oldstyle by uni2086;\012sub seven.oldstyle by uni2087;\012sub eight.oldstyle by uni2088;\012sub nine.oldstyle by uni2089;\012sub slashedzero.oldstyle by uni2080;\012sub a.denominator by a.inferior;\012sub b.denominator by b.inferior;\012sub c.denominator by c.inferior;\012sub d.denominator by d.inferior;\012sub e.denominator by e.inferior;\012sub f.denominator by f.inferior;\012sub g.denominator by g.inferior;\012sub h.denominator by h.inferior;\012sub i.denominator by i.inferior;\012sub j.denominator by j.inferior;\012sub k.denominator by k.inferior;\012sub l.denominator by l.inferior;\012sub m.denominator by m.inferior;\012sub n.denominator by n.inferior;\012sub o.denominator by o.inferior;\012sub p.denominator by p.inferior;\012sub q.denominator by q.inferior;\012sub r.denominator by r.inferior;\012sub s.denominator by s.inferior;\012sub t.denominator by t.inferior;\012sub u.denominator by u.inferior;\012sub v.denominator by v.inferior;\012sub w.denominator by w.inferior;\012sub x.denominator by x.inferior;\012sub y.denominator by y.inferior;\012sub z.denominator by z.inferior;\012sub zero.denominator by uni2080;\012sub one.denominator by uni2081;\012sub two.denominator by uni2082;\012sub three.denominator by uni2083;\012sub four.denominator by uni2084;\012sub five.denominator by uni2085;\012sub six.denominator by uni2086;\012sub seven.denominator by uni2087;\012sub eight.denominator by uni2088;\012sub nine.denominator by uni2089;\012sub dollar.denominator by dollar.inferior;\012sub cent.denominator by cent.inferior;\012sub euro.denominator by euro.inferior;\012sub plus.denominator by plus.inferior;\012sub minus.denominator by minus.inferior;\012sub equal.denominator by equal.inferior;\012sub comma.denominator by comma.inferior;\012sub period.denominator by period.inferior;\012sub hyphen.denominator by hyphen.inferior;\012sub parenleft.denominator by parenleft.inferior;\012sub parenright.denominator by parenright.inferior;\012sub a.numerator by a.inferior;\012sub b.numerator by b.inferior;\012sub c.numerator by c.inferior;\012sub d.numerator by d.inferior;\012sub e.numerator by e.inferior;\012sub f.numerator by f.inferior;\012sub g.numerator by g.inferior;\012sub h.numerator by h.inferior;\012sub i.numerator by i.inferior;\012sub j.numerator by j.inferior;\012sub k.numerator by k.inferior;\012sub l.numerator by l.inferior;\012sub m.numerator by m.inferior;\012sub n.numerator by n.inferior;\012sub o.numerator by o.inferior;\012sub p.numerator by p.inferior;\012sub q.numerator by q.inferior;\012sub r.numerator by r.inferior;\012sub s.numerator by s.inferior;\012sub t.numerator by t.inferior;\012sub u.numerator by u.inferior;\012sub v.numerator by v.inferior;\012sub w.numerator by w.inferior;\012sub x.numerator by x.inferior;\012sub y.numerator by y.inferior;\012sub z.numerator by z.inferior;\012sub zero.numerator by uni2080;\012sub one.numerator by uni2081;\012sub two.numerator by uni2082;\012sub three.numerator by uni2083;\012sub four.numerator by uni2084;\012sub five.numerator by uni2085;\012sub six.numerator by uni2086;\012sub seven.numerator by uni2087;\012sub eight.numerator by uni2088;\012sub nine.numerator by uni2089;\012sub dollar.numerator by dollar.inferior;\012sub cent.numerator by cent.inferior;\012sub euro.numerator by euro.inferior;\012sub plus.numerator by plus.inferior;\012sub minus.numerator by minus.inferior;\012sub equal.numerator by equal.inferior;\012sub comma.numerator by comma.inferior;\012sub period.numerator by period.inferior;\012sub hyphen.numerator by hyphen.inferior;\012sub parenleft.numerator by parenleft.inferior;\012sub parenright.numerator by parenright.inferior;\012sub a.superior by a.inferior;\012sub b.superior by b.inferior;\012sub c.superior by c.inferior;\012sub d.superior by d.inferior;\012sub e.superior by e.inferior;\012sub f.superior by f.inferior;\012sub g.superior by g.inferior;\012sub h.superior by h.inferior;\012sub i.superior by i.inferior;\012sub j.superior by j.inferior;\012sub k.superior by k.inferior;\012sub l.superior by l.inferior;\012sub m.superior by m.inferior;\012sub n.superior by n.inferior;\012sub o.superior by o.inferior;\012sub p.superior by p.inferior;\012sub q.superior by q.inferior;\012sub r.superior by r.inferior;\012sub s.superior by s.inferior;\012sub t.superior by t.inferior;\012sub u.superior by u.inferior;\012sub v.superior by v.inferior;\012sub w.superior by w.inferior;\012sub x.superior by x.inferior;\012sub y.superior by y.inferior;\012sub z.superior by z.inferior;\012sub uni2070 by uni2080;\012sub onesuperior by uni2081;\012sub twosuperior by uni2082;\012sub threesuperior by uni2083;\012sub uni2074 by uni2084;\012sub uni2075 by uni2085;\012sub uni2076 by uni2086;\012sub uni2077 by uni2087;\012sub uni2078 by uni2088;\012sub uni2079 by uni2089;\012sub dollar.superior by dollar.inferior;\012sub cent.superior by cent.inferior;\012sub euro.superior by euro.inferior;\012sub plus.superior by plus.inferior;\012sub minus.superior by minus.inferior;\012sub equal.superior by equal.inferior;\012sub comma.superior by comma.inferior;\012sub period.superior by period.inferior;\012sub hyphen.superior by hyphen.inferior;\012sub parenleft.superior by parenleft.inferior;\012sub parenright.superior by parenright.inferior;\012sub period by period.inferior;\012sub comma by comma.inferior;\012sub hyphen by hyphen.inferior;\012sub parenleft by parenleft.inferior;\012sub parenright by parenright.inferior;\012sub plus by plus.inferior;\012sub minus by minus.inferior;\012sub equal by equal.inferior;\012sub dollar by dollar.inferior;\012sub cent by cent.inferior;\012sub Euro by euro.inferior;\012sub dollar.PPF by dollar.inferior;\012sub cent.PPF by cent.inferior;\012sub Euro.PPF by euro.inferior;\012";
+disabled = 1;
+=======
+code = "sub a by a.inferior;\012sub b by b.inferior;\012sub c by c.inferior;\012sub d by d.inferior;\012sub e by e.inferior;\012sub f by f.inferior;\012sub g by g.inferior;\012sub h by h.inferior;\012sub i by i.inferior;\012sub j by j.inferior;\012sub k by k.inferior;\012sub l by l.inferior;\012sub m by m.inferior;\012sub n by n.inferior;\012sub o by o.inferior;\012sub p by p.inferior;\012sub q by q.inferior;\012sub r by r.inferior;\012sub s by s.inferior;\012sub t by t.inferior;\012sub u by u.inferior;\012sub v by v.inferior;\012sub w by w.inferior;\012sub x by x.inferior;\012sub y by y.inferior;\012sub z by z.inferior;\012sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012sub slashedzero by zeroinferior;\012sub zero.PPF by zeroinferior;\012sub one.PPF by oneinferior;\012sub two.PPF by twoinferior;\012sub three.PPF by threeinferior;\012sub four.PPF by fourinferior;\012sub five.PPF by fiveinferior;\012sub six.PPF by sixinferior;\012sub seven.PPF by seveninferior;\012sub eight.PPF by eightinferior;\012sub nine.PPF by nineinferior;\012sub slashedzero.PPF by zeroinferior;\012sub zero.sc by zeroinferior;\012sub one.sc by oneinferior;\012sub two.sc by twoinferior;\012sub three.sc by threeinferior;\012sub four.sc by fourinferior;\012sub five.sc by fiveinferior;\012sub six.sc by sixinferior;\012sub seven.sc by seveninferior;\012sub eight.sc by eightinferior;\012sub nine.sc by nineinferior;\012sub slashedzero.sc by zeroinferior;\012sub zero.scppf by zeroinferior;\012sub one.scppf by oneinferior;\012sub two.scppf by twoinferior;\012sub three.scppf by threeinferior;\012sub four.scppf by fourinferior;\012sub five.scppf by fiveinferior;\012sub six.scppf by sixinferior;\012sub seven.scppf by seveninferior;\012sub eight.scppf by eightinferior;\012sub nine.scppf by nineinferior;\012sub slashedzero.scppf by zeroinferior;\012sub zero.TOSF by zeroinferior;\012sub one.TOSF by oneinferior;\012sub two.TOSF by twoinferior;\012sub three.TOSF by threeinferior;\012sub four.TOSF by fourinferior;\012sub five.TOSF by fiveinferior;\012sub six.TOSF by sixinferior;\012sub seven.TOSF by seveninferior;\012sub eight.TOSF by eightinferior;\012sub nine.TOSF by nineinferior;\012sub slashedzero.TOSF by zeroinferior;\012sub zero.oldstyle by zeroinferior;\012sub one.oldstyle by oneinferior;\012sub two.oldstyle by twoinferior;\012sub three.oldstyle by threeinferior;\012sub four.oldstyle by fourinferior;\012sub five.oldstyle by fiveinferior;\012sub six.oldstyle by sixinferior;\012sub seven.oldstyle by seveninferior;\012sub eight.oldstyle by eightinferior;\012sub nine.oldstyle by nineinferior;\012sub slashedzero.oldstyle by zeroinferior;\012sub a.denominator by a.inferior;\012sub b.denominator by b.inferior;\012sub c.denominator by c.inferior;\012sub d.denominator by d.inferior;\012sub e.denominator by e.inferior;\012sub f.denominator by f.inferior;\012sub g.denominator by g.inferior;\012sub h.denominator by h.inferior;\012sub i.denominator by i.inferior;\012sub j.denominator by j.inferior;\012sub k.denominator by k.inferior;\012sub l.denominator by l.inferior;\012sub m.denominator by m.inferior;\012sub n.denominator by n.inferior;\012sub o.denominator by o.inferior;\012sub p.denominator by p.inferior;\012sub q.denominator by q.inferior;\012sub r.denominator by r.inferior;\012sub s.denominator by s.inferior;\012sub t.denominator by t.inferior;\012sub u.denominator by u.inferior;\012sub v.denominator by v.inferior;\012sub w.denominator by w.inferior;\012sub x.denominator by x.inferior;\012sub y.denominator by y.inferior;\012sub z.denominator by z.inferior;\012sub zero.denominator by zeroinferior;\012sub one.denominator by oneinferior;\012sub two.denominator by twoinferior;\012sub three.denominator by threeinferior;\012sub four.denominator by fourinferior;\012sub five.denominator by fiveinferior;\012sub six.denominator by sixinferior;\012sub seven.denominator by seveninferior;\012sub eight.denominator by eightinferior;\012sub nine.denominator by nineinferior;\012sub dollar.denominator by dollar.inferior;\012sub cent.denominator by cent.inferior;\012sub euro.denominator by euro.inferior;\012sub plus.denominator by plus.inferior;\012sub minus.denominator by minus.inferior;\012sub equal.denominator by equal.inferior;\012sub comma.denominator by comma.inferior;\012sub period.denominator by period.inferior;\012sub hyphen.denominator by hyphen.inferior;\012sub parenleft.denominator by parenleft.inferior;\012sub parenright.denominator by parenright.inferior;\012sub a.numerator by a.inferior;\012sub b.numerator by b.inferior;\012sub c.numerator by c.inferior;\012sub d.numerator by d.inferior;\012sub e.numerator by e.inferior;\012sub f.numerator by f.inferior;\012sub g.numerator by g.inferior;\012sub h.numerator by h.inferior;\012sub i.numerator by i.inferior;\012sub j.numerator by j.inferior;\012sub k.numerator by k.inferior;\012sub l.numerator by l.inferior;\012sub m.numerator by m.inferior;\012sub n.numerator by n.inferior;\012sub o.numerator by o.inferior;\012sub p.numerator by p.inferior;\012sub q.numerator by q.inferior;\012sub r.numerator by r.inferior;\012sub s.numerator by s.inferior;\012sub t.numerator by t.inferior;\012sub u.numerator by u.inferior;\012sub v.numerator by v.inferior;\012sub w.numerator by w.inferior;\012sub x.numerator by x.inferior;\012sub y.numerator by y.inferior;\012sub z.numerator by z.inferior;\012sub zero.numerator by zeroinferior;\012sub one.numerator by oneinferior;\012sub two.numerator by twoinferior;\012sub three.numerator by threeinferior;\012sub four.numerator by fourinferior;\012sub five.numerator by fiveinferior;\012sub six.numerator by sixinferior;\012sub seven.numerator by seveninferior;\012sub eight.numerator by eightinferior;\012sub nine.numerator by nineinferior;\012sub dollar.numerator by dollar.inferior;\012sub cent.numerator by cent.inferior;\012sub euro.numerator by euro.inferior;\012sub plus.numerator by plus.inferior;\012sub minus.numerator by minus.inferior;\012sub equal.numerator by equal.inferior;\012sub comma.numerator by comma.inferior;\012sub period.numerator by period.inferior;\012sub hyphen.numerator by hyphen.inferior;\012sub parenleft.numerator by parenleft.inferior;\012sub parenright.numerator by parenright.inferior;\012sub a.superior by a.inferior;\012sub b.superior by b.inferior;\012sub c.superior by c.inferior;\012sub d.superior by d.inferior;\012sub e.superior by e.inferior;\012sub f.superior by f.inferior;\012sub g.superior by g.inferior;\012sub h.superior by h.inferior;\012sub i.superior by i.inferior;\012sub j.superior by j.inferior;\012sub k.superior by k.inferior;\012sub l.superior by l.inferior;\012sub m.superior by m.inferior;\012sub n.superior by n.inferior;\012sub o.superior by o.inferior;\012sub p.superior by p.inferior;\012sub q.superior by q.inferior;\012sub r.superior by r.inferior;\012sub s.superior by s.inferior;\012sub t.superior by t.inferior;\012sub u.superior by u.inferior;\012sub v.superior by v.inferior;\012sub w.superior by w.inferior;\012sub x.superior by x.inferior;\012sub y.superior by y.inferior;\012sub z.superior by z.inferior;\012sub zerosuperior by zeroinferior;\012sub onesuperior by oneinferior;\012sub twosuperior by twoinferior;\012sub threesuperior by threeinferior;\012sub foursuperior by fourinferior;\012sub fivesuperior by fiveinferior;\012sub sixsuperior by sixinferior;\012sub sevensuperior by seveninferior;\012sub eightsuperior by eightinferior;\012sub ninesuperior by nineinferior;\012sub dollar.superior by dollar.inferior;\012sub cent.superior by cent.inferior;\012sub euro.superior by euro.inferior;\012sub plus.superior by plus.inferior;\012sub minus.superior by minus.inferior;\012sub equal.superior by equal.inferior;\012sub comma.superior by comma.inferior;\012sub period.superior by period.inferior;\012sub hyphen.superior by hyphen.inferior;\012sub parenleft.superior by parenleft.inferior;\012sub parenright.superior by parenright.inferior;\012sub period by period.inferior;\012sub comma by comma.inferior;\012sub hyphen by hyphen.inferior;\012sub parenleft by parenleft.inferior;\012sub parenright by parenright.inferior;\012sub plus by plus.inferior;\012sub minus by minus.inferior;\012sub equal by equal.inferior;\012sub dollar by dollar.inferior;\012sub cent by cent.inferior;\012sub Euro by euro.inferior;\012sub dollar.PPF by dollar.inferior;\012sub cent.PPF by cent.inferior;\012sub Euro.PPF by euro.inferior;\012";
+>>>>>>> Stashed changes
 name = sinf;
 },
 {
-code = "sub at by at.sc;\012sub ampersand by ampersand.sc;\012sub a by a.sc;\012sub b by b.sc;\012sub c by c.sc;\012sub d by d.sc;\012sub e by e.sc;\012sub f by f.sc;\012sub g by g.sc;\012sub h by h.sc;\012sub i by i.sc;\012sub j by j.sc;\012sub k by k.sc;\012sub l by l.sc;\012sub m by m.sc;\012sub n by n.sc;\012sub o by o.sc;\012sub p by p.sc;\012sub q by q.sc;\012sub r by r.sc;\012sub s by s.sc;\012sub t by t.sc;\012sub u by u.sc;\012sub v by v.sc;\012sub w by w.sc;\012sub x by x.sc;\012sub y by y.sc;\012sub z by z.sc;\012sub germandbls by germandbls.sc;\012sub fi by fi.sc;\012sub fl by fl.sc;\012sub zero by zero.sc;\012sub one by one.sc;\012sub two by two.sc;\012sub three by three.sc;\012sub four by four.sc;\012sub five by five.sc;\012sub six by six.sc;\012sub seven by seven.sc;\012sub eight by eight.sc;\012sub nine by nine.sc;\012sub slashedzero by slashedzero.sc;\012sub zero.PPF by zero.scppf;\012sub one.PPF by one.scppf;\012sub two.PPF by two.scppf;\012sub three.PPF by three.scppf;\012sub four.PPF by four.scppf;\012sub five.PPF by five.scppf;\012sub six.PPF by six.scppf;\012sub seven.PPF by seven.scppf;\012sub eight.PPF by eight.scppf;\012sub nine.PPF by nine.scppf;\012sub slashedzero.PPF by slashedzero.scppf;\012sub zero.TOSF by zero.sc;\012sub one.TOSF by one.sc;\012sub two.TOSF by two.sc;\012sub three.TOSF by three.sc;\012sub four.TOSF by four.sc;\012sub five.TOSF by five.sc;\012sub six.TOSF by six.sc;\012sub seven.TOSF by seven.sc;\012sub eight.TOSF by eight.sc;\012sub nine.TOSF by nine.sc;\012sub slashedzero.TOSF by slashedzero.sc;\012sub zero.oldstyle by zero.scppf;\012sub one.oldstyle by one.scppf;\012sub two.oldstyle by two.scppf;\012sub three.oldstyle by three.scppf;\012sub four.oldstyle by four.scppf;\012sub five.oldstyle by five.scppf;\012sub six.oldstyle by six.scppf;\012sub seven.oldstyle by seven.scppf;\012sub eight.oldstyle by eight.scppf;\012sub nine.oldstyle by nine.scppf;\012sub slashedzero.oldstyle by slashedzero.scppf;\012sub percent by percent.sc;\012sub perthousand by perthousand.sc;\012sub period by period;\012sub comma by comma;\012sub colon by colon;\012sub semicolon by semicolon;\012sub exclam by exclam.sc;\012sub question by question.sc;\012sub exclamdown by exclamdown.sc;\012sub questiondown by questiondown.sc;\012sub hyphen by hyphen.sc;\012sub endash by endash.sc;\012sub emdash by emdash.sc;\012sub periodcentered by periodcentered.sc;\012sub bullet by bullet.sc;\012sub guilsinglleft by guilsinglleft.sc;\012sub guilsinglright by guilsinglright.sc;\012sub guillemotleft by guillemotleft.sc;\012sub guillemotright by guillemotright.sc;\012sub parenleft by parenleft.sc;\012sub parenright by parenright.sc;\012sub bracketleft by bracketleft.sc;\012sub bracketright by bracketright.sc;\012sub braceleft by braceleft.sc;\012sub braceright by braceright.sc;\012sub slash by slash.sc;\012sub backslash by backslash.sc;\012sub quotesinglbase by quotesinglbase;\012sub quotedblbase by quotedblbase;\012sub quoteleft by quoteleft.sc;\012sub quotedblleft by quotedblleft.sc;\012sub quoteright by quoteright.sc;\012sub quotedblright by quotedblright.sc;\012sub asterisk by asterisk.sc;\012sub degree by degree.sc;\012sub quotesingle by quotesingle.sc;\012sub quotedbl by quotedbl.sc;\012sub ordfeminine by ordfeminine.sc;\012sub ordmasculine by ordmasculine.sc;\012sub trademark by trademark.sc;\012sub copyright by copyright.sc;\012sub registered by registered.sc;\012sub paragraph by paragraph.sc;\012sub dagger by dagger.sc;\012sub daggerdbl by daggerdbl.sc;\012sub section by section.sc;\012sub plus by plus.sc;\012sub minus by minus.sc;\012sub multiply by multiply.sc;\012sub divide by divide.sc;\012sub equal by equal.sc;\012sub less by less.sc;\012sub greater by greater.sc;\012sub plusminus by plusminus.sc;\012sub lessequal by lessequal.sc;\012sub greaterequal by greaterequal.sc;\012sub notequal by notequal.sc;\012sub logicalnot by logicalnot.sc;\012sub asciitilde by asciitilde.sc;\012sub approxequal by approxequal.sc;\012sub infinity by infinity.sc;\012sub numbersign by numbersign.sc;\012sub currency by currency.sc;\012sub dollar by dollar.sc;\012sub cent by cent.sc;\012sub Euro by Euro.sc;\012sub yen by yen.sc;\012sub sterling by sterling.sc;\012sub florin by florin.sc;\012sub currency.PPF by currency.scppf;\012sub dollar.PPF by dollar.scppf;\012sub cent.PPF by cent.scppf;\012sub Euro.PPF by Euro.scppf;\012sub yen.PPF by yen.scppf;\012sub sterling.PPF by sterling.scppf;\012sub florin.PPF by florin.scppf;\012sub ae by ae.sc;\012sub aeacute by aeacute.sc;\012sub agrave by agrave.sc;\012sub aacute by aacute.sc;\012sub adieresis by adieresis.sc;\012sub acircumflex by acircumflex.sc;\012sub amacron by amacron.sc;\012sub atilde by atilde.sc;\012sub aring by aring.sc;\012sub abreve by abreve.sc;\012sub aogonek by aogonek.sc;\012sub cacute by cacute.sc;\012sub cdotaccent by cdotaccent.sc;\012sub ccircumflex by ccircumflex.sc;\012sub ccaron by ccaron.sc;\012sub ccedilla by ccedilla.sc;\012sub eth by eth.sc;\012sub dcroat by dcroat.sc;\012sub dcaron by dcaron.sc;\012sub egrave by egrave.sc;\012sub eacute by eacute.sc;\012sub edotaccent by edotaccent.sc;\012sub edieresis by edieresis.sc;\012sub ecircumflex by ecircumflex.sc;\012sub ecaron by ecaron.sc;\012sub emacron by emacron.sc;\012sub ebreve by ebreve.sc;\012sub eogonek by eogonek.sc;\012sub gdotaccent by gdotaccent.sc;\012sub gcircumflex by gcircumflex.sc;\012sub gbreve by gbreve.sc;\012sub gcommaaccent by gcommaaccent.sc;\012sub hbar by hbar.sc;\012sub hcircumflex by hcircumflex.sc;\012sub dotlessi by dotlessi.sc;\012sub igrave by igrave.sc;\012sub iacute by iacute.sc;\012sub idieresis by idieresis.sc;\012sub icircumflex by icircumflex.sc;\012sub imacron by imacron.sc;\012sub itilde by itilde.sc;\012sub ibreve by ibreve.sc;\012sub iogonek by iogonek.sc;\012sub ij by ij.sc;\012sub jcircumflex by jcircumflex.sc;\012sub kcommaaccent by kcommaaccent.sc;\012sub lacute by lacute.sc;\012sub lcommaaccent by lcommaaccent.sc;\012sub lslash by lslash.sc;\012sub ldot by ldot.sc;\012sub lcaron by lcaron.sc;\012sub nacute by nacute.sc;\012sub ncaron by ncaron.sc;\012sub ntilde by ntilde.sc;\012sub ncommaaccent by ncommaaccent.sc;\012sub eng by eng.sc;\012sub oe by oe.sc;\012sub ograve by ograve.sc;\012sub oacute by oacute.sc;\012sub ohungarumlaut by ohungarumlaut.sc;\012sub odieresis by odieresis.sc;\012sub ocircumflex by ocircumflex.sc;\012sub omacron by omacron.sc;\012sub obreve by obreve.sc;\012sub otilde by otilde.sc;\012sub oslash by oslash.sc;\012sub oslashacute by oslashacute.sc;\012sub racute by racute.sc;\012sub rcaron by rcaron.sc;\012sub rcommaaccent by rcommaaccent.sc;\012sub sacute by sacute.sc;\012sub scaron by scaron.sc;\012sub scircumflex by scircumflex.sc;\012sub scommaaccent by scommaaccent.sc;\012sub scedilla by scedilla.sc;\012sub uni021B by uni021B.sc;\012sub tcommaaccent by tcommaaccent.sc;\012sub tcaron by tcaron.sc;\012sub tbar by tbar.sc;\012sub thorn by thorn.sc;\012sub ugrave by ugrave.sc;\012sub uacute by uacute.sc;\012sub uhungarumlaut by uhungarumlaut.sc;\012sub udieresis by udieresis.sc;\012sub ucircumflex by ucircumflex.sc;\012sub umacron by umacron.sc;\012sub utilde by utilde.sc;\012sub ubreve by ubreve.sc;\012sub uring by uring.sc;\012sub uogonek by uogonek.sc;\012sub wgrave by wgrave.sc;\012sub wacute by wacute.sc;\012sub wdieresis by wdieresis.sc;\012sub wcircumflex by wcircumflex.sc;\012sub ygrave by ygrave.sc;\012sub yacute by yacute.sc;\012sub ydieresis by ydieresis.sc;\012sub ycircumflex by ycircumflex.sc;\012sub zacute by zacute.sc;\012sub zdotaccent by zdotaccent.sc;\012sub zcaron by zcaron.sc;\012";
+code = "sub at by at.sc;\012sub ampersand by ampersand.sc;\012sub a by a.sc;\012sub b by b.sc;\012sub c by c.sc;\012sub d by d.sc;\012sub e by e.sc;\012sub f by f.sc;\012sub g by g.sc;\012sub h by h.sc;\012sub i by i.sc;\012sub j by j.sc;\012sub k by k.sc;\012sub l by l.sc;\012sub m by m.sc;\012sub n by n.sc;\012sub o by o.sc;\012sub p by p.sc;\012sub q by q.sc;\012sub r by r.sc;\012sub s by s.sc;\012sub t by t.sc;\012sub u by u.sc;\012sub v by v.sc;\012sub w by w.sc;\012sub x by x.sc;\012sub y by y.sc;\012sub z by z.sc;\012sub germandbls by germandbls.sc;\012sub fi by fi.sc;\012sub fl by fl.sc;\012sub zero by zero.sc;\012sub one by one.sc;\012sub two by two.sc;\012sub three by three.sc;\012sub four by four.sc;\012sub five by five.sc;\012sub six by six.sc;\012sub seven by seven.sc;\012sub eight by eight.sc;\012sub nine by nine.sc;\012sub slashedzero by slashedzero.sc;\012sub zero.PPF by zero.scppf;\012sub one.PPF by one.scppf;\012sub two.PPF by two.scppf;\012sub three.PPF by three.scppf;\012sub four.PPF by four.scppf;\012sub five.PPF by five.scppf;\012sub six.PPF by six.scppf;\012sub seven.PPF by seven.scppf;\012sub eight.PPF by eight.scppf;\012sub nine.PPF by nine.scppf;\012sub slashedzero.PPF by slashedzero.scppf;\012sub zero.TOSF by zero.sc;\012sub one.TOSF by one.sc;\012sub two.TOSF by two.sc;\012sub three.TOSF by three.sc;\012sub four.TOSF by four.sc;\012sub five.TOSF by five.sc;\012sub six.TOSF by six.sc;\012sub seven.TOSF by seven.sc;\012sub eight.TOSF by eight.sc;\012sub nine.TOSF by nine.sc;\012sub slashedzero.TOSF by slashedzero.sc;\012sub zero.oldstyle by zero.scppf;\012sub one.oldstyle by one.scppf;\012sub two.oldstyle by two.scppf;\012sub three.oldstyle by three.scppf;\012sub four.oldstyle by four.scppf;\012sub five.oldstyle by five.scppf;\012sub six.oldstyle by six.scppf;\012sub seven.oldstyle by seven.scppf;\012sub eight.oldstyle by eight.scppf;\012sub nine.oldstyle by nine.scppf;\012sub slashedzero.oldstyle by slashedzero.scppf;\012sub percent by percent.sc;\012sub perthousand by perthousand.sc;\012sub period by period;\012sub comma by comma;\012sub colon by colon;\012sub semicolon by semicolon;\012sub exclam by exclam.sc;\012sub question by question.sc;\012sub exclamdown by exclamdown.sc;\012sub questiondown by questiondown.sc;\012sub hyphen by hyphen.sc;\012sub endash by endash.sc;\012sub emdash by emdash.sc;\012sub periodcentered by periodcentered.sc;\012sub bullet by bullet.sc;\012sub guilsinglleft by guilsinglleft.sc;\012sub guilsinglright by guilsinglright.sc;\012sub guillemotleft by guillemotleft.sc;\012sub guillemotright by guillemotright.sc;\012sub parenleft by parenleft.sc;\012sub parenright by parenright.sc;\012sub bracketleft by bracketleft.sc;\012sub bracketright by bracketright.sc;\012sub braceleft by braceleft.sc;\012sub braceright by braceright.sc;\012sub slash by slash.sc;\012sub backslash by backslash.sc;\012sub quotesinglbase by quotesinglbase;\012sub quotedblbase by quotedblbase;\012sub quoteleft by quoteleft.sc;\012sub quotedblleft by quotedblleft.sc;\012sub quoteright by quoteright.sc;\012sub quotedblright by quotedblright.sc;\012sub asterisk by asterisk.sc;\012sub degree by degree.sc;\012sub quotesingle by quotesingle.sc;\012sub quotedbl by quotedbl.sc;\012sub ordfeminine by ordfeminine.sc;\012sub ordmasculine by ordmasculine.sc;\012sub trademark by trademark.sc;\012sub copyright by copyright.sc;\012sub registered by registered.sc;\012sub paragraph by paragraph.sc;\012sub dagger by dagger.sc;\012sub daggerdbl by daggerdbl.sc;\012sub section by section.sc;\012sub plus by plus.sc;\012sub minus by minus.sc;\012sub multiply by multiply.sc;\012sub divide by divide.sc;\012sub equal by equal.sc;\012sub less by less.sc;\012sub greater by greater.sc;\012sub plusminus by plusminus.sc;\012sub lessequal by lessequal.sc;\012sub greaterequal by greaterequal.sc;\012sub notequal by notequal.sc;\012sub logicalnot by logicalnot.sc;\012sub asciitilde by asciitilde.sc;\012sub approxequal by approxequal.sc;\012sub infinity by infinity.sc;\012sub numbersign by numbersign.sc;\012sub currency by currency.sc;\012sub dollar by dollar.sc;\012sub cent by cent.sc;\012sub Euro by Euro.sc;\012sub yen by yen.sc;\012sub sterling by sterling.sc;\012sub florin by florin.sc;\012sub currency.PPF by currency.scppf;\012sub dollar.PPF by dollar.scppf;\012sub cent.PPF by cent.scppf;\012sub Euro.PPF by Euro.scppf;\012sub yen.PPF by yen.scppf;\012sub sterling.PPF by sterling.scppf;\012sub florin.PPF by florin.scppf;\012sub ae by ae.sc;\012sub aeacute by aeacute.sc;\012sub agrave by agrave.sc;\012sub aacute by aacute.sc;\012sub adieresis by adieresis.sc;\012sub acircumflex by acircumflex.sc;\012sub amacron by amacron.sc;\012sub atilde by atilde.sc;\012sub aring by aring.sc;\012sub abreve by abreve.sc;\012sub aogonek by aogonek.sc;\012sub cacute by cacute.sc;\012sub cdotaccent by cdotaccent.sc;\012sub ccircumflex by ccircumflex.sc;\012sub ccaron by ccaron.sc;\012sub ccedilla by ccedilla.sc;\012sub eth by eth.sc;\012sub dcroat by dcroat.sc;\012sub dcaron by dcaron.sc;\012sub egrave by egrave.sc;\012sub eacute by eacute.sc;\012sub edotaccent by edotaccent.sc;\012sub edieresis by edieresis.sc;\012sub ecircumflex by ecircumflex.sc;\012sub ecaron by ecaron.sc;\012sub emacron by emacron.sc;\012sub ebreve by ebreve.sc;\012sub eogonek by eogonek.sc;\012sub gdotaccent by gdotaccent.sc;\012sub gcircumflex by gcircumflex.sc;\012sub gbreve by gbreve.sc;\012sub gcommaaccent by gcommaaccent.sc;\012sub hbar by hbar.sc;\012sub hcircumflex by hcircumflex.sc;\012sub idotless by idotless.sc;\012sub igrave by igrave.sc;\012sub iacute by iacute.sc;\012sub idieresis by idieresis.sc;\012sub icircumflex by icircumflex.sc;\012sub imacron by imacron.sc;\012sub itilde by itilde.sc;\012sub ibreve by ibreve.sc;\012sub iogonek by iogonek.sc;\012sub ij by ij.sc;\012sub jcircumflex by jcircumflex.sc;\012sub kcommaaccent by kcommaaccent.sc;\012sub lacute by lacute.sc;\012sub lcommaaccent by lcommaaccent.sc;\012sub lslash by lslash.sc;\012sub ldot by ldot.sc;\012sub lcaron by lcaron.sc;\012sub nacute by nacute.sc;\012sub ncaron by ncaron.sc;\012sub ntilde by ntilde.sc;\012sub ncommaaccent by ncommaaccent.sc;\012sub eng by eng.sc;\012sub oe by oe.sc;\012sub ograve by ograve.sc;\012sub oacute by oacute.sc;\012sub ohungarumlaut by ohungarumlaut.sc;\012sub odieresis by odieresis.sc;\012sub ocircumflex by ocircumflex.sc;\012sub omacron by omacron.sc;\012sub obreve by obreve.sc;\012sub otilde by otilde.sc;\012sub oslash by oslash.sc;\012sub oslashacute by oslashacute.sc;\012sub racute by racute.sc;\012sub rcaron by rcaron.sc;\012sub rcommaaccent by rcommaaccent.sc;\012sub sacute by sacute.sc;\012sub scaron by scaron.sc;\012sub scircumflex by scircumflex.sc;\012sub scommaaccent by scommaaccent.sc;\012sub scedilla by scedilla.sc;\012sub tcedilla by tcedilla.sc;\012sub tcommaaccent by tcommaaccent.sc;\012sub tcaron by tcaron.sc;\012sub tbar by tbar.sc;\012sub thorn by thorn.sc;\012sub ugrave by ugrave.sc;\012sub uacute by uacute.sc;\012sub uhungarumlaut by uhungarumlaut.sc;\012sub udieresis by udieresis.sc;\012sub ucircumflex by ucircumflex.sc;\012sub umacron by umacron.sc;\012sub utilde by utilde.sc;\012sub ubreve by ubreve.sc;\012sub uring by uring.sc;\012sub uogonek by uogonek.sc;\012sub wgrave by wgrave.sc;\012sub wacute by wacute.sc;\012sub wdieresis by wdieresis.sc;\012sub wcircumflex by wcircumflex.sc;\012sub ygrave by ygrave.sc;\012sub yacute by yacute.sc;\012sub ydieresis by ydieresis.sc;\012sub ycircumflex by ycircumflex.sc;\012sub zacute by zacute.sc;\012sub zdotaccent by zdotaccent.sc;\012sub zcaron by zcaron.sc;\012";
 name = smcp;
 },
 {
+<<<<<<< Updated upstream
 code = "sub a by a.superior;\012sub b by b.superior;\012sub c by c.superior;\012sub d by d.superior;\012sub e by e.superior;\012sub f by f.superior;\012sub g by g.superior;\012sub h by h.superior;\012sub i by i.superior;\012sub j by j.superior;\012sub k by k.superior;\012sub l by l.superior;\012sub m by m.superior;\012sub n by n.superior;\012sub o by o.superior;\012sub p by p.superior;\012sub q by q.superior;\012sub r by r.superior;\012sub s by s.superior;\012sub t by t.superior;\012sub u by u.superior;\012sub v by v.superior;\012sub w by w.superior;\012sub x by x.superior;\012sub y by y.superior;\012sub z by z.superior;\012sub zero by uni2070;\012sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by uni2074;\012sub five by uni2075;\012sub six by uni2076;\012sub seven by uni2077;\012sub eight by uni2078;\012sub nine by uni2079;\012sub slashedzero by uni2070;\012sub zero.PPF by uni2070;\012sub one.PPF by onesuperior;\012sub two.PPF by twosuperior;\012sub three.PPF by threesuperior;\012sub four.PPF by uni2074;\012sub five.PPF by uni2075;\012sub six.PPF by uni2076;\012sub seven.PPF by uni2077;\012sub eight.PPF by uni2078;\012sub nine.PPF by uni2079;\012sub slashedzero.PPF by uni2070;\012sub zero.sc by uni2070;\012sub one.sc by onesuperior;\012sub two.sc by twosuperior;\012sub three.sc by threesuperior;\012sub four.sc by uni2074;\012sub five.sc by uni2075;\012sub six.sc by uni2076;\012sub seven.sc by uni2077;\012sub eight.sc by uni2078;\012sub nine.sc by uni2079;\012sub slashedzero.sc by uni2070;\012sub zero.scppf by uni2070;\012sub one.scppf by onesuperior;\012sub two.scppf by twosuperior;\012sub three.scppf by threesuperior;\012sub four.scppf by uni2074;\012sub five.scppf by uni2075;\012sub six.scppf by uni2076;\012sub seven.scppf by uni2077;\012sub eight.scppf by uni2078;\012sub nine.scppf by uni2079;\012sub slashedzero.scppf by uni2070;\012sub zero.TOSF by uni2070;\012sub one.TOSF by onesuperior;\012sub two.TOSF by twosuperior;\012sub three.TOSF by threesuperior;\012sub four.TOSF by uni2074;\012sub five.TOSF by uni2075;\012sub six.TOSF by uni2076;\012sub seven.TOSF by uni2077;\012sub eight.TOSF by uni2078;\012sub nine.TOSF by uni2079;\012sub slashedzero.TOSF by uni2070;\012sub zero.oldstyle by uni2070;\012sub one.oldstyle by onesuperior;\012sub two.oldstyle by twosuperior;\012sub three.oldstyle by threesuperior;\012sub four.oldstyle by uni2074;\012sub five.oldstyle by uni2075;\012sub six.oldstyle by uni2076;\012sub seven.oldstyle by uni2077;\012sub eight.oldstyle by uni2078;\012sub nine.oldstyle by uni2079;\012sub slashedzero.oldstyle by uni2070;\012sub a.inferior by a.superior;\012sub b.inferior by b.superior;\012sub c.inferior by c.superior;\012sub d.inferior by d.superior;\012sub e.inferior by e.superior;\012sub f.inferior by f.superior;\012sub g.inferior by g.superior;\012sub h.inferior by h.superior;\012sub i.inferior by i.superior;\012sub j.inferior by j.superior;\012sub k.inferior by k.superior;\012sub l.inferior by l.superior;\012sub m.inferior by m.superior;\012sub n.inferior by n.superior;\012sub o.inferior by o.superior;\012sub p.inferior by p.superior;\012sub q.inferior by q.superior;\012sub r.inferior by r.superior;\012sub s.inferior by s.superior;\012sub t.inferior by t.superior;\012sub u.inferior by u.superior;\012sub v.inferior by v.superior;\012sub w.inferior by w.superior;\012sub x.inferior by x.superior;\012sub y.inferior by y.superior;\012sub z.inferior by z.superior;\012sub uni2080 by uni2070;\012sub uni2081 by onesuperior;\012sub uni2082 by twosuperior;\012sub uni2083 by threesuperior;\012sub uni2084 by uni2074;\012sub uni2085 by uni2075;\012sub uni2086 by uni2076;\012sub uni2087 by uni2077;\012sub uni2088 by uni2078;\012sub uni2089 by uni2079;\012sub dollar.inferior by dollar.superior;\012sub cent.inferior by cent.superior;\012sub euro.inferior by euro.superior;\012sub plus.inferior by plus.superior;\012sub minus.inferior by minus.superior;\012sub equal.inferior by equal.superior;\012sub comma.inferior by comma.superior;\012sub period.inferior by period.superior;\012sub hyphen.inferior by hyphen.superior;\012sub parenleft.inferior by parenleft.superior;\012sub parenright.inferior by parenright.superior;\012sub a.denominator by a.superior;\012sub b.denominator by b.superior;\012sub c.denominator by c.superior;\012sub d.denominator by d.superior;\012sub e.denominator by e.superior;\012sub f.denominator by f.superior;\012sub g.denominator by g.superior;\012sub h.denominator by h.superior;\012sub i.denominator by i.superior;\012sub j.denominator by j.superior;\012sub k.denominator by k.superior;\012sub l.denominator by l.superior;\012sub m.denominator by m.superior;\012sub n.denominator by n.superior;\012sub o.denominator by o.superior;\012sub p.denominator by p.superior;\012sub q.denominator by q.superior;\012sub r.denominator by r.superior;\012sub s.denominator by s.superior;\012sub t.denominator by t.superior;\012sub u.denominator by u.superior;\012sub v.denominator by v.superior;\012sub w.denominator by w.superior;\012sub x.denominator by x.superior;\012sub y.denominator by y.superior;\012sub z.denominator by z.superior;\012sub zero.denominator by uni2070;\012sub one.denominator by onesuperior;\012sub two.denominator by twosuperior;\012sub three.denominator by threesuperior;\012sub four.denominator by uni2074;\012sub five.denominator by uni2075;\012sub six.denominator by uni2076;\012sub seven.denominator by uni2077;\012sub eight.denominator by uni2078;\012sub nine.denominator by uni2079;\012sub dollar.denominator by dollar.superior;\012sub cent.denominator by cent.superior;\012sub euro.denominator by euro.superior;\012sub plus.denominator by plus.superior;\012sub minus.denominator by minus.superior;\012sub equal.denominator by equal.superior;\012sub comma.denominator by comma.superior;\012sub period.denominator by period.superior;\012sub hyphen.denominator by hyphen.superior;\012sub parenleft.denominator by parenleft.superior;\012sub parenright.denominator by parenright.superior;\012sub a.numerator by a.superior;\012sub b.numerator by b.superior;\012sub c.numerator by c.superior;\012sub d.numerator by d.superior;\012sub e.numerator by e.superior;\012sub f.numerator by f.superior;\012sub g.numerator by g.superior;\012sub h.numerator by h.superior;\012sub i.numerator by i.superior;\012sub j.numerator by j.superior;\012sub k.numerator by k.superior;\012sub l.numerator by l.superior;\012sub m.numerator by m.superior;\012sub n.numerator by n.superior;\012sub o.numerator by o.superior;\012sub p.numerator by p.superior;\012sub q.numerator by q.superior;\012sub r.numerator by r.superior;\012sub s.numerator by s.superior;\012sub t.numerator by t.superior;\012sub u.numerator by u.superior;\012sub v.numerator by v.superior;\012sub w.numerator by w.superior;\012sub x.numerator by x.superior;\012sub y.numerator by y.superior;\012sub z.numerator by z.superior;\012sub zero.numerator by uni2070;\012sub one.numerator by onesuperior;\012sub two.numerator by twosuperior;\012sub three.numerator by threesuperior;\012sub four.numerator by uni2074;\012sub five.numerator by uni2075;\012sub six.numerator by uni2076;\012sub seven.numerator by uni2077;\012sub eight.numerator by uni2078;\012sub nine.numerator by uni2079;\012sub dollar.numerator by dollar.superior;\012sub cent.numerator by cent.superior;\012sub euro.numerator by euro.superior;\012sub plus.numerator by plus.superior;\012sub minus.numerator by minus.superior;\012sub equal.numerator by equal.superior;\012sub comma.numerator by comma.superior;\012sub period.numerator by period.superior;\012sub hyphen.numerator by hyphen.superior;\012sub parenleft.numerator by parenleft.superior;\012sub parenright.numerator by parenright.superior;\012sub period by period.superior;\012sub comma by comma.superior;\012sub hyphen by hyphen.superior;\012sub parenleft by parenleft.superior;\012sub parenright by parenright.superior;\012sub plus by plus.superior;\012sub minus by minus.superior;\012sub equal by equal.superior;\012sub dollar by dollar.superior;\012sub cent by cent.superior;\012sub Euro by euro.superior;\012sub dollar.PPF by dollar.superior;\012sub cent.PPF by cent.superior;\012sub Euro.PPF by euro.superior;\012";
+disabled = 1;
+=======
+code = "sub a by a.superior;\012sub b by b.superior;\012sub c by c.superior;\012sub d by d.superior;\012sub e by e.superior;\012sub f by f.superior;\012sub g by g.superior;\012sub h by h.superior;\012sub i by i.superior;\012sub j by j.superior;\012sub k by k.superior;\012sub l by l.superior;\012sub m by m.superior;\012sub n by n.superior;\012sub o by o.superior;\012sub p by p.superior;\012sub q by q.superior;\012sub r by r.superior;\012sub s by s.superior;\012sub t by t.superior;\012sub u by u.superior;\012sub v by v.superior;\012sub w by w.superior;\012sub x by x.superior;\012sub y by y.superior;\012sub z by z.superior;\012sub zero by zerosuperior;\012sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012sub five by fivesuperior;\012sub six by sixsuperior;\012sub seven by sevensuperior;\012sub eight by eightsuperior;\012sub nine by ninesuperior;\012sub slashedzero by zerosuperior;\012sub zero.PPF by zerosuperior;\012sub one.PPF by onesuperior;\012sub two.PPF by twosuperior;\012sub three.PPF by threesuperior;\012sub four.PPF by foursuperior;\012sub five.PPF by fivesuperior;\012sub six.PPF by sixsuperior;\012sub seven.PPF by sevensuperior;\012sub eight.PPF by eightsuperior;\012sub nine.PPF by ninesuperior;\012sub slashedzero.PPF by zerosuperior;\012sub zero.sc by zerosuperior;\012sub one.sc by onesuperior;\012sub two.sc by twosuperior;\012sub three.sc by threesuperior;\012sub four.sc by foursuperior;\012sub five.sc by fivesuperior;\012sub six.sc by sixsuperior;\012sub seven.sc by sevensuperior;\012sub eight.sc by eightsuperior;\012sub nine.sc by ninesuperior;\012sub slashedzero.sc by zerosuperior;\012sub zero.scppf by zerosuperior;\012sub one.scppf by onesuperior;\012sub two.scppf by twosuperior;\012sub three.scppf by threesuperior;\012sub four.scppf by foursuperior;\012sub five.scppf by fivesuperior;\012sub six.scppf by sixsuperior;\012sub seven.scppf by sevensuperior;\012sub eight.scppf by eightsuperior;\012sub nine.scppf by ninesuperior;\012sub slashedzero.scppf by zerosuperior;\012sub zero.TOSF by zerosuperior;\012sub one.TOSF by onesuperior;\012sub two.TOSF by twosuperior;\012sub three.TOSF by threesuperior;\012sub four.TOSF by foursuperior;\012sub five.TOSF by fivesuperior;\012sub six.TOSF by sixsuperior;\012sub seven.TOSF by sevensuperior;\012sub eight.TOSF by eightsuperior;\012sub nine.TOSF by ninesuperior;\012sub slashedzero.TOSF by zerosuperior;\012sub zero.oldstyle by zerosuperior;\012sub one.oldstyle by onesuperior;\012sub two.oldstyle by twosuperior;\012sub three.oldstyle by threesuperior;\012sub four.oldstyle by foursuperior;\012sub five.oldstyle by fivesuperior;\012sub six.oldstyle by sixsuperior;\012sub seven.oldstyle by sevensuperior;\012sub eight.oldstyle by eightsuperior;\012sub nine.oldstyle by ninesuperior;\012sub slashedzero.oldstyle by zerosuperior;\012sub a.inferior by a.superior;\012sub b.inferior by b.superior;\012sub c.inferior by c.superior;\012sub d.inferior by d.superior;\012sub e.inferior by e.superior;\012sub f.inferior by f.superior;\012sub g.inferior by g.superior;\012sub h.inferior by h.superior;\012sub i.inferior by i.superior;\012sub j.inferior by j.superior;\012sub k.inferior by k.superior;\012sub l.inferior by l.superior;\012sub m.inferior by m.superior;\012sub n.inferior by n.superior;\012sub o.inferior by o.superior;\012sub p.inferior by p.superior;\012sub q.inferior by q.superior;\012sub r.inferior by r.superior;\012sub s.inferior by s.superior;\012sub t.inferior by t.superior;\012sub u.inferior by u.superior;\012sub v.inferior by v.superior;\012sub w.inferior by w.superior;\012sub x.inferior by x.superior;\012sub y.inferior by y.superior;\012sub z.inferior by z.superior;\012sub zeroinferior by zerosuperior;\012sub oneinferior by onesuperior;\012sub twoinferior by twosuperior;\012sub threeinferior by threesuperior;\012sub fourinferior by foursuperior;\012sub fiveinferior by fivesuperior;\012sub sixinferior by sixsuperior;\012sub seveninferior by sevensuperior;\012sub eightinferior by eightsuperior;\012sub nineinferior by ninesuperior;\012sub dollar.inferior by dollar.superior;\012sub cent.inferior by cent.superior;\012sub euro.inferior by euro.superior;\012sub plus.inferior by plus.superior;\012sub minus.inferior by minus.superior;\012sub equal.inferior by equal.superior;\012sub comma.inferior by comma.superior;\012sub period.inferior by period.superior;\012sub hyphen.inferior by hyphen.superior;\012sub parenleft.inferior by parenleft.superior;\012sub parenright.inferior by parenright.superior;\012sub a.denominator by a.superior;\012sub b.denominator by b.superior;\012sub c.denominator by c.superior;\012sub d.denominator by d.superior;\012sub e.denominator by e.superior;\012sub f.denominator by f.superior;\012sub g.denominator by g.superior;\012sub h.denominator by h.superior;\012sub i.denominator by i.superior;\012sub j.denominator by j.superior;\012sub k.denominator by k.superior;\012sub l.denominator by l.superior;\012sub m.denominator by m.superior;\012sub n.denominator by n.superior;\012sub o.denominator by o.superior;\012sub p.denominator by p.superior;\012sub q.denominator by q.superior;\012sub r.denominator by r.superior;\012sub s.denominator by s.superior;\012sub t.denominator by t.superior;\012sub u.denominator by u.superior;\012sub v.denominator by v.superior;\012sub w.denominator by w.superior;\012sub x.denominator by x.superior;\012sub y.denominator by y.superior;\012sub z.denominator by z.superior;\012sub zero.denominator by zerosuperior;\012sub one.denominator by onesuperior;\012sub two.denominator by twosuperior;\012sub three.denominator by threesuperior;\012sub four.denominator by foursuperior;\012sub five.denominator by fivesuperior;\012sub six.denominator by sixsuperior;\012sub seven.denominator by sevensuperior;\012sub eight.denominator by eightsuperior;\012sub nine.denominator by ninesuperior;\012sub dollar.denominator by dollar.superior;\012sub cent.denominator by cent.superior;\012sub euro.denominator by euro.superior;\012sub plus.denominator by plus.superior;\012sub minus.denominator by minus.superior;\012sub equal.denominator by equal.superior;\012sub comma.denominator by comma.superior;\012sub period.denominator by period.superior;\012sub hyphen.denominator by hyphen.superior;\012sub parenleft.denominator by parenleft.superior;\012sub parenright.denominator by parenright.superior;\012sub a.numerator by a.superior;\012sub b.numerator by b.superior;\012sub c.numerator by c.superior;\012sub d.numerator by d.superior;\012sub e.numerator by e.superior;\012sub f.numerator by f.superior;\012sub g.numerator by g.superior;\012sub h.numerator by h.superior;\012sub i.numerator by i.superior;\012sub j.numerator by j.superior;\012sub k.numerator by k.superior;\012sub l.numerator by l.superior;\012sub m.numerator by m.superior;\012sub n.numerator by n.superior;\012sub o.numerator by o.superior;\012sub p.numerator by p.superior;\012sub q.numerator by q.superior;\012sub r.numerator by r.superior;\012sub s.numerator by s.superior;\012sub t.numerator by t.superior;\012sub u.numerator by u.superior;\012sub v.numerator by v.superior;\012sub w.numerator by w.superior;\012sub x.numerator by x.superior;\012sub y.numerator by y.superior;\012sub z.numerator by z.superior;\012sub zero.numerator by zerosuperior;\012sub one.numerator by onesuperior;\012sub two.numerator by twosuperior;\012sub three.numerator by threesuperior;\012sub four.numerator by foursuperior;\012sub five.numerator by fivesuperior;\012sub six.numerator by sixsuperior;\012sub seven.numerator by sevensuperior;\012sub eight.numerator by eightsuperior;\012sub nine.numerator by ninesuperior;\012sub dollar.numerator by dollar.superior;\012sub cent.numerator by cent.superior;\012sub euro.numerator by euro.superior;\012sub plus.numerator by plus.superior;\012sub minus.numerator by minus.superior;\012sub equal.numerator by equal.superior;\012sub comma.numerator by comma.superior;\012sub period.numerator by period.superior;\012sub hyphen.numerator by hyphen.superior;\012sub parenleft.numerator by parenleft.superior;\012sub parenright.numerator by parenright.superior;\012sub period by period.superior;\012sub comma by comma.superior;\012sub hyphen by hyphen.superior;\012sub parenleft by parenleft.superior;\012sub parenright by parenright.superior;\012sub plus by plus.superior;\012sub minus by minus.superior;\012sub equal by equal.superior;\012sub dollar by dollar.superior;\012sub cent by cent.superior;\012sub Euro by euro.superior;\012sub dollar.PPF by dollar.superior;\012sub cent.PPF by cent.superior;\012sub Euro.PPF by euro.superior;\012";
+>>>>>>> Stashed changes
 name = sups;
 },
 {
@@ -15664,7 +15722,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2018-12-07 14:23:08 +0000";
+lastChange = "2018-12-11 15:26:11 +0000";
 layers = (
 {
 background = {
@@ -127487,237 +127545,7 @@ unicode = 0164;
 },
 {
 glyphname = Tcommaaccent;
-lastChange = "2018-11-29 14:07:27 +0000";
-layers = (
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"86 636 LINE",
-"317 636 LINE",
-"194 0 LINE",
-"214 0 LINE",
-"192 -92 LINE",
-"252 -92 OFFCURVE",
-"284 -108 OFFCURVE",
-"284 -136 CURVE SMOOTH",
-"284 -168 OFFCURVE",
-"261 -184 OFFCURVE",
-"208 -184 CURVE SMOOTH",
-"176 -184 OFFCURVE",
-"156 -180 OFFCURVE",
-"132 -168 CURVE",
-"128 -168 LINE",
-"116 -232 LINE",
-"140 -242 OFFCURVE",
-"168 -248 OFFCURVE",
-"208 -248 CURVE SMOOTH",
-"284 -248 OFFCURVE",
-"356 -219 OFFCURVE",
-"356 -132 CURVE SMOOTH",
-"356 -88 OFFCURVE",
-"324 -47 OFFCURVE",
-"266 -40 CURVE",
-"274 0 LINE",
-"290 0 LINE",
-"413 636 LINE",
-"646 636 LINE",
-"662 720 LINE",
-"102 720 LINE"
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = "{-248, 64}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{0, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{636, 84}";
-type = Stem;
-},
-{
-place = "{284, 72}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{-232, 21}";
-target = up;
-type = BottomGhost;
-}
-);
-layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";
-paths = (
-{
-closed = 1;
-nodes = (
-"86 636 LINE",
-"317 636 LINE",
-"194 0 LINE",
-"214 0 LINE",
-"192 -92 LINE",
-"252 -92 OFFCURVE",
-"284 -108 OFFCURVE",
-"284 -136 CURVE SMOOTH",
-"284 -168 OFFCURVE",
-"261 -184 OFFCURVE",
-"208 -184 CURVE SMOOTH",
-"176 -184 OFFCURVE",
-"156 -180 OFFCURVE",
-"132 -168 CURVE",
-"128 -168 LINE",
-"116 -232 LINE",
-"140 -242 OFFCURVE",
-"168 -248 OFFCURVE",
-"208 -248 CURVE SMOOTH",
-"284 -248 OFFCURVE",
-"356 -219 OFFCURVE",
-"356 -132 CURVE SMOOTH",
-"356 -88 OFFCURVE",
-"324 -47 OFFCURVE",
-"266 -40 CURVE",
-"274 0 LINE",
-"290 0 LINE",
-"413 636 LINE",
-"646 636 LINE",
-"662 720 LINE",
-"102 720 LINE"
-);
-}
-);
-width = 584;
-},
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"76 536 LINE",
-"279 536 LINE",
-"178 0 LINE",
-"242 0 LINE",
-"220 -92 LINE",
-"280 -92 OFFCURVE",
-"304 -104 OFFCURVE",
-"304 -132 CURVE SMOOTH",
-"304 -156 OFFCURVE",
-"288 -172 OFFCURVE",
-"240 -172 CURVE SMOOTH",
-"212 -172 OFFCURVE",
-"187 -168 OFFCURVE",
-"164 -160 CURVE",
-"160 -160 LINE",
-"148 -240 LINE",
-"171 -248 OFFCURVE",
-"200 -252 OFFCURVE",
-"236 -252 CURVE SMOOTH",
-"320 -252 OFFCURVE",
-"404 -216 OFFCURVE",
-"404 -128 CURVE SMOOTH",
-"404 -76 OFFCURVE",
-"368 -44 OFFCURVE",
-"316 -32 CURVE",
-"323 0 LINE",
-"390 0 LINE",
-"491 536 LINE",
-"692 536 LINE",
-"726 720 LINE",
-"110 720 LINE"
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = "{-240, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{0, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{536, 184}";
-type = Stem;
-},
-{
-place = "{304, 100}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{-252, 80}";
-type = Stem;
-}
-);
-layerId = "FA792B6B-505C-4DC3-9C40-F9BEDA01661E";
-paths = (
-{
-closed = 1;
-nodes = (
-"76 536 LINE",
-"279 536 LINE",
-"178 0 LINE",
-"242 0 LINE",
-"220 -92 LINE",
-"280 -92 OFFCURVE",
-"304 -104 OFFCURVE",
-"304 -132 CURVE SMOOTH",
-"304 -156 OFFCURVE",
-"288 -172 OFFCURVE",
-"240 -172 CURVE SMOOTH",
-"212 -172 OFFCURVE",
-"187 -168 OFFCURVE",
-"164 -160 CURVE",
-"160 -160 LINE",
-"148 -240 LINE",
-"171 -248 OFFCURVE",
-"200 -252 OFFCURVE",
-"236 -252 CURVE SMOOTH",
-"320 -252 OFFCURVE",
-"404 -216 OFFCURVE",
-"404 -128 CURVE SMOOTH",
-"404 -76 OFFCURVE",
-"368 -44 OFFCURVE",
-"316 -32 CURVE",
-"323 0 LINE",
-"390 0 LINE",
-"491 536 LINE",
-"692 536 LINE",
-"726 720 LINE",
-"110 720 LINE"
-);
-}
-);
-width = 656;
-}
-);
-leftKerningGroup = T;
-note = uni021A;
-rightKerningGroup = T;
-unicode = 021A;
-},
-{
-glyphname = Tcommaaccent;
-lastChange = "2018-11-27 11:12:04 +0000";
+lastChange = "2018-12-11 15:46:09 +0000";
 layers = (
 {
 background = {
@@ -127934,7 +127762,7 @@ width = 656;
 leftKerningGroup = T;
 note = Tcommaaccent;
 rightKerningGroup = T;
-unicode = 0162;
+unicode = 021A;
 },
 {
 glyphname = Tbar;
@@ -153651,235 +153479,6 @@ width = 592;
 );
 leftKerningGroup = t.sc;
 note = tcaron.sc;
-rightKerningGroup = t.sc;
-},
-{
-glyphname = tcommaaccent.sc;
-lastChange = "2018-11-29 14:07:27 +0000";
-layers = (
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"74 492 LINE",
-"270 492 LINE",
-"174 0 LINE",
-"191 0 LINE",
-"169 -92 LINE",
-"229 -92 OFFCURVE",
-"261 -108 OFFCURVE",
-"261 -136 CURVE SMOOTH",
-"261 -168 OFFCURVE",
-"238 -184 OFFCURVE",
-"185 -184 CURVE SMOOTH",
-"153 -184 OFFCURVE",
-"133 -180 OFFCURVE",
-"109 -168 CURVE",
-"105 -168 LINE",
-"93 -232 LINE",
-"117 -242 OFFCURVE",
-"145 -248 OFFCURVE",
-"185 -248 CURVE SMOOTH",
-"261 -248 OFFCURVE",
-"333 -219 OFFCURVE",
-"333 -132 CURVE SMOOTH",
-"333 -88 OFFCURVE",
-"301 -47 OFFCURVE",
-"243 -40 CURVE",
-"252 0 LINE",
-"266 0 LINE",
-"362 492 LINE",
-"558 492 LINE",
-"574 572 LINE",
-"90 572 LINE"
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = "{-248, 64}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{0, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{492, 80}";
-type = Stem;
-},
-{
-place = "{261, 72}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{-232, 21}";
-target = up;
-type = BottomGhost;
-}
-);
-layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";
-paths = (
-{
-closed = 1;
-nodes = (
-"74 492 LINE",
-"270 492 LINE",
-"174 0 LINE",
-"191 0 LINE",
-"169 -92 LINE",
-"229 -92 OFFCURVE",
-"261 -108 OFFCURVE",
-"261 -136 CURVE SMOOTH",
-"261 -168 OFFCURVE",
-"238 -184 OFFCURVE",
-"185 -184 CURVE SMOOTH",
-"153 -184 OFFCURVE",
-"133 -180 OFFCURVE",
-"109 -168 CURVE",
-"105 -168 LINE",
-"93 -232 LINE",
-"117 -242 OFFCURVE",
-"145 -248 OFFCURVE",
-"185 -248 CURVE SMOOTH",
-"261 -248 OFFCURVE",
-"333 -219 OFFCURVE",
-"333 -132 CURVE SMOOTH",
-"333 -88 OFFCURVE",
-"301 -47 OFFCURVE",
-"243 -40 CURVE",
-"252 0 LINE",
-"266 0 LINE",
-"362 492 LINE",
-"558 492 LINE",
-"574 572 LINE",
-"90 572 LINE"
-);
-}
-);
-width = 540;
-},
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"54 412 LINE",
-"222 412 LINE",
-"144 0 LINE",
-"216 0 LINE",
-"194 -92 LINE",
-"254 -92 OFFCURVE",
-"278 -104 OFFCURVE",
-"278 -132 CURVE SMOOTH",
-"278 -156 OFFCURVE",
-"262 -172 OFFCURVE",
-"214 -172 CURVE SMOOTH",
-"186 -172 OFFCURVE",
-"161 -168 OFFCURVE",
-"138 -160 CURVE",
-"134 -160 LINE",
-"122 -240 LINE",
-"145 -248 OFFCURVE",
-"174 -252 OFFCURVE",
-"210 -252 CURVE SMOOTH",
-"294 -252 OFFCURVE",
-"378 -216 OFFCURVE",
-"378 -128 CURVE SMOOTH",
-"378 -76 OFFCURVE",
-"342 -44 OFFCURVE",
-"290 -32 CURVE",
-"297 0 LINE",
-"352 0 LINE",
-"430 412 LINE",
-"596 412 LINE",
-"628 572 LINE",
-"85 572 LINE"
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = "{-240, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{0, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{412, 160}";
-type = Stem;
-},
-{
-place = "{278, 100}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{-252, 80}";
-type = Stem;
-}
-);
-layerId = "FA792B6B-505C-4DC3-9C40-F9BEDA01661E";
-paths = (
-{
-closed = 1;
-nodes = (
-"54 412 LINE",
-"222 412 LINE",
-"144 0 LINE",
-"216 0 LINE",
-"194 -92 LINE",
-"254 -92 OFFCURVE",
-"278 -104 OFFCURVE",
-"278 -132 CURVE SMOOTH",
-"278 -156 OFFCURVE",
-"262 -172 OFFCURVE",
-"214 -172 CURVE SMOOTH",
-"186 -172 OFFCURVE",
-"161 -168 OFFCURVE",
-"138 -160 CURVE",
-"134 -160 LINE",
-"122 -240 LINE",
-"145 -248 OFFCURVE",
-"174 -252 OFFCURVE",
-"210 -252 CURVE SMOOTH",
-"294 -252 OFFCURVE",
-"378 -216 OFFCURVE",
-"378 -128 CURVE SMOOTH",
-"378 -76 OFFCURVE",
-"342 -44 OFFCURVE",
-"290 -32 CURVE",
-"297 0 LINE",
-"352 0 LINE",
-"430 412 LINE",
-"596 412 LINE",
-"628 572 LINE",
-"85 572 LINE"
-);
-}
-);
-width = 592;
-}
-);
-leftKerningGroup = t.sc;
-note = uni021B.sc;
 rightKerningGroup = t.sc;
 },
 {
@@ -183285,351 +182884,7 @@ unicode = 017F;
 },
 {
 glyphname = tcommaaccent;
-lastChange = "2018-11-29 14:07:27 +0000";
-layers = (
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"114 -168 LINE",
-"102 -232 LINE",
-"126 -242 OFFCURVE",
-"154 -248 OFFCURVE",
-"194 -248 CURVE SMOOTH",
-"270 -248 OFFCURVE",
-"342 -219 OFFCURVE",
-"342 -132 CURVE SMOOTH",
-"342 -88 OFFCURVE",
-"310 -47 OFFCURVE",
-"252 -40 CURVE",
-"259 -8 LINE",
-"294 -7 OFFCURVE",
-"326 -1 OFFCURVE",
-"348 8 CURVE",
-"360 88 LINE",
-"352 88 LINE",
-"330 78 OFFCURVE",
-"304 72 OFFCURVE",
-"276 72 CURVE SMOOTH",
-"212 72 OFFCURVE",
-"188 100 OFFCURVE",
-"188 144 CURVE SMOOTH",
-"188 152 OFFCURVE",
-"189 167 OFFCURVE",
-"192 180 CURVE",
-"247 464 LINE",
-"404 464 LINE",
-"420 544 LINE",
-"263 544 LINE",
-"292 692 LINE",
-"200 692 LINE",
-"171 544 LINE",
-"88 544 LINE",
-"72 464 LINE",
-"155 464 LINE",
-"100 180 LINE SMOOTH",
-"97 165 OFFCURVE",
-"96 148 OFFCURVE",
-"96 136 CURVE SMOOTH",
-"96 62 OFFCURVE",
-"133 14 OFFCURVE",
-"200 -2 CURVE",
-"178 -92 LINE",
-"238 -92 OFFCURVE",
-"270 -108 OFFCURVE",
-"270 -136 CURVE SMOOTH",
-"270 -168 OFFCURVE",
-"247 -184 OFFCURVE",
-"194 -184 CURVE SMOOTH",
-"162 -184 OFFCURVE",
-"142 -180 OFFCURVE",
-"118 -168 CURVE"
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = "{-248, 64}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{-2, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{464, 80}";
-type = Stem;
-},
-{
-place = "{96, 92}";
-type = Stem;
-},
-{
-place = "{270, 72}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{-232, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{-8, 80}";
-type = Stem;
-}
-);
-layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";
-paths = (
-{
-closed = 1;
-nodes = (
-"114 -168 LINE",
-"102 -232 LINE",
-"126 -242 OFFCURVE",
-"154 -248 OFFCURVE",
-"194 -248 CURVE SMOOTH",
-"270 -248 OFFCURVE",
-"342 -219 OFFCURVE",
-"342 -132 CURVE SMOOTH",
-"342 -88 OFFCURVE",
-"310 -47 OFFCURVE",
-"252 -40 CURVE",
-"259 -8 LINE",
-"294 -7 OFFCURVE",
-"326 -1 OFFCURVE",
-"348 8 CURVE",
-"360 88 LINE",
-"352 88 LINE",
-"330 78 OFFCURVE",
-"304 72 OFFCURVE",
-"276 72 CURVE SMOOTH",
-"212 72 OFFCURVE",
-"188 100 OFFCURVE",
-"188 144 CURVE SMOOTH",
-"188 152 OFFCURVE",
-"189 167 OFFCURVE",
-"192 180 CURVE",
-"247 464 LINE",
-"404 464 LINE",
-"420 544 LINE",
-"263 544 LINE",
-"292 692 LINE",
-"200 692 LINE",
-"171 544 LINE",
-"88 544 LINE",
-"72 464 LINE",
-"155 464 LINE",
-"100 180 LINE SMOOTH",
-"97 165 OFFCURVE",
-"96 148 OFFCURVE",
-"96 136 CURVE SMOOTH",
-"96 62 OFFCURVE",
-"133 14 OFFCURVE",
-"200 -2 CURVE",
-"178 -92 LINE",
-"238 -92 OFFCURVE",
-"270 -108 OFFCURVE",
-"270 -136 CURVE SMOOTH",
-"270 -168 OFFCURVE",
-"247 -184 OFFCURVE",
-"194 -184 CURVE SMOOTH",
-"162 -184 OFFCURVE",
-"142 -180 OFFCURVE",
-"118 -168 CURVE"
-);
-}
-);
-width = 412;
-},
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"144 -160 LINE",
-"132 -240 LINE",
-"155 -248 OFFCURVE",
-"184 -252 OFFCURVE",
-"220 -252 CURVE SMOOTH",
-"304 -252 OFFCURVE",
-"388 -216 OFFCURVE",
-"388 -128 CURVE SMOOTH",
-"388 -76 OFFCURVE",
-"352 -44 OFFCURVE",
-"300 -32 CURVE",
-"305 -8 LINE",
-"312 -8 LINE SMOOTH",
-"360 -8 OFFCURVE",
-"392 -2 OFFCURVE",
-"428 8 CURVE",
-"460 172 LINE",
-"448 172 LINE",
-"428 162 OFFCURVE",
-"404 156 OFFCURVE",
-"380 156 CURVE SMOOTH",
-"329 156 OFFCURVE",
-"305 180 OFFCURVE",
-"305 216 CURVE SMOOTH",
-"305 223 OFFCURVE",
-"306 235 OFFCURVE",
-"308 244 CURVE SMOOTH",
-"335 388 LINE",
-"476 388 LINE",
-"508 548 LINE",
-"366 548 LINE",
-"392 680 LINE",
-"182 680 LINE",
-"156 548 LINE",
-"64 548 LINE",
-"32 388 LINE",
-"125 388 LINE",
-"98 248 LINE SMOOTH",
-"93 222 OFFCURVE",
-"90 198 OFFCURVE",
-"90 176 CURVE SMOOTH",
-"89 73 OFFCURVE",
-"141 19 OFFCURVE",
-"226 0 CURVE",
-"204 -92 LINE",
-"264 -92 OFFCURVE",
-"288 -104 OFFCURVE",
-"288 -132 CURVE SMOOTH",
-"288 -156 OFFCURVE",
-"272 -172 OFFCURVE",
-"224 -172 CURVE SMOOTH",
-"196 -172 OFFCURVE",
-"171 -168 OFFCURVE",
-"148 -160 CURVE"
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = "{-252, 80}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{0, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{388, 160}";
-type = Stem;
-},
-{
-place = "{288, 100}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{-240, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{-8, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = "{-8, 164}";
-type = Stem;
-},
-{
-place = "{90, 215}";
-type = Stem;
-}
-);
-layerId = "FA792B6B-505C-4DC3-9C40-F9BEDA01661E";
-paths = (
-{
-closed = 1;
-nodes = (
-"144 -160 LINE",
-"132 -240 LINE",
-"155 -248 OFFCURVE",
-"184 -252 OFFCURVE",
-"220 -252 CURVE SMOOTH",
-"304 -252 OFFCURVE",
-"388 -216 OFFCURVE",
-"388 -128 CURVE SMOOTH",
-"388 -76 OFFCURVE",
-"352 -44 OFFCURVE",
-"300 -32 CURVE",
-"305 -8 LINE",
-"312 -8 LINE SMOOTH",
-"360 -8 OFFCURVE",
-"392 -2 OFFCURVE",
-"428 8 CURVE",
-"460 172 LINE",
-"448 172 LINE",
-"428 162 OFFCURVE",
-"404 156 OFFCURVE",
-"380 156 CURVE SMOOTH",
-"329 156 OFFCURVE",
-"305 180 OFFCURVE",
-"305 216 CURVE SMOOTH",
-"305 223 OFFCURVE",
-"306 235 OFFCURVE",
-"308 244 CURVE SMOOTH",
-"335 388 LINE",
-"476 388 LINE",
-"508 548 LINE",
-"366 548 LINE",
-"392 680 LINE",
-"182 680 LINE",
-"156 548 LINE",
-"64 548 LINE",
-"32 388 LINE",
-"125 388 LINE",
-"98 248 LINE SMOOTH",
-"93 222 OFFCURVE",
-"90 198 OFFCURVE",
-"90 176 CURVE SMOOTH",
-"89 73 OFFCURVE",
-"141 19 OFFCURVE",
-"226 0 CURVE",
-"204 -92 LINE",
-"264 -92 OFFCURVE",
-"288 -104 OFFCURVE",
-"288 -132 CURVE SMOOTH",
-"288 -156 OFFCURVE",
-"272 -172 OFFCURVE",
-"224 -172 CURVE SMOOTH",
-"196 -172 OFFCURVE",
-"171 -168 OFFCURVE",
-"148 -160 CURVE"
-);
-}
-);
-width = 500;
-}
-);
-leftKerningGroup = t;
-note = uni021B;
-rightKerningGroup = t;
-unicode = 021B;
-},
-{
-glyphname = tcommaaccent;
-lastChange = "2018-11-27 11:12:04 +0000";
+lastChange = "2018-12-11 15:40:04 +0000";
 layers = (
 {
 background = {
@@ -183946,7 +183201,7 @@ width = 500;
 leftKerningGroup = t;
 note = tcommaaccent;
 rightKerningGroup = t;
-unicode = 0163;
+unicode = 021B;
 },
 {
 glyphname = tcaron;
@@ -195050,6 +194305,236 @@ leftMetricsKey = H;
 unicode = 1E9E;
 },
 {
+glyphname = Tcedilla;
+lastChange = "2018-12-11 15:45:22 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"86 636 LINE",
+"317 636 LINE",
+"194 0 LINE",
+"214 0 LINE",
+"192 -92 LINE",
+"252 -92 OFFCURVE",
+"284 -108 OFFCURVE",
+"284 -136 CURVE SMOOTH",
+"284 -168 OFFCURVE",
+"261 -184 OFFCURVE",
+"208 -184 CURVE SMOOTH",
+"176 -184 OFFCURVE",
+"156 -180 OFFCURVE",
+"132 -168 CURVE",
+"128 -168 LINE",
+"116 -232 LINE",
+"140 -242 OFFCURVE",
+"168 -248 OFFCURVE",
+"208 -248 CURVE SMOOTH",
+"284 -248 OFFCURVE",
+"356 -219 OFFCURVE",
+"356 -132 CURVE SMOOTH",
+"356 -88 OFFCURVE",
+"324 -47 OFFCURVE",
+"266 -40 CURVE",
+"274 0 LINE",
+"290 0 LINE",
+"413 636 LINE",
+"646 636 LINE",
+"662 720 LINE",
+"102 720 LINE"
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = "{-248, 64}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{636, 84}";
+type = Stem;
+},
+{
+place = "{284, 72}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-232, 21}";
+target = up;
+type = BottomGhost;
+}
+);
+layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";
+paths = (
+{
+closed = 1;
+nodes = (
+"86 636 LINE",
+"317 636 LINE",
+"194 0 LINE",
+"214 0 LINE",
+"192 -92 LINE",
+"252 -92 OFFCURVE",
+"284 -108 OFFCURVE",
+"284 -136 CURVE SMOOTH",
+"284 -168 OFFCURVE",
+"261 -184 OFFCURVE",
+"208 -184 CURVE SMOOTH",
+"176 -184 OFFCURVE",
+"156 -180 OFFCURVE",
+"132 -168 CURVE",
+"128 -168 LINE",
+"116 -232 LINE",
+"140 -242 OFFCURVE",
+"168 -248 OFFCURVE",
+"208 -248 CURVE SMOOTH",
+"284 -248 OFFCURVE",
+"356 -219 OFFCURVE",
+"356 -132 CURVE SMOOTH",
+"356 -88 OFFCURVE",
+"324 -47 OFFCURVE",
+"266 -40 CURVE",
+"274 0 LINE",
+"290 0 LINE",
+"413 636 LINE",
+"646 636 LINE",
+"662 720 LINE",
+"102 720 LINE"
+);
+}
+);
+width = 584;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"76 536 LINE",
+"279 536 LINE",
+"178 0 LINE",
+"242 0 LINE",
+"220 -92 LINE",
+"280 -92 OFFCURVE",
+"304 -104 OFFCURVE",
+"304 -132 CURVE SMOOTH",
+"304 -156 OFFCURVE",
+"288 -172 OFFCURVE",
+"240 -172 CURVE SMOOTH",
+"212 -172 OFFCURVE",
+"187 -168 OFFCURVE",
+"164 -160 CURVE",
+"160 -160 LINE",
+"148 -240 LINE",
+"171 -248 OFFCURVE",
+"200 -252 OFFCURVE",
+"236 -252 CURVE SMOOTH",
+"320 -252 OFFCURVE",
+"404 -216 OFFCURVE",
+"404 -128 CURVE SMOOTH",
+"404 -76 OFFCURVE",
+"368 -44 OFFCURVE",
+"316 -32 CURVE",
+"323 0 LINE",
+"390 0 LINE",
+"491 536 LINE",
+"692 536 LINE",
+"726 720 LINE",
+"110 720 LINE"
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = "{-240, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{536, 184}";
+type = Stem;
+},
+{
+place = "{304, 100}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-252, 80}";
+type = Stem;
+}
+);
+layerId = "FA792B6B-505C-4DC3-9C40-F9BEDA01661E";
+paths = (
+{
+closed = 1;
+nodes = (
+"76 536 LINE",
+"279 536 LINE",
+"178 0 LINE",
+"242 0 LINE",
+"220 -92 LINE",
+"280 -92 OFFCURVE",
+"304 -104 OFFCURVE",
+"304 -132 CURVE SMOOTH",
+"304 -156 OFFCURVE",
+"288 -172 OFFCURVE",
+"240 -172 CURVE SMOOTH",
+"212 -172 OFFCURVE",
+"187 -168 OFFCURVE",
+"164 -160 CURVE",
+"160 -160 LINE",
+"148 -240 LINE",
+"171 -248 OFFCURVE",
+"200 -252 OFFCURVE",
+"236 -252 CURVE SMOOTH",
+"320 -252 OFFCURVE",
+"404 -216 OFFCURVE",
+"404 -128 CURVE SMOOTH",
+"404 -76 OFFCURVE",
+"368 -44 OFFCURVE",
+"316 -32 CURVE",
+"323 0 LINE",
+"390 0 LINE",
+"491 536 LINE",
+"692 536 LINE",
+"726 720 LINE",
+"110 720 LINE"
+);
+}
+);
+width = 656;
+}
+);
+leftKerningGroup = T;
+note = uni021A;
+rightKerningGroup = T;
+unicode = 0162;
+},
+{
 glyphname = Tdotbelow;
 lastChange = "2018-11-29 14:07:27 +0000";
 layers = (
@@ -197937,6 +197422,350 @@ note = uni1E63;
 unicode = 1E63;
 },
 {
+glyphname = tcedilla;
+lastChange = "2018-12-11 15:38:19 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"114 -168 LINE",
+"102 -232 LINE",
+"126 -242 OFFCURVE",
+"154 -248 OFFCURVE",
+"194 -248 CURVE SMOOTH",
+"270 -248 OFFCURVE",
+"342 -219 OFFCURVE",
+"342 -132 CURVE SMOOTH",
+"342 -88 OFFCURVE",
+"310 -47 OFFCURVE",
+"252 -40 CURVE",
+"259 -8 LINE",
+"294 -7 OFFCURVE",
+"326 -1 OFFCURVE",
+"348 8 CURVE",
+"360 88 LINE",
+"352 88 LINE",
+"330 78 OFFCURVE",
+"304 72 OFFCURVE",
+"276 72 CURVE SMOOTH",
+"212 72 OFFCURVE",
+"188 100 OFFCURVE",
+"188 144 CURVE SMOOTH",
+"188 152 OFFCURVE",
+"189 167 OFFCURVE",
+"192 180 CURVE",
+"247 464 LINE",
+"404 464 LINE",
+"420 544 LINE",
+"263 544 LINE",
+"292 692 LINE",
+"200 692 LINE",
+"171 544 LINE",
+"88 544 LINE",
+"72 464 LINE",
+"155 464 LINE",
+"100 180 LINE SMOOTH",
+"97 165 OFFCURVE",
+"96 148 OFFCURVE",
+"96 136 CURVE SMOOTH",
+"96 62 OFFCURVE",
+"133 14 OFFCURVE",
+"200 -2 CURVE",
+"178 -92 LINE",
+"238 -92 OFFCURVE",
+"270 -108 OFFCURVE",
+"270 -136 CURVE SMOOTH",
+"270 -168 OFFCURVE",
+"247 -184 OFFCURVE",
+"194 -184 CURVE SMOOTH",
+"162 -184 OFFCURVE",
+"142 -180 OFFCURVE",
+"118 -168 CURVE"
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = "{-248, 64}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-2, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{464, 80}";
+type = Stem;
+},
+{
+place = "{96, 92}";
+type = Stem;
+},
+{
+place = "{270, 72}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-232, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{-8, 80}";
+type = Stem;
+}
+);
+layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";
+paths = (
+{
+closed = 1;
+nodes = (
+"114 -168 LINE",
+"102 -232 LINE",
+"126 -242 OFFCURVE",
+"154 -248 OFFCURVE",
+"194 -248 CURVE SMOOTH",
+"270 -248 OFFCURVE",
+"342 -219 OFFCURVE",
+"342 -132 CURVE SMOOTH",
+"342 -88 OFFCURVE",
+"310 -47 OFFCURVE",
+"252 -40 CURVE",
+"259 -8 LINE",
+"294 -7 OFFCURVE",
+"326 -1 OFFCURVE",
+"348 8 CURVE",
+"360 88 LINE",
+"352 88 LINE",
+"330 78 OFFCURVE",
+"304 72 OFFCURVE",
+"276 72 CURVE SMOOTH",
+"212 72 OFFCURVE",
+"188 100 OFFCURVE",
+"188 144 CURVE SMOOTH",
+"188 152 OFFCURVE",
+"189 167 OFFCURVE",
+"192 180 CURVE",
+"247 464 LINE",
+"404 464 LINE",
+"420 544 LINE",
+"263 544 LINE",
+"292 692 LINE",
+"200 692 LINE",
+"171 544 LINE",
+"88 544 LINE",
+"72 464 LINE",
+"155 464 LINE",
+"100 180 LINE SMOOTH",
+"97 165 OFFCURVE",
+"96 148 OFFCURVE",
+"96 136 CURVE SMOOTH",
+"96 62 OFFCURVE",
+"133 14 OFFCURVE",
+"200 -2 CURVE",
+"178 -92 LINE",
+"238 -92 OFFCURVE",
+"270 -108 OFFCURVE",
+"270 -136 CURVE SMOOTH",
+"270 -168 OFFCURVE",
+"247 -184 OFFCURVE",
+"194 -184 CURVE SMOOTH",
+"162 -184 OFFCURVE",
+"142 -180 OFFCURVE",
+"118 -168 CURVE"
+);
+}
+);
+width = 412;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"144 -160 LINE",
+"132 -240 LINE",
+"155 -248 OFFCURVE",
+"184 -252 OFFCURVE",
+"220 -252 CURVE SMOOTH",
+"304 -252 OFFCURVE",
+"388 -216 OFFCURVE",
+"388 -128 CURVE SMOOTH",
+"388 -76 OFFCURVE",
+"352 -44 OFFCURVE",
+"300 -32 CURVE",
+"305 -8 LINE",
+"312 -8 LINE SMOOTH",
+"360 -8 OFFCURVE",
+"392 -2 OFFCURVE",
+"428 8 CURVE",
+"460 172 LINE",
+"448 172 LINE",
+"428 162 OFFCURVE",
+"404 156 OFFCURVE",
+"380 156 CURVE SMOOTH",
+"329 156 OFFCURVE",
+"305 180 OFFCURVE",
+"305 216 CURVE SMOOTH",
+"305 223 OFFCURVE",
+"306 235 OFFCURVE",
+"308 244 CURVE SMOOTH",
+"335 388 LINE",
+"476 388 LINE",
+"508 548 LINE",
+"366 548 LINE",
+"392 680 LINE",
+"182 680 LINE",
+"156 548 LINE",
+"64 548 LINE",
+"32 388 LINE",
+"125 388 LINE",
+"98 248 LINE SMOOTH",
+"93 222 OFFCURVE",
+"90 198 OFFCURVE",
+"90 176 CURVE SMOOTH",
+"89 73 OFFCURVE",
+"141 19 OFFCURVE",
+"226 0 CURVE",
+"204 -92 LINE",
+"264 -92 OFFCURVE",
+"288 -104 OFFCURVE",
+"288 -132 CURVE SMOOTH",
+"288 -156 OFFCURVE",
+"272 -172 OFFCURVE",
+"224 -172 CURVE SMOOTH",
+"196 -172 OFFCURVE",
+"171 -168 OFFCURVE",
+"148 -160 CURVE"
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = "{-252, 80}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{388, 160}";
+type = Stem;
+},
+{
+place = "{288, 100}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-240, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{-8, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{-8, 164}";
+type = Stem;
+},
+{
+place = "{90, 215}";
+type = Stem;
+}
+);
+layerId = "FA792B6B-505C-4DC3-9C40-F9BEDA01661E";
+paths = (
+{
+closed = 1;
+nodes = (
+"144 -160 LINE",
+"132 -240 LINE",
+"155 -248 OFFCURVE",
+"184 -252 OFFCURVE",
+"220 -252 CURVE SMOOTH",
+"304 -252 OFFCURVE",
+"388 -216 OFFCURVE",
+"388 -128 CURVE SMOOTH",
+"388 -76 OFFCURVE",
+"352 -44 OFFCURVE",
+"300 -32 CURVE",
+"305 -8 LINE",
+"312 -8 LINE SMOOTH",
+"360 -8 OFFCURVE",
+"392 -2 OFFCURVE",
+"428 8 CURVE",
+"460 172 LINE",
+"448 172 LINE",
+"428 162 OFFCURVE",
+"404 156 OFFCURVE",
+"380 156 CURVE SMOOTH",
+"329 156 OFFCURVE",
+"305 180 OFFCURVE",
+"305 216 CURVE SMOOTH",
+"305 223 OFFCURVE",
+"306 235 OFFCURVE",
+"308 244 CURVE SMOOTH",
+"335 388 LINE",
+"476 388 LINE",
+"508 548 LINE",
+"366 548 LINE",
+"392 680 LINE",
+"182 680 LINE",
+"156 548 LINE",
+"64 548 LINE",
+"32 388 LINE",
+"125 388 LINE",
+"98 248 LINE SMOOTH",
+"93 222 OFFCURVE",
+"90 198 OFFCURVE",
+"90 176 CURVE SMOOTH",
+"89 73 OFFCURVE",
+"141 19 OFFCURVE",
+"226 0 CURVE",
+"204 -92 LINE",
+"264 -92 OFFCURVE",
+"288 -104 OFFCURVE",
+"288 -132 CURVE SMOOTH",
+"288 -156 OFFCURVE",
+"272 -172 OFFCURVE",
+"224 -172 CURVE SMOOTH",
+"196 -172 OFFCURVE",
+"171 -168 OFFCURVE",
+"148 -160 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+leftKerningGroup = t;
+note = uni021B;
+rightKerningGroup = t;
+unicode = 0163;
+},
+{
 glyphname = tdotbelow;
 lastChange = "2018-11-29 14:07:27 +0000";
 layers = (
@@ -200807,6 +200636,259 @@ width = 605;
 }
 );
 note = uni1E92.sc;
+},
+{
+glyphname = idotless.sc;
+lastChange = "2018-12-11 15:47:54 +0000";
+layers = (
+{
+components = (
+{
+name = i.sc;
+}
+);
+layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";
+width = 284;
+},
+{
+components = (
+{
+name = i.sc;
+}
+);
+layerId = "FA792B6B-505C-4DC3-9C40-F9BEDA01661E";
+width = 336;
+}
+);
+},
+{
+glyphname = tcedilla.sc;
+lastChange = "2018-12-11 15:41:20 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"74 492 LINE",
+"270 492 LINE",
+"174 0 LINE",
+"191 0 LINE",
+"169 -92 LINE",
+"229 -92 OFFCURVE",
+"261 -108 OFFCURVE",
+"261 -136 CURVE SMOOTH",
+"261 -168 OFFCURVE",
+"238 -184 OFFCURVE",
+"185 -184 CURVE SMOOTH",
+"153 -184 OFFCURVE",
+"133 -180 OFFCURVE",
+"109 -168 CURVE",
+"105 -168 LINE",
+"93 -232 LINE",
+"117 -242 OFFCURVE",
+"145 -248 OFFCURVE",
+"185 -248 CURVE SMOOTH",
+"261 -248 OFFCURVE",
+"333 -219 OFFCURVE",
+"333 -132 CURVE SMOOTH",
+"333 -88 OFFCURVE",
+"301 -47 OFFCURVE",
+"243 -40 CURVE",
+"252 0 LINE",
+"266 0 LINE",
+"362 492 LINE",
+"558 492 LINE",
+"574 572 LINE",
+"90 572 LINE"
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = "{-248, 64}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{492, 80}";
+type = Stem;
+},
+{
+place = "{261, 72}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-232, 21}";
+target = up;
+type = BottomGhost;
+}
+);
+layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";
+paths = (
+{
+closed = 1;
+nodes = (
+"74 492 LINE",
+"270 492 LINE",
+"174 0 LINE",
+"191 0 LINE",
+"169 -92 LINE",
+"229 -92 OFFCURVE",
+"261 -108 OFFCURVE",
+"261 -136 CURVE SMOOTH",
+"261 -168 OFFCURVE",
+"238 -184 OFFCURVE",
+"185 -184 CURVE SMOOTH",
+"153 -184 OFFCURVE",
+"133 -180 OFFCURVE",
+"109 -168 CURVE",
+"105 -168 LINE",
+"93 -232 LINE",
+"117 -242 OFFCURVE",
+"145 -248 OFFCURVE",
+"185 -248 CURVE SMOOTH",
+"261 -248 OFFCURVE",
+"333 -219 OFFCURVE",
+"333 -132 CURVE SMOOTH",
+"333 -88 OFFCURVE",
+"301 -47 OFFCURVE",
+"243 -40 CURVE",
+"252 0 LINE",
+"266 0 LINE",
+"362 492 LINE",
+"558 492 LINE",
+"574 572 LINE",
+"90 572 LINE"
+);
+}
+);
+width = 540;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"54 412 LINE",
+"222 412 LINE",
+"144 0 LINE",
+"216 0 LINE",
+"194 -92 LINE",
+"254 -92 OFFCURVE",
+"278 -104 OFFCURVE",
+"278 -132 CURVE SMOOTH",
+"278 -156 OFFCURVE",
+"262 -172 OFFCURVE",
+"214 -172 CURVE SMOOTH",
+"186 -172 OFFCURVE",
+"161 -168 OFFCURVE",
+"138 -160 CURVE",
+"134 -160 LINE",
+"122 -240 LINE",
+"145 -248 OFFCURVE",
+"174 -252 OFFCURVE",
+"210 -252 CURVE SMOOTH",
+"294 -252 OFFCURVE",
+"378 -216 OFFCURVE",
+"378 -128 CURVE SMOOTH",
+"378 -76 OFFCURVE",
+"342 -44 OFFCURVE",
+"290 -32 CURVE",
+"297 0 LINE",
+"352 0 LINE",
+"430 412 LINE",
+"596 412 LINE",
+"628 572 LINE",
+"85 572 LINE"
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = "{-240, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{412, 160}";
+type = Stem;
+},
+{
+place = "{278, 100}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-252, 80}";
+type = Stem;
+}
+);
+layerId = "FA792B6B-505C-4DC3-9C40-F9BEDA01661E";
+paths = (
+{
+closed = 1;
+nodes = (
+"54 412 LINE",
+"222 412 LINE",
+"144 0 LINE",
+"216 0 LINE",
+"194 -92 LINE",
+"254 -92 OFFCURVE",
+"278 -104 OFFCURVE",
+"278 -132 CURVE SMOOTH",
+"278 -156 OFFCURVE",
+"262 -172 OFFCURVE",
+"214 -172 CURVE SMOOTH",
+"186 -172 OFFCURVE",
+"161 -168 OFFCURVE",
+"138 -160 CURVE",
+"134 -160 LINE",
+"122 -240 LINE",
+"145 -248 OFFCURVE",
+"174 -252 OFFCURVE",
+"210 -252 CURVE SMOOTH",
+"294 -252 OFFCURVE",
+"378 -216 OFFCURVE",
+"378 -128 CURVE SMOOTH",
+"378 -76 OFFCURVE",
+"342 -44 OFFCURVE",
+"290 -32 CURVE",
+"297 0 LINE",
+"352 0 LINE",
+"430 412 LINE",
+"596 412 LINE",
+"628 572 LINE",
+"85 572 LINE"
+);
+}
+);
+width = 592;
+}
+);
+leftKerningGroup = t.sc;
+note = uni021B.sc;
+rightKerningGroup = t.sc;
 },
 {
 glyphname = zeroinferior;
@@ -205450,7 +205532,7 @@ unicode = 2154;
 {
 color = 4;
 glyphname = onefifth;
-lastChange = "2018-12-10 17:10:11 +0000";
+lastChange = "2018-12-11 15:34:31 +0000";
 layers = (
 {
 background = {
@@ -206799,7 +206881,7 @@ unicode = 2158;
 {
 color = 4;
 glyphname = onesixth;
-lastChange = "2018-12-10 17:10:11 +0000";
+lastChange = "2018-12-11 15:26:09 +0000";
 layers = (
 {
 background = {
@@ -208632,7 +208714,7 @@ unicode = 215D;
 {
 color = 4;
 glyphname = seveneighths;
-lastChange = "2018-12-10 17:10:11 +0000";
+lastChange = "2018-12-11 15:45:10 +0000";
 layers = (
 {
 background = {
