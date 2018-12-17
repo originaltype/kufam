@@ -1,5 +1,34 @@
 {
 .appVersion = "1141";
+<<<<<<< Updated upstream
+=======
+DisplayStrings = (
+"/zero.tsc.zero",
+"L/Ldot",
+"j/jdotless",
+"/ldot",
+"/horizontalbar",
+"/hyphentwo",
+"/hyphentwo/figuredash",
+"/commaturnedmod",
+"/iogonek",
+"/apostrophemod/napostrophe",
+"/gravecomb.case/acutecomb.case/circumflexcomb.case/tildecomb.case/macroncomb.case/brevecomb.case/dotaccentcomb.case/dieresiscomb.case/hookabovecomb.case/ringcomb.case/hungarumlautcomb.case/caroncomb.case/breveinvertedcomb.case/dblgravecomb.case",
+"/exclamdown.case",
+"/section.sc",
+"/strokeshortcomb.case Ð/Tbar",
+"/acutecomb aá/ringcomb/ringcomb/aringacute/aeacute/cacute éí/nacute ó/oslashacute/racute/sacute ú/wacute ý/zacute ´/abreveacute/acircumflexacute/ecircumflexacute/ocircumflexacute/ohornacute/uhornacute/acutecomb.case/ccedillaacute/emacronacute/idieresisacute/otildeacute/omacronacute/sacutedotaccent/utildeacute/aacute.sc/abreveacute.sc/acircumflexacute.sc/aringacute.sc/aeacute.sc/cacute.sc/eacute.sc/ecircumflexacute.sc/iacute.sc/lacute.sc/nacute.sc/oacute.sc/ocircumflexacute.sc/ohornacute.sc/oslashacute.sc/racute.sc/sacute.sc/uacute.sc/uhornacute.sc/ccedillaacute.sc/emacronacute.sc/idieresisacute.sc/otildeacute.sc/omacronacute.sc/sacutedotaccent.sc/utildeacute.sc/wacute.sc/yacute.sc/zacute.sc",
+"/foursuperior",
+"/ihookabove.sc",
+"/germandbls.sc",
+"/abrevehookabove/abrevehookabove.sc",
+"/j.sc",
+"/dblgravecomb/adblgrave/edblgrave/idblgrave/odblgrave/rdblgrave/udblgrave/dblgravecomb.case/adblgrave.sc/edblgrave.sc/idblgrave.sc/odblgrave.sc/rdblgrave.sc/udblgrave.sc/idblgrave.sc",
+"/e.sc/cedillacomb/ecedillabreve.sc",
+"³",
+"/cedillacomb.case/Tcedilla"
+);
+>>>>>>> Stashed changes
 classes = (
 {
 automatic = 1;
@@ -18169,7 +18198,11 @@ unicode = 01FA;
 {
 color = 5;
 glyphname = aringacute;
+<<<<<<< HEAD
 lastChange = "2018-12-17 22:27:41 +0000";
+=======
+lastChange = "2018-12-17 21:38:44 +0000";
+>>>>>>> 95e2e4cccfdf1ac880085810e502108cb70c629d
 layers = (
 {
 components = (
