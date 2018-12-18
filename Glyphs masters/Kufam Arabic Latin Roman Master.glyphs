@@ -1,13 +1,5 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-"«",
-"»",
-"/foursuperior",
-"µ",
-"t/tcaron",
-"C/Cacute/Ccircumflex/Ccaron/Cdotaccent Ç/cedi/Ccedillaacute"
-);
 classes = (
 {
 automatic = 1;
@@ -75150,6 +75142,149 @@ width = 632;
 }
 );
 unicode = 20BA;
+},
+{
+glyphname = manat;
+lastChange = "2018-12-18 13:22:14 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"508 -12 OFFCURVE",
+"584 144 OFFCURVE",
+"584 360 CURVE SMOOTH",
+"584 576 OFFCURVE",
+"508 732 OFFCURVE",
+"328 732 CURVE SMOOTH",
+"148 732 OFFCURVE",
+"72 576 OFFCURVE",
+"72 360 CURVE SMOOTH",
+"72 144 OFFCURVE",
+"148 -12 OFFCURVE",
+"328 -12 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"216 72 OFFCURVE",
+"168 172 OFFCURVE",
+"168 360 CURVE SMOOTH",
+"168 548 OFFCURVE",
+"216 648 OFFCURVE",
+"328 648 CURVE SMOOTH",
+"440 648 OFFCURVE",
+"488 548 OFFCURVE",
+"488 360 CURVE SMOOTH",
+"488 172 OFFCURVE",
+"440 72 OFFCURVE",
+"328 72 CURVE SMOOTH"
+);
+}
+);
+};
+color = 4;
+hints = (
+{
+horizontal = 1;
+place = "{-12, 84}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{648, 84}";
+type = Stem;
+},
+{
+place = "{52, 96}";
+type = Stem;
+},
+{
+place = "{468, 96}";
+type = Stem;
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+paths = (
+{
+closed = 1;
+nodes = (
+"156 0 LINE",
+"156 260 LINE SMOOTH",
+"156 468 OFFCURVE",
+"192 568 OFFCURVE",
+"328 568 CURVE SMOOTH",
+"464 568 OFFCURVE",
+"500 468 OFFCURVE",
+"500 260 CURVE SMOOTH",
+"500 0 LINE",
+"596 0 LINE",
+"596 260 LINE SMOOTH",
+"596 516 OFFCURVE",
+"520 652 OFFCURVE",
+"328 652 CURVE SMOOTH",
+"136 652 OFFCURVE",
+"60 516 OFFCURVE",
+"60 260 CURVE SMOOTH",
+"60 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"372 102 LINE",
+"372 732 LINE",
+"288 732 LINE",
+"288 102 LINE"
+);
+}
+);
+width = 656;
+},
+{
+color = 4;
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+paths = (
+{
+closed = 1;
+nodes = (
+"216 0 LINE",
+"216 292 LINE SMOOTH",
+"216 432 OFFCURVE",
+"252 508 OFFCURVE",
+"348 508 CURVE SMOOTH",
+"444 508 OFFCURVE",
+"480 432 OFFCURVE",
+"480 292 CURVE SMOOTH",
+"480 0 LINE",
+"656 0 LINE",
+"656 260 LINE SMOOTH",
+"656 516 OFFCURVE",
+"580 652 OFFCURVE",
+"348 652 CURVE SMOOTH",
+"116 652 OFFCURVE",
+"40 516 OFFCURVE",
+"40 260 CURVE SMOOTH",
+"40 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 102 LINE",
+"420 732 LINE",
+"280 732 LINE",
+"280 102 LINE"
+);
+}
+);
+width = 696;
+}
+);
+unicode = 20BC;
 },
 {
 glyphname = ruble;
