@@ -11,7 +11,7 @@ Some notes and info that can be useful during the development.
 - (G) Check and extend kerning groups to new glyphs
 - (G) Write proper OT features
 - (A) Check diacritics aligning
-- (A) Remove old postcript hints
+- (A) `√` Remove old postcript hints
 - (G) Set font info and custom parameters (PS autohint, vertical metrics, etc )
 - (G) Last roman vs italics consistency checks
 - (G) Revision of generated binaries
