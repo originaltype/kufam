@@ -3,19 +3,18 @@
 Some notes and info that can be useful during the development.
 
 # To-do List
-- Fill empty glyphs cells
+- (A) Fill empty glyphs cells
     + romans: `emptyset commaturnedmod ringhalfright ringhalfleft verticallinemod secondtonechinese fourthtonechinese verticallinelowmod primemod second`
     + italics: `emptyset commaturnedmod ringhalfright ringhalfleft verticallinemod secondtonechinese fourthtonechinese verticallinelowmod primemod second`
-- Add `IJ.loclNLD` and others
-- Define Glyph Order
-- Check and extend kerning groups to new glyphs
-- Write proper OT features
-- Check diacritics aligning
-- Remove old postcript hints
-- Set font info and custom parameters (PS autohint, vertical metrics, etc )
-- Define glyph order
-- Last roman vs italics consistency checks
-- Revision of generated binaries
+- (A) Add `IJ.loclNLD` and others
+- (A) Define Glyph Order
+- (G) Check and extend kerning groups to new glyphs
+- (G) Write proper OT features
+- (A) Check diacritics aligning
+- (A) Remove old postcript hints
+- (G) Set font info and custom parameters (PS autohint, vertical metrics, etc )
+- (G) Last roman vs italics consistency checks
+- (G) Revision of generated binaries
 
 
 ### Thursday December 13 | Commit c73de2a
