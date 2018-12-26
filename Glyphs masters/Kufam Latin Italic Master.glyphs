@@ -25483,7 +25483,7 @@ unicode = 0130;
 {
 color = 5;
 glyphname = idotaccent;
-lastChange = "2018-12-26 17:48:17 +0000";
+lastChange = "2018-12-26 21:37:12 +0000";
 layers = (
 {
 components = (
@@ -25491,8 +25491,8 @@ components = (
 name = idotless;
 },
 {
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, -161, 0}";
+name = _part.dot;
+transform = "{1, 0, 0, 1, -3, 0}";
 }
 );
 layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";
@@ -25504,8 +25504,8 @@ components = (
 name = idotless;
 },
 {
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, -165, 0}";
+name = _part.dot;
+transform = "{1, 0, 0, 1, -4, 0}";
 }
 );
 layerId = "FA792B6B-505C-4DC3-9C40-F9BEDA01661E";
@@ -25554,7 +25554,7 @@ unicode = 1ECA;
 {
 color = 5;
 glyphname = idotbelow;
-lastChange = "2018-12-26 17:48:17 +0000";
+lastChange = "2018-12-26 21:37:28 +0000";
 layers = (
 {
 components = (
