@@ -67,7 +67,7 @@ code = "cent.lf\012currency.lf\012dollar.lf\012euro.lf\012florin.lf\012sterling.
 name = PropLiningCurrency;
 }
 );
-copyright = "Copyright (c) 2018 by Artur Schmal. All rights reserved.";
+copyright = "Copyright © 2018 by Artur Schmal. All rights reserved.";
 customParameters = (
 {
 name = glyphOrder;
@@ -1124,7 +1124,6 @@ value = 5;
 {
 name = fsType;
 value = (
-2
 );
 },
 {
@@ -1142,6 +1141,10 @@ value = (
 "{-232, -8}",
 "{-256, -4}"
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 },
 {
 name = unicodeRanges;
@@ -1163,6 +1166,14 @@ value = (
 );
 },
 {
+name = codePageRanges;
+value = (
+1252,
+1250,
+850
+);
+},
+{
 name = description;
 value = "ADD DESCRIPTION";
 },
@@ -1171,15 +1182,19 @@ name = vendorID;
 value = "????";
 },
 {
-name = trademark;
-value = "© Copyright 2018 by Original Type";
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
-name = "Use Typo Metrics";
-value = 1;
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "© Copyright 2018 by Original Type";
 }
 );
-date = "2018-11-30 00:34:30 +0000";
+date = "2018-12-28 13:40:30 +0000";
 designer = "Artur Schmal";
 designerURL = "http://www.originaltype.com";
 familyName = Kufam;
@@ -160125,6 +160140,7 @@ backslash = -56;
 };
 };
 };
+manufacturer = "Original Type";
 manufacturerURL = "http://www.originaltype.com";
 unitsPerEm = 1000;
 versionMajor = 1;

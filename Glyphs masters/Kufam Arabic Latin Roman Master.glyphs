@@ -1,8 +1,5 @@
 {
 .appVersion = "1192";
-DisplayStrings = (
-"/o.sc \012×\012/zeroinferior \012/rightWhiteTriangle \012/whiteDiamond \012/multiply.sc \012/infinity.sc \012/perthousand.sc \012"
-);
 classes = (
 {
 automatic = 1;
@@ -1123,7 +1120,6 @@ value = 5;
 {
 name = fsType;
 value = (
-2
 );
 },
 {
@@ -1141,6 +1137,10 @@ value = (
 "{-232, -8}",
 "{-256, -4}"
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 },
 {
 name = unicodeRanges;
@@ -1162,6 +1162,16 @@ value = (
 );
 },
 {
+name = codePageRanges;
+value = (
+1252,
+1250,
+1256,
+864,
+850
+);
+},
+{
 name = description;
 value = "ADD DESCRIPTION";
 },
@@ -1170,15 +1180,19 @@ name = vendorID;
 value = "????";
 },
 {
-name = trademark;
-value = "© Copyright 2018 by Original Type";
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
-name = "Use Typo Metrics";
-value = 1;
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "© Copyright 2018 by Original Type";
 }
 );
-date = "2018-12-27 18:49:13 +0000";
+date = "2018-12-28 13:39:46 +0000";
 designer = "Wael Morcos & Artur Schmal";
 familyName = "Kufam Arabic Latin Roman";
 featurePrefixes = (
