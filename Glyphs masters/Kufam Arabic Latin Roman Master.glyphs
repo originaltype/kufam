@@ -96149,7 +96149,7 @@ rightKerningGroup = u.sc;
 },
 {
 glyphname = a.dnom;
-lastChange = "2018-12-26 18:55:08 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -96217,6 +96217,7 @@ components = (
 {
 alignment = -1;
 name = a.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -96288,6 +96289,7 @@ components = (
 {
 alignment = -1;
 name = a.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -96300,7 +96302,7 @@ rightMetricsKey = a.inferior;
 },
 {
 glyphname = b.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -96361,6 +96363,7 @@ components = (
 {
 alignment = -1;
 name = b.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -96425,6 +96428,7 @@ components = (
 {
 alignment = -1;
 name = b.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -96437,7 +96441,7 @@ rightMetricsKey = b.inferior;
 },
 {
 glyphname = c.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -96482,6 +96486,7 @@ components = (
 {
 alignment = -1;
 name = c.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -96530,6 +96535,7 @@ components = (
 {
 alignment = -1;
 name = c.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -96542,7 +96548,7 @@ rightMetricsKey = c.inferior;
 },
 {
 glyphname = d.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -96602,6 +96608,7 @@ components = (
 {
 alignment = -1;
 name = d.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -96665,6 +96672,7 @@ components = (
 {
 alignment = -1;
 name = d.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -96677,7 +96685,7 @@ rightMetricsKey = d.inferior;
 },
 {
 glyphname = e.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -96729,6 +96737,7 @@ components = (
 {
 alignment = -1;
 name = e.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -96784,6 +96793,7 @@ components = (
 {
 alignment = -1;
 name = e.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -96796,7 +96806,7 @@ rightMetricsKey = e.inferior;
 },
 {
 glyphname = f.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -96836,6 +96846,7 @@ components = (
 {
 alignment = -1;
 name = f.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -96879,6 +96890,7 @@ components = (
 {
 alignment = -1;
 name = f.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -96891,7 +96903,7 @@ rightMetricsKey = f.inferior;
 },
 {
 glyphname = g.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -96960,6 +96972,7 @@ components = (
 {
 alignment = -1;
 name = g.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97032,6 +97045,7 @@ components = (
 {
 alignment = -1;
 name = g.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97044,7 +97058,7 @@ rightMetricsKey = g.inferior;
 },
 {
 glyphname = h.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97085,6 +97099,7 @@ components = (
 {
 alignment = -1;
 name = h.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97129,6 +97144,7 @@ components = (
 {
 alignment = -1;
 name = h.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97141,7 +97157,7 @@ rightMetricsKey = h.inferior;
 },
 {
 glyphname = i.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97183,6 +97199,7 @@ components = (
 {
 alignment = -1;
 name = i.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97228,6 +97245,7 @@ components = (
 {
 alignment = -1;
 name = i.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97240,7 +97258,7 @@ rightMetricsKey = i.inferior;
 },
 {
 glyphname = j.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97295,6 +97313,7 @@ components = (
 {
 alignment = -1;
 name = j.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97353,6 +97372,7 @@ components = (
 {
 alignment = -1;
 name = j.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97365,7 +97385,7 @@ rightMetricsKey = j.inferior;
 },
 {
 glyphname = k.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97405,6 +97425,7 @@ components = (
 {
 alignment = -1;
 name = k.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97448,6 +97469,7 @@ components = (
 {
 alignment = -1;
 name = k.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97460,7 +97482,7 @@ rightMetricsKey = k.inferior;
 },
 {
 glyphname = l.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97485,6 +97507,7 @@ components = (
 {
 alignment = -1;
 name = l.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97513,6 +97536,7 @@ components = (
 {
 alignment = -1;
 name = l.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97525,7 +97549,7 @@ rightMetricsKey = l.inferior;
 },
 {
 glyphname = m.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97585,6 +97609,7 @@ components = (
 {
 alignment = -1;
 name = m.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97648,6 +97673,7 @@ components = (
 {
 alignment = -1;
 name = m.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97660,7 +97686,7 @@ rightMetricsKey = m.inferior;
 },
 {
 glyphname = n.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97702,6 +97728,7 @@ components = (
 {
 alignment = -1;
 name = n.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97747,6 +97774,7 @@ components = (
 {
 alignment = -1;
 name = n.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97759,7 +97787,7 @@ rightMetricsKey = n.inferior;
 },
 {
 glyphname = o.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97805,6 +97833,7 @@ components = (
 {
 alignment = -1;
 name = o.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97854,6 +97883,7 @@ components = (
 {
 alignment = -1;
 name = o.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97866,7 +97896,7 @@ rightMetricsKey = o.inferior;
 },
 {
 glyphname = p.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -97924,6 +97954,7 @@ components = (
 {
 alignment = -1;
 name = p.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -97985,6 +98016,7 @@ components = (
 {
 alignment = -1;
 name = p.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -97997,7 +98029,7 @@ rightMetricsKey = p.inferior;
 },
 {
 glyphname = q.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98054,6 +98086,7 @@ components = (
 {
 alignment = -1;
 name = q.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98114,6 +98147,7 @@ components = (
 {
 alignment = -1;
 name = q.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98126,7 +98160,7 @@ rightMetricsKey = q.inferior;
 },
 {
 glyphname = r.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98167,6 +98201,7 @@ components = (
 {
 alignment = -1;
 name = r.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98211,6 +98246,7 @@ components = (
 {
 alignment = -1;
 name = r.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98223,7 +98259,7 @@ rightMetricsKey = r.inferior;
 },
 {
 glyphname = s.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98282,6 +98318,7 @@ components = (
 {
 alignment = -1;
 name = s.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98344,6 +98381,7 @@ components = (
 {
 alignment = -1;
 name = s.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98356,7 +98394,7 @@ rightMetricsKey = s.inferior;
 },
 {
 glyphname = t.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98398,6 +98436,7 @@ components = (
 {
 alignment = -1;
 name = t.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98443,6 +98482,7 @@ components = (
 {
 alignment = -1;
 name = t.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98455,7 +98495,7 @@ rightMetricsKey = t.inferior;
 },
 {
 glyphname = u.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98505,6 +98545,7 @@ components = (
 {
 alignment = -1;
 name = u.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98558,6 +98599,7 @@ components = (
 {
 alignment = -1;
 name = u.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98570,7 +98612,7 @@ rightMetricsKey = u.inferior;
 },
 {
 glyphname = v.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98596,6 +98638,7 @@ components = (
 {
 alignment = -1;
 name = v.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98625,6 +98668,7 @@ components = (
 {
 alignment = -1;
 name = v.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98637,7 +98681,7 @@ rightMetricsKey = v.inferior;
 },
 {
 glyphname = w.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98669,6 +98713,7 @@ components = (
 {
 alignment = -1;
 name = w.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98704,6 +98749,7 @@ components = (
 {
 alignment = -1;
 name = w.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98716,7 +98762,7 @@ rightMetricsKey = w.inferior;
 },
 {
 glyphname = x.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98749,6 +98795,7 @@ components = (
 {
 alignment = -1;
 name = x.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98785,6 +98832,7 @@ components = (
 {
 alignment = -1;
 name = x.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98797,7 +98845,7 @@ rightMetricsKey = x.inferior;
 },
 {
 glyphname = y.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98825,6 +98873,7 @@ components = (
 {
 alignment = -1;
 name = y.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98856,6 +98905,7 @@ components = (
 {
 alignment = -1;
 name = y.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -98868,7 +98918,7 @@ rightMetricsKey = y.inferior;
 },
 {
 glyphname = z.dnom;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 13:53:02 +0000";
 layers = (
 {
 background = {
@@ -98913,6 +98963,7 @@ components = (
 {
 alignment = -1;
 name = z.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98961,6 +99012,7 @@ components = (
 {
 alignment = -1;
 name = z.inferior;
+transform = "{1, 0, 0, 1, 0, 160}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
