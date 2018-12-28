@@ -49283,9 +49283,15 @@ unicode = 0231;
 {
 color = 4;
 glyphname = f_f;
-lastChange = "2018-12-26 17:47:15 +0000";
+lastChange = "2018-12-28 14:35:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{466, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -49360,6 +49366,12 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 892;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{366, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -49948,9 +49960,19 @@ unicode = FB02;
 {
 color = 4;
 glyphname = f_f_i;
-lastChange = "2018-12-26 17:47:26 +0000";
+lastChange = "2018-12-28 14:35:23 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{468, 0}";
+},
+{
+name = caret_2;
+position = "{906, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -50055,6 +50077,16 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1242;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{366, 0}";
+},
+{
+name = caret_2;
+position = "{712, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -50166,9 +50198,19 @@ rightKerningGroup = d;
 {
 color = 4;
 glyphname = f_f_l;
-lastChange = "2018-12-20 21:13:43 +0000";
+lastChange = "2018-12-28 14:35:41 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{468, 0}";
+},
+{
+name = caret_2;
+position = "{913, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -50261,6 +50303,16 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1240;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{366, 0}";
+},
+{
+name = caret_2;
+position = "{725, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -93847,9 +93899,15 @@ rightMetricsKey = z.inferior;
 },
 {
 glyphname = f_b;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 14:32:09 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{483, 0}";
+}
+);
 background = {
 components = (
 {
@@ -93906,6 +93964,12 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1148;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{377, 0}";
+}
+);
 background = {
 components = (
 {
@@ -93970,9 +94034,19 @@ rightMetricsKey = b;
 },
 {
 glyphname = f_f_b;
-lastChange = "2018-12-26 17:30:49 +0000";
+lastChange = "2018-12-28 14:35:56 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{470, 0}";
+},
+{
+name = caret_2;
+position = "{917, 0}";
+}
+);
 background = {
 components = (
 {
@@ -94035,6 +94109,16 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1576;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{366, 0}";
+},
+{
+name = caret_2;
+position = "{722, 0}";
+}
+);
 background = {
 components = (
 {
@@ -94105,9 +94189,19 @@ rightMetricsKey = b;
 },
 {
 glyphname = f_f_h;
-lastChange = "2018-12-26 17:31:04 +0000";
+lastChange = "2018-12-28 14:36:07 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{470, 0}";
+},
+{
+name = caret_2;
+position = "{917, 0}";
+}
+);
 background = {
 components = (
 {
@@ -94170,6 +94264,16 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1584;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{366, 0}";
+},
+{
+name = caret_2;
+position = "{722, 0}";
+}
+);
 background = {
 components = (
 {
@@ -94240,9 +94344,19 @@ rightMetricsKey = h;
 },
 {
 glyphname = f_f_j;
-lastChange = "2018-12-26 17:31:12 +0000";
+lastChange = "2018-12-28 14:36:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{470, 0}";
+},
+{
+name = caret_2;
+position = "{906, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -94354,6 +94468,16 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1240;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{346, 0}";
+},
+{
+name = caret_2;
+position = "{682, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -94473,9 +94597,19 @@ rightMetricsKey = j;
 },
 {
 glyphname = f_f_k;
-lastChange = "2018-12-26 17:31:18 +0000";
+lastChange = "2018-12-28 14:36:34 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{366, 0}";
+},
+{
+name = caret_2;
+position = "{722, 0}";
+}
+);
 background = {
 components = (
 {
@@ -94538,6 +94672,16 @@ layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 1212;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{470, 0}";
+},
+{
+name = caret_2;
+position = "{917, 0}";
+}
+);
 background = {
 components = (
 {
@@ -94608,9 +94752,19 @@ rightMetricsKey = k;
 {
 color = 4;
 glyphname = f_f_t;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 14:36:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{450, 0}";
+},
+{
+name = caret_2;
+position = "{896, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -94715,6 +94869,16 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1356;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{366, 0}";
+},
+{
+name = caret_2;
+position = "{713, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -94825,9 +94989,15 @@ rightKerningGroup = t;
 },
 {
 glyphname = f_h;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 14:37:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{484, 0}";
+}
+);
 background = {
 components = (
 {
@@ -94884,6 +95054,12 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1156;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{386, 0}";
+}
+);
 background = {
 components = (
 {
@@ -94948,9 +95124,15 @@ rightMetricsKey = h;
 },
 {
 glyphname = f_j;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 14:37:35 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{478, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -95076,6 +95258,12 @@ nodes = (
 width = 812;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{376, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -95209,9 +95397,15 @@ rightMetricsKey = j;
 },
 {
 glyphname = f_k;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 14:37:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{483, 0}";
+}
+);
 background = {
 components = (
 {
@@ -95268,6 +95462,12 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 1132;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{385, 0}";
+}
+);
 background = {
 components = (
 {
@@ -95332,9 +95532,15 @@ rightMetricsKey = k;
 },
 {
 glyphname = f_t;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 14:38:07 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{478, 0}";
+}
+);
 background = {
 components = (
 {
@@ -95392,6 +95598,12 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 928;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{376, 0}";
+}
+);
 background = {
 components = (
 {
@@ -95456,9 +95668,15 @@ rightMetricsKey = t;
 },
 {
 glyphname = t_f;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 14:38:27 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{502, 0}";
+}
+);
 background = {
 components = (
 {
@@ -95516,6 +95734,12 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 912;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{414, 0}";
+}
+);
 background = {
 components = (
 {
@@ -95580,9 +95804,15 @@ rightMetricsKey = f;
 },
 {
 glyphname = t_t;
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-28 14:38:52 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{502, 0}";
+}
+);
 background = {
 components = (
 {
@@ -95640,6 +95870,12 @@ layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 948;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{414, 0}";
+}
+);
 background = {
 components = (
 {
