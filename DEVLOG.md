@@ -8,13 +8,20 @@ Some notes and info that can be useful during the development.
     + italics: `emptyset commaturnedmod ringhalfright ringhalfleft verticallinemod secondtonechinese fourthtonechinese verticallinelowmod primemod second`
 - (A) Add `IJ.loclNLD` and others
 - (A) Define Glyph Order
-- (G) Check and extend kerning groups to new glyphs
-- (G) Write proper OT features
+- (G) `√` Check and extend kerning groups to new glyphs
+- (G) `√` Write proper OT features
 - (A) Check diacritics aligning
 - (A) `√` Remove old postcript hints
-- (G) Set font info and custom parameters (PS autohint, vertical metrics, etc )
+- (G) `√` Set font info and custom parameters (PS autohint, vertical metrics, etc )
 - (G) Last roman vs italics consistency checks
 - (G) Revision of generated binaries
+- Fill with correct info `FONTLOG.txt` before release
+- Remove `DEVLOG.md` before release
+- Create `final README.md` file before release
+- Check `AUTHORS.txt` info before release
+- Check `CONTRIBUTORS.txt` info before release
+- Rename `/Glyphs masters` folder to `sources`
+- Create `/fonts` with binaries inside before release
 
 
 ### Thursday December 13 | Commit c73de2a

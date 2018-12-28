@@ -1,0 +1,41 @@
+FONTLOG for the Kufam fonts
+
+This file provides detailed information on the Kufam Font Software.
+This information should be distributed along with the Kufam fonts
+and any derivative works.
+
+Basic Font Information
+
+Kufam is a Unicode typeface family that supports all languages that
+use the Latin script and its variants, and could be expanded to support other
+scripts.
+
+More specifically, this release supports the following Unicode ranges...
+This release contains...
+Documentation can be found at...
+To contribute to the project...
+
+ChangeLog
+
+1 Jan 2005 (Joe Smith) Kufam Version 1.0 [TO DO]
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Jane Doe
+E: jane@university.edu
+W: http://art.university.edu/projects/fonts
+D: Contributor - Armenian glyphs and code
+
+N: Fred Foobar
+E: fred@foobar.org
+W: http://foobar.org
+D: Contributor - misc Graphite fixes
+
+Fontstudio.org is an not-for-profit design group whose purpose is...
+Foobar.org is a distributed community of developers...
+Company.com is a small business who likes to support community designers...
+University.edu is a renowned educational institution with a strong design department...
