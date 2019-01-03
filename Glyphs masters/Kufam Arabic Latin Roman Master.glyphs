@@ -120114,7 +120114,7 @@ note = uni0637.long;
 },
 {
 glyphname = "tah-ar.fina";
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-30 22:46:45 +0000";
 layers = (
 {
 anchors = (
@@ -120189,7 +120189,7 @@ name = _baseline2;
 transform = "{1, 0, 0, 1, 1076, 0}";
 },
 {
-name = "_loopconn-ar";
+name = "_loop-ar";
 transform = "{1, 0, 0, 1, 400, 0}";
 },
 {
@@ -120412,7 +120412,7 @@ note = uni0637.fina.long;
 },
 {
 glyphname = "tah-ar.medi";
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-30 22:53:02 +0000";
 layers = (
 {
 anchors = (
@@ -120422,7 +120422,7 @@ position = "{564, 0}";
 },
 {
 name = top;
-position = "{636, 489}";
+position = "{756, 489}";
 }
 );
 background = {
@@ -120491,7 +120491,7 @@ name = _baseline2;
 transform = "{1, 0, 0, 1, 968, 0}";
 },
 {
-name = "_loopconn-ar";
+name = "_loop-ar";
 transform = "{1, 0, 0, 1, 292, 0}";
 },
 {
@@ -121312,7 +121312,7 @@ note = uni0638.long;
 },
 {
 glyphname = "zah-ar.fina";
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-30 22:46:45 +0000";
 layers = (
 {
 background = {
@@ -121649,7 +121649,7 @@ note = uni0638.fina.long;
 },
 {
 glyphname = "zah-ar.medi";
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-30 22:53:02 +0000";
 layers = (
 {
 background = {
@@ -121735,7 +121735,7 @@ name = "tah-ar.medi";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 450, -92}";
+transform = "{1, 0, 0, 1, 570, -92}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -135218,7 +135218,7 @@ note = uni0645.fina;
 },
 {
 glyphname = "meem-ar.medi";
-lastChange = "2018-12-20 21:13:44 +0000";
+lastChange = "2018-12-30 22:52:30 +0000";
 layers = (
 {
 background = {
@@ -135401,16 +135401,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"0 80 LINE",
-"-20 60 LINE",
-"-20 0 LINE",
-"214 0 LINE",
-"173 80 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "704 20 LINE",
 "704 80 LINE",
 "581 80 OFFCURVE",
@@ -135441,6 +135431,16 @@ nodes = (
 "489 132 OFFCURVE",
 "513 0 OFFCURVE",
 "684 0 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"0 80 LINE",
+"-20 60 LINE",
+"-20 0 LINE",
+"214 0 LINE",
+"173 80 LINE"
 );
 }
 );
