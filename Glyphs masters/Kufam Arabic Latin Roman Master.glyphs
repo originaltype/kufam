@@ -143338,7 +143338,7 @@ unicode = FB98;
 },
 {
 glyphname = "lam-ar";
-lastChange = "2019-02-12 20:28:24 +0000";
+lastChange = "2019-02-13 04:49:01 +0000";
 layers = (
 {
 anchors = (
@@ -143380,8 +143380,8 @@ nodes = (
 "282 -67 OFFCURVE",
 "253 -106 CURVE",
 "285 -66 LINE",
-"297 -58 OFFCURVE",
-"265 -80 OFFCURVE",
+"273 -72 OFFCURVE",
+"259 -80 OFFCURVE",
 "228 -80 CURVE SMOOTH",
 "171 -80 OFFCURVE",
 "94 -54 OFFCURVE",
