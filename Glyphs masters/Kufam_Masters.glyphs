@@ -78,7 +78,7 @@ code = "cent.lf\012currency.lf\012dollar.lf\012euro.lf\012florin.lf\012sterling.
 name = PropLiningCurrency;
 }
 );
-copyright = "Copyright 2019 The Familyname Project Authors (https://github.com/originaltype/kufam)";
+copyright = "Copyright 2019 The Kufam Project Authors (https://github.com/originaltype/kufam)";
 customParameters = (
 {
 name = glyphOrder;
@@ -216575,7 +216575,7 @@ instanceInterpolations = {
 "3E005A84-7828-4122-B6E8-61930BD9836F" = 0.6;
 "F2028F70-0529-41D4-9F63-024EA79743CD" = 0.4;
 };
-name = Semibold;
+name = SemiBold;
 weightClass = SemiBold;
 },
 {
