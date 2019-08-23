@@ -9,7 +9,8 @@ DisplayStrings = (
 "/ogonekcomb.case",
 "O/Oogonek",
 "L/jdotless/_part.dot j/Lj",
-"/o.sc/oogonek.sc"
+"/o.sc/oogonek.sc",
+K
 );
 classes = (
 {
@@ -3255,7 +3256,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2019-01-11 14:16:33 +0000";
+lastChange = "2019-08-23 00:06:40 +0000";
 layers = (
 {
 anchors = (
@@ -3307,38 +3308,38 @@ paths = (
 {
 closed = 1;
 nodes = (
-"454 232 OFFCURVE",
-"562 319 OFFCURVE",
-"600 436 CURVE SMOOTH",
-"688 708 LINE",
-"688 720 LINE",
-"480 720 LINE",
-"412 488 LINE SMOOTH",
-"397 436 OFFCURVE",
-"364 412 OFFCURVE",
-"300 412 CURVE SMOOTH",
-"180 412 LINE",
-"180 232 LINE",
-"312 232 LINE"
+"455 232 OFFCURVE",
+"563 319 OFFCURVE",
+"601 436 CURVE SMOOTH",
+"689 708 LINE",
+"689 720 LINE",
+"481 720 LINE",
+"413 488 LINE SMOOTH",
+"398 436 OFFCURVE",
+"365 412 OFFCURVE",
+"301 412 CURVE SMOOTH",
+"181 412 LINE",
+"181 232 LINE",
+"313 232 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"280 0 LINE",
-"280 720 LINE",
-"68 720 LINE",
-"68 0 LINE"
+"281 0 LINE",
+"281 720 LINE",
+"69 720 LINE",
+"69 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"324 264 LINE",
-"480 0 LINE",
-"704 0 LINE",
-"704 12 LINE",
-"496 336 LINE"
+"325 264 LINE",
+"481 0 LINE",
+"705 0 LINE",
+"705 12 LINE",
+"497 336 LINE"
 );
 }
 );
