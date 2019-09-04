@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="364"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="92" y="280" type="curve" name="hr00"/>
+      <point x="272" y="280" type="line"/>
+      <point x="280" y="320"/>
+      <point x="288" y="416"/>
+      <point x="288" y="487" type="curve" smooth="yes"/>
+      <point x="288" y="566" type="line" smooth="yes"/>
+      <point x="288" y="624"/>
+      <point x="288" y="672"/>
+      <point x="296" y="708" type="curve"/>
+      <point x="290" y="720" type="line"/>
+      <point x="76" y="720" type="line"/>
+      <point x="76" y="487" type="line" smooth="yes"/>
+      <point x="76" y="416"/>
+      <point x="84" y="320"/>
+    </contour>
+    <contour>
+      <point x="182" y="-12" type="curve"/>
+      <point x="248" y="-12"/>
+      <point x="292" y="32"/>
+      <point x="292" y="98" type="curve" smooth="yes"/>
+      <point x="292" y="164"/>
+      <point x="248" y="208"/>
+      <point x="182" y="208" type="curve"/>
+      <point x="116" y="208"/>
+      <point x="72" y="164"/>
+      <point x="72" y="98" type="curve" smooth="yes"/>
+      <point x="72" y="32"/>
+      <point x="116" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xMiIgd2lkdGg9IjIyMCIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iNzIwIiB3aWR0aD0iLTIwIiAv
+PgogICAgICA8dnN0ZW0gcG9zPSI3NiIgd2lkdGg9
+IjIxMiIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+bnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

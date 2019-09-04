@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="616"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="28" y="212" type="line" name="hr00"/>
+      <point x="134" y="212" type="line"/>
+      <point x="173" y="71"/>
+      <point x="276" y="-12"/>
+      <point x="456" y="-12" type="curve" smooth="yes"/>
+      <point x="496" y="-12"/>
+      <point x="536" y="-8"/>
+      <point x="572" y="4" type="curve"/>
+      <point x="572" y="168" type="line"/>
+      <point x="560" y="168" type="line"/>
+      <point x="536" y="156"/>
+      <point x="508" y="148"/>
+      <point x="472" y="148" type="curve" smooth="yes"/>
+      <point x="409" y="148"/>
+      <point x="369" y="170"/>
+      <point x="345" y="212" type="curve"/>
+      <point x="452" y="212" type="line"/>
+      <point x="452" y="328" type="line"/>
+      <point x="316" y="328" type="line"/>
+      <point x="316" y="392" type="line"/>
+      <point x="452" y="392" type="line"/>
+      <point x="452" y="508" type="line"/>
+      <point x="345" y="508" type="line"/>
+      <point x="369" y="549"/>
+      <point x="409" y="572"/>
+      <point x="472" y="572" type="curve" smooth="yes"/>
+      <point x="508" y="572"/>
+      <point x="536" y="564"/>
+      <point x="560" y="552" type="curve"/>
+      <point x="572" y="552" type="line"/>
+      <point x="572" y="716" type="line"/>
+      <point x="536" y="728"/>
+      <point x="496" y="732"/>
+      <point x="456" y="732" type="curve" smooth="yes"/>
+      <point x="276" y="732"/>
+      <point x="173" y="648"/>
+      <point x="134" y="508" type="curve"/>
+      <point x="28" y="508" type="line"/>
+      <point x="28" y="392" type="line"/>
+      <point x="117" y="392" type="line"/>
+      <point x="116" y="381"/>
+      <point x="116" y="371"/>
+      <point x="116" y="360" type="curve" smooth="yes"/>
+      <point x="116" y="349"/>
+      <point x="116" y="338"/>
+      <point x="117" y="328" type="curve"/>
+      <point x="28" y="328" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xMiIgd2lkdGg9IjE2MCIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMjEyIiB3aWR0aD0iMTE2IiAv
+PgogICAgICA8aHN0ZW0gcG9zPSIzOTIiIHdpZHRo
+PSIxMTYiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjU1
+MiIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPGhzdGVt
+IHBvcz0iNTcyIiB3aWR0aD0iMTYwIiAvPgogICAg
+PC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

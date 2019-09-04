@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen.denominator" format="1">
+  <advance width="390"/>
+  <outline>
+    <contour>
+      <point x="51" y="135" type="line" name="hr00"/>
+      <point x="340" y="135" type="line"/>
+      <point x="340" y="256" type="line"/>
+      <point x="51" y="256" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjEzNSIgd2lkdGg9IjEyMSIgLz4KICAgIDwv
+aGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

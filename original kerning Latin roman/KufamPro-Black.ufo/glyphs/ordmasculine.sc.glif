@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine.sc" format="1">
+  <advance width="422"/>
+  <outline>
+    <contour>
+      <point x="23" y="401" type="curve" smooth="yes" name="hr00"/>
+      <point x="23" y="275"/>
+      <point x="102" y="223"/>
+      <point x="211" y="223" type="curve" smooth="yes"/>
+      <point x="321" y="223"/>
+      <point x="399" y="275"/>
+      <point x="399" y="401" type="curve" smooth="yes"/>
+      <point x="399" y="527"/>
+      <point x="321" y="580"/>
+      <point x="211" y="580" type="curve" smooth="yes"/>
+      <point x="102" y="580"/>
+      <point x="23" y="527"/>
+    </contour>
+    <contour>
+      <point x="168" y="401" type="curve" smooth="yes"/>
+      <point x="168" y="455"/>
+      <point x="180" y="483"/>
+      <point x="211" y="483" type="curve" smooth="yes"/>
+      <point x="242" y="483"/>
+      <point x="253" y="455"/>
+      <point x="253" y="401" type="curve" smooth="yes"/>
+      <point x="253" y="348"/>
+      <point x="242" y="319"/>
+      <point x="211" y="319" type="curve" smooth="yes"/>
+      <point x="180" y="319"/>
+      <point x="168" y="348"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjIyMyIgd2lkdGg9Ijk2IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI0ODMiIHdpZHRoPSI5NyIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMjMiIHdpZHRoPSIx
+NDUiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjI1MyIg
+d2lkdGg9IjE0NiIgLz4KICAgIDwvaGludHNldD4K
+ICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2087" format="1">
+  <advance width="397"/>
+  <unicode hex="2087"/>
+  <outline>
+    <component base="seven.denominator" yOffset="-160"/>
+  </outline>
+</glyph>

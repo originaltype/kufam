@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek.sc" format="1">
+  <advance width="632"/>
+  <outline>
+    <contour>
+      <point x="308" y="-156" type="curve" smooth="yes"/>
+      <point x="308" y="-212"/>
+      <point x="342" y="-248"/>
+      <point x="413" y="-248" type="curve" smooth="yes"/>
+      <point x="435" y="-248"/>
+      <point x="454" y="-244"/>
+      <point x="468" y="-236" type="curve"/>
+      <point x="468" y="-172" type="line"/>
+      <point x="466" y="-172" type="line"/>
+      <point x="451" y="-180"/>
+      <point x="437" y="-184"/>
+      <point x="423" y="-184" type="curve" smooth="yes"/>
+      <point x="390" y="-184"/>
+      <point x="378" y="-164"/>
+      <point x="378" y="-140" type="curve" smooth="yes" name="hr01"/>
+      <point x="378" y="-104"/>
+      <point x="401" y="-64"/>
+      <point x="494" y="53" type="curve"/>
+      <point x="529" y="92"/>
+      <point x="548" y="148"/>
+      <point x="548" y="220" type="curve" smooth="yes"/>
+      <point x="548" y="572" type="line"/>
+      <point x="456" y="572" type="line"/>
+      <point x="456" y="216" type="line" smooth="yes"/>
+      <point x="456" y="112"/>
+      <point x="410" y="72"/>
+      <point x="316" y="72" type="curve" smooth="yes"/>
+      <point x="222" y="72"/>
+      <point x="176" y="112"/>
+      <point x="176" y="216" type="curve" smooth="yes"/>
+      <point x="176" y="572" type="line"/>
+      <point x="84" y="572" type="line"/>
+      <point x="84" y="220" type="line" smooth="yes"/>
+      <point x="84" y="70"/>
+      <point x="160" y="-12"/>
+      <point x="316" y="-12" type="curve" smooth="yes"/>
+      <point x="341" y="-12"/>
+      <point x="364" y="-9"/>
+      <point x="386" y="-5" type="curve"/>
+      <point x="340" y="-57"/>
+      <point x="308" y="-101"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0yNDgiIHdpZHRoPSI2NCIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iLTEyIiB3aWR0aD0iODQiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9IjU3MiIgd2lkdGg9
+Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iODQi
+IHdpZHRoPSI5MiIgLz4KICAgICAgPHZzdGVtIHBv
+cz0iMzA4IiB3aWR0aD0iMTYwIiAvPgogICAgICA8
+dnN0ZW0gcG9zPSI0NTYiIHdpZHRoPSI5MiIgLz4K
+ICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0
+Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>
