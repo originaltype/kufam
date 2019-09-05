@@ -1,21 +1,18 @@
 {
-.appVersion = "1230";
+.appVersion = "1240";
 DisplayStrings = (
 "/fi",
-"",
 "U/Uogonek",
 "A/Aogonek",
 "O/Oogonek",
 "O/Oogonek",
 "L/jdotless j/Lj",
-"",
 K,
 "L/jdotless j/Lj",
 "/jdotless jl/lj",
-"",
-"",
 "/_part.bar-ar",
-"/_part.yehbarree-ar"
+"/_part.yehbarree-ar",
+"/Lj"
 );
 classes = (
 {
@@ -1138,6 +1135,7 @@ value = 5;
 {
 name = fsType;
 value = (
+3
 );
 },
 {
@@ -1190,12 +1188,8 @@ value = (
 );
 },
 {
-name = description;
-value = "ADD DESCRIPTION";
-},
-{
 name = vendorID;
-value = "????";
+value = ORTY;
 },
 {
 name = license;
@@ -1207,14 +1201,14 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = trademark;
-value = "Copyright 2018 by Original Type";
+value = "Copyright 2019 The Kufam Project Authors (https://github.com/originaltype/kufam)";
 },
 {
 name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2019-08-14 16:37:06 +0000";
+date = "2019-09-05 08:36:19 +0000";
 designer = "Wael Morcos & Artur Schmal";
 designerURL = "https://originaltype.com/";
 familyName = Kufam;

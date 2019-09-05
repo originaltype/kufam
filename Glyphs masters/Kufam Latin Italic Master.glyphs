@@ -1,5 +1,5 @@
 {
-.appVersion = "1201";
+.appVersion = "1240";
 classes = (
 {
 automatic = 1;
@@ -67,7 +67,7 @@ code = "cent.lf\012currency.lf\012dollar.lf\012euro.lf\012florin.lf\012sterling.
 name = PropLiningCurrency;
 }
 );
-copyright = "Copyright © 2018 by Artur Schmal. All rights reserved.";
+copyright = "Copyright 2019 The Kufam Project Authors (https://github.com/originaltype/kufam)";
 customParameters = (
 {
 name = glyphOrder;
@@ -1121,6 +1121,7 @@ value = 5;
 {
 name = fsType;
 value = (
+3
 );
 },
 {
@@ -1171,12 +1172,8 @@ value = (
 );
 },
 {
-name = description;
-value = "ADD DESCRIPTION";
-},
-{
 name = vendorID;
-value = "????";
+value = ORTY;
 },
 {
 name = license;
@@ -1188,10 +1185,10 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = trademark;
-value = "© Copyright 2018 by Original Type";
+value = "Copyright 2019 The Kufam Project Authors (https://github.com/originaltype/kufam)";
 }
 );
-date = "2018-12-28 13:40:30 +0000";
+date = "2019-09-05 08:36:18 +0000";
 designer = "Artur Schmal";
 designerURL = "http://www.originaltype.com";
 familyName = Kufam;
@@ -1308,7 +1305,7 @@ alignmentZones = (
 );
 ascender = 760;
 capHeight = 720;
-custom = "Normal Italic";
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -156684,8 +156681,7 @@ instanceInterpolations = {
 "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15" = 1;
 };
 isItalic = 1;
-name = "Normal Italic";
-weightClass = Normal;
+name = Italic;
 },
 {
 interpolationWeight = 112;
@@ -156711,6 +156707,9 @@ instanceInterpolations = {
 "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15" = 0.3;
 "FA792B6B-505C-4DC3-9C40-F9BEDA01661E" = 0.7;
 };
+isBold = 1;
+isItalic = 1;
+linkStyle = Regular;
 name = "Bold Italic";
 weightClass = Bold;
 },
