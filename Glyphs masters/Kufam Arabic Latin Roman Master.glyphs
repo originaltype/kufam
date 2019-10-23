@@ -15,10 +15,7 @@ K,
 "",
 "",
 "/_part.bar-ar",
-"/_part.yehbarree-ar",
-"/_loop-ar",
-"/won",
-"/kip"
+"/_part.yehbarree-ar"
 );
 classes = (
 {
@@ -71062,7 +71059,7 @@ unicode = 20AB;
 },
 {
 glyphname = kip;
-lastChange = "2019-08-23 18:21:07 +0000";
+lastChange = "2018-12-20 21:13:43 +0000";
 layers = (
 {
 background = {
@@ -71184,7 +71181,7 @@ nodes = (
 );
 }
 );
-width = 704;
+width = 705;
 }
 );
 rightMetricsKey = K;
