@@ -1,5 +1,5 @@
 {
-.appVersion = "1270";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -1141,10 +1141,6 @@ value = (
 );
 },
 {
-name = "Use Typo Metrics";
-value = 1;
-},
-{
 name = unicodeRanges;
 value = (
 0,
@@ -1191,6 +1187,10 @@ value = "Copyright 2019 The Kufam Project Authors (https://github.com/originalty
 },
 {
 name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
 value = 1;
 }
 );
