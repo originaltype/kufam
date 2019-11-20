@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="532"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="84" type="line"/>
+      <point x="192" y="84" type="line"/>
+      <point x="192" y="720" type="line"/>
+      <point x="96" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="634" type="curve"/>
+      <point x="305" y="553" type="line"/>
+      <point x="305" y="548" type="line" name="hr01"/>
+      <point x="360" y="548" type="line"/>
+      <point x="399" y="625" type="line"/>
+      <point x="404" y="637"/>
+      <point x="415" y="656"/>
+      <point x="415" y="680" type="curve" smooth="yes"/>
+      <point x="415" y="716"/>
+      <point x="393" y="732"/>
+      <point x="364" y="732" type="curve" smooth="yes"/>
+      <point x="334" y="732"/>
+      <point x="313" y="713"/>
+      <point x="313" y="680" type="curve" smooth="yes"/>
+      <point x="313" y="654"/>
+      <point x="332" y="639"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSI4NCIgLz4KICAgICAgPGhz
+dGVtIHBvcz0iNTQ4IiB3aWR0aD0iMTg0IiAvPgog
+ICAgICA8dnN0ZW0gcG9zPSI5NiIgd2lkdGg9Ijk2
+IiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMTMiIHdp
+ZHRoPSIxMDIiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+PC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

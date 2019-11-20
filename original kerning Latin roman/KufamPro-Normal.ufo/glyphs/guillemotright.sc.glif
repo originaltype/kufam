@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright.sc" format="1">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="280" y="60" type="line" name="hr00"/>
+      <point x="288" y="60" type="line"/>
+      <point x="528" y="280" type="line"/>
+      <point x="528" y="312" type="line"/>
+      <point x="288" y="532" type="line"/>
+      <point x="280" y="532" type="line"/>
+      <point x="280" y="436" type="line"/>
+      <point x="436" y="296" type="line"/>
+      <point x="280" y="156" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="60" type="line"/>
+      <point x="68" y="60" type="line"/>
+      <point x="308" y="280" type="line"/>
+      <point x="308" y="312" type="line"/>
+      <point x="68" y="532" type="line"/>
+      <point x="60" y="532" type="line"/>
+      <point x="60" y="436" type="line"/>
+      <point x="216" y="296" type="line"/>
+      <point x="60" y="156" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjgxIiB3aWR0aD0iLTIxIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI1MzIiIHdpZHRoPSItMjAiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
+dD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

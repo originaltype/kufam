@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p.numerator" format="1">
+  <advance width="472"/>
+  <outline>
+    <component base="p.denominator" yOffset="320"/>
+  </outline>
+</glyph>

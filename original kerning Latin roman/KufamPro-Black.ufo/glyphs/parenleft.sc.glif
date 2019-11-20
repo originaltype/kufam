@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft.sc" format="1">
+  <advance width="392"/>
+  <outline>
+    <contour>
+      <point x="172" y="-68" type="curve" name="hr00"/>
+      <point x="372" y="-68" type="line"/>
+      <point x="372" y="-60" type="line"/>
+      <point x="298" y="22"/>
+      <point x="252" y="128"/>
+      <point x="252" y="268" type="curve"/>
+      <point x="252" y="408"/>
+      <point x="298" y="514"/>
+      <point x="372" y="596" type="curve"/>
+      <point x="372" y="604" type="line"/>
+      <point x="172" y="604" type="line"/>
+      <point x="104" y="538"/>
+      <point x="52" y="411"/>
+      <point x="52" y="268" type="curve"/>
+      <point x="52" y="125"/>
+      <point x="104" y="-2"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii00NyIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iNjA0IiB3aWR0aD0iLTIwIiAv
+PgogICAgICA8dnN0ZW0gcG9zPSI1MiIgd2lkdGg9
+IjIwMCIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+bnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

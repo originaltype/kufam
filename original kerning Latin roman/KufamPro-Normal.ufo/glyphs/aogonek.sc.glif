@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek.sc" format="1">
+  <advance width="612"/>
+  <outline>
+    <contour>
+      <point x="420" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="406" y="-42"/>
+      <point x="369" y="-88"/>
+      <point x="369" y="-156" type="curve" smooth="yes" name="hr01"/>
+      <point x="369" y="-212"/>
+      <point x="403" y="-248"/>
+      <point x="466" y="-248" type="curve" smooth="yes"/>
+      <point x="484" y="-248"/>
+      <point x="500" y="-246"/>
+      <point x="513" y="-240" type="curve"/>
+      <point x="513" y="-176" type="line"/>
+      <point x="511" y="-176" type="line"/>
+      <point x="500" y="-182"/>
+      <point x="488" y="-184"/>
+      <point x="476" y="-184" type="curve" smooth="yes"/>
+      <point x="451" y="-184"/>
+      <point x="439" y="-164"/>
+      <point x="439" y="-140" type="curve" smooth="yes"/>
+      <point x="439" y="-104"/>
+      <point x="461" y="-62"/>
+      <point x="512" y="0" type="curve" name="hr02"/>
+      <point x="512" y="432" type="line" smooth="yes"/>
+      <point x="512" y="464"/>
+      <point x="512" y="528"/>
+      <point x="516" y="560" type="curve"/>
+      <point x="514" y="568" type="line"/>
+      <point x="469" y="576"/>
+      <point x="424" y="580"/>
+      <point x="384" y="580" type="curve" smooth="yes"/>
+      <point x="212" y="580"/>
+      <point x="149" y="508"/>
+      <point x="124" y="372" type="curve" smooth="yes"/>
+      <point x="56" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="178" y="168" type="line"/>
+      <point x="420" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="376" type="line" smooth="yes"/>
+      <point x="231" y="458"/>
+      <point x="267" y="500"/>
+      <point x="376" y="500" type="curve" smooth="yes"/>
+      <point x="392" y="500"/>
+      <point x="407" y="498"/>
+      <point x="420" y="496" type="curve"/>
+      <point x="420" y="248" type="line"/>
+      <point x="193" y="248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0yNDgiIHdpZHRoPSI2NCIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMjEiIHdpZHRoPSItMjEiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9IjE2OCIgd2lkdGg9
+IjgwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI1MDAi
+IHdpZHRoPSI4MCIgLz4KICAgICAgPHZzdGVtIHBv
+cz0iMzY5IiB3aWR0aD0iNzAiIC8+CiAgICA8L2hp
+bnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0i
+aHIwMiI+CiAgICAgIDxoc3RlbSBwb3M9Ii0yNDgi
+IHdpZHRoPSI2NCIgLz4KICAgICAgPGhzdGVtIHBv
+cz0iMjEiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjE2OCIgd2lkdGg9IjgwIiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSI1MDAiIHdpZHRoPSI4
+MCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDIwIiB3
+aWR0aD0iOTIiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+PC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

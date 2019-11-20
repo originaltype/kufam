@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.denominator" format="1">
+  <advance width="402"/>
+  <outline>
+    <contour>
+      <point x="144" y="0" type="line" name="hr00"/>
+      <point x="252" y="0" type="line"/>
+      <point x="397" y="390" type="line"/>
+      <point x="397" y="398" type="line"/>
+      <point x="311" y="398" type="line"/>
+      <point x="201" y="71" type="line"/>
+      <point x="94" y="398" type="line"/>
+      <point x="5" y="398" type="line"/>
+      <point x="5" y="390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjIxIiB3aWR0aD0iLTIxIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSIzOTgiIHdpZHRoPSItMjAiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
+dD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="612"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line" name="hr00"/>
+      <point x="564" y="0" type="line"/>
+      <point x="564" y="184" type="line"/>
+      <point x="280" y="184" type="line"/>
+      <point x="280" y="268" type="line"/>
+      <point x="508" y="268" type="line"/>
+      <point x="508" y="440" type="line"/>
+      <point x="280" y="440" type="line"/>
+      <point x="280" y="536" type="line"/>
+      <point x="556" y="536" type="line"/>
+      <point x="556" y="720" type="line"/>
+      <point x="68" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="720" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="396" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSIxODQiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjI2OCIgd2lkdGg9IjE3MiIgLz4K
+ICAgICAgPGhzdGVtIHBvcz0iNTM2IiB3aWR0aD0i
+MTg0IiAvPgogICAgICA8dnN0ZW0gcG9zPSI2OCIg
+d2lkdGg9IjIxMiIgLz4KICAgIDwvaGludHNldD4K
+ICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

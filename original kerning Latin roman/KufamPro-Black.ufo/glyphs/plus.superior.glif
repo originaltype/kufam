@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.superior" format="1">
+  <advance width="398"/>
+  <unicode hex="207A"/>
+  <outline>
+    <component base="plus.denominator" yOffset="480"/>
+  </outline>
+</glyph>

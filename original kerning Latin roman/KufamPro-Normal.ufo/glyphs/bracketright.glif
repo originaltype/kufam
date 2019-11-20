@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright" format="1">
+  <advance width="344"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="24" y="-88" type="line"/>
+      <point x="232" y="-88" type="line"/>
+      <point x="232" y="760" type="line"/>
+      <point x="24" y="760" type="line"/>
+      <point x="24" y="684" type="line"/>
+      <point x="148" y="684" type="line" name="hr01"/>
+      <point x="148" y="-12" type="line"/>
+      <point x="24" y="-12" type="line" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii04OCIgd2lkdGg9Ijc2IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2ODQiIHdpZHRoPSI3NiIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMTQ4IiB3aWR0aD0i
+ODQiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGlu
+dHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAgIDxo
+c3RlbSBwb3M9Ii04OCIgd2lkdGg9Ijc2IiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSI2ODQiIHdpZHRoPSI3
+NiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjQiIHdp
+ZHRoPSIyMDgiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+PC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>
