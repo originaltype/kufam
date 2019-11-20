@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="z.superior" format="1">
-  <advance width="457"/>
-  <outline>
-    <component base="z.denominator" yOffset="480"/>
-  </outline>
-</glyph>

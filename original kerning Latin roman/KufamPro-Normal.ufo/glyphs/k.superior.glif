@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="k.superior" format="1">
-  <advance width="428"/>
-  <outline>
-    <component base="k.denominator" yOffset="480"/>
-  </outline>
-</glyph>

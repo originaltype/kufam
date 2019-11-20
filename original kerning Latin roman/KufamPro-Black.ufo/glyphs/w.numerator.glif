@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="w.numerator" format="1">
-  <advance width="724"/>
-  <outline>
-    <component base="w.denominator" yOffset="320"/>
-  </outline>
-</glyph>

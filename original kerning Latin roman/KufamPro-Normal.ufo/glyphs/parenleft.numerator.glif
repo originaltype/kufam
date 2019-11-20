@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenleft.numerator" format="1">
-  <advance width="248"/>
-  <outline>
-    <component base="parenleft.denominator" yOffset="320"/>
-  </outline>
-</glyph>
