@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="q.superior" format="1">
-  <advance width="521"/>
-  <outline>
-    <component base="q.denominator" yOffset="480"/>
-  </outline>
-</glyph>

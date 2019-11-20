@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="minus.superior" format="1">
-  <advance width="398"/>
-  <unicode hex="207B"/>
-  <outline>
-    <component base="minus.denominator" yOffset="480"/>
-  </outline>
-</glyph>

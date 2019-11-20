@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="b.inferior" format="1">
-  <advance width="514"/>
-  <outline>
-    <component base="b.denominator" yOffset="-160"/>
-  </outline>
-</glyph>
