@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.denominator" format="1">
+  <advance width="312"/>
+  <outline>
+    <contour>
+      <point x="23" y="328" type="line"/>
+      <point x="85" y="328" type="line"/>
+      <point x="85" y="132" type="line" smooth="yes"/>
+      <point x="85" y="43"/>
+      <point x="132" y="-6"/>
+      <point x="236" y="-6" type="curve" smooth="yes"/>
+      <point x="263" y="-6"/>
+      <point x="286" y="-1"/>
+      <point x="303" y="7" type="curve" name="hr01"/>
+      <point x="303" y="76" type="line"/>
+      <point x="296" y="76" type="line"/>
+      <point x="282" y="69"/>
+      <point x="263" y="65"/>
+      <point x="243" y="65" type="curve" smooth="yes"/>
+      <point x="192" y="65"/>
+      <point x="170" y="86"/>
+      <point x="170" y="139" type="curve" smooth="yes" name="hr02"/>
+      <point x="170" y="328" type="line"/>
+      <point x="280" y="328" type="line"/>
+      <point x="280" y="398" type="line"/>
+      <point x="170" y="398" type="line"/>
+      <point x="170" y="503" type="line"/>
+      <point x="85" y="503" type="line"/>
+      <point x="85" y="398" type="line"/>
+      <point x="23" y="398" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii02IiB3aWR0aD0iNzEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjMyOCIgd2lkdGg9IjcwIiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSI1MDMiIHdpZHRoPSIt
+MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9Ijg1IiB3
+aWR0aD0iMjE4IiAvPgogICAgPC9oaW50c2V0Pgog
+ICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDIiPgog
+ICAgICA8aHN0ZW0gcG9zPSItNiIgd2lkdGg9Ijcx
+IiAvPgogICAgICA8aHN0ZW0gcG9zPSIzMjgiIHdp
+ZHRoPSI3MCIgLz4KICAgICAgPGhzdGVtIHBvcz0i
+NTAzIiB3aWR0aD0iLTIwIiAvPgogICAgICA8dnN0
+ZW0gcG9zPSI4NSIgd2lkdGg9Ijg1IiAvPgogICAg
+PC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

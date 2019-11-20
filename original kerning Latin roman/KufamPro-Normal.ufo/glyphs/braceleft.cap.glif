@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft.cap" format="1">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="128" y="84" type="line"/>
+      <point x="128" y="-8"/>
+      <point x="176" y="-64"/>
+      <point x="276" y="-64" type="curve" smooth="yes"/>
+      <point x="348" y="-64" type="line"/>
+      <point x="348" y="12" type="line"/>
+      <point x="272" y="12" type="line" smooth="yes"/>
+      <point x="232" y="12"/>
+      <point x="212" y="32"/>
+      <point x="212" y="76" type="curve" smooth="yes" name="hr01"/>
+      <point x="212" y="240" type="line" smooth="yes"/>
+      <point x="212" y="312"/>
+      <point x="172" y="349"/>
+      <point x="120" y="359" type="curve"/>
+      <point x="120" y="361" type="line"/>
+      <point x="172" y="371"/>
+      <point x="212" y="408"/>
+      <point x="212" y="480" type="curve" smooth="yes"/>
+      <point x="212" y="644" type="line" smooth="yes"/>
+      <point x="212" y="688"/>
+      <point x="232" y="708"/>
+      <point x="272" y="708" type="curve" smooth="yes"/>
+      <point x="348" y="708" type="line" name="hr02"/>
+      <point x="348" y="784" type="line"/>
+      <point x="276" y="784" type="line" smooth="yes"/>
+      <point x="176" y="784"/>
+      <point x="128" y="728"/>
+      <point x="128" y="636" type="curve" smooth="yes"/>
+      <point x="128" y="476" type="line" smooth="yes"/>
+      <point x="128" y="436"/>
+      <point x="108" y="404"/>
+      <point x="60" y="404" type="curve" smooth="yes"/>
+      <point x="12" y="404" type="line" name="hr03"/>
+      <point x="12" y="316" type="line"/>
+      <point x="60" y="316" type="line" smooth="yes"/>
+      <point x="108" y="316"/>
+      <point x="128" y="284"/>
+      <point x="128" y="244" type="curve" smooth="yes" name="hr04"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbTMg
+c3RlbTNMaXN0PSItNjQsNzYsMzE2LDg4LDcwOCw3
+NiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTIiIHdp
+ZHRoPSIyMDAiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+ICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAg
+ICAgIDxoc3RlbTMgc3RlbTNMaXN0PSItNjQsNzYs
+MzE2LDg4LDcwOCw3NiIgLz4KICAgICAgPHZzdGVt
+IHBvcz0iMTI4IiB3aWR0aD0iMjIwIiAvPgogICAg
+PC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRU
+YWc9ImhyMDMiPgogICAgICA8aHN0ZW0zIHN0ZW0z
+TGlzdD0iLTY0LDc2LDMxNiw4OCw3MDgsNzYiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjEyIiB3aWR0aD0i
+MjAwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhp
+bnRzZXQgcG9pbnRUYWc9ImhyMDQiPgogICAgICA8
+aHN0ZW0zIHN0ZW0zTGlzdD0iLTY0LDc2LDMxNiw4
+OCw3MDgsNzYiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+IjEyOCIgd2lkdGg9IjIyMCIgLz4KICAgIDwvaGlu
+dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

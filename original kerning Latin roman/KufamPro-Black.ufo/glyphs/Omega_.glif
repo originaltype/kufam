@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="1">
+  <advance width="798"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="116" type="line"/>
+      <point x="261" y="172"/>
+      <point x="222" y="258"/>
+      <point x="222" y="370" type="curve" smooth="yes"/>
+      <point x="222" y="491"/>
+      <point x="278" y="577"/>
+      <point x="399" y="577" type="curve" smooth="yes"/>
+      <point x="519" y="577"/>
+      <point x="575" y="491"/>
+      <point x="575" y="370" type="curve" smooth="yes"/>
+      <point x="575" y="258"/>
+      <point x="537" y="172"/>
+      <point x="438" y="116" type="curve"/>
+      <point x="438" y="0" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="778" y="146" type="line"/>
+      <point x="674" y="146" type="line"/>
+      <point x="722" y="202"/>
+      <point x="761" y="288"/>
+      <point x="761" y="388" type="curve" smooth="yes" name="hr01"/>
+      <point x="761" y="603"/>
+      <point x="619" y="732"/>
+      <point x="399" y="732" type="curve" smooth="yes"/>
+      <point x="179" y="732"/>
+      <point x="37" y="603"/>
+      <point x="37" y="388" type="curve" smooth="yes"/>
+      <point x="37" y="288"/>
+      <point x="76" y="202"/>
+      <point x="123" y="146" type="curve"/>
+      <point x="20" y="146" type="line" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSIxNDYiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjU3NyIgd2lkdGg9IjE1NSIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMzciIHdpZHRoPSIx
+ODUiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjU3NSIg
+d2lkdGg9IjE4NiIgLz4KICAgIDwvaGludHNldD4K
+ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAyIj4K
+ICAgICAgPGhzdGVtIHBvcz0iMCIgd2lkdGg9IjE0
+NiIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTc3IiB3
+aWR0aD0iMTU1IiAvPgogICAgICA8dnN0ZW0gcG9z
+PSIyMCIgd2lkdGg9IjIwMiIgLz4KICAgICAgPHZz
+dGVtIHBvcz0iNTc1IiB3aWR0aD0iMTg2IiAvPgog
+ICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+
+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

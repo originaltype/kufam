@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar.denominator" format="1">
+  <advance width="398"/>
+  <outline>
+    <contour>
+      <point x="51" y="11" type="line"/>
+      <point x="71" y="3"/>
+      <point x="103" y="-2"/>
+      <point x="135" y="-5" type="curve"/>
+      <point x="135" y="-85" type="line"/>
+      <point x="260" y="-85" type="line"/>
+      <point x="260" y="2" type="line"/>
+      <point x="318" y="19"/>
+      <point x="366" y="55"/>
+      <point x="366" y="123" type="curve" smooth="yes" name="hr01"/>
+      <point x="366" y="199"/>
+      <point x="313" y="222"/>
+      <point x="241" y="234" type="curve"/>
+      <point x="212" y="240" type="line"/>
+      <point x="191" y="243"/>
+      <point x="183" y="256"/>
+      <point x="183" y="269" type="curve" smooth="yes" name="hr02"/>
+      <point x="183" y="285"/>
+      <point x="188" y="299"/>
+      <point x="224" y="299" type="curve" smooth="yes"/>
+      <point x="267" y="299"/>
+      <point x="306" y="288"/>
+      <point x="330" y="278" type="curve"/>
+      <point x="338" y="278" type="line"/>
+      <point x="338" y="388" type="line"/>
+      <point x="313" y="396"/>
+      <point x="293" y="402"/>
+      <point x="265" y="404" type="curve"/>
+      <point x="265" y="478" type="line" name="hr03"/>
+      <point x="137" y="478" type="line"/>
+      <point x="137" y="395" type="line"/>
+      <point x="56" y="373"/>
+      <point x="32" y="319"/>
+      <point x="32" y="260" type="curve" smooth="yes" name="hr04"/>
+      <point x="32" y="188"/>
+      <point x="65" y="149"/>
+      <point x="175" y="129" type="curve"/>
+      <point x="204" y="125" type="line" smooth="yes"/>
+      <point x="215" y="123"/>
+      <point x="215" y="118"/>
+      <point x="215" y="116" type="curve" smooth="yes"/>
+      <point x="215" y="109"/>
+      <point x="214" y="102"/>
+      <point x="180" y="102" type="curve" smooth="yes"/>
+      <point x="129" y="102"/>
+      <point x="90" y="112"/>
+      <point x="61" y="127" type="curve"/>
+      <point x="51" y="127" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii04NSIgd2lkdGg9IjE4NyIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMjk5IiB3aWR0aD0iMTA1IiAv
+PgogICAgICA8dnN0ZW0gcG9zPSIxMzciIHdpZHRo
+PSIyMjkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8
+aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAg
+IDxoc3RlbSBwb3M9Ii04NSIgd2lkdGg9IjE4NyIg
+Lz4KICAgICAgPGhzdGVtIHBvcz0iMjk5IiB3aWR0
+aD0iMTA1IiAvPgogICAgICA8dnN0ZW0gcG9zPSIz
+MiIgd2lkdGg9IjE1MSIgLz4KICAgIDwvaGludHNl
+dD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAz
+Ij4KICAgICAgPGhzdGVtIHBvcz0iLTg1IiB3aWR0
+aD0iMTg3IiAvPgogICAgICA8aHN0ZW0gcG9zPSIy
+OTkiIHdpZHRoPSIxNzkiIC8+CiAgICAgIDx2c3Rl
+bSBwb3M9IjEzNyIgd2lkdGg9IjEyMyIgLz4KICAg
+IDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50
+VGFnPSJocjA0Ij4KICAgICAgPGhzdGVtIHBvcz0i
+LTg1IiB3aWR0aD0iMTg3IiAvPgogICAgICA8aHN0
+ZW0gcG9zPSIyOTkiIHdpZHRoPSIxMDUiIC8+CiAg
+ICAgIDx2c3RlbSBwb3M9IjMyIiB3aWR0aD0iMTUx
+IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNl
+dExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.inferior" format="1">
+  <advance width="340"/>
+  <outline>
+    <component base="r.denominator" yOffset="-160"/>
+  </outline>
+</glyph>

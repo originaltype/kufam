@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark.sc" format="1">
+  <advance width="798"/>
+  <outline>
+    <contour>
+      <point x="387" y="232" type="line" name="hr00"/>
+      <point x="468" y="232" type="line"/>
+      <point x="468" y="429" type="line"/>
+      <point x="545" y="315" type="line"/>
+      <point x="586" y="315" type="line"/>
+      <point x="664" y="432" type="line"/>
+      <point x="664" y="232" type="line"/>
+      <point x="744" y="232" type="line"/>
+      <point x="744" y="572" type="line"/>
+      <point x="676" y="572" type="line"/>
+      <point x="567" y="405" type="line"/>
+      <point x="456" y="572" type="line"/>
+      <point x="387" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="507" type="line"/>
+      <point x="126" y="507" type="line"/>
+      <point x="126" y="232" type="line"/>
+      <point x="206" y="232" type="line"/>
+      <point x="206" y="507" type="line"/>
+      <point x="317" y="507" type="line"/>
+      <point x="317" y="572" type="line"/>
+      <point x="16" y="572" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjI1MyIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iNTA3IiB3aWR0aD0iNjUiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjEyNiIgd2lkdGg9
+IjgwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzODci
+IHdpZHRoPSI4MSIgLz4KICAgICAgPHZzdGVtIHBv
+cz0iNjY0IiB3aWR0aD0iODAiIC8+CiAgICA8L2hp
+bnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

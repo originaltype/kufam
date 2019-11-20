@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl.sc" format="1">
+  <advance width="452"/>
+  <outline>
+    <contour>
+      <point x="260" y="312" type="line" name="hr00"/>
+      <point x="404" y="312" type="line"/>
+      <point x="412" y="572" type="line"/>
+      <point x="252" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="312" type="line"/>
+      <point x="192" y="312" type="line"/>
+      <point x="200" y="572" type="line"/>
+      <point x="40" y="572" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjMzMyIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iNTcyIiB3aWR0aD0iLTIwIiAv
+PgogICAgICA8dnN0ZW0gcG9zPSI0NCIgd2lkdGg9
+IjE1MiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjU2
+IiB3aWR0aD0iMTUyIiAvPgogICAgPC9oaW50c2V0
+PgogIDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="infinity.sc" format="1">
+  <advance width="568"/>
+  <outline>
+    <contour>
+      <point x="160" y="416" type="curve" smooth="yes" name="hr00"/>
+      <point x="83" y="416"/>
+      <point x="28" y="369"/>
+      <point x="28" y="292" type="curve" smooth="yes"/>
+      <point x="28" y="215"/>
+      <point x="83" y="168"/>
+      <point x="160" y="168" type="curve" smooth="yes"/>
+      <point x="214" y="168"/>
+      <point x="253" y="193"/>
+      <point x="282" y="229" type="curve"/>
+      <point x="311" y="193"/>
+      <point x="349" y="168"/>
+      <point x="404" y="168" type="curve" smooth="yes"/>
+      <point x="481" y="168"/>
+      <point x="536" y="215"/>
+      <point x="536" y="292" type="curve" smooth="yes"/>
+      <point x="536" y="369"/>
+      <point x="481" y="416"/>
+      <point x="404" y="416" type="curve" smooth="yes"/>
+      <point x="349" y="416"/>
+      <point x="311" y="390"/>
+      <point x="282" y="355" type="curve"/>
+      <point x="253" y="390"/>
+      <point x="214" y="416"/>
+    </contour>
+    <contour>
+      <point x="340" y="292" type="curve"/>
+      <point x="363" y="320"/>
+      <point x="379" y="331"/>
+      <point x="402" y="331" type="curve" smooth="yes"/>
+      <point x="425" y="331"/>
+      <point x="444" y="318"/>
+      <point x="444" y="292" type="curve" smooth="yes"/>
+      <point x="444" y="266"/>
+      <point x="425" y="253"/>
+      <point x="402" y="253" type="curve" smooth="yes"/>
+      <point x="379" y="253"/>
+      <point x="363" y="264"/>
+    </contour>
+    <contour>
+      <point x="224" y="292" type="curve"/>
+      <point x="201" y="264"/>
+      <point x="185" y="253"/>
+      <point x="162" y="253" type="curve" smooth="yes"/>
+      <point x="139" y="253"/>
+      <point x="120" y="266"/>
+      <point x="120" y="292" type="curve" smooth="yes"/>
+      <point x="120" y="318"/>
+      <point x="139" y="331"/>
+      <point x="162" y="331" type="curve" smooth="yes"/>
+      <point x="185" y="331"/>
+      <point x="201" y="320"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjE2OCIgd2lkdGg9Ijg1IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSIzMzEiIHdpZHRoPSI4NSIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMjgiIHdpZHRoPSI5
+MiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDQ0IiB3
+aWR0aD0iOTIiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+PC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>
