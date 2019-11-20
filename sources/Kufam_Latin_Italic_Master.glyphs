@@ -1,5 +1,5 @@
 {
-.appVersion = "1230";
+.appVersion = "1271";
 DisplayStrings = (
 G,
 "/idotaccent",
@@ -20,7 +20,8 @@ j,
 "/f_b/f_f_b/f_f_h/f_f_j/f_f_k/f_f_t/f_h/f_j/f_k/f_t/ff/ffi/ffl/t_f/t_t",
 "/fi",
 "/f_f  /fi  /fl  /f_f_i  /f_f_l  \012ff fi fl ffi ffl",
-" /ij \012ij"
+" /ij \012ij",
+ABC
 );
 classes = (
 {
@@ -1715,8 +1716,9 @@ note = uni00A0;
 unicode = 00A0;
 },
 {
+color = 9;
 glyphname = A;
-lastChange = "2019-01-11 13:56:50 +0000";
+lastChange = "2019-11-20 14:35:29 +0000";
 layers = (
 {
 anchors = (
@@ -59813,7 +59815,7 @@ rightKerningGroup = u.sc;
 },
 {
 glyphname = dzcaron.sc;
-lastChange = "2019-01-11 13:56:50 +0000";
+lastChange = "2019-11-20 14:39:21 +0000";
 layers = (
 {
 color = 4;
@@ -65304,7 +65306,7 @@ unicode = 0259;
 },
 {
 glyphname = DZcaron;
-lastChange = "2019-01-11 13:56:50 +0000";
+lastChange = "2019-11-20 14:39:21 +0000";
 layers = (
 {
 color = 4;
@@ -65415,7 +65417,7 @@ unicode = 01C6;
 },
 {
 glyphname = LJ;
-lastChange = "2019-01-11 13:56:50 +0000";
+lastChange = "2019-11-20 14:38:55 +0000";
 layers = (
 {
 color = 4;
@@ -114483,7 +114485,7 @@ rightKerningGroup = ampersand.sc;
 {
 color = 4;
 glyphname = DZ;
-lastChange = "2018-12-26 21:25:03 +0000";
+lastChange = "2019-11-20 14:38:55 +0000";
 layers = (
 {
 components = (
@@ -126526,7 +126528,7 @@ note = ordmasculine.sc;
 {
 color = 4;
 glyphname = dz.sc;
-lastChange = "2018-12-26 17:48:17 +0000";
+lastChange = "2019-11-20 14:38:55 +0000";
 layers = (
 {
 components = (
@@ -161483,6 +161485,9 @@ odieresis.sc = {
 backslash.sc = -60;
 slash.sc = -40;
 };
+oe = {
+backslash = -100;
+};
 ograve = {
 backslash = -100;
 };
@@ -161741,6 +161746,7 @@ oacute = -100;
 obreve = -100;
 ocircumflex = -100;
 odieresis = -100;
+oe = -100;
 ograve = -100;
 ohungarumlaut = -100;
 omacron = -100;
@@ -164133,6 +164139,9 @@ backslash = -100;
 };
 odieresis.sc = {
 backslash.sc = -48;
+};
+oe = {
+backslash = -96;
 };
 ograve = {
 backslash = -100;
