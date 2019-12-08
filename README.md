@@ -1,12 +1,5 @@
-**Kufam design info**
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
-
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
-
----
-
-## Edit a file
+## Kufam design information
 
 You’ll start by editing this README file to learn how to edit a file in Bitbucket.
 
@@ -19,7 +12,7 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 
 ---
 
-## Create a file
+## Kufam history
 
 Next, you’ll add a new file to this repository.
 
@@ -33,7 +26,7 @@ Before you move on, go ahead and explore the repository. You've already seen the
 
 ---
 
-## Clone a repository
+## Kufam language coverage
 
 Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
 
