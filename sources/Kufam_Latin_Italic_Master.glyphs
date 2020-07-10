@@ -1,5 +1,5 @@
 {
-.appVersion = "1286";
+.appVersion = "1342";
 DisplayStrings = (
 G,
 "/idotaccent",
@@ -19,13 +19,13 @@ j,
 "U/Uhorn/Uhorntilde",
 "/f_b/f_f_b/f_f_h/f_f_j/f_f_k/f_f_t/f_h/f_j/f_k/f_t/ff/ffi/ffl/t_f/t_t",
 "/fi",
-"/f_f  /fi  /fl  /f_f_i  /f_f_l  \012ff fi fl ffi ffl",
-" /ij \012ij",
+"/f_f/space/fi/space/fl/space/f_f_i/space/f_f_l/nbspace \012ff/space fi/space fl/space ffi/space ffl",
+"/space/ij \012ij",
 ABC,
 "/napostrophe",
 "/primemod/doubleprimemod",
 "/minute/second",
-"/f_f  /fi  /fl  /f_f_i  /f_f_l  /f_b  /f_f_b  /f_f_h  /f_f_j  /f_f_k  /f_f_t  /f_h  \012ff fi fl ffi ffl fb ffb ffh ffj ffk fft fh\012/f_j  /f_k  /f_t  /ff  /ffi  /ffl  /t_f  /t_t \012fj fk ft ff ffi ffl tf tt",
+"/f_f/space/fi/space/fl/space/f_f_i/space/f_f_l/space/f_b/space/f_f_b/space/f_f_h/space/f_f_j/space/f_f_k/space/f_f_t/space/f_h/space \012ff/space fi/space fl/space ffi/space ffl/space fb/space ffb/space ffh/space ffj/space ffk/space fft/space fh\012/f_j/space/f_k/space/f_t/space/ff/space/ffi/space/ffl/space/t_f/space/t_t \012fj/space fk/space ft/space ff/space ffi/space ffl/space tf/space tt",
 "/won"
 );
 classes = (
@@ -1217,9 +1217,18 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
 }
 );
-date = "2019-09-05 08:36:18 +0000";
+}
+);
+date = "2020-07-10 11:56:49 +0000";
 designer = "Artur Schmal";
 designerURL = "http://www.originaltype.com";
 familyName = Kufam;
@@ -159793,6 +159802,7 @@ backslash = -52;
 "@MMK_R_Y" = 20;
 "@MMK_R_a" = -36;
 "@MMK_R_a.sc" = -48;
+"@MMK_R_b" = 36;
 "@MMK_R_b.sc" = -8;
 "@MMK_R_c" = -12;
 "@MMK_R_c.sc" = -12;
@@ -159810,7 +159820,6 @@ imacron = 44;
 itilde = 52;
 jcircumflex = 44;
 slash = -60;
-"@MMK_R_b" = 36;
 };
 "@MMK_L_G" = {
 "@MMK_R_A" = 16;
@@ -159974,6 +159983,7 @@ slash = -68;
 "@MMK_R_a" = -80;
 "@MMK_R_a.sc" = -80;
 "@MMK_R_ampersand" = 16;
+"@MMK_R_b" = 56;
 "@MMK_R_b.sc" = -20;
 "@MMK_R_c" = -80;
 "@MMK_R_c.sc" = -60;
@@ -159995,13 +160005,12 @@ slash = -68;
 "@MMK_R_u.sc" = -16;
 "@MMK_R_z" = -40;
 backslash = 40;
+icircumflex = 56;
+idieresis = 56;
 imacron = 64;
 itilde = 60;
 jcircumflex = 44;
 slash = -100;
-"@MMK_R_b" = 56;
-icircumflex = 56;
-idieresis = 56;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_A" = -16;
@@ -160046,6 +160055,7 @@ idieresis = 56;
 "@MMK_R_Y" = 20;
 "@MMK_R_a" = -28;
 "@MMK_R_a.sc" = -16;
+"@MMK_R_b" = 40;
 "@MMK_R_c" = -12;
 "@MMK_R_c.sc" = -8;
 "@MMK_R_colon" = -20;
@@ -160065,7 +160075,6 @@ idieresis = 36;
 imacron = 32;
 itilde = 20;
 slash = -20;
-"@MMK_R_b" = 40;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -28;
@@ -160075,6 +160084,7 @@ slash = -20;
 "@MMK_R_Y" = 20;
 "@MMK_R_a" = -28;
 "@MMK_R_a.sc" = -32;
+"@MMK_R_b" = 36;
 "@MMK_R_b.sc" = -16;
 "@MMK_R_c" = -16;
 "@MMK_R_c.sc" = -20;
@@ -160090,12 +160100,11 @@ slash = -20;
 "@MMK_R_w" = 12;
 "@MMK_R_y.sc" = 24;
 backslash = 20;
+icircumflex = 36;
 idieresis = 32;
+imacron = 36;
 itilde = 32;
 slash = -20;
-"@MMK_R_b" = 36;
-icircumflex = 36;
-imacron = 36;
 };
 "@MMK_L_X" = {
 "@MMK_R_C" = -60;
@@ -160126,6 +160135,7 @@ backslash = 20;
 "@MMK_R_Y" = 20;
 "@MMK_R_a" = -72;
 "@MMK_R_a.sc" = -80;
+"@MMK_R_b" = 40;
 "@MMK_R_b.sc" = -32;
 "@MMK_R_c" = -80;
 "@MMK_R_c.sc" = -68;
@@ -160145,13 +160155,12 @@ backslash = 20;
 "@MMK_R_u.sc" = -36;
 "@MMK_R_z" = -28;
 backslash = 20;
+ibreve = 40;
+icircumflex = 40;
 idieresis = 56;
 imacron = 72;
 itilde = 56;
 slash = -80;
-"@MMK_R_b" = 40;
-ibreve = 40;
-icircumflex = 40;
 };
 "@MMK_L_Z" = {
 "@MMK_R_C" = -20;
@@ -160972,11 +160981,11 @@ backslash = {
 "@MMK_R_Y" = -80;
 "@MMK_R_asterisk" = -100;
 "@MMK_R_hyphen" = -60;
+"@MMK_R_hyphen.cap" = -100;
 "@MMK_R_quoteleft" = -100;
 "@MMK_R_quoteright" = -100;
 "@MMK_R_t" = -24;
 "@MMK_R_v" = -20;
-"@MMK_R_hyphen.cap" = -100;
 };
 backslash.sc = {
 "@MMK_R_c.sc" = -40;
@@ -160998,13 +161007,13 @@ slash = {
 "@MMK_R_a" = -100;
 "@MMK_R_c" = -100;
 "@MMK_R_hyphen" = -100;
+"@MMK_R_hyphen.cap" = -100;
 "@MMK_R_m" = -100;
 "@MMK_R_period" = -100;
 "@MMK_R_quotesinglbase" = -100;
 "@MMK_R_s" = -84;
 "@MMK_R_u" = -100;
 "@MMK_R_z" = -32;
-"@MMK_R_hyphen.cap" = -100;
 };
 slash.sc = {
 "@MMK_R_a.sc" = -72;
@@ -161366,6 +161375,7 @@ backslash = -16;
 "@MMK_R_a.sc" = -60;
 "@MMK_R_ampersand" = 16;
 "@MMK_R_asterisk" = 24;
+"@MMK_R_b" = 24;
 "@MMK_R_c" = -36;
 "@MMK_R_c.sc" = -20;
 "@MMK_R_colon" = 20;
@@ -161388,10 +161398,9 @@ backslash = -16;
 "@MMK_R_x" = 40;
 "@MMK_R_x.sc" = 20;
 "@MMK_R_y.sc" = 48;
+imacron = 24;
 itilde = 60;
 slash = -100;
-"@MMK_R_b" = 24;
-imacron = 24;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_A" = 4;
@@ -161545,6 +161554,7 @@ slash = -60;
 "@MMK_R_Z" = 12;
 "@MMK_R_a" = -60;
 "@MMK_R_a.sc" = -88;
+"@MMK_R_b" = 20;
 "@MMK_R_b.sc" = -28;
 "@MMK_R_c" = -68;
 "@MMK_R_c.sc" = -68;
@@ -161568,9 +161578,8 @@ slash = -60;
 "@MMK_R_y.sc" = 12;
 "@MMK_R_z" = -36;
 "@MMK_R_z.sc" = -16;
-slash = -100;
-"@MMK_R_b" = 20;
 idieresis = 20;
+slash = -100;
 };
 "@MMK_L_Z" = {
 "@MMK_R_A" = 12;
@@ -162158,6 +162167,7 @@ slash.sc = -100;
 "@MMK_R_U" = -28;
 "@MMK_R_X" = 16;
 "@MMK_R_Y" = -100;
+"@MMK_R_b" = 40;
 "@MMK_R_c.sc" = -28;
 "@MMK_R_f" = -16;
 "@MMK_R_j.sc" = 16;
@@ -162168,7 +162178,6 @@ slash.sc = -100;
 "@MMK_R_y.sc" = -104;
 backslash = -100;
 backslash.sc = -100;
-"@MMK_R_b" = 40;
 j = 40;
 };
 "@MMK_L_quotesingle" = {
@@ -162535,13 +162544,13 @@ backslash = {
 "@MMK_R_Y" = -100;
 "@MMK_R_asterisk" = -100;
 "@MMK_R_hyphen" = -40;
+"@MMK_R_hyphen.cap" = -80;
 "@MMK_R_quoteleft" = -100;
 "@MMK_R_quoteright" = -100;
 "@MMK_R_t" = -40;
 "@MMK_R_v" = -20;
 "@MMK_R_w" = -20;
 "@MMK_R_x" = 32;
-"@MMK_R_hyphen.cap" = -80;
 };
 backslash.sc = {
 "@MMK_R_hyphen.sc" = -100;
@@ -162552,7 +162561,6 @@ backslash.sc = {
 "@MMK_R_y.sc" = -56;
 };
 slash = {
-ae = -100;
 "@MMK_R_A" = -60;
 "@MMK_R_C" = -44;
 "@MMK_R_J" = -76;
@@ -162560,6 +162568,7 @@ ae = -100;
 "@MMK_R_a" = -72;
 "@MMK_R_c" = -100;
 "@MMK_R_hyphen" = -100;
+"@MMK_R_hyphen.cap" = -100;
 "@MMK_R_m" = -80;
 "@MMK_R_period" = -100;
 "@MMK_R_quotesinglbase" = -100;
@@ -162569,7 +162578,7 @@ ae = -100;
 "@MMK_R_w" = -28;
 "@MMK_R_x" = -32;
 "@MMK_R_z" = -68;
-"@MMK_R_hyphen.cap" = -100;
+ae = -100;
 };
 slash.sc = {
 "@MMK_R_a.sc" = -60;
