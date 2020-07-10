@@ -11,4 +11,4 @@ Kufam was conceived within the framework of The typographic matchmaking 2.0 proj
 
 In 2014 Kufam was published on the now defunct type label OurType, where the font development team expanded the characterset from Standard to Pro and remastered the fonts. Kufam was available on OurType until 2017.
 
-From 2018 Kufam was reworked to meet Google Fonts Latin Expert and Arabic charactersets and in 2019 Kufam was made available on Google Fonts.
+From 2018 Kufam was reworked to meet Google Fonts Latin Expert and Arabic charactersets and in 2020 Kufam was made available on Google Fonts.
