@@ -1,7 +1,15 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"/meem-ar/jeem-ar/hehDoachashmee-ar/yehbarree-ar"
+"/yeh-ar/hah-ar/yeh-ar/alef-ar",
+"/lam_hah-ar/_alefMaksura_hah-ar.2.init",
+"/behDotless-ar.init.h1/hah-ar.medi.h2/space/lam-ar.init.h1/hah-ar.medi.h2 \012/lam_hah-ar/_alefMaksura_hah-ar.2.init \012",
+"/lam-ar.init.h1",
+"/hahTahTwodotshorizontalabove-ar.medi/hahTahTwodotshorizontalbelow-ar.medi.h2",
+"/hahTahTwodotshorizontalbelow-ar.medi.h2",
+"/hahFourbelow-ar.medi",
+"",
+"/behDotless-ar.init.h1/jeem-ar.medi.h2/behDotless-ar.init.h1/tcheh-ar.medi.h2/behDotless-ar.init.h1/tcheheh-ar.medi.h2/behDotless-ar.init.h1/nyeh-ar.medi.h2/behDotless-ar.init.h1/dyeh-ar.medi.h2/behDotless-ar.init.h1/hah-ar.medi.h2/behDotless-ar.init.h1/hahHamzaabove-ar.medi.h2/behDotless-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/behDotless-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/behDotless-ar.init.h1/hahThreedotsabove-ar.medi.h2/behDotless-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/behDotless-ar.init.h1/khah-ar.medi.h2/behDotless-ar.init.h1/hahTahbelow-ar.medi.h2/behDotless-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/behDotless-ar.init.h1/hahFourbelow-ar.medi.h2/behDotless-ar.init.h1/hahTahabove-ar.medi.h2/beh-ar.init.h1/jeem-ar.medi.h2/beh-ar.init.h1/tcheh-ar.medi.h2/beh-ar.init.h1/tcheheh-ar.medi.h2/beh-ar.init.h1/nyeh-ar.medi.h2/beh-ar.init.h1/dyeh-ar.medi.h2/beh-ar.init.h1/hah-ar.medi.h2/beh-ar.init.h1/hahHamzaabove-ar.medi.h2/beh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/beh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/beh-ar.init.h1/hahThreedotsabove-ar.medi.h2/beh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/beh-ar.init.h1/khah-ar.medi.h2/beh-ar.init.h1/hahTahbelow-ar.medi.h2/beh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/beh-ar.init.h1/hahFourbelow-ar.medi.h2/beh-ar.init.h1/hahTahabove-ar.medi.h2/peh-ar.init.h1/jeem-ar.medi.h2/behDotless-ar.init.h1/peh-ar.init.h1/tcheh-ar.medi.h2/peh-ar.init.h1/tcheheh-ar.medi.h2/peh-ar.init.h1/nyeh-ar.medi.h2/peh-ar.init.h1/dyeh-ar.medi.h2/peh-ar.init.h1/hah-ar.medi.h2/peh-ar.init.h1/hahHamzaabove-ar.medi.h2/peh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/peh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/peh-ar.init.h1/hahThreedotsabove-ar.medi.h2/peh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/peh-ar.init.h1/khah-ar.medi.h2/peh-ar.init.h1/hahTahbelow-ar.medi.h2/peh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/peh-ar.init.h1/hahFourbelow-ar.medi.h2/peh-ar.init.h1/hahTahabove-ar.medi.h2/beeh-ar.init.h1/jeem-ar.medi.h2/beeh-ar.init.h1/tcheh-ar.medi.h2/beeh-ar.init.h1/tcheheh-ar.medi.h2/beeh-ar.init.h1/nyeh-ar.medi.h2/beeh-ar.init.h1/dyeh-ar.medi.h2/beeh-ar.init.h1/hah-ar.medi.h2/beeh-ar.init.h1/hahHamzaabove-ar.medi.h2/beeh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/beeh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/beeh-ar.init.h1/hahThreedotsabove-ar.medi.h2/beeh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/beeh-ar.init.h1/khah-ar.medi.h2/beeh-ar.init.h1/hahTahbelow-ar.medi.h2/beeh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/beeh-ar.init.h1/hahFourbelow-ar.medi.h2/beeh-ar.init.h1/hahTahabove-ar.medi.h2/beheh-ar.init.h1/jeem-ar.medi.h2/beheh-ar.init.h1/tcheh-ar.medi.h2/beheh-ar.init.h1/tcheheh-ar.medi.h2/beheh-ar.init.h1/nyeh-ar.medi.h2/beheh-ar.init.h1/dyeh-ar.medi.h2/beheh-ar.init.h1/hah-ar.medi.h2/beheh-ar.init.h1/hahHamzaabove-ar.medi.h2/beheh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/beheh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/beheh-ar.init.h1/hahThreedotsabove-ar.medi.h2/beheh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/beheh-ar.init.h1/khah-ar.medi.h2/beheh-ar.init.h1/hahTahbelow-ar.medi.h2/beheh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/beheh-ar.init.h1/hahFourbelow-ar.medi.h2/beheh-ar.init.h1/hahTahabove-ar.medi.h2/alefMaksura-ar.init.h1/jeem-ar.medi.h2/alefMaksura-ar.init.h1/tcheh-ar.medi.h2/alefMaksura-ar.init.h1/tcheheh-ar.medi.h2/alefMaksura-ar.init.h1/nyeh-ar.medi.h2/alefMaksura-ar.init.h1/dyeh-ar.medi.h2/alefMaksura-ar.init.h1/hah-ar.medi.h2/alefMaksura-ar.init.h1/hahHamzaabove-ar.medi.h2/alefMaksura-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/alefMaksura-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/alefMaksura-ar.init.h1/hahThreedotsabove-ar.medi.h2/alefMaksura-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/alefMaksura-ar.init.h1/khah-ar.medi.h2/alefMaksura-ar.init.h1/hahTahbelow-ar.medi.h2/alefMaksura-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/alefMaksura-ar.init.h1/hahFourbelow-ar.medi.h2/alefMaksura-ar.init.h1/hahTahabove-ar.medi.h2/teh-ar.init.h1/jeem-ar.medi.h2/teh-ar.init.h1/tcheh-ar.medi.h2/teh-ar.init.h1/tcheheh-ar.medi.h2/teh-ar.init.h1/nyeh-ar.medi.h2/teh-ar.init.h1/dyeh-ar.medi.h2/teh-ar.init.h1/hah-ar.medi.h2/teh-ar.init.h1/hahHamzaabove-ar.medi.h2/teh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/teh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/teh-ar.init.h1/hahThreedotsabove-ar.medi.h2/teh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/teh-ar.init.h1/khah-ar.medi.h2/teh-ar.init.h1/hahTahbelow-ar.medi.h2/teh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/teh-ar.init.h1/hahFourbelow-ar.medi.h2/teh-ar.init.h1/hahTahabove-ar.medi.h2/tehRing-ar.init.h1/jeem-ar.medi.h2/tehRing-ar.init.h1/tcheh-ar.medi.h2/tehRing-ar.init.h1/tcheheh-ar.medi.h2/tehRing-ar.init.h1/nyeh-ar.medi.h2/tehRing-ar.init.h1/dyeh-ar.medi.h2/tehRing-ar.init.h1/hah-ar.medi.h2/tehRing-ar.init.h1/hahHamzaabove-ar.medi.h2/tehRing-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/tehRing-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/tehRing-ar.init.h1/hahThreedotsabove-ar.medi.h2/tehRing-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/tehRing-ar.init.h1/khah-ar.medi.h2/tehRing-ar.init.h1/hahTahbelow-ar.medi.h2/tehRing-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/tehRing-ar.init.h1/hahFourbelow-ar.medi.h2/tehRing-ar.init.h1/hahTahabove-ar.medi.h2/tehThreedotsdown-ar.init.h1/jeem-ar.medi.h2/tehThreedotsdown-ar.init.h1/tcheh-ar.medi.h2/tehThreedotsdown-ar.init.h1/tcheheh-ar.medi.h2/tehThreedotsdown-ar.init.h1/nyeh-ar.medi.h2/tehThreedotsdown-ar.init.h1/dyeh-ar.medi.h2/tehThreedotsdown-ar.init.h1/hah-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahHamzaabove-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahThreedotsabove-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/tehThreedotsdown-ar.init.h1/khah-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahTahbelow-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahFourbelow-ar.medi.h2/tehThreedotsdown-ar.init.h1/hahTahabove-ar.medi.h2/theh-ar.init.h1/jeem-ar.medi.h2/theh-ar.init.h1/tcheh-ar.medi.h2/theh-ar.init.h1/tcheheh-ar.medi.h2/theh-ar.init.h1/nyeh-ar.medi.h2/theh-ar.init.h1/dyeh-ar.medi.h2/theh-ar.init.h1/hah-ar.medi.h2/theh-ar.init.h1/hahHamzaabove-ar.medi.h2/theh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/theh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/theh-ar.init.h1/hahThreedotsabove-ar.medi.h2/theh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/theh-ar.init.h1/khah-ar.medi.h2/theh-ar.init.h1/hahTahbelow-ar.medi.h2/theh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/theh-ar.init.h1/hahFourbelow-ar.medi.h2/theh-ar.init.h1/hahTahabove-ar.medi.h2/tteh-ar.init.h1/jeem-ar.medi.h2/tteh-ar.init.h1/tcheh-ar.medi.h2/tteh-ar.init.h1/tcheheh-ar.medi.h2/tteh-ar.init.h1/nyeh-ar.medi.h2/tteh-ar.init.h1/dyeh-ar.medi.h2/tteh-ar.init.h1/hah-ar.medi.h2/tteh-ar.init.h1/hahHamzaabove-ar.medi.h2/tteh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/tteh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/tteh-ar.init.h1/hahThreedotsabove-ar.medi.h2/tteh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/tteh-ar.init.h1/khah-ar.medi.h2/tteh-ar.init.h1/hahTahbelow-ar.medi.h2/tteh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/tteh-ar.init.h1/hahFourbelow-ar.medi.h2/tteh-ar.init.h1/hahTahabove-ar.medi.h2/tteheh-ar.init.h1/jeem-ar.medi.h2/tteheh-ar.init.h1/tcheh-ar.medi.h2/tteheh-ar.init.h1/tcheheh-ar.medi.h2/tteheh-ar.init.h1/nyeh-ar.medi.h2/tteheh-ar.init.h1/dyeh-ar.medi.h2/tteheh-ar.init.h1/hah-ar.medi.h2/tteheh-ar.init.h1/hahHamzaabove-ar.medi.h2/tteheh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/tteheh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/tteheh-ar.init.h1/hahThreedotsabove-ar.medi.h2/tteheh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/tteheh-ar.init.h1/khah-ar.medi.h2/tteheh-ar.init.h1/hahTahbelow-ar.medi.h2/tteheh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/tteheh-ar.init.h1/hahFourbelow-ar.medi.h2/tteheh-ar.init.h1/hahTahabove-ar.medi.h2/teheh-ar.init.h1/jeem-ar.medi.h2/teheh-ar.init.h1/tcheh-ar.medi.h2/teheh-ar.init.h1/tcheheh-ar.medi.h2/teheh-ar.init.h1/nyeh-ar.medi.h2/teheh-ar.init.h1/dyeh-ar.medi.h2/teheh-ar.init.h1/hah-ar.medi.h2/teheh-ar.init.h1/hahHamzaabove-ar.medi.h2/teheh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/teheh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/teheh-ar.init.h1/hahThreedotsabove-ar.medi.h2/teheh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/teheh-ar.init.h1/khah-ar.medi.h2/teheh-ar.init.h1/hahTahbelow-ar.medi.h2/teheh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/teheh-ar.init.h1/hahFourbelow-ar.medi.h2/teheh-ar.init.h1/hahTahabove-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/jeem-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/tcheh-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/tcheheh-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/nyeh-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/dyeh-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hah-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hahHamzaabove-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hahThreedotsabove-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/khah-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hahTahbelow-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/behThreedotshorizontalbelow-ar.init.h1/hahFourbelow-ar.medi.h2/behDotless-ar.init.h1/behThreedotshorizontalbelow-ar.init.h1/hahTahabove-ar.medi.h2/behThreedotsupbelow-ar.init.h1/jeem-ar.medi.h2/behThreedotsupbelow-ar.init.h1/tcheh-ar.medi.h2/behThreedotsupbelow-ar.init.h1/tcheheh-ar.medi.h2/behThreedotsupbelow-ar.init.h1/nyeh-ar.medi.h2/behThreedotsupbelow-ar.init.h1/dyeh-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hah-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahHamzaabove-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahThreedotsabove-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/behThreedotsupbelow-ar.init.h1/khah-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahTahbelow-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahFourbelow-ar.medi.h2/behThreedotsupbelow-ar.init.h1/hahTahabove-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/jeem-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/tcheh-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/tcheheh-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/nyeh-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/dyeh-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hah-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahHamzaabove-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahThreedotsabove-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/khah-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahTahbelow-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahFourbelow-ar.medi.h2/tehThreedotsupbelow-ar.init.h1/hahTahabove-ar.medi.h2/behVinvertedbelow-ar.init.h1/jeem-ar.medi.h2/behVinvertedbelow-ar.init.h1/tcheh-ar.medi.h2/behVinvertedbelow-ar.init.h1/tcheheh-ar.medi.h2/behVinvertedbelow-ar.init.h1/nyeh-ar.medi.h2/behVinvertedbelow-ar.init.h1/dyeh-ar.medi.h2/behVinvertedbelow-ar.init.h1/hah-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahHamzaabove-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahThreedotsabove-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/behVinvertedbelow-ar.init.h1/khah-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahTahbelow-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahFourbelow-ar.medi.h2/behVinvertedbelow-ar.init.h1/hahTahabove-ar.medi.h2/behVabove-ar.init.h1/jeem-ar.medi.h2/behVabove-ar.init.h1/tcheh-ar.medi.h2/behVabove-ar.init.h1/tcheheh-ar.medi.h2/behVabove-ar.init.h1/nyeh-ar.medi.h2/behVabove-ar.init.h1/dyeh-ar.medi.h2/behVabove-ar.init.h1/hah-ar.medi.h2/behVabove-ar.init.h1/hahHamzaabove-ar.medi.h2/behVabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/behVabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/behVabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/behVabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/behVabove-ar.init.h1/khah-ar.medi.h2/behVabove-ar.init.h1/hahTahbelow-ar.medi.h2/behVabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/behVabove-ar.init.h1/hahFourbelow-ar.medi.h2/behVabove-ar.init.h1/hahTahabove-ar.medi.h2/behVbelow-ar.init.h1/jeem-ar.medi.h2/behVbelow-ar.init.h1/tcheh-ar.medi.h2/behVbelow-ar.init.h1/tcheheh-ar.medi.h2/behVbelow-ar.init.h1/nyeh-ar.medi.h2/behVbelow-ar.init.h1/dyeh-ar.medi.h2/behVbelow-ar.init.h1/hah-ar.medi.h2/behVbelow-ar.init.h1/hahHamzaabove-ar.medi.h2/behVbelow-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/behVbelow-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/behVbelow-ar.init.h1/hahThreedotsabove-ar.medi.h2/behVbelow-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/behVbelow-ar.init.h1/khah-ar.medi.h2/behVbelow-ar.init.h1/hahTahbelow-ar.medi.h2/behVbelow-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/behVbelow-ar.init.h1/hahFourbelow-ar.medi.h2/behVbelow-ar.init.h1/hahTahabove-ar.medi.h2/lam-ar.init.h1/jeem-ar.medi.h2/lam-ar.init.h1/tcheh-ar.medi.h2/lam-ar.init.h1/tcheheh-ar.medi.h2/lam-ar.init.h1/nyeh-ar.medi.h2/lam-ar.init.h1/dyeh-ar.medi.h2/lam-ar.init.h1/hah-ar.medi.h2/lam-ar.init.h1/hahHamzaabove-ar.medi.h2/lam-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/lam-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/lam-ar.init.h1/hahThreedotsabove-ar.medi.h2/lam-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/lam-ar.init.h1/khah-ar.medi.h2/lam-ar.init.h1/hahTahbelow-ar.medi.h2/lam-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/lam-ar.init.h1/hahFourbelow-ar.medi.h2/lam-ar.init.h1/hahTahabove-ar.medi.h2/lamVabove-ar.init.h1/jeem-ar.medi.h2/lamVabove-ar.init.h1/tcheh-ar.medi.h2/lamVabove-ar.init.h1/tcheheh-ar.medi.h2/lamVabove-ar.init.h1/nyeh-ar.medi.h2/lamVabove-ar.init.h1/dyeh-ar.medi.h2/lamVabove-ar.init.h1/hah-ar.medi.h2/lamVabove-ar.init.h1/hahHamzaabove-ar.medi.h2/lamVabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/lamVabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/lamVabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/lamVabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/lamVabove-ar.init.h1/khah-ar.medi.h2/lamVabove-ar.init.h1/hahTahbelow-ar.medi.h2/lamVabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/lamVabove-ar.init.h1/hahFourbelow-ar.medi.h2/lamVabove-ar.init.h1/hahTahabove-ar.medi.h2/lamDotabove-ar.init.h1/jeem-ar.medi.h2/lamDotabove-ar.init.h1/tcheh-ar.medi.h2/lamDotabove-ar.init.h1/tcheheh-ar.medi.h2/lamDotabove-ar.init.h1/nyeh-ar.medi.h2/lamDotabove-ar.init.h1/dyeh-ar.medi.h2/lamDotabove-ar.init.h1/hah-ar.medi.h2/lamDotabove-ar.init.h1/hahHamzaabove-ar.medi.h2/lamDotabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/lamDotabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/lamDotabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/lamDotabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/lamDotabove-ar.init.h1/khah-ar.medi.h2/lamDotabove-ar.init.h1/hahTahbelow-ar.medi.h2/lamDotabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/lamDotabove-ar.init.h1/hahFourbelow-ar.medi.h2/lamDotabove-ar.init.h1/hahTahabove-ar.medi.h2/lamThreedotsabove-ar.init.h1/jeem-ar.medi.h2/lamThreedotsabove-ar.init.h1/tcheh-ar.medi.h2/lamThreedotsabove-ar.init.h1/tcheheh-ar.medi.h2/lamThreedotsabove-ar.init.h1/nyeh-ar.medi.h2/lamThreedotsabove-ar.init.h1/dyeh-ar.medi.h2/lamThreedotsabove-ar.init.h1/hah-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahHamzaabove-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/lamThreedotsabove-ar.init.h1/khah-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahTahbelow-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahFourbelow-ar.medi.h2/lamThreedotsabove-ar.init.h1/hahTahabove-ar.medi.h2/lamThreedotsbelow-ar.init.h1/jeem-ar.medi.h2/lamThreedotsbelow-ar.init.h1/tcheh-ar.medi.h2/lamThreedotsbelow-ar.init.h1/tcheheh-ar.medi.h2/lamThreedotsbelow-ar.init.h1/nyeh-ar.medi.h2/lamThreedotsbelow-ar.init.h1/dyeh-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hah-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahHamzaabove-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahThreedotsabove-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/lamThreedotsbelow-ar.init.h1/khah-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahTahbelow-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahFourbelow-ar.medi.h2/lamThreedotsbelow-ar.init.h1/hahTahabove-ar.medi.h2/noon-ar.init.h1/jeem-ar.medi.h2/noon-ar.init.h1/tcheh-ar.medi.h2/noon-ar.init.h1/tcheheh-ar.medi.h2/noon-ar.init.h1/nyeh-ar.medi.h2/noon-ar.init.h1/dyeh-ar.medi.h2/noon-ar.init.h1/hah-ar.medi.h2/noon-ar.init.h1/hahHamzaabove-ar.medi.h2/noon-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/noon-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/noon-ar.init.h1/hahThreedotsabove-ar.medi.h2/noon-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/noon-ar.init.h1/khah-ar.medi.h2/noon-ar.init.h1/hahTahbelow-ar.medi.h2/noon-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/noon-ar.init.h1/hahFourbelow-ar.medi.h2/noon-ar.init.h1/hahTahabove-ar.medi.h2/noonDotbelow-ar.init.h1/jeem-ar.medi.h2/noonDotbelow-ar.init.h1/tcheh-ar.medi.h2/noonDotbelow-ar.init.h1/tcheheh-ar.medi.h2/noonDotbelow-ar.init.h1/nyeh-ar.medi.h2/noonDotbelow-ar.init.h1/dyeh-ar.medi.h2/noonDotbelow-ar.init.h1/hah-ar.medi.h2/noonDotbelow-ar.init.h1/hahHamzaabove-ar.medi.h2/noonDotbelow-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/noonDotbelow-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/noonDotbelow-ar.init.h1/hahThreedotsabove-ar.medi.h2/noonDotbelow-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/noonDotbelow-ar.init.h1/khah-ar.medi.h2/noonDotbelow-ar.init.h1/hahTahbelow-ar.medi.h2/noonDotbelow-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/noonDotbelow-ar.init.h1/hahFourbelow-ar.medi.h2/noonDotbelow-ar.init.h1/hahTahabove-ar.medi.h2/noonghunna-ar.init.h1/jeem-ar.medi.h2/noonghunna-ar.init.h1/tcheh-ar.medi.h2/noonghunna-ar.init.h1/tcheheh-ar.medi.h2/noonghunna-ar.init.h1/nyeh-ar.medi.h2/noonghunna-ar.init.h1/dyeh-ar.medi.h2/noonghunna-ar.init.h1/hah-ar.medi.h2/noonghunna-ar.init.h1/hahHamzaabove-ar.medi.h2/noonghunna-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/noonghunna-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/noonghunna-ar.init.h1/hahThreedotsabove-ar.medi.h2/noonghunna-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/noonghunna-ar.init.h1/khah-ar.medi.h2/noonghunna-ar.init.h1/hahTahbelow-ar.medi.h2/noonghunna-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/noonghunna-ar.init.h1/hahFourbelow-ar.medi.h2/noonghunna-ar.init.h1/hahTahabove-ar.medi.h2/noonRing-ar.init.h1/jeem-ar.medi.h2/noonRing-ar.init.h1/tcheh-ar.medi.h2/noonRing-ar.init.h1/tcheheh-ar.medi.h2/noonRing-ar.init.h1/nyeh-ar.medi.h2/noonRing-ar.init.h1/dyeh-ar.medi.h2/noonRing-ar.init.h1/hah-ar.medi.h2/noonRing-ar.init.h1/hahHamzaabove-ar.medi.h2/noonRing-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/noonRing-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/noonRing-ar.init.h1/hahThreedotsabove-ar.medi.h2/noonRing-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/noonRing-ar.init.h1/khah-ar.medi.h2/noonRing-ar.init.h1/hahTahbelow-ar.medi.h2/noonRing-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/noonRing-ar.init.h1/hahFourbelow-ar.medi.h2/noonRing-ar.init.h1/hahTahabove-ar.medi.h2/hehgoal-ar.init.h1/jeem-ar.medi.h2/hehgoal-ar.init.h1/tcheh-ar.medi.h2/hehgoal-ar.init.h1/tcheheh-ar.medi.h2/hehgoal-ar.init.h1/nyeh-ar.medi.h2/hehgoal-ar.init.h1/dyeh-ar.medi.h2/hehgoal-ar.init.h1/hah-ar.medi.h2/hehgoal-ar.init.h1/hahHamzaabove-ar.medi.h2/hehgoal-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/hehgoal-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/hehgoal-ar.init.h1/hahThreedotsabove-ar.medi.h2/hehgoal-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/hehgoal-ar.init.h1/khah-ar.medi.h2/hehgoal-ar.init.h1/hahTahbelow-ar.medi.h2/hehgoal-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/hehgoal-ar.init.h1/hahFourbelow-ar.medi.h2/hehgoal-ar.init.h1/hahTahabove-ar.medi.h2/yeh-ar.init.h1/jeem-ar.medi.h2/yeh-ar.init.h1/tcheh-ar.medi.h2/yeh-ar.init.h1/tcheheh-ar.medi.h2/yeh-ar.init.h1/nyeh-ar.medi.h2/yeh-ar.init.h1/dyeh-ar.medi.h2/yeh-ar.init.h1/hah-ar.medi.h2/yeh-ar.init.h1/hahHamzaabove-ar.medi.h2/yeh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/yeh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yeh-ar.init.h1/hahThreedotsabove-ar.medi.h2/yeh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/yeh-ar.init.h1/khah-ar.medi.h2/yeh-ar.init.h1/hahTahbelow-ar.medi.h2/yeh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yeh-ar.init.h1/hahFourbelow-ar.medi.h2/yeh-ar.init.h1/hahTahabove-ar.medi.h2/yehHamzaabove-ar.init.h1/jeem-ar.medi.h2/yehHamzaabove-ar.init.h1/tcheh-ar.medi.h2/yehHamzaabove-ar.init.h1/tcheheh-ar.medi.h2/yehHamzaabove-ar.init.h1/nyeh-ar.medi.h2/yehHamzaabove-ar.init.h1/dyeh-ar.medi.h2/yehHamzaabove-ar.init.h1/hah-ar.medi.h2/yehHamzaabove-ar.init.h1/hahHamzaabove-ar.medi.h2/yehHamzaabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehHamzaabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehHamzaabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/yehHamzaabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/yehHamzaabove-ar.init.h1/khah-ar.medi.h2/yehHamzaabove-ar.init.h1/hahTahbelow-ar.medi.h2/yehHamzaabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehHamzaabove-ar.init.h1/hahFourbelow-ar.medi.h2/yehHamzaabove-ar.init.h1/hahTahabove-ar.medi.h2/yehVabove-ar.init.h1/jeem-ar.medi.h2/yehVabove-ar.init.h1/tcheh-ar.medi.h2/yehVabove-ar.init.h1/tcheheh-ar.medi.h2/yehVabove-ar.init.h1/nyeh-ar.medi.h2/yehVabove-ar.init.h1/dyeh-ar.medi.h2/yehVabove-ar.init.h1/hah-ar.medi.h2/yehVabove-ar.init.h1/hahHamzaabove-ar.medi.h2/yehVabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehVabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehVabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/yehVabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/yehVabove-ar.init.h1/khah-ar.medi.h2/yehVabove-ar.init.h1/hahTahbelow-ar.medi.h2/yehVabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehVabove-ar.init.h1/hahFourbelow-ar.medi.h2/yehVabove-ar.init.h1/hahTahabove-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/jeem-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/tcheh-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/tcheheh-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/nyeh-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/dyeh-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hah-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahHamzaabove-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/khah-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahTahbelow-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahFourbelow-ar.medi.h2/yehTwodotsbelowHamzaabove-ar.init.h1/hahTahabove-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/jeem-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/tcheh-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/tcheheh-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/nyeh-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/dyeh-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hah-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahHamzaabove-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/khah-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahTahbelow-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahFourbelow-ar.medi.h2/yehTwodotsbelowDotabove-ar.init.h1/hahTahabove-ar.medi.h2/yeh-farsi.init.h1/jeem-ar.medi.h2/yeh-farsi.init.h1/tcheh-ar.medi.h2/yeh-farsi.init.h1/tcheheh-ar.medi.h2/yeh-farsi.init.h1/nyeh-ar.medi.h2/yeh-farsi.init.h1/dyeh-ar.medi.h2/yeh-farsi.init.h1/hah-ar.medi.h2/yeh-farsi.init.h1/hahHamzaabove-ar.medi.h2/yeh-farsi.init.h1/hahTwodotsverticalabove-ar.medi.h2/yeh-farsi.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yeh-farsi.init.h1/hahThreedotsabove-ar.medi.h2/yeh-farsi.init.h1/hahThreedotsupbelow-ar.medi.h2/yeh-farsi.init.h1/khah-ar.medi.h2/yeh-farsi.init.h1/hahTahbelow-ar.medi.h2/yeh-farsi.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yeh-farsi.init.h1/hahFourbelow-ar.medi.h2/yeh-farsi.init.h1/hahTahabove-ar.medi.h2/yehTwodotsabove-farsi.init.h1/jeem-ar.medi.h2/yehTwodotsabove-farsi.init.h1/tcheh-ar.medi.h2/yehTwodotsabove-farsi.init.h1/tcheheh-ar.medi.h2/yehTwodotsabove-farsi.init.h1/nyeh-ar.medi.h2/yehTwodotsabove-farsi.init.h1/dyeh-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hah-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahHamzaabove-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahThreedotsabove-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahThreedotsupbelow-ar.medi.h2/yehTwodotsabove-farsi.init.h1/khah-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahTahbelow-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahFourbelow-ar.medi.h2/yehTwodotsabove-farsi.init.h1/hahTahabove-ar.medi.h2/yehTwoabove-farsi.init.h1/jeem-ar.medi.h2/yehTwoabove-farsi.init.h1/tcheh-ar.medi.h2/yehTwoabove-farsi.init.h1/tcheheh-ar.medi.h2/yehTwoabove-farsi.init.h1/nyeh-ar.medi.h2/yehTwoabove-farsi.init.h1/dyeh-ar.medi.h2/yehTwoabove-farsi.init.h1/hah-ar.medi.h2/yehTwoabove-farsi.init.h1/hahHamzaabove-ar.medi.h2/yehTwoabove-farsi.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehTwoabove-farsi.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehTwoabove-farsi.init.h1/hahThreedotsabove-ar.medi.h2/yehTwoabove-farsi.init.h1/hahThreedotsupbelow-ar.medi.h2/yehTwoabove-farsi.init.h1/khah-ar.medi.h2/yehTwoabove-farsi.init.h1/hahTahbelow-ar.medi.h2/yehTwoabove-farsi.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehTwoabove-farsi.init.h1/hahFourbelow-ar.medi.h2/yehTwoabove-farsi.init.h1/hahTahabove-ar.medi.h2/yehThreeabove-farsi.init.h1/jeem-ar.medi.h2/yehThreeabove-farsi.init.h1/tcheh-ar.medi.h2/yehThreeabove-farsi.init.h1/tcheheh-ar.medi.h2/yehThreeabove-farsi.init.h1/nyeh-ar.medi.h2/yehThreeabove-farsi.init.h1/dyeh-ar.medi.h2/yehThreeabove-farsi.init.h1/hah-ar.medi.h2/yehThreeabove-farsi.init.h1/hahHamzaabove-ar.medi.h2/yehThreeabove-farsi.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehThreeabove-farsi.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehThreeabove-farsi.init.h1/hahThreedotsabove-ar.medi.h2/yehThreeabove-farsi.init.h1/hahThreedotsupbelow-ar.medi.h2/yehThreeabove-farsi.init.h1/khah-ar.medi.h2/yehThreeabove-farsi.init.h1/hahTahbelow-ar.medi.h2/yehThreeabove-farsi.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehThreeabove-farsi.init.h1/hahFourbelow-ar.medi.h2/yehThreeabove-farsi.init.h1/hahTahabove-ar.medi.h2/yehFourbelow-farsi.init.h1/jeem-ar.medi.h2/yehFourbelow-farsi.init.h1/tcheh-ar.medi.h2/yehFourbelow-farsi.init.h1/tcheheh-ar.medi.h2/yehFourbelow-farsi.init.h1/nyeh-ar.medi.h2/yehFourbelow-farsi.init.h1/dyeh-ar.medi.h2/yehFourbelow-farsi.init.h1/hah-ar.medi.h2/yehFourbelow-farsi.init.h1/hahHamzaabove-ar.medi.h2/yehFourbelow-farsi.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehFourbelow-farsi.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehFourbelow-farsi.init.h1/hahThreedotsabove-ar.medi.h2/yehFourbelow-farsi.init.h1/hahThreedotsupbelow-ar.medi.h2/yehFourbelow-farsi.init.h1/khah-ar.medi.h2/yehFourbelow-farsi.init.h1/hahTahbelow-ar.medi.h2/yehFourbelow-farsi.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehFourbelow-farsi.init.h1/hahFourbelow-ar.medi.h2/yehFourbelow-farsi.init.h1/hahTahabove-ar.medi.h2/yehKashmiri-ar.init.h1/jeem-ar.medi.h2/yehKashmiri-ar.init.h1/tcheh-ar.medi.h2/yehKashmiri-ar.init.h1/tcheheh-ar.medi.h2/yehKashmiri-ar.init.h1/nyeh-ar.medi.h2/yehKashmiri-ar.init.h1/dyeh-ar.medi.h2/yehKashmiri-ar.init.h1/hah-ar.medi.h2/yehKashmiri-ar.init.h1/hahHamzaabove-ar.medi.h2/yehKashmiri-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehKashmiri-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehKashmiri-ar.init.h1/hahThreedotsabove-ar.medi.h2/yehKashmiri-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/yehKashmiri-ar.init.h1/khah-ar.medi.h2/yehKashmiri-ar.init.h1/hahTahbelow-ar.medi.h2/yehKashmiri-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehKashmiri-ar.init.h1/hahFourbelow-ar.medi.h2/yehKashmiri-ar.init.h1/hahTahabove-ar.medi.h2/e-ar.init.h1/jeem-ar.medi.h2/e-ar.init.h1/tcheh-ar.medi.h2/e-ar.init.h1/tcheheh-ar.medi.h2/e-ar.init.h1/nyeh-ar.medi.h2/e-ar.init.h1/dyeh-ar.medi.h2/e-ar.init.h1/hah-ar.medi.h2/e-ar.init.h1/hahHamzaabove-ar.medi.h2/e-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/e-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/e-ar.init.h1/hahThreedotsabove-ar.medi.h2/e-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/e-ar.init.h1/khah-ar.medi.h2/e-ar.init.h1/hahTahbelow-ar.medi.h2/e-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/e-ar.init.h1/hahFourbelow-ar.medi.h2/e-ar.init.h1/hahTahabove-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/jeem-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/tcheh-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/tcheheh-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/nyeh-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/dyeh-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hah-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahHamzaabove-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/khah-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahTahbelow-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahFourbelow-ar.medi.h2/yehbarreeTwoabove-ar.init.h1/hahTahabove-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/jeem-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/tcheh-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/tcheheh-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/nyeh-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/dyeh-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hah-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahHamzaabove-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/khah-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahTahbelow-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahFourbelow-ar.medi.h2/yehbarreeThreeabove-ar.init.h1/hahTahabove-ar.medi.h2/highhamzaYeh-ar.init.h1/jeem-ar.medi.h2/highhamzaYeh-ar.init.h1/tcheh-ar.medi.h2/highhamzaYeh-ar.init.h1/tcheheh-ar.medi.h2/highhamzaYeh-ar.init.h1/nyeh-ar.medi.h2/highhamzaYeh-ar.init.h1/dyeh-ar.medi.h2/highhamzaYeh-ar.init.h1/hah-ar.medi.h2/highhamzaYeh-ar.init.h1/hahHamzaabove-ar.medi.h2/highhamzaYeh-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/highhamzaYeh-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/highhamzaYeh-ar.init.h1/hahThreedotsabove-ar.medi.h2/highhamzaYeh-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/highhamzaYeh-ar.init.h1/khah-ar.medi.h2/highhamzaYeh-ar.init.h1/hahTahbelow-ar.medi.h2/highhamzaYeh-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/highhamzaYeh-ar.init.h1/hahFourbelow-ar.medi.h2/highhamzaYeh-ar.init.h1/hahTahabove-ar.medi.h2/noonTwodotsbelow-ar.init.h1/jeem-ar.medi.h2/noonTwodotsbelow-ar.init.h1/tcheh-ar.medi.h2/noonTwodotsbelow-ar.init.h1/tcheheh-ar.medi.h2/noonTwodotsbelow-ar.init.h1/nyeh-ar.medi.h2/noonTwodotsbelow-ar.init.h1/dyeh-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hah-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahHamzaabove-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahThreedotsabove-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/noonTwodotsbelow-ar.init.h1/khah-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahTahbelow-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahFourbelow-ar.medi.h2/noonTwodotsbelow-ar.init.h1/hahTahabove-ar.medi.h2/noonTahabove-ar.init.h1/jeem-ar.medi.h2/noonTahabove-ar.init.h1/tcheh-ar.medi.h2/noonTahabove-ar.init.h1/tcheheh-ar.medi.h2/noonTahabove-ar.init.h1/nyeh-ar.medi.h2/noonTahabove-ar.init.h1/dyeh-ar.medi.h2/noonTahabove-ar.init.h1/hah-ar.medi.h2/noonTahabove-ar.init.h1/hahHamzaabove-ar.medi.h2/noonTahabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/noonTahabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/noonTahabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/noonTahabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/noonTahabove-ar.init.h1/khah-ar.medi.h2/noonTahabove-ar.init.h1/hahTahbelow-ar.medi.h2/noonTahabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/noonTahabove-ar.init.h1/hahFourbelow-ar.medi.h2/noonTahabove-ar.init.h1/hahTahabove-ar.medi.h2/noonVabove-ar.init.h1/jeem-ar.medi.h2/noonVabove-ar.init.h1/tcheh-ar.medi.h2/noonVabove-ar.init.h1/tcheheh-ar.medi.h2/noonVabove-ar.init.h1/nyeh-ar.medi.h2/noonVabove-ar.init.h1/dyeh-ar.medi.h2/noonVabove-ar.init.h1/hah-ar.medi.h2/noonVabove-ar.init.h1/hahHamzaabove-ar.medi.h2/noonVabove-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/noonVabove-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/noonVabove-ar.init.h1/hahThreedotsabove-ar.medi.h2/noonVabove-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/noonVabove-ar.init.h1/khah-ar.medi.h2/noonVabove-ar.init.h1/hahTahbelow-ar.medi.h2/noonVabove-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/noonVabove-ar.init.h1/hahFourbelow-ar.medi.h2/noonVabove-ar.init.h1/hahTahabove-ar.medi.h2/lamBar-ar.init.h1/jeem-ar.medi.h2/lamBar-ar.init.h1/tcheh-ar.medi.h2/lamBar-ar.init.h1/tcheheh-ar.medi.h2/lamBar-ar.init.h1/nyeh-ar.medi.h2/lamBar-ar.init.h1/dyeh-ar.medi.h2/lamBar-ar.init.h1/hah-ar.medi.h2/lamBar-ar.init.h1/hahHamzaabove-ar.medi.h2/lamBar-ar.init.h1/hahTwodotsverticalabove-ar.medi.h2/lamBar-ar.init.h1/hahTwodotshorizontalabove-ar.medi.h2/lamBar-ar.init.h1/hahThreedotsabove-ar.medi.h2/lamBar-ar.init.h1/hahThreedotsupbelow-ar.medi.h2/lamBar-ar.init.h1/khah-ar.medi.h2/lamBar-ar.init.h1/hahTahbelow-ar.medi.h2/lamBar-ar.init.h1/hahTahTwodotshorizontalbelow-ar.medi.h2/lamBar-ar.init.h1/hahFourbelow-ar.medi.h2/lamBar-ar.init.h1/hahTahabove-ar.medi.h2 \012"
 );
 classes = (
 {
@@ -104,6 +112,22 @@ name = barree.fina.short4_context;
 {
 code = "space\012\012# waw\012waw-ar waw-ar.fina wawring-ar wawring-ar.fina wawTwodots-ar wawTwodots-ar.fina wawDotabove-ar wawDotabove-ar.fina wawHamzaabove-ar wawHamzaabove-ar.001 wawHamzaabove-ar.fina wawHamzaabove-ar.fina.001 wawTwoabove-ar wawTwoabove-ar.fina wawThreeAbove-ar wawThreeAbove-ar.fina wawDotcenter-ar wawDotcenter-ar.fina kirghizoe-ar kirghizoe-ar.fina oe-ar oe-ar.fina u-ar u-ar.fina yu-ar yu-ar.fina kirghizyu-ar kirghizyu-ar.fina ve-ar ve-ar.fina highhamzaWaw-ar highhamzaWaw-ar.fina uHamzaabove-ar uHamzaabove-ar.fina \012\012# teeth with bottom marks\012beh-ar.medi beh-ar.init peh-ar.medi peh-ar.init beeh-ar.medi beeh-ar.init beheh-ar.medi beheh-ar.init tehRing-ar.medi tehRing-ar.init behThreedotshorizontalbelow-ar.medi behThreedotshorizontalbelow-ar.init behThreedotsupbelow-ar.medi behThreedotsupbelow-ar.init tehThreedotsupbelow-ar.medi tehThreedotsupbelow-ar.init behTwodotsbelowDotabove-ar.medi behTwodotsbelowDotabove-ar.init behVinvertedbelow-ar.medi behVinvertedbelow-ar.init behVbelow-ar.medi behVbelow-ar.init noonDotbelow-ar.medi noonDotbelow-ar.init hehgoal-ar.init yeh-ar.medi yeh-ar.init yehVabove-ar.medi yehVabove-ar.init yehTwodotsbelowHamzaabove-ar.medi yehTwodotsbelowHamzaabove-ar.init yehTwodotsbelowDotabove-ar.medi yehTwodotsbelowDotabove-ar.init yehTwodotsabove-farsi.medi yehTwodotsabove-farsi.init yehThreedotsabove-farsi.medi yehThreedotsabove-farsi.init yehFourbelow-farsi.medi yehFourbelow-farsi.init yehKashmiri-ar.medi yehKashmiri-ar.init e-ar.medi e-ar.init noonTwodotsbelow-ar.medi noonTwodotsbelow-ar.init yeh-farsi.medi yeh-farsi.init ";
 name = barree.fina.short4_trigger;
+},
+{
+code = "behDotless-ar.init\012beh-ar.init\012peh-ar.init\012beeh-ar.init\012beheh-ar.init\012alefMaksura-ar.init\012teh-ar.init\012tehRing-ar.init\012tehThreedotsdown-ar.init\012theh-ar.init\012tteh-ar.init\012tteheh-ar.init\012teheh-ar.init\012behThreedotshorizontalbelow-ar.init\012behThreedotsupbelow-ar.init\012tehThreedotsupbelow-ar.init\012behVinvertedbelow-ar.init\012behVabove-ar.init\012behVbelow-ar.init\012lam-ar.init\012lamVabove-ar.init\012lamDotabove-ar.init\012lamThreedotsabove-ar.init\012lamThreedotsbelow-ar.init\012noon-ar.init\012noonDotbelow-ar.init\012noonghunna-ar.init\012noonRing-ar.init\012hehgoal-ar.init\012yeh-ar.init\012yehHamzaabove-ar.init\012yehVabove-ar.init\012yehTwodotsbelowHamzaabove-ar.init\012yehTwodotsbelowDotabove-ar.init\012yeh-farsi.init\012yehTwodotsabove-farsi.init\012yehTwoabove-farsi.init\012yehThreeabove-farsi.init\012yehFourbelow-farsi.init\012yehKashmiri-ar.init\012e-ar.init\012yehbarreeTwoabove-ar.init\012yehbarreeThreeabove-ar.init\012highhamzaYeh-ar.init\012noonTwodotsbelow-ar.init\012noonTahabove-ar.init\012noonVabove-ar.init\012lamBar-ar.init";
+name = "hah-first-source";
+},
+{
+code = "behDotless-ar.init.h1\012beh-ar.init.h1\012peh-ar.init.h1\012beeh-ar.init.h1\012beheh-ar.init.h1\012alefMaksura-ar.init.h1\012teh-ar.init.h1\012tehRing-ar.init.h1\012tehThreedotsdown-ar.init.h1\012theh-ar.init.h1\012tteh-ar.init.h1\012tteheh-ar.init.h1\012teheh-ar.init.h1\012behThreedotshorizontalbelow-ar.init.h1\012behThreedotsupbelow-ar.init.h1\012tehThreedotsupbelow-ar.init.h1\012behVinvertedbelow-ar.init.h1\012behVabove-ar.init.h1\012behVbelow-ar.init.h1\012lam-ar.init.h1\012lamVabove-ar.init.h1\012lamDotabove-ar.init.h1\012lamThreedotsabove-ar.init.h1\012lamThreedotsbelow-ar.init.h1\012noon-ar.init.h1\012noonDotbelow-ar.init.h1\012noonghunna-ar.init.h1\012noonRing-ar.init.h1\012hehgoal-ar.init.h1\012yeh-ar.init.h1\012yehHamzaabove-ar.init.h1\012yehVabove-ar.init.h1\012yehTwodotsbelowHamzaabove-ar.init.h1\012yehTwodotsbelowDotabove-ar.init.h1\012yeh-farsi.init.h1\012yehTwodotsabove-farsi.init.h1\012yehTwoabove-farsi.init.h1\012yehThreeabove-farsi.init.h1\012yehFourbelow-farsi.init.h1\012yehKashmiri-ar.init.h1\012e-ar.init.h1\012yehbarreeTwoabove-ar.init.h1\012yehbarreeThreeabove-ar.init.h1\012highhamzaYeh-ar.init.h1\012noonTwodotsbelow-ar.init.h1\012noonTahabove-ar.init.h1\012noonVabove-ar.init.h1\012lamBar-ar.init.h1\012";
+name = "hah-first-target";
+},
+{
+code = "jeem-ar.medi\012tcheh-ar.medi\012tcheheh-ar.medi\012nyeh-ar.medi\012dyeh-ar.medi\012hah-ar.medi\012hahHamzaabove-ar.medi\012hahTwodotsverticalabove-ar.medi\012hahTwodotshorizontalabove-ar.medi\012hahThreedotsabove-ar.medi\012hahThreedotsupbelow-ar.medi\012khah-ar.medi\012hahTahbelow-ar.medi\012hahTahTwodotshorizontalabove-ar.medi\012hahFourbelow-ar.medi\012hahTahabove-ar.medi\012";
+name = "hah-second-source";
+},
+{
+code = "jeem-ar.medi.h2\012tcheh-ar.medi.h2\012tcheheh-ar.medi.h2\012nyeh-ar.medi.h2\012dyeh-ar.medi.h2\012hah-ar.medi.h2\012hahHamzaabove-ar.medi.h2\012hahTwodotsverticalabove-ar.medi.h2\012hahTwodotshorizontalabove-ar.medi.h2\012hahThreedotsabove-ar.medi.h2\012hahThreedotsupbelow-ar.medi.h2\012khah-ar.medi.h2\012hahTahbelow-ar.medi.h2\012hahTahTwodotshorizontalbelow-ar.medi.h2\012hahFourbelow-ar.medi.h2\012hahTahabove-ar.medi.h2\012";
+name = "hah-second-target";
 }
 );
 copyright = "Copyright 2019 The Kufam Project Authors (https://github.com/originaltype/kufam)";
@@ -1255,7 +1279,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature subs;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature lnum;\012feature pnum;\012feature tnum;\012feature onum;\012feature c2sc;\012feature smcp;\012feature case;\012feature init;\012feature medi;\012feature fina;\012feature zero;\012feature hist;\012feature mgrk;\012feature salt;\012feature ss01;\012";
+code = "feature locl;\012feature subs;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature lnum;\012feature pnum;\012feature tnum;\012feature onum;\012feature calt;\012feature c2sc;\012feature smcp;\012feature case;\012feature init;\012feature medi;\012feature fina;\012feature zero;\012feature hist;\012feature mgrk;\012feature salt;\012feature ss01;\012";
 name = aalt;
 },
 {
@@ -1313,7 +1337,7 @@ code = "lookup OLDSTYLE_FIGURES {\012	sub @PropLining by @PropOld;\012	sub @TabL
 name = onum;
 },
 {
-code = "lookupflag IgnoreMarks RightToLeft;\012\012sub @barree.fina.short_trigger @barree.fina' by @barree.fina.short;\012sub @barree.fina.short2_trigger @barree.fina' by @barree.fina.short2;\012sub @barree.fina.short4_trigger @barree.fina.short4_context @barree.fina' by @barree.fina.short4;\012";
+code = "lookupflag IgnoreMarks RightToLeft;\012\012sub @barree.fina.short_trigger @barree.fina' by @barree.fina.short;\012sub @barree.fina.short2_trigger @barree.fina' by @barree.fina.short2;\012sub @barree.fina.short4_trigger @barree.fina.short4_context @barree.fina' by @barree.fina.short4;\012\012sub @hah-first-source' @hah-second-source by @hah-first-target;\012sub @hah-first-target @hah-second-source' by @hah-second-target;";
 name = calt;
 },
 {
@@ -1349,7 +1373,7 @@ code = "lookup rlig_arab_0 {\012	lookupflag IgnoreMarks RightToLeft;\012	script 
 name = rlig;
 },
 {
-code = "lookup DISCRETIONARY_LIGATURES {\012	sub f f b by f_f_b;\012	sub f f h by f_f_h;\012	sub f f j by f_f_j;\012	sub f f k by f_f_k;\012	sub f f t by f_f_t;\012	sub f b by f_b;\012	sub f h by f_h;\012	sub f j by f_j;\012	sub f k by f_k;\012	sub f t by f_t;\012	sub t f by t_f;\012	sub t t by t_t;\012} DISCRETIONARY_LIGATURES;\012\012lookup dlig_RTL {\012lookupflag IgnoreMarks RightToLeft;\012	sub lam-ar.init lam-ar.medi yeh-ar.fina by lam_lam_yeh-ar;\012	sub alefMaksura-ar.init jeem-ar.fina by alefMaksura_jeem-ar;\012	sub alefMaksura-ar.init khah-ar.fina by alefMaksura_khah-ar;\012	sub alefMaksura-ar.init tcheh-ar.fina by alefMaksura_tcheh-ar;\012	sub beh-ar.init hah-ar.fina by beh_hah-ar;\012	sub beh-ar.init jeem-ar.fina by beh_jeem-ar;\012	sub beh-ar.init khah-ar.fina by beh_khah-ar;\012	sub beh-ar.init tcheh-ar.fina by beh_tcheh-ar;\012	sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar;\012	sub feh-ar.init yeh-ar.fina by feh_yeh-ar;\012	sub lam-ar alef-ar.short by lam_alef-ar.short;\012	sub lam-ar.init hah-ar.fina by lam_hah-ar;\012	sub lam-ar.init jeem-ar.fina by lam_jeem-ar;\012	sub lam-ar.init khah-ar.fina by lam_khah-ar;\012	sub lam-ar.init lam-ar.fina by lam_lam-ar;\012	sub lam-ar.init tcheh-ar.fina by lam_tcheh-ar;\012	sub noon-ar.init hah-ar.fina by noon_hah-ar;\012	sub noon-ar.init jeem-ar.fina by noon_jeem-ar;\012	sub noon-ar.init khah-ar.fina by noon_khah-ar;\012	sub noon-ar.init tcheh-ar.fina by noon_tcheh-ar;\012	sub peh-ar.init hah-ar.fina by peh_hah-ar;\012	sub peh-ar.init jeem-ar.fina by peh_jeem-ar;\012	sub peh-ar.init khah-ar.fina by peh_khah-ar;\012	sub peh-ar.init tcheh-ar.fina by peh_tcheh-ar;\012	sub teh-ar.init hah-ar.fina by teh_hah-ar;\012	sub teh-ar.init jeem-ar.fina by teh_jeem-ar;\012	sub teh-ar.init khah-ar.fina by teh_khah-ar;\012	sub teh-ar.init tcheh-ar.fina by teh_tcheh-ar;\012	sub theh-ar.init hah-ar.fina by theh_hah-ar;\012	sub theh-ar.init jeem-ar.fina by theh_jeem-ar;\012	sub theh-ar.init khah-ar.fina by theh_khah-ar;\012	sub theh-ar.init tcheh-ar.fina by theh_tcheh-ar;\012	sub yehHamzaabove-ar.init hah-ar.fina by yehHamzaabove_hah-ar;\012	sub yehHamzaabove-ar.init jeem-ar.fina by yehHamzaabove_jeem-ar;\012	sub yehHamzaabove-ar.init khah-ar.fina by yehHamzaabove_khah-ar;\012	sub yehHamzaabove-ar.init tcheh-ar.fina by yehHamzaabove_tcheh-ar;\012	sub yeh-ar.init hah-ar.fina by yeh_hah-ar;\012	sub yeh-ar.init hamza-ar by yeh_hamza-ar;\012	sub yeh-ar.init jeem-ar.fina by yeh_jeem-ar;\012	sub yeh-ar.init khah-ar.fina by yeh_khah-ar;\012	sub yeh-ar.init tcheh-ar.fina by yeh_tcheh-ar;\012} dlig_RTL;\012";
+code = "lookup DISCRETIONARY_LIGATURES {\012	sub f f b by f_f_b;\012	sub f f h by f_f_h;\012	sub f f j by f_f_j;\012	sub f f k by f_f_k;\012	sub f f t by f_f_t;\012	sub f b by f_b;\012	sub f h by f_h;\012	sub f j by f_j;\012	sub f k by f_k;\012	sub f t by f_t;\012	sub t f by t_f;\012	sub t t by t_t;\012} DISCRETIONARY_LIGATURES;\012\012lookup dlig_RTL {\012lookupflag IgnoreMarks RightToLeft;\012	sub lam-ar.init lam-ar.medi yeh-ar.fina by lam_lam_yeh-ar;\012	sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar;\012	sub feh-ar.init yeh-ar.fina by feh_yeh-ar;\012	sub lam-ar alef-ar.short by lam_alef-ar.short;\012	sub lam-ar.init hah-ar.fina by lam_hah-ar;\012	sub lam-ar.init lam-ar.fina by lam_lam-ar;\012	sub yeh-ar.init hamza-ar by yeh_hamza-ar;\012} dlig_RTL;\012";
 name = dlig;
 },
 {
@@ -65079,6 +65103,106 @@ width = 316;
 note = uni066E.init;
 },
 {
+color = 1;
+glyphname = "behDotless-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{396, 565}";
+},
+{
+name = ring;
+position = "{240, 353}";
+},
+{
+name = top;
+position = "{257, 731}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+paths = (
+{
+closed = 1;
+nodes = (
+"-16 306 OFFCURVE",
+"21 299 OFFCURVE",
+"57 299 CURVE SMOOTH",
+"247 299 OFFCURVE",
+"365 388 OFFCURVE",
+"365 588 CURVE SMOOTH",
+"365 700 LINE",
+"353 700 LINE",
+"153 680 LINE",
+"153 544 LINE SMOOTH",
+"153 487 OFFCURVE",
+"150 454 OFFCURVE",
+"121 435 CURVE",
+"187 501 LINE",
+"155 466 OFFCURVE",
+"95 449 OFFCURVE",
+"33 448 CURVE SMOOTH",
+"-26 447 OFFCURVE",
+"-87 460 OFFCURVE",
+"-130 483 CURVE",
+"-56 317 LINE"
+);
+}
+);
+width = 423;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{334, 400}";
+},
+{
+name = ring;
+position = "{240, 353}";
+},
+{
+name = top;
+position = "{221, 620}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+paths = (
+{
+closed = 1;
+nodes = (
+"3 262 OFFCURVE",
+"33 256 OFFCURVE",
+"61 256 CURVE SMOOTH",
+"189 256 OFFCURVE",
+"273 322 OFFCURVE",
+"273 520 CURVE SMOOTH",
+"273 640 LINE",
+"265 640 LINE",
+"181 628 LINE",
+"181 484 LINE SMOOTH",
+"181 418 OFFCURVE",
+"177 384 OFFCURVE",
+"168 350 CURVE",
+"189 385 LINE",
+"159 348 OFFCURVE",
+"110 331 OFFCURVE",
+"57 331 CURVE SMOOTH",
+"-4 331 OFFCURVE",
+"-69 354 OFFCURVE",
+"-116 396 CURVE",
+"-26 279 LINE"
+);
+}
+);
+width = 375;
+}
+);
+note = uni066E.init;
+},
+{
 glyphname = "beh-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
 layers = (
@@ -65214,6 +65338,42 @@ width = 316;
 note = uni0628.init;
 },
 {
+color = 3;
+glyphname = "beh-ar.init.h1";
+lastChange = "2020-07-14 15:16:40 +0000";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "behDotless-ar.init.h1";
+},
+{
+alignment = -1;
+name = dotbelow_ar;
+transform = "{1, 0, 0, 1, 8, -336}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 380;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = dotbelow_ar;
+transform = "{1, 0, 0, 1, 148, 64}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+}
+);
+note = uni0628.init;
+},
+{
 glyphname = "peh-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
 layers = (
@@ -65342,6 +65502,40 @@ transform = "{1, 0, 0, 1, -109, 0}";
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 316;
+}
+);
+note = uni067E.init;
+},
+{
+color = 3;
+glyphname = "peh-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsdownbelow_ar;
+transform = "{1, 0, 0, 1, 207, 549}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsdownbelow_ar;
+transform = "{1, 0, 0, 1, 73, 400}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
 }
 );
 note = uni067E.init;
@@ -65484,6 +65678,40 @@ leftKerningGroup = "beh-ar.init";
 unicode = FB54;
 },
 {
+color = 3;
+glyphname = "beeh-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotsverticalbelow_ar;
+transform = "{1, 0, 0, 1, 233, -254}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotsverticalbelow_ar;
+transform = "{1, 0, 0, 1, 185, -91}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+leftKerningGroup = "beh-ar.init";
+},
+{
 color = 2;
 glyphname = "beheh-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -65621,6 +65849,40 @@ leftKerningGroup = "yeh-ar.init";
 unicode = FB5C;
 },
 {
+color = 3;
+glyphname = "beheh-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = fourdotsbelow_ar;
+transform = "{1, 0, 0, 1, 80, 135}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = fourdotsbelow_ar;
+transform = "{1, 0, 0, 1, 142, 247}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+leftKerningGroup = "yeh-ar.init";
+},
+{
 glyphname = "alefMaksura-ar.medi";
 lastChange = "2020-07-10 12:18:08 +0000";
 layers = (
@@ -65666,6 +65928,32 @@ name = "behDotless-ar.init";
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 316;
+}
+);
+note = uni0649.init;
+},
+{
+color = 3;
+glyphname = "alefMaksura-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
 }
 );
 note = uni0649.init;
@@ -65801,6 +66089,40 @@ transform = "{1, 0, 0, 1, 50, 284}";
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 316;
+}
+);
+note = uni062A.init;
+},
+{
+color = 3;
+glyphname = "teh-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 159, 482}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 100, 406}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
 }
 );
 note = uni062A.init;
@@ -65972,6 +66294,48 @@ width = 380;
 leftKerningGroup = "beh-ar.init";
 },
 {
+color = 3;
+glyphname = "tehRing-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 100, 406}";
+},
+{
+name = ring_ar;
+transform = "{1, 0, 0, 1, 78, 451}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 159, 482}";
+},
+{
+name = ring_ar;
+transform = "{1, 0, 0, 1, 78, 466}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+leftKerningGroup = "beh-ar.init";
+},
+{
 color = 2;
 glyphname = "tehThreedotsdown-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -66101,6 +66465,39 @@ transform = "{1, 0, 0, 1, -11, 2}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "tehThreedotsdown-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsdownabove_ar;
+transform = "{1, 0, 0, 1, -65, 41}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsdownabove_ar;
+transform = "{1, 0, 0, 1, 52, 149}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -66238,6 +66635,40 @@ width = 316;
 note = uni062B.init;
 },
 {
+color = 3;
+glyphname = "theh-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsupabove_ar;
+transform = "{1, 0, 0, 1, 149, 477}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsupabove_ar;
+transform = "{1, 0, 0, 1, 103, 411}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+}
+);
+note = uni062B.init;
+},
+{
 glyphname = "tteh-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
 layers = (
@@ -66370,6 +66801,40 @@ transform = "{1, 0, 0, 1, 23, 245}";
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 316;
+}
+);
+note = uni0679.init;
+},
+{
+color = 3;
+glyphname = "tteh-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 49, 457}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 73, 367}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
 }
 );
 note = uni0679.init;
@@ -66513,6 +66978,39 @@ width = 380;
 unicode = FB60;
 },
 {
+color = 3;
+glyphname = "tteheh-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotsverticalabove_ar;
+transform = "{1, 0, 0, 1, 120, 298}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotsverticalabove_ar;
+transform = "{1, 0, 0, 1, 48, 524}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "teheh-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -66648,6 +67146,40 @@ width = 380;
 );
 leftKerningGroup = "teh-ar.init";
 unicode = FB64;
+},
+{
+color = 3;
+glyphname = "teheh-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = fourdotsabove_ar;
+transform = "{1, 0, 0, 1, -34, 29}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = fourdotsabove_ar;
+transform = "{1, 0, 0, 1, 10, 160}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+leftKerningGroup = "teh-ar.init";
 },
 {
 color = 2;
@@ -66807,6 +67339,39 @@ width = 610;
 );
 },
 {
+color = 3;
+glyphname = "behThreedotshorizontalbelow-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "threedotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 153, 6}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "threedotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 185, 145}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "behThreedotsupbelow-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -66936,6 +67501,40 @@ transform = "{1, 0, 0, 1, 77, 38}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+leftKerningGroup = "yeh-ar.init";
+},
+{
+color = 3;
+glyphname = "behThreedotsupbelow-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsupbelow_ar;
+transform = "{1, 0, 0, 1, 84, 504}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsupbelow_ar;
+transform = "{1, 0, 0, 1, 309, 603}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 leftKerningGroup = "yeh-ar.init";
@@ -67102,6 +67701,48 @@ transform = "{1, 0, 0, 1, 96, 335}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+leftKerningGroup = "yeh-ar.init";
+},
+{
+color = 3;
+glyphname = "tehThreedotsupbelow-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsupbelow_ar;
+transform = "{1, 0, 0, 1, 84, 504}";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 100, 406}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = threedotsupbelow_ar;
+transform = "{1, 0, 0, 1, 309, 603}";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 159, 482}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 leftKerningGroup = "yeh-ar.init";
@@ -67390,6 +68031,40 @@ width = 380;
 leftKerningGroup = "yeh-ar.init";
 },
 {
+color = 3;
+glyphname = "behVinvertedbelow-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "vinvertedbelow-ar";
+transform = "{1, 0, 0, 1, 228, 85}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "vinvertedbelow-ar";
+transform = "{1, 0, 0, 1, 266, 122}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+leftKerningGroup = "yeh-ar.init";
+},
+{
 color = 2;
 glyphname = "behVabove-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -67519,6 +68194,39 @@ transform = "{1, 0, 0, 1, 69, 438}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "behVabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 121, 585}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 132, 585}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -67657,6 +68365,40 @@ width = 380;
 leftKerningGroup = "yeh-ar.init";
 },
 {
+color = 3;
+glyphname = "behVbelow-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "vbelow-ar";
+transform = "{1, 0, 0, 1, 234, 85}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "vbelow-ar";
+transform = "{1, 0, 0, 1, 271, 122}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+leftKerningGroup = "yeh-ar.init";
+},
+{
 glyphname = "jeem-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
 layers = (
@@ -67752,6 +68494,40 @@ transform = "{1, 0, 0, 1, 87, -336}";
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 616;
+}
+);
+note = uni062C.medi;
+},
+{
+color = 3;
+glyphname = "jeem-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = dotbelow_ar;
+transform = "{1, 0, 0, 1, 99, -346}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = dotbelow_ar;
+transform = "{1, 0, 0, 1, 88, -336}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
 }
 );
 note = uni062C.medi;
@@ -67890,6 +68666,40 @@ width = 616;
 note = uni0686.medi;
 },
 {
+color = 3;
+glyphname = "tcheh-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = threedotsdownbelow_ar;
+transform = "{1, 0, 0, 1, 96, -16}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = threedotsdownbelow_ar;
+transform = "{1, 0, 0, 1, 13, 0}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+}
+);
+note = uni0686.medi;
+},
+{
 glyphname = "tcheh-ar.init";
 lastChange = "2020-07-10 12:18:08 +0000";
 layers = (
@@ -68023,6 +68833,39 @@ width = 784;
 }
 );
 unicode = FB81;
+},
+{
+color = 3;
+glyphname = "tcheheh-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = fourdotsbelow_ar;
+transform = "{1, 0, 0, 1, 20, -265}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = fourdotsbelow_ar;
+transform = "{1, 0, 0, 1, 31, -318}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
 },
 {
 color = 2;
@@ -68294,6 +69137,39 @@ width = 784;
 unicode = FB79;
 },
 {
+color = 3;
+glyphname = "nyeh-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotshorizontalbelow_ar;
+transform = "{1, 0, 0, 1, -37, 0}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotshorizontalbelow_ar;
+transform = "{1, 0, 0, 1, 64, 0}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "nyeh-ar.init";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -68428,6 +69304,39 @@ width = 784;
 }
 );
 unicode = FB75;
+},
+{
+color = 3;
+glyphname = "dyeh-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotsverticalbelow_ar;
+transform = "{1, 0, 0, 1, 173, -654}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotsverticalbelow_ar;
+transform = "{1, 0, 0, 1, 74, -656}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
 },
 {
 color = 2;
@@ -68998,6 +69907,88 @@ width = 616;
 note = uni062D.medi;
 },
 {
+color = 1;
+glyphname = "hah-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{285, 0}";
+},
+{
+name = top;
+position = "{388, 489}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+paths = (
+{
+closed = 1;
+nodes = (
+"635 176 OFFCURVE",
+"357 440 OFFCURVE",
+"188 600 CURVE",
+"176 600 LINE",
+"60 436 LINE",
+"176 322 OFFCURVE",
+"308 211 OFFCURVE",
+"424 152 CURVE",
+"467 176 LINE",
+"0 176 LINE",
+"-20 156 LINE",
+"-20 -1 LINE",
+"772 0 LINE",
+"836 164 LINE",
+"836 176 LINE",
+"747 176 LINE SMOOTH"
+);
+}
+);
+width = 423;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{274, 0}";
+},
+{
+name = top;
+position = "{368, 410}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+paths = (
+{
+closed = 1;
+nodes = (
+"511 85 OFFCURVE",
+"259 398 OFFCURVE",
+"152 556 CURVE",
+"144 556 LINE",
+"80 496 LINE",
+"239 275 OFFCURVE",
+"374 125 OFFCURVE",
+"470 73 CURVE",
+"495 85 LINE",
+"0 85 LINE",
+"-20 65 LINE",
+"-20 -2 LINE",
+"691 0 LINE",
+"715 77 LINE",
+"715 85 LINE",
+"600 85 LINE SMOOTH"
+);
+}
+);
+width = 375;
+}
+);
+note = uni062D.medi;
+},
+{
 glyphname = "hah-ar.init";
 lastChange = "2020-07-10 12:18:08 +0000";
 layers = (
@@ -69179,6 +70170,39 @@ width = 784;
 );
 },
 {
+color = 3;
+glyphname = "hahHamzaabove-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 238, 480}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 243, 559}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "hahHamzaabove-ar.init";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -69308,6 +70332,39 @@ transform = "{1, 0, 0, 1, 323, 229}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 784;
+}
+);
+},
+{
+color = 3;
+glyphname = "hahTwodotsverticalabove-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotsverticalabove_ar;
+transform = "{1, 0, 0, 1, 267, 88}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotsverticalabove_ar;
+transform = "{1, 0, 0, 1, 179, 282}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -69445,6 +70502,39 @@ width = 784;
 );
 },
 {
+color = 3;
+glyphname = "hahTwodotshorizontalabove-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 247, 196}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 290, 240}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "hahTwodotshorizontalabove-ar.init";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -69574,6 +70664,39 @@ transform = "{1, 0, 0, 1, 424, 182}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 784;
+}
+);
+},
+{
+color = 3;
+glyphname = "hahThreedotsabove-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = threedotsupabove_ar;
+transform = "{1, 0, 0, 1, 250, 201}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = threedotsupabove_ar;
+transform = "{1, 0, 0, 1, 280, 235}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -69711,6 +70834,39 @@ width = 784;
 );
 },
 {
+color = 3;
+glyphname = "hahThreedotsupbelow-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = threedotsupbelow_ar;
+transform = "{1, 0, 0, 1, 24, 104}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = threedotsupbelow_ar;
+transform = "{1, 0, 0, 1, 198, 38}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "hahThreedotsupbelow-ar.init";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -69839,6 +70995,40 @@ transform = "{1, 0, 0, 1, 198, -189}";
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 616;
+}
+);
+note = uni062E.medi;
+},
+{
+color = 3;
+glyphname = "khah-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, 202, -92}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, 102, -128}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
 }
 );
 note = uni062E.medi;
@@ -69977,6 +71167,39 @@ width = 784;
 );
 },
 {
+color = 3;
+glyphname = "hahTahbelow-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = tahbelow_ar;
+transform = "{1, 0, 0, 1, 84, -261}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = tahbelow_ar;
+transform = "{1, 0, 0, 1, 95, -320}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "hahTahbelow-ar.init";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -70010,9 +71233,9 @@ width = 854;
 );
 },
 {
-color = 2;
+color = 6;
 glyphname = "hahTahTwodotshorizontalabove-ar";
-lastChange = "2020-07-10 12:18:08 +0000";
+lastChange = "2020-07-14 15:08:30 +0000";
 layers = (
 {
 components = (
@@ -70052,9 +71275,9 @@ width = 760;
 unicode = 076F;
 },
 {
-color = 2;
+color = 6;
 glyphname = "hahTahTwodotshorizontalabove-ar.fina";
-lastChange = "2020-07-10 12:18:08 +0000";
+lastChange = "2020-07-14 15:08:30 +0000";
 layers = (
 {
 components = (
@@ -70093,9 +71316,9 @@ width = 788;
 );
 },
 {
-color = 2;
+color = 6;
 glyphname = "hahTahTwodotshorizontalabove-ar.medi";
-lastChange = "2020-07-10 12:18:08 +0000";
+lastChange = "2020-07-14 15:08:30 +0000";
 layers = (
 {
 components = (
@@ -70134,9 +71357,50 @@ width = 784;
 );
 },
 {
-color = 2;
+color = 6;
+glyphname = "hahTahTwodotshorizontalbelow-ar.medi.h2";
+lastChange = "2020-07-14 15:12:19 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 247, 196}";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 217, 355}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 290, 240}";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 200, 448}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
+color = 6;
 glyphname = "hahTahTwodotshorizontalabove-ar.init";
-lastChange = "2020-07-10 12:18:08 +0000";
+lastChange = "2020-07-14 15:08:30 +0000";
 layers = (
 {
 components = (
@@ -70271,6 +71535,39 @@ transform = "{1, 0, 0, 1, 207, -698}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 784;
+}
+);
+},
+{
+color = 3;
+glyphname = "hahFourbelow-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = "foururdubelow-ar";
+transform = "{1, 0, 0, 1, 183, -681}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = "foururdubelow-ar";
+transform = "{1, 0, 0, 1, 180, -698}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -82921,6 +84218,106 @@ width = 316;
 note = uni0644.init;
 },
 {
+color = 1;
+glyphname = "lam-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+anchors = (
+{
+name = bar;
+position = "{281, 549}";
+},
+{
+name = bottom;
+position = "{468, 470}";
+},
+{
+name = top;
+position = "{274, 760}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+paths = (
+{
+closed = 1;
+nodes = (
+"1 238 OFFCURVE",
+"38 231 OFFCURVE",
+"74 231 CURVE SMOOTH",
+"264 231 OFFCURVE",
+"382 320 OFFCURVE",
+"382 520 CURVE SMOOTH",
+"382 760 LINE",
+"370 760 LINE",
+"170 740 LINE",
+"170 476 LINE SMOOTH",
+"170 419 OFFCURVE",
+"167 386 OFFCURVE",
+"138 367 CURVE",
+"204 433 LINE",
+"172 398 OFFCURVE",
+"112 381 OFFCURVE",
+"50 380 CURVE SMOOTH",
+"-9 379 OFFCURVE",
+"-70 392 OFFCURVE",
+"-113 415 CURVE",
+"-39 249 LINE"
+);
+}
+);
+width = 427;
+},
+{
+anchors = (
+{
+name = bar;
+position = "{226, 547}";
+},
+{
+name = bottom;
+position = "{324, 380}";
+},
+{
+name = top;
+position = "{221, 760}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+paths = (
+{
+closed = 1;
+nodes = (
+"3 262 OFFCURVE",
+"33 256 OFFCURVE",
+"61 256 CURVE SMOOTH",
+"189 256 OFFCURVE",
+"273 322 OFFCURVE",
+"273 520 CURVE SMOOTH",
+"273 760 LINE",
+"265 760 LINE",
+"181 748 LINE",
+"181 484 LINE SMOOTH",
+"181 418 OFFCURVE",
+"177 384 OFFCURVE",
+"168 350 CURVE",
+"189 390 LINE",
+"159 353 OFFCURVE",
+"110 336 OFFCURVE",
+"57 336 CURVE SMOOTH",
+"-4 336 OFFCURVE",
+"-69 354 OFFCURVE",
+"-116 401 CURVE",
+"-26 279 LINE"
+);
+}
+);
+width = 347;
+}
+);
+note = uni0644.init;
+},
+{
 color = 2;
 glyphname = "lamVabove-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -83050,6 +84447,39 @@ transform = "{1, 0, 0, 1, 69, 644}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "lamVabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 121, 725}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 347;
+},
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 149, 614}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 427;
 }
 );
 },
@@ -83187,6 +84617,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "lamDotabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, -45, 222}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 347;
+},
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, 88, 179}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 427;
+}
+);
+},
+{
 color = 2;
 glyphname = "lamThreedotsabove-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -83320,6 +84783,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "lamThreedotsabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = threedotsupabove_ar;
+transform = "{1, 0, 0, 1, 103, 551}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 347;
+},
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = threedotsupabove_ar;
+transform = "{1, 0, 0, 1, 166, 506}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 427;
+}
+);
+},
+{
 color = 2;
 glyphname = "lamThreedotsbelow-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -83449,6 +84945,39 @@ transform = "{1, 0, 0, 1, 71, 24}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "lamThreedotsbelow-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = "_part.doublebar-ar";
+transform = "{1, 0, 0, 1, 106, 168}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 347;
+},
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = "_part.doublebar-ar";
+transform = "{1, 0, 0, 0.8, 141, 229}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 427;
 }
 );
 },
@@ -84244,6 +85773,40 @@ width = 316;
 note = uni0646.init;
 },
 {
+color = 3;
+glyphname = "noon-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, 71, 150}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, -45, 82}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+}
+);
+note = uni0646.init;
+},
+{
 color = 2;
 glyphname = "noonDotbelow-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -84373,6 +85936,39 @@ transform = "{1, 0, 0, 1, -22, -346}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "noonDotbelow-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "noon-ar.init.h1";
+},
+{
+name = dotbelow_ar;
+transform = "{1, 0, 0, 1, 148, 64}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "noon-ar.init.h1";
+},
+{
+name = dotbelow_ar;
+transform = "{1, 0, 0, 1, 210, 219}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -84532,6 +86128,32 @@ name = "behDotless-ar.init";
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 316;
+}
+);
+note = uni06BA.init;
+},
+{
+color = 3;
+glyphname = "noonghunna-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
 }
 );
 note = uni06BA.init;
@@ -84769,6 +86391,39 @@ transform = "{1, 0, 0, 1, -30, 113}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "noonRing-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "noon-ar.init.h1";
+},
+{
+name = ring_ar;
+transform = "{1, 0, 0, 1, 78, 451}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "noon-ar.init.h1";
+},
+{
+name = ring_ar;
+transform = "{1, 0, 0, 1, 78, 466}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -85764,6 +87419,80 @@ nodes = (
 "166 -65 OFFCURVE",
 "166 -65 CURVE",
 "166 -57 LINE"
+);
+}
+);
+width = 316;
+}
+);
+note = uni06C1.init;
+},
+{
+color = 3;
+glyphname = "hehgoal-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+paths = (
+{
+closed = 1;
+nodes = (
+"428 494 LINE",
+"428 494 OFFCURVE",
+"342 438 OFFCURVE",
+"342 325 CURVE SMOOTH",
+"342 257 OFFCURVE",
+"394 202 OFFCURVE",
+"455 202 CURVE SMOOTH",
+"517 202 OFFCURVE",
+"557 245 OFFCURVE",
+"557 299 CURVE SMOOTH",
+"557 352 OFFCURVE",
+"519 378 OFFCURVE",
+"474 382 CURVE",
+"484 432 OFFCURVE",
+"519 461 OFFCURVE",
+"519 461 CURVE",
+"519 474 LINE"
+);
+}
+);
+width = 380;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+paths = (
+{
+closed = 1;
+nodes = (
+"323 380 LINE",
+"280 355 OFFCURVE",
+"245 305 OFFCURVE",
+"245 257 CURVE SMOOTH",
+"245 205 OFFCURVE",
+"275 173 OFFCURVE",
+"316 173 CURVE SMOOTH",
+"354 173 OFFCURVE",
+"378 199 OFFCURVE",
+"378 232 CURVE SMOOTH",
+"378 264 OFFCURVE",
+"355 285 OFFCURVE",
+"319 286 CURVE",
+"330 326 OFFCURVE",
+"369 354 OFFCURVE",
+"369 354 CURVE",
+"369 362 LINE"
 );
 }
 );
@@ -88596,6 +90325,40 @@ width = 316;
 note = uni064A.init;
 },
 {
+color = 3;
+glyphname = "yeh-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "twodotsverticalabove-ar.diag";
+transform = "{1, 0, 0, 1, 264, 603}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "twodotsverticalabove-ar.diag";
+transform = "{1, 0, 0, 1, 197, 519}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+}
+);
+note = uni064A.init;
+},
+{
 glyphname = "yehHamzaabove-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
 layers = (
@@ -88724,6 +90487,40 @@ transform = "{1, 0, 0, 1, 41, 568}";
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 width = 316;
+}
+);
+note = uni0626.init;
+},
+{
+color = 3;
+glyphname = "yehHamzaabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 112, 801}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 91, 690}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
 }
 );
 note = uni0626.init;
@@ -88862,6 +90659,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "yehVabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "yeh-ar.init.h1";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 121, 585}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "yeh-ar.init.h1";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 132, 585}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "yehTwodotsbelowHamzaabove-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -88995,6 +90825,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "yehTwodotsbelowHamzaabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "yeh-ar.init.h1";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 91, 690}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "yeh-ar.init.h1";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 112, 801}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "yehTwodotsbelowDotabove-ar";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -89124,6 +90987,39 @@ transform = "{1, 0, 0, 1, 8, 3}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "yehTwodotsbelowDotabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "yeh-ar.init.h1";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, -45, 82}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "yeh-ar.init.h1";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, 71, 150}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -89362,6 +91258,32 @@ width = 316;
 note = uni06CC.init;
 },
 {
+color = 3;
+glyphname = "yeh-farsi.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "yeh-ar.init.h1";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+},
+{
+components = (
+{
+name = "yeh-ar.init.h1";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+}
+);
+note = uni06CC.init;
+},
+{
 color = 2;
 glyphname = "yehTwodotsabove-farsi";
 lastChange = "2020-07-13 11:21:41 +0000";
@@ -89491,6 +91413,39 @@ transform = "{1, 0, 0, 1, 96, 335}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "yehTwodotsabove-farsi.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "yeh-farsi.init.h1";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 100, 406}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "yeh-farsi.init.h1";
+},
+{
+name = twodotshorizontalabove_ar;
+transform = "{1, 0, 0, 1, 159, 482}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -89763,6 +91718,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "yehTwoabove-farsi.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "twoabove-ar";
+transform = "{1, 0, 0, 1, 135, 331}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "twoabove-ar";
+transform = "{1, 0, 0, 1, 137, 442}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "yehThreeabove-farsi";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -89896,6 +91884,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "yehThreeabove-farsi.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, 106, 331}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, 136, 442}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "yehFourbelow-farsi";
 lastChange = "2020-07-10 12:18:08 +0000";
@@ -90025,6 +92046,39 @@ transform = "{1, 0, 0, 1, 59, -698}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "yehFourbelow-farsi.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "foururdubelow-ar";
+transform = "{1, 0, 0, 1, 243, -281}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "foururdubelow-ar";
+transform = "{1, 0, 0, 1, 291, -133}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -90233,6 +92287,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "yehKashmiri-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = ring_ar;
+transform = "{1, 0, 0, 1, 78, 451}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = ring_ar;
+transform = "{1, 0, 0, 1, 78, 466}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "e-ar";
 lastChange = "2020-07-13 12:43:50 +0000";
@@ -90368,6 +92455,40 @@ width = 380;
 );
 leftKerningGroup = "beh-ar.init";
 unicode = FBE6;
+},
+{
+color = 3;
+glyphname = "e-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotsverticalbelow_ar;
+transform = "{1, 0, 0, 1, 233, -254}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = twodotsverticalbelow_ar;
+transform = "{1, 0, 0, 1, 185, -91}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+leftKerningGroup = "beh-ar.init";
 },
 {
 color = 2;
@@ -91465,6 +93586,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "yehbarreeTwoabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "twoabove-ar";
+transform = "{1, 0, 0, 1, 135, 331}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "twoabove-ar";
+transform = "{1, 0, 0, 1, 137, 442}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "yehbarreeThreeabove-ar";
 lastChange = "2020-07-10 12:18:09 +0000";
@@ -91726,6 +93880,39 @@ transform = "{1, 0, 0, 1, 73, 295}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "yehbarreeThreeabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, 106, 331}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "alefMaksura-ar.init.h1";
+},
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, 136, 442}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -92053,6 +94240,41 @@ name = "behDotless-ar.init";
 alignment = -1;
 name = "hamzahigh-ar";
 transform = "{1, 0, 0, 1, 57, 599}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "highhamzaYeh-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+alignment = -1;
+name = "hamzahigh-ar";
+transform = "{1, 0, 0, 1, 97, 697}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 316;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+alignment = -1;
+name = "hamzahigh-ar";
+transform = "{1, 0, 0, 1, 119, 760}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -93309,6 +95531,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "noonTwodotsbelow-ar.init.h1";
+lastChange = "2020-07-14 15:16:49 +0000";
+layers = (
+{
+components = (
+{
+name = "noon-ar.init.h1";
+},
+{
+name = "twodotsverticalabove-ar.diag";
+transform = "{1, 0, 0, 1, 197, 519}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "noon-ar.init.h1";
+},
+{
+name = "twodotsverticalabove-ar.diag";
+transform = "{1, 0, 0, 1, 264, 603}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "noonTahabove-ar";
 lastChange = "2020-07-10 12:18:09 +0000";
@@ -93476,6 +95731,47 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "noonTahabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, -45, 82}";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 73, 577}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "behDotless-ar.init.h1";
+},
+{
+name = dotabove_ar;
+transform = "{1, 0, 0, 1, 71, 150}";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 29, 665}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "noonVabove-ar";
 lastChange = "2020-07-10 12:18:09 +0000";
@@ -93611,6 +95907,39 @@ width = 380;
 );
 },
 {
+color = 3;
+glyphname = "noonVabove-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "noon-ar.init.h1";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 121, 795}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "noon-ar.init.h1";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 112, 793}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
+}
+);
+},
+{
 color = 2;
 glyphname = "lamBar-ar";
 lastChange = "2020-07-10 12:18:09 +0000";
@@ -93740,6 +96069,39 @@ transform = "{1.5, 0, 0, 1, 1, 24}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 380;
+}
+);
+},
+{
+color = 3;
+glyphname = "lamBar-ar.init.h1";
+lastChange = "2020-07-14 14:56:07 +0000";
+layers = (
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = "_part.bar-ar";
+transform = "{1, 0, 0, 1, 85, 168}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 347;
+},
+{
+components = (
+{
+name = "lam-ar.init.h1";
+},
+{
+name = "_part.bar-ar";
+transform = "{1.5, 0, 0, 1, 71, 149}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 427;
 }
 );
 },
@@ -94143,6 +96505,40 @@ transform = "{1, 0, 0, 1, 374, 162}";
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 width = 784;
+}
+);
+},
+{
+color = 3;
+glyphname = "hahTahabove-ar.medi.h2";
+lastChange = "2020-07-14 14:57:00 +0000";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 220, 157}";
+}
+);
+layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
+width = 375;
+},
+{
+components = (
+{
+name = "hah-ar.medi.h2";
+},
+{
+alignment = -1;
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 374, 162}";
+}
+);
+layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
+width = 423;
 }
 );
 },
@@ -95837,666 +98233,6 @@ leftMetricsKey = "lam-ar.init";
 rightMetricsKey = "alefWasla-ar.fina";
 },
 {
-glyphname = "beh_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-},
-{
-alignment = -1;
-anchor = bottom_1;
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 623, 127}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-},
-{
-anchor = bottom_1;
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 513, 44}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0628062C;
-},
-{
-glyphname = "beh_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-},
-{
-alignment = -1;
-anchor = bottom_1;
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 623, 127}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-},
-{
-anchor = bottom_1;
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 513, 44}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni06280686;
-},
-{
-glyphname = "beh_hah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-alignment = -1;
-anchor = bottom_1;
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 623, 127}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-anchor = bottom_1;
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 513, 44}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0628062D;
-},
-{
-glyphname = "beh_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 202, -92}";
-},
-{
-alignment = -1;
-anchor = bottom_1;
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 623, 127}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-},
-{
-anchor = bottom_1;
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 513, 44}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0628062E;
-},
-{
-glyphname = "peh_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-},
-{
-anchor = bottom_1;
-name = threedotsupbelow_ar;
-transform = "{1, 0, 0, 1, 722, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-},
-{
-anchor = bottom_1;
-name = threedotsupbelow_ar;
-transform = "{1, 0, 0, 1, 449, 484}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni067E062C;
-},
-{
-glyphname = "peh_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-},
-{
-anchor = bottom_1;
-name = threedotsupbelow_ar;
-transform = "{1, 0, 0, 1, 722, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-},
-{
-anchor = bottom_1;
-name = threedotsupbelow_ar;
-transform = "{1, 0, 0, 1, 449, 484}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni067E0686;
-},
-{
-glyphname = "peh_hah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-anchor = bottom_1;
-name = threedotsupbelow_ar;
-transform = "{1, 0, 0, 1, 722, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-anchor = bottom_1;
-name = threedotsupbelow_ar;
-transform = "{1, 0, 0, 1, 449, 484}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni067E062D;
-},
-{
-glyphname = "peh_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 202, -92}";
-},
-{
-anchor = bottom_1;
-name = threedotsupbelow_ar;
-transform = "{1, 0, 0, 1, 722, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-},
-{
-anchor = bottom_1;
-name = threedotsupbelow_ar;
-transform = "{1, 0, 0, 1, 449, 484}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni067E062E;
-},
-{
-glyphname = "teh_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-},
-{
-anchor = top_1;
-name = twodotshorizontalabove_ar;
-transform = "{1, 0, 0, 1, 602, 418}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-},
-{
-anchor = top_1;
-name = twodotshorizontalabove_ar;
-transform = "{1, 0, 0, 1, 475, 406}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni062A062C;
-},
-{
-glyphname = "teh_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-},
-{
-anchor = top_1;
-name = twodotshorizontalabove_ar;
-transform = "{1, 0, 0, 1, 602, 418}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-},
-{
-anchor = top_1;
-name = twodotshorizontalabove_ar;
-transform = "{1, 0, 0, 1, 475, 406}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni062A0686;
-},
-{
-glyphname = "teh_hah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-anchor = top_1;
-name = twodotshorizontalabove_ar;
-transform = "{1, 0, 0, 1, 602, 418}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-anchor = top_1;
-name = twodotshorizontalabove_ar;
-transform = "{1, 0, 0, 1, 475, 406}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni062A062D;
-},
-{
-glyphname = "teh_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 222, -101}";
-},
-{
-anchor = top_1;
-name = twodotshorizontalabove_ar;
-transform = "{1, 0, 0, 1, 602, 418}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-},
-{
-anchor = top_1;
-name = twodotshorizontalabove_ar;
-transform = "{1, 0, 0, 1, 475, 406}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni062A062E;
-},
-{
-glyphname = "theh_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-},
-{
-anchor = top_1;
-name = threedotsupabove_ar;
-transform = "{1, 0, 0, 1, 592, 413}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-},
-{
-anchor = top_1;
-name = threedotsupabove_ar;
-transform = "{1, 0, 0, 1, 478, 411}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni062B062C;
-},
-{
-glyphname = "theh_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-},
-{
-anchor = top_1;
-name = threedotsupabove_ar;
-transform = "{1, 0, 0, 1, 592, 413}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-},
-{
-anchor = top_1;
-name = threedotsupabove_ar;
-transform = "{1, 0, 0, 1, 478, 411}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni062B0686;
-},
-{
-glyphname = "theh_hah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-anchor = top_1;
-name = threedotsupabove_ar;
-transform = "{1, 0, 0, 1, 592, 413}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-anchor = top_1;
-name = threedotsupabove_ar;
-transform = "{1, 0, 0, 1, 478, 411}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni062B062D;
-},
-{
-glyphname = "theh_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 222, -101}";
-},
-{
-anchor = top_1;
-name = threedotsupabove_ar;
-transform = "{1, 0, 0, 1, 592, 413}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-},
-{
-anchor = top_1;
-name = threedotsupabove_ar;
-transform = "{1, 0, 0, 1, 478, 411}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni062B062E;
-},
-{
 glyphname = "feh_alefMaksura-ar";
 lastChange = "2020-07-10 12:18:09 +0000";
 layers = (
@@ -97093,74 +98829,8 @@ note = uni06440675.isol;
 rightMetricsKey = "lam_alef-ar";
 },
 {
-glyphname = "lam_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "lam_hah-ar";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 850;
-},
-{
-components = (
-{
-name = "lam_hah-ar";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 722;
-}
-);
-note = uni0644062C;
-},
-{
-glyphname = "lam_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "lam_hah-ar";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 850;
-},
-{
-components = (
-{
-name = "lam_hah-ar";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 722;
-}
-);
-note = uni06440686;
-},
-{
 glyphname = "lam_hah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
+lastChange = "2020-07-14 14:41:25 +0000";
 layers = (
 {
 anchors = (
@@ -97306,39 +98976,6 @@ width = 722;
 }
 );
 note = uni0644062D;
-},
-{
-glyphname = "lam_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "lam_hah-ar";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 206, -47}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 850;
-},
-{
-components = (
-{
-name = "lam_hah-ar";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 722;
-}
-);
-note = uni0644062E;
 },
 {
 glyphname = "lam_lam-ar";
@@ -97661,390 +99298,6 @@ width = 1248;
 note = uni06440644064A;
 },
 {
-glyphname = "noon_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-},
-{
-anchor = top_1;
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 514, 86}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-},
-{
-anchor = top_1;
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 330, 82}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0646062C;
-},
-{
-glyphname = "noon_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-},
-{
-anchor = top_1;
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 514, 86}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-},
-{
-anchor = top_1;
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 330, 82}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni06460686;
-},
-{
-glyphname = "noon_hah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-anchor = top_1;
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 514, 86}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-anchor = top_1;
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 330, 82}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0646062D;
-},
-{
-glyphname = "noon_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 222, -101}";
-},
-{
-anchor = top_1;
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 514, 86}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-},
-{
-anchor = top_1;
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 330, 82}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0646062E;
-},
-{
-glyphname = "alefMaksura_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0649062C;
-},
-{
-glyphname = "alefMaksura_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni06490686;
-},
-{
-glyphname = "alefMaksura_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 222, -101}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0649062E;
-},
-{
-glyphname = "yeh_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 677, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 562, 499}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni064A062C;
-},
-{
-glyphname = "yeh_hah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 677, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 562, 499}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni064A062D;
-},
-{
-glyphname = "yeh_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 202, -92}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 677, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 562, 499}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni064A062E;
-},
-{
 glyphname = "yeh_hamza-ar";
 lastChange = "2020-07-10 12:18:09 +0000";
 layers = (
@@ -98076,213 +99329,6 @@ width = 488;
 }
 );
 note = uni064A0621;
-},
-{
-glyphname = "yeh_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 677, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 562, 499}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni064A0686;
-},
-{
-glyphname = "yehHamzaabove_jeem-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-},
-{
-anchor = top_1;
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 555, 737}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-},
-{
-anchor = top_1;
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 466, 690}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0626062C;
-},
-{
-glyphname = "yehHamzaabove_tcheh-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-},
-{
-anchor = top_1;
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 555, 737}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-},
-{
-anchor = top_1;
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 466, 690}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni06260686;
-},
-{
-glyphname = "yehHamzaabove_hah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-anchor = top_1;
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 555, 737}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-anchor = top_1;
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 466, 690}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0626062D;
-},
-{
-glyphname = "yehHamzaabove_khah-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 222, -101}";
-},
-{
-anchor = top_1;
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 555, 737}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-},
-{
-anchor = top_1;
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 466, 690}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni0626062E;
 },
 {
 color = 1;
@@ -98668,170 +99714,6 @@ width = 1653;
 leftMetricsKey = "heh-ar.fina";
 rightMetricsKey = "alef-ar";
 unicode = FDF2;
-},
-{
-glyphname = "yeh_jeem-ar-farsi";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 99, -346}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 677, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotbelow_ar;
-transform = "{1, 0, 0, 1, 88, -336}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 562, 499}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni06CC062C;
-},
-{
-glyphname = "yeh_tcheh-ar-farsi";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 96, -16}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 677, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = threedotsdownbelow_ar;
-transform = "{1, 0, 0, 1, 13, 0}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 562, 499}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni06CC0686;
-},
-{
-glyphname = "yeh_hah-ar-farsi";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 677, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 562, 499}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni06CC062D;
-},
-{
-glyphname = "yeh_khah-ar-farsi";
-lastChange = "2020-07-10 12:18:09 +0000";
-layers = (
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 202, -92}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 677, 603}";
-}
-);
-layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
-width = 846;
-},
-{
-components = (
-{
-name = "_alefMaksura_hah-ar.2.init";
-},
-{
-name = dotabove_ar;
-transform = "{1, 0, 0, 1, 102, -128}";
-},
-{
-anchor = bottom_1;
-name = "twodotsverticalabove-ar.diag";
-transform = "{1, 0, 0, 1, 562, 499}";
-}
-);
-layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
-width = 750;
-}
-);
-note = uni06CC062E;
 },
 {
 color = 4;
@@ -121687,8 +122569,9 @@ width = 532;
 note = uniFBB2;
 },
 {
+export = 0;
 glyphname = "_alefMaksura_hah-ar.init";
-lastChange = "2020-07-10 12:18:09 +0000";
+lastChange = "2020-07-14 14:27:17 +0000";
 layers = (
 {
 anchors = (
@@ -123205,7 +124088,7 @@ note = uni066E.medi;
 {
 export = 0;
 glyphname = "_alefMaksura_hah-ar.2.init";
-lastChange = "2020-07-10 12:18:09 +0000";
+lastChange = "2020-07-14 14:38:11 +0000";
 layers = (
 {
 anchors = (
