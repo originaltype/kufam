@@ -8,3 +8,4 @@
 
 Artur Schmal <artur@originaltype.com>
 Wael Morcos <waelmorcos@gmail.com>
+Yanone <post@yanone.de>
