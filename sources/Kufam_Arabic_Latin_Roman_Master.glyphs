@@ -128591,5 +128591,5 @@ manufacturer = "Original Type";
 manufacturerURL = "https://originaltype.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 200;
+versionMinor = 300;
 }
