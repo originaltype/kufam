@@ -23,11 +23,6 @@ fontmake -g "../sources/Kufam_Arabic_Latin_Roman_Master.glyphs" -o variable --ou
 VF_FILENAME="$VFDIR/Kufam-Italic[wght].ttf"
 fontmake -g "../sources/Kufam_Latin_Italic_Master.glyphs" -o variable --output-path $VF_FILENAME
 
-# STAT table
-gftools fix-vf-meta "$VFDIR/Kufam[wght].ttf" "$VFDIR/Kufam-Italic[wght].ttf"
-mv "$VFDIR/Kufam[wght].ttf.fix" "$VFDIR/Kufam[wght].ttf"
-mv "$VFDIR/Kufam-Italic[wght].ttf.fix" "$VFDIR/Kufam-Italic[wght].ttf"
-
 for f in $VFDIR/*.ttf
 do
 	echo Processing $f
@@ -37,9 +32,12 @@ do
 	gftools fix-unwanted-tables $f
 	gftools fix-hinting $f
 	mv $f.fix $f
-	gftools fix-vf-meta $f
-	mv $f.fix $f
 done
+
+# STAT table
+gftools fix-vf-meta "$VFDIR/Kufam[wght].ttf" "$VFDIR/Kufam-Italic[wght].ttf"
+mv "$VFDIR/Kufam[wght].ttf.fix" "$VFDIR/Kufam[wght].ttf"
+mv "$VFDIR/Kufam-Italic[wght].ttf.fix" "$VFDIR/Kufam-Italic[wght].ttf"
 
 # Clean up
 rm -r instance_ufo
