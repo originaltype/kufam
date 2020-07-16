@@ -1362,11 +1362,11 @@ code = "lookup rlig_arab_0 {\012	lookupflag IgnoreMarks RightToLeft;\012	script 
 name = rlig;
 },
 {
-code = "lookup DISCRETIONARY_LIGATURES {\012	sub f f b by f_f_b;\012	sub f f h by f_f_h;\012	sub f f j by f_f_j;\012	sub f f k by f_f_k;\012	sub f f t by f_f_t;\012	sub f b by f_b;\012	sub f h by f_h;\012	sub f j by f_j;\012	sub f k by f_k;\012	sub f t by f_t;\012	sub t f by t_f;\012	sub t t by t_t;\012} DISCRETIONARY_LIGATURES;\012\012lookup dlig_RTL {\012lookupflag IgnoreMarks RightToLeft;\012	sub lam-ar.init lam-ar.medi yeh-ar.fina by lam_lam_yeh-ar;\012	sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar;\012	sub feh-ar.init yeh-ar.fina by feh_yeh-ar;\012	sub lam-ar alef-ar.short by lam_alef-ar.short;\012	sub lam-ar.init hah-ar.fina by lam_hah-ar;\012	sub lam-ar.init lam-ar.fina by lam_lam-ar;\012	sub yeh-ar.init hamza-ar by yeh_hamza-ar;\012} dlig_RTL;\012";
+code = "lookup DISCRETIONARY_LIGATURES {\012	sub f f b by f_f_b;\012	sub f f h by f_f_h;\012	sub f f j by f_f_j;\012	sub f f k by f_f_k;\012	sub f f t by f_f_t;\012	sub f b by f_b;\012	sub f h by f_h;\012	sub f j by f_j;\012	sub f k by f_k;\012	sub f t by f_t;\012	sub t f by t_f;\012	sub t t by t_t;\012} DISCRETIONARY_LIGATURES;\012\012";
 name = dlig;
 },
 {
-code = "lookup STANDARD_LIGATURES {\012\012	sub f f i by f_f_i;\012	sub f f l by f_f_l;\012	sub f f by f_f;\012	sub f i by fi;\012	sub f idotaccent by fi;\012	sub f l by fl;\012\012} STANDARD_LIGATURES;";
+code = "lookup STANDARD_LIGATURES {\012\012	sub f f i by f_f_i;\012	sub f f l by f_f_l;\012	sub f f by f_f;\012	sub f i by fi;\012	sub f idotaccent by fi;\012	sub f l by fl;\012\012} STANDARD_LIGATURES;\012\012\012lookup dlig_RTL {\012lookupflag IgnoreMarks RightToLeft;\012	sub lam-ar.init lam-ar.medi yeh-ar.fina by lam_lam_yeh-ar;\012	sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar;\012	sub feh-ar.init yeh-ar.fina by feh_yeh-ar;\012	sub lam-ar alef-ar.short by lam_alef-ar.short;\012	sub lam-ar.init hah-ar.fina by lam_hah-ar;\012	sub lam-ar.init lam-ar.medi by lam_lam-ar.init;\012	sub yeh-ar.init hamza-ar by yeh_hamza-ar;\012} dlig_RTL;\012\012";
 name = liga;
 },
 {
@@ -85077,13 +85077,13 @@ note = uni0644.init;
 {
 color = 1;
 glyphname = "lam-ar.init.h1";
-lastChange = "2020-07-15 09:35:39 +0000";
+lastChange = "2020-07-15 10:54:52 +0000";
 layers = (
 {
 anchors = (
 {
 name = bar;
-position = "{301, 549}";
+position = "{275, 549}";
 },
 {
 name = bottom;
@@ -85129,7 +85129,7 @@ width = 427;
 anchors = (
 {
 name = bar;
-position = "{256, 567}";
+position = "{230, 567}";
 },
 {
 name = bottom;
@@ -85808,7 +85808,7 @@ width = 380;
 {
 color = 3;
 glyphname = "lamThreedotsbelow-ar.init.h1";
-lastChange = "2020-07-15 09:35:39 +0000";
+lastChange = "2020-07-15 10:54:54 +0000";
 layers = (
 {
 components = (
@@ -85817,7 +85817,7 @@ name = "lam-ar.init.h1";
 },
 {
 name = "_part.doublebar-ar";
-transform = "{1, 0, 0, 1, 136, 188}";
+transform = "{1, 0, 0, 1, 110, 188}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -85830,7 +85830,7 @@ name = "lam-ar.init.h1";
 },
 {
 name = "_part.doublebar-ar";
-transform = "{1, 0, 0, 0.8, 161, 229}";
+transform = "{1, 0, 0, 0.8, 135, 229}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -96948,7 +96948,7 @@ width = 380;
 {
 color = 3;
 glyphname = "lamBar-ar.init.h1";
-lastChange = "2020-07-15 09:36:44 +0000";
+lastChange = "2020-07-15 10:54:54 +0000";
 layers = (
 {
 components = (
@@ -96957,7 +96957,7 @@ name = "lam-ar.init.h1";
 },
 {
 name = "_part.bar-ar";
-transform = "{1, 0, 0, 1, 115, 188}";
+transform = "{1, 0, 0, 1, 89, 188}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
@@ -96970,7 +96970,7 @@ name = "lam-ar.init.h1";
 },
 {
 name = "_part.bar-ar";
-transform = "{1.5, 0, 0, 1, 91, 149}";
+transform = "{1.5, 0, 0, 1, 65, 149}";
 }
 );
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
@@ -98641,7 +98641,7 @@ note = uni06440627.short;
 },
 {
 glyphname = "lam_alefHamzaabove-ar";
-lastChange = "2020-07-15 09:15:56 +0000";
+lastChange = "2020-07-16 13:52:03 +0000";
 layers = (
 {
 components = (
@@ -99887,10 +99887,32 @@ width = 722;
 note = uni0644062D;
 },
 {
-glyphname = "lam_lam-ar";
-lastChange = "2020-07-10 12:18:09 +0000";
+glyphname = "lam_lam-ar.init";
+lastChange = "2020-07-15 11:02:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{513, 0}";
+},
+{
+name = bottom_2;
+position = "{171, -80}";
+},
+{
+name = caret_1;
+position = "{342, 0}";
+},
+{
+name = top_1;
+position = "{547, 760}";
+},
+{
+name = top_2;
+position = "{181, 760}";
+}
+);
 layerId = "F2028F70-0529-41D4-9F63-024EA79743CD";
 paths = (
 {
@@ -99936,6 +99958,28 @@ nodes = (
 width = 684;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{491, 0}";
+},
+{
+name = bottom_2;
+position = "{165, -84}";
+},
+{
+name = caret_1;
+position = "{284, 0}";
+},
+{
+name = top_1;
+position = "{507, 761}";
+},
+{
+name = top_2;
+position = "{181, 760}";
+}
+);
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
 paths = (
 {
@@ -125798,7 +125842,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-exports = 0;
 interpolationWeight = 112;
 instanceInterpolations = {
 "3E005A84-7828-4122-B6E8-61930BD9836F" = 0.83333;
@@ -125808,7 +125851,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-exports = 0;
 interpolationWeight = 140;
 instanceInterpolations = {
 "3E005A84-7828-4122-B6E8-61930BD9836F" = 0.6;
@@ -125818,7 +125860,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-exports = 0;
 interpolationWeight = 176;
 instanceInterpolations = {
 "3E005A84-7828-4122-B6E8-61930BD9836F" = 0.3;
