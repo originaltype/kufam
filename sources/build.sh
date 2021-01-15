@@ -19,9 +19,9 @@ done
 rm -r $VFDIR/*.ttf
 set -e
 VF_FILENAME="$VFDIR/Kufam[wght].ttf"
-fontmake -g "../sources/Kufam_Arabic_Latin_Roman_Master.glyphs" -o variable --output-path $VF_FILENAME
+fontmake -g "../sources/Kufam_Arabic_Latin_Roman_Master.glyphs" -o variable -f --output-path $VF_FILENAME
 VF_FILENAME="$VFDIR/Kufam-Italic[wght].ttf"
-fontmake -g "../sources/Kufam_Latin_Italic_Master.glyphs" -o variable --output-path $VF_FILENAME
+fontmake -g "../sources/Kufam_Latin_Italic_Master.glyphs" -o variable -f --output-path $VF_FILENAME
 
 for f in $VFDIR/*.ttf
 do
