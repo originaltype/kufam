@@ -35,7 +35,7 @@ do
 done
 
 # STAT table
-gftools gen-stat --axis-order wght --elided-values wght=400 "$VFDIR/Kufam[wght].ttf" "$VFDIR/Kufam-Italic[wght].ttf"
+gftools gen-stat "$VFDIR/Kufam[wght].ttf" "$VFDIR/Kufam-Italic[wght].ttf" --axis-order wght ital --elided-values wght=400 --inplace
 # gftools fix-vf-meta "$VFDIR/Kufam[wght].ttf" "$VFDIR/Kufam-Italic[wght].ttf"
 # mv "$VFDIR/Kufam[wght].ttf.fix" "$VFDIR/Kufam[wght].ttf"
 # mv "$VFDIR/Kufam-Italic[wght].ttf.fix" "$VFDIR/Kufam-Italic[wght].ttf"
