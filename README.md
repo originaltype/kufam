@@ -33,7 +33,7 @@ The fonts can be built with by running a .sh script using a terminal.
 The build process requires you to open up a terminal and navigate to this project's directory. Open a terminal, then navigate to a directory (folder) for type projects, and git clone this repo.
 
 ```bash
-cd path/to/type_repos_directory
+cd path/to/you_type_repos_directory
 
 # then
 git clone https://github.com/originaltype/kufam.git
