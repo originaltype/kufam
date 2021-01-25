@@ -26,7 +26,7 @@ To contribute to the project, file issues at <https://github.com/originaltype/ku
 
 ## Build Process
 
-The fonts can be built with by running a .sh script using a terminal.
+The fonts can be build with by running a .sh script using a terminal.
 
 ### Step 1: Set up the project locally
 
