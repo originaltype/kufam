@@ -59,6 +59,6 @@ Now, run the build script by entering its relative path in your terminal:
 sources/build.sh
 ```
 
-If you've set up your dependencies correctly, it should build and place fonts into the `/fonts` sub-directory of the project.
+After running the build script fresh TTF an VF fonts are placed in the `/Fonts` directory.
 
 
