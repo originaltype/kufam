@@ -51,7 +51,7 @@ chmod +x sources/*.sh
 
 Using `chmod +x` gives shell scripts execute permissions. In general, before you do this for shell scripts, you should probably take a look through their contents, to be sure they aren't doing anything you don't want them to do. The ones in this repo simply build from the GlyphsApp sources and apply various fixes to the results.
 
-### Step 3: Run the build scripts!
+### Step 3: Run the build script
 
 Now, run the build script by entering its relative path in your terminal:
 
