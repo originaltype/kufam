@@ -125683,6 +125683,7 @@ instanceInterpolations = {
 "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15" = 1;
 };
 isItalic = 1;
+linkStyle = Regular;
 name = Italic;
 },
 {

@@ -1,8 +1,5 @@
 {
 .appVersion = "1352";
-DisplayStrings = (
-"/sukun-ar"
-);
 classes = (
 {
 code = "zero.osf\012one.osf\012two.osf\012three.osf\012four.osf\012five.osf\012six.osf\012seven.osf\012eight.osf\012nine.osf\012zero.osf.zero\012";
@@ -124208,8 +124205,9 @@ width = 750;
 note = uni0649062D;
 },
 {
+color = 9;
 glyphname = ff;
-lastChange = "2020-07-10 12:18:09 +0000";
+lastChange = "2021-01-28 11:49:43 +0000";
 layers = (
 {
 color = 4;
@@ -124246,10 +124244,11 @@ leftKerningGroup = f;
 leftMetricsKey = f;
 rightKerningGroup = f;
 rightMetricsKey = f;
+unicode = FB00;
 },
 {
 glyphname = ffi;
-lastChange = "2020-07-10 12:18:09 +0000";
+lastChange = "2021-01-28 11:50:25 +0000";
 layers = (
 {
 color = 4;
@@ -124286,10 +124285,11 @@ leftKerningGroup = f;
 leftMetricsKey = f;
 rightKerningGroup = d;
 rightMetricsKey = i;
+unicode = FB03;
 },
 {
 glyphname = ffl;
-lastChange = "2020-07-10 12:18:09 +0000";
+lastChange = "2021-01-28 11:50:41 +0000";
 layers = (
 {
 color = 4;
@@ -124336,6 +124336,7 @@ leftKerningGroup = f;
 leftMetricsKey = f;
 rightKerningGroup = d;
 rightMetricsKey = l;
+unicode = FB04;
 },
 {
 glyphname = "_kafbar-ar";
