@@ -42,8 +42,7 @@ The source files are in Glyphs format. You can purchase a license or download a 
 
 To contribute to the project, file issues at <https://github.com/originaltype/kufam/issues>.
 
----
-## Contributions or modifications to the Arabic characterset
+### Contributions or modifications to the Arabic characterset
 
 Both Glyphs source files share the same characterset. If there are modifications made to the Arabic, it's of importance to copy the set to the other source file as well so that both VF's are in sync. Preferably make the changes or modifications in the source file containing the [Latin roman set](https://github.com/originaltype/kufam/blob/decompose-nested-transformed-components/sources/Kufam_Arabic_Latin_Roman_Master.glyphs). Then copy the complete Arabic set to the file containing the [Latin italic set](https://github.com/originaltype/kufam/blob/decompose-nested-transformed-components/sources/Kufam_Latin_Italic_Master.glyphs).
 
