@@ -11,9 +11,29 @@ Kufam was conceived within the framework of The typographic matchmaking 2.0 proj
 
 In 2014 Kufam was published on the now defunct type label OurType, where the font development team expanded the characterset from Standard to Pro and remastered the fonts. Kufam was available on OurType until 2017.
 
-From 2018 Kufam was reworked to meet Google Fonts Latin Expert and Arabic charactersets and in 2020 Kufam was made available on Google Fonts.
+From 2018 Kufam was reworked to meet Google Fonts Latin Expert and Arabic charactersets and in 2020 Kufam was made available on Google Fonts as a variable font.
 
 ---
+## Family overview
+
+The font family Kufam is made out of two variable font (VF) files with romans and italics for Latin, both files share the same Arabic character set.
+
+Kufam[wght].ttf | Kufam-Italic[wght].ttf
+------------ | -------------
+Arabic + Latin roman | Arabic + Latin italic
+
+Named instances: | Named instances: 
+------------ | -------------
+Regular (400) | Italic (400)
+Medium (500) | Medium Italic (500)
+SemiBold (600) | SemiBold Italic (600)
+Bold (700) | Bold Italic (700)
+Black (900) | Black Italic (900)
+
+---
+## Variable Axes
+
+Kufam has the following has a weight (wght) axis ranging from 100 (default) to 900.
 
 ## Contributing
 
@@ -23,7 +43,27 @@ The source files are in Glyphs format. You can purchase a license or download a 
 To contribute to the project, file issues at <https://github.com/originaltype/kufam/issues>.
 
 ---
+## Contributions or modifications to the Arabic characterset
 
+Both Glyphs source files share the same characterset. If there are modifications made to the Arabic, it's of importance to copy the set to the other source file as well so that both VF's are in sync. Preferably make the changes or modifications in the source file containing the [Latin roman set](https://github.com/originaltype/kufam/blob/decompose-nested-transformed-components/sources/Kufam_Arabic_Latin_Roman_Master.glyphs). Then copy the complete Arabic set to the file containing the [Latin italic set](https://github.com/originaltype/kufam/blob/decompose-nested-transformed-components/sources/Kufam_Latin_Italic_Master.glyphs).
+
+Here's a step by step process to do so:
+* Open Glyphs app (download a free trial [here](https://glyphsapp.com/buy))
+* Open the file `Kufam_Arabic_Latin_Roman_Master.glyphs`
+* Make your modifications
+* Copy the contents of the names of all Arabic glyphs from [this](https://github.com/originaltype/kufam/blob/decompose-nested-transformed-components/sources/current%20Arabic%20glyph%20set.txt) text file
+* In Glyphs make a List Filter and paste the copied glyphs in there.
+* Select the List Filter
+* Select all glyphs visible in the Font View window
+* Open the file `Kufam_Latin_Italic_Master.glyphs`
+* Press alt+cmd+v (Paste Special)
+* Select the following options:
+
+* Save the changes
+
+The Arabic sets are now in sync again between the two files.
+
+---
 ## Build Process
 
 The fonts can be build with by running a .sh script using a terminal.
