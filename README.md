@@ -58,10 +58,11 @@ Here's a step by step process to do so:
 * Open the file `Kufam_Latin_Italic_Master.glyphs`
 * Press alt+cmd+v (Paste Special)
 * Select the following options:
+  * ![Paste Special options](https://github.com/originaltype/kufam/blob/decompose-nested-transformed-components/working%20files/paste-special-glyphs-app.png)
 
 * Save the changes
 
-The Arabic sets are now in sync again between the two files.
+The Arabic sets are now in sync again between the two files. You can proceed to the build font files process.
 
 ---
 ## Build Process
