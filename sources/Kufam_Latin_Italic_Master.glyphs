@@ -1,5 +1,5 @@
 {
-.appVersion = "1352";
+.appVersion = "1342";
 classes = (
 {
 code = "zero.osf\012one.osf\012two.osf\012three.osf\012four.osf\012five.osf\012six.osf\012seven.osf\012eight.osf\012nine.osf\012zero.osf.zero\012";
@@ -128600,5 +128600,5 @@ manufacturer = "Original Type";
 manufacturerURL = "http://www.originaltype.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 300;
+versionMinor = 301;
 }
