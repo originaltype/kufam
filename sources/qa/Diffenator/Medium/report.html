@@ -1,0 +1,264 @@
+
+            <style>
+            html{font-family: sans-serif; padding: 10px;}
+
+            table{
+              font-family: arial, sans-serif;
+              border-collapse: collapse;
+              width: 100%;
+            }
+
+            td, th {
+              border: 1px solid #dddddd;
+              text-align: left;
+              padding: 8px;
+            }
+
+            tr:nth-child(even) {
+              background-color: #dddddd;
+              }
+            </style>
+            
+<h1>Diffenator</h1>
+
+Displaying the 20 most significant items in each table. To increase use the '-ol' flag
+
+
+<h3>names new: 5</h3>
+
+<table>
+<tr><th>id</th><th>string</th></tr>
+<tr><td>(25, 1, 0, 0)</td><td>KufamRoman</td></tr>
+<tr><td>(267, 1, 0, 0)</td><td>ExtraBold</td></tr>
+<tr><td>(268, 1, 0, 0)</td><td>Italic</td></tr>
+<tr><td>(269, 1, 0, 0)</td><td>Roman</td></tr>
+<tr><td>(269, 3, 1, 1033)</td><td>Roman</td></tr>
+</table>
+
+<h3>names modified: 4</h3>
+
+<table>
+<tr><th>id</th><th>string_a</th><th>string_b</th></tr>
+<tr><td>(3, 3, 1, 1033)</td><td>1.300;ORTY;Kufam-Regular</td><td>1.301;ORTY;Kufam-Regular</td></tr>
+<tr><td>(5, 3, 1, 1033)</td><td>Version 1.300; ttfautohint (v1.8.3)</td><td>Version 1.301; ttfautohint (v1.8.3)</td></tr>
+<tr><td>(267, 3, 1, 1033)</td><td>Italic</td><td>ExtraBold</td></tr>
+<tr><td>(268, 3, 1, 1033)</td><td>Roman</td><td>Italic</td></tr>
+</table>
+
+<h3>attribs modified: 3</h3>
+
+<table>
+<tr><th>table</th><th>attrib</th><th>value_a</th><th>value_b</th></tr>
+<tr><td>OS/2</td><td>ulUnicodeRange3</td><td>0</td><td>4</td></tr>
+<tr><td>head</td><td>fontRevision</td><td>1.3000030517578125</td><td>1.300994873046875</td></tr>
+<tr><td>head</td><td>modified</td><td>2021/02/10 12:02:18</td><td>2021/02/10 12:02:06</td></tr>
+</table>
+
+<h3>glyphs new: 4</h3>
+
+<table>
+<tr><th>glyph</th><th>area</th><th>string</th></tr>
+<tr><td>ff</td><td>-266982</td><td>ﬀ</td></tr>
+<tr><td>ffi</td><td>-353713</td><td>ﬃ</td></tr>
+<tr><td>ffl</td><td>-347941</td><td>ﬄ</td></tr>
+<tr><td>uniFBBC</td><td>-19447</td><td>﮼</td></tr>
+</table>
+<img src='./glyphs_new.gif'>
+
+<h3>glyphs modified: 133</h3>
+
+<table>
+<tr><th>glyph</th><th>diff</th><th>string</th></tr>
+<tr><td>uni06B7.medi</td><td>0.8164</td><td>ڷ</td></tr>
+<tr><td>uni06B6.medi</td><td>0.8031</td><td>ڶ</td></tr>
+<tr><td>uni06FD</td><td>0.7832</td><td>۽</td></tr>
+<tr><td>uni03060309.case</td><td>0.6875</td><td>̆̉</td></tr>
+<tr><td>uni063F</td><td>0.6842</td><td>ؿ</td></tr>
+<tr><td>uni0776</td><td>0.675</td><td>ݶ</td></tr>
+<tr><td>uni03060303.case</td><td>0.6071</td><td>̆̃</td></tr>
+<tr><td>uni0775</td><td>0.6029</td><td>ݵ</td></tr>
+<tr><td>uni063F.fina</td><td>0.6025</td><td>ؿ</td></tr>
+<tr><td>uni03060301.case</td><td>0.5918</td><td>̆́</td></tr>
+<tr><td>uniFE8A</td><td>0.585</td><td>ئ</td></tr>
+<tr><td>uni0776.fina</td><td>0.5816</td><td>ݶ</td></tr>
+<tr><td>uni063D</td><td>0.5585</td><td>ؽ</td></tr>
+<tr><td>uni0775.fina</td><td>0.55</td><td>ݵ</td></tr>
+<tr><td>uniFC5D</td><td>0.5449</td><td>ﱝ</td></tr>
+<tr><td>uniFC90</td><td>0.5152</td><td>ﲐ</td></tr>
+<tr><td>uni06B7</td><td>0.5</td><td>ڷ</td></tr>
+<tr><td>uni03060300.case</td><td>0.4898</td><td>̆̀</td></tr>
+<tr><td>uni06B7.fina</td><td>0.4464</td><td>ڷ</td></tr>
+<tr><td>questiondown.case</td><td>0.2737</td><td>¿</td></tr>
+</table>
+<img src='./glyphs_modified.gif'>
+
+<h3>kerns new: 2</h3>
+
+<table>
+<tr><th>left</th><th>right</th><th>value</th><th>string</th></tr>
+<tr><td>ampersand</td><td>germandbls.calt</td><td>-2</td><td>&</td></tr>
+<tr><td>Thorn</td><td>germandbls.calt</td><td>1</td><td>Þ</td></tr>
+</table>
+<img src='./kerns_new.gif'>
+
+<h3>kerns missing: 93</h3>
+
+<table>
+<tr><th>left</th><th>right</th><th>value</th><th>string</th></tr>
+<tr><td>t_f</td><td>uni01C9</td><td>87</td><td>tfǉ</td></tr>
+<tr><td>f_f</td><td>uni1E2B</td><td>87</td><td>ffḫ</td></tr>
+<tr><td>f_f</td><td>l</td><td>87</td><td>ffl</td></tr>
+<tr><td>f</td><td>lcaron</td><td>87</td><td>fľ</td></tr>
+<tr><td>f_f</td><td>lslash</td><td>87</td><td>ffł</td></tr>
+<tr><td>f</td><td>b</td><td>87</td><td>fb</td></tr>
+<tr><td>f_f</td><td>uni1ECB</td><td>87</td><td>ffị</td></tr>
+<tr><td>f_f</td><td>hcircumflex</td><td>87</td><td>ffĥ</td></tr>
+<tr><td>f_f</td><td>uni013C</td><td>87</td><td>ffļ</td></tr>
+<tr><td>t_f</td><td>dotlessi</td><td>87</td><td>tfı</td></tr>
+<tr><td>f_f</td><td>uni0209</td><td>87</td><td>ffȉ</td></tr>
+<tr><td>t_f</td><td>lslash</td><td>87</td><td>tfł</td></tr>
+<tr><td>f</td><td>j</td><td>87</td><td>fj</td></tr>
+<tr><td>t_f</td><td>k</td><td>87</td><td>tfk</td></tr>
+<tr><td>f</td><td>dotlessi</td><td>87</td><td>fı</td></tr>
+<tr><td>f_f</td><td>uni0137</td><td>87</td><td>ffķ</td></tr>
+<tr><td>t_f</td><td>lacute</td><td>87</td><td>tfĺ</td></tr>
+<tr><td>t_f</td><td>l</td><td>87</td><td>tfl</td></tr>
+<tr><td>f_f</td><td>uni1EC9</td><td>87</td><td>ffỉ</td></tr>
+<tr><td>t_f</td><td>uni0237</td><td>87</td><td>tfȷ</td></tr>
+</table>
+<img src='./kerns_missing.gif'>
+
+<h3>kerns modified: 18</h3>
+
+<table>
+<tr><th>left</th><th>right</th><th>diff</th><th>string</th></tr>
+<tr><td>f_f</td><td>icircumflex</td><td>-34.0</td><td>ffî</td></tr>
+<tr><td>f</td><td>icircumflex</td><td>-34.0</td><td>fî</td></tr>
+<tr><td>t_f</td><td>icircumflex</td><td>-34.0</td><td>tfî</td></tr>
+<tr><td>t_f</td><td>igrave</td><td>-20.0</td><td>tfì</td></tr>
+<tr><td>f</td><td>igrave</td><td>-20.0</td><td>fì</td></tr>
+<tr><td>f_f</td><td>igrave</td><td>-20.0</td><td>ffì</td></tr>
+<tr><td>t_f</td><td>jcircumflex</td><td>-17.0</td><td>tfĵ</td></tr>
+<tr><td>f_f</td><td>jcircumflex</td><td>-17.0</td><td>ffĵ</td></tr>
+<tr><td>f</td><td>jcircumflex</td><td>-17.0</td><td>fĵ</td></tr>
+<tr><td>f_f</td><td>imacron</td><td>3.0</td><td>ffī</td></tr>
+<tr><td>t_f</td><td>itilde</td><td>3.0</td><td>tfĩ</td></tr>
+<tr><td>t_f</td><td>imacron</td><td>3.0</td><td>tfī</td></tr>
+<tr><td>f_f</td><td>itilde</td><td>3.0</td><td>ffĩ</td></tr>
+<tr><td>f</td><td>itilde</td><td>3.0</td><td>fĩ</td></tr>
+<tr><td>f</td><td>imacron</td><td>3.0</td><td>fī</td></tr>
+<tr><td>t_f</td><td>idieresis</td><td>2.0</td><td>tfï</td></tr>
+<tr><td>f</td><td>idieresis</td><td>2.0</td><td>fï</td></tr>
+<tr><td>f_f</td><td>idieresis</td><td>2.0</td><td>ffï</td></tr>
+</table>
+<img src='./kerns_modified.gif'>
+
+<h3>metrics modified: 3</h3>
+
+<table>
+<tr><th>glyph</th><th>diff_adv</th></tr>
+<tr><td>uni06B6.medi</td><td>505.0</td></tr>
+<tr><td>uni06B7.medi</td><td>505.0</td></tr>
+<tr><td>uni06FD</td><td>11.0</td></tr>
+</table>
+<img src='./metrics_modified.gif'>
+
+<h3>marks_new: 642</h3>
+
+<table>
+<tr><th>base_glyph</th><th>base_x</th><th>base_y</th><th>mark_glyph</th><th>mark_x</th><th>mark_y</th></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni030C.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>hookabovecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>acutecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni0302.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni0304.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni0308.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni0311.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni030B.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni0306.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni030A.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni0307.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>gravecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>tildecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni030F.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni077A.fina.short3</td><td>173</td><td>-256</td><td>uni065F</td><td>186</td><td>638</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni030B</td><td>360</td><td>545</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>acutecomb</td><td>356</td><td>545</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni030F</td><td>353</td><td>545</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>hookabovecomb</td><td>312</td><td>545</td></tr>
+<tr><td>uni077A.fina.short3</td><td>186</td><td>418</td><td>uni0311</td><td>311</td><td>545</td></tr>
+</table>
+<img src='./marks_new.gif'>
+
+<h3>marks_missing: 420</h3>
+
+<table>
+<tr><th>base_glyph</th><th>base_x</th><th>base_y</th><th>mark_glyph</th><th>mark_x</th><th>mark_y</th></tr>
+<tr><td>uni06B8.medi</td><td>184</td><td>765</td><td>gravecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uniFEE0</td><td>184</td><td>765</td><td>acutecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni076A.medi</td><td>184</td><td>765</td><td>gravecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uniFEE0</td><td>184</td><td>765</td><td>gravecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uniFEE0</td><td>184</td><td>765</td><td>uni030C.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni076A.medi</td><td>184</td><td>765</td><td>uni030A.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni06B8.medi</td><td>184</td><td>765</td><td>uni0311.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni076A.medi</td><td>184</td><td>765</td><td>acutecomb.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni06B8.medi</td><td>184</td><td>765</td><td>uni030A.case</td><td>311</td><td>720</td></tr>
+<tr><td>uniFEE0</td><td>184</td><td>765</td><td>uni030F.case</td><td>311</td><td>720</td></tr>
+<tr><td>uniFEE0</td><td>184</td><td>765</td><td>uni0302.case</td><td>311</td><td>720</td></tr>
+<tr><td>uniFEE0</td><td>184</td><td>765</td><td>uni0306.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni06B8.medi</td><td>184</td><td>765</td><td>uni0306.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni06B8.medi</td><td>184</td><td>765</td><td>uni030C.case</td><td>311</td><td>720</td></tr>
+<tr><td>uniFEE0</td><td>184</td><td>765</td><td>uni030B.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni076A.medi</td><td>184</td><td>765</td><td>uni0311.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni076A.medi</td><td>184</td><td>765</td><td>uni0302.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni076A.medi</td><td>184</td><td>765</td><td>uni0304.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni076A.medi</td><td>184</td><td>765</td><td>uni0306.case</td><td>311</td><td>720</td></tr>
+<tr><td>uni076A.medi</td><td>184</td><td>765</td><td>uni030B.case</td><td>311</td><td>720</td></tr>
+</table>
+<img src='./marks_missing.gif'>
+
+<h3>marks_modified: 3731</h3>
+
+<table>
+<tr><th>base_glyph</th><th>mark_glyph</th><th>diff_x</th><th>diff_y</th></tr>
+<tr><td>uniFBFD</td><td>hamzaabove_fathaar</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0620.fina</td><td>uni030B</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0777.fina</td><td>uni030C</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0620.fina</td><td>uni0654</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uniFBE5</td><td>uni030F</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uniFEF0</td><td>uni03060301.case</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0678.fina</td><td>uni030B.case</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0620.fina</td><td>uni064C</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uniFBE5</td><td>uni03060309.case</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uniFBE5</td><td>uniFC62</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0620.fina</td><td>uni030F</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni06CD.fina</td><td>uni03020309.case</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0620.fina</td><td>hamzaabove_fathaar</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0620.fina</td><td>uni03020301.case</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0678.fina</td><td>hamzaabove_fathaar</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uniFEF0</td><td>uni030B</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uniFE8A</td><td>uniFC60</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uniFBFD</td><td>uni0311.case</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0777.fina</td><td>uni064B</td><td>-4.0</td><td>289.0</td></tr>
+<tr><td>uni0777.fina</td><td>uni0311.case</td><td>-4.0</td><td>289.0</td></tr>
+</table>
+<img src='./marks_modified.gif'>
+
+<h3>gdef_base new: 4</h3>
+
+<table>
+<tr><th>glyph</th></tr>
+<tr><td>ffl</td></tr>
+<tr><td>ffi</td></tr>
+<tr><td>ff</td></tr>
+<tr><td>dotbelow_ar</td></tr>
+</table>
+<img src='./gdef_base_new.gif'>
+
+<h3>gdef_mark new: 1</h3>
+
+<table>
+<tr><th>glyph</th></tr>
+<tr><td>threedotsdowncenterar</td></tr>
+</table>
+<img src='./gdef_mark_new.gif'>

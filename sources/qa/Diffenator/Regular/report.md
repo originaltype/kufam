@@ -1,0 +1,201 @@
+# Diffenator
+
+Displaying the 20 most significant items in each table. To increase use the '-ol' flag
+
+
+### names new: 5
+
+id | string
+--- | --- | 
+(25, 1, 0, 0) | KufamRoman
+(267, 1, 0, 0) | ExtraBold
+(268, 1, 0, 0) | Italic
+(269, 1, 0, 0) | Roman
+(269, 3, 1, 1033) | Roman
+
+### names modified: 4
+
+id | string_a | string_b
+--- | --- | --- | 
+(3, 3, 1, 1033) | 1.300;ORTY;Kufam-Regular | 1.301;ORTY;Kufam-Regular
+(5, 3, 1, 1033) | Version 1.300; ttfautohint (v1.8.3) | Version 1.301; ttfautohint (v1.8.3)
+(267, 3, 1, 1033) | Italic | ExtraBold
+(268, 3, 1, 1033) | Roman | Italic
+
+### attribs modified: 3
+
+table | attrib | value_a | value_b
+--- | --- | --- | --- | 
+OS/2 | ulUnicodeRange3 | 0 | 4
+head | fontRevision | 1.3000030517578125 | 1.300994873046875
+head | modified | 2021/02/10 12:01:28 | 2021/02/10 12:01:16
+
+### glyphs new: 4
+
+glyph | area | string
+--- | --- | --- | 
+ff | -219669 | ﬀ
+ffi | -289698 | ﬃ
+ffl | -285612 | ﬄ
+uniFBBC | -16050 | ﮼
+
+### glyphs modified: 77
+
+glyph | diff | string
+--- | --- | --- | 
+uni06B7.medi | 0.8077 | ڷ
+uni06B6.medi | 0.8068 | ڶ
+uni06FD | 0.8 | ۽
+uni0776 | 0.6694 | ݶ
+uni063F | 0.6111 | ؿ
+uni0775 | 0.5853 | ݵ
+uni063F.fina | 0.5825 | ؿ
+uni063D | 0.5497 | ؽ
+uni0776.fina | 0.5447 | ݶ
+uniFE8A | 0.5368 | ئ
+uni0775.fina | 0.5184 | ݵ
+uni06B7 | 0.4691 | ڷ
+uni03060300.case | 0.449 | ̆̀
+uni03060303.case | 0.4286 | ̆̃
+uni06B7.fina | 0.4272 | ڷ
+uni03060301.case | 0.3878 | ̆́
+uni03060309.case | 0.375 | ̆̉
+uni03020300.case | 0.3333 | ̂̀
+uni03020301.case | 0.2361 | ̂́
+uni06B5 | 0.1354 | ڵ
+
+### kerns missing: 93
+
+left | right | value | string
+--- | --- | --- | --- | 
+t_f | uni01C9 | 100 | tfǉ
+f_f | uni1E2B | 100 | ffḫ
+f_f | l | 100 | ffl
+f | lcaron | 100 | fľ
+f_f | lslash | 100 | ffł
+f | b | 100 | fb
+f_f | uni1ECB | 100 | ffị
+f_f | hcircumflex | 100 | ffĥ
+f_f | uni013C | 100 | ffļ
+t_f | dotlessi | 100 | tfı
+f_f | uni0209 | 100 | ffȉ
+t_f | lslash | 100 | tfł
+f | j | 100 | fj
+t_f | k | 100 | tfk
+f | dotlessi | 100 | fı
+f_f | uni0137 | 100 | ffķ
+t_f | lacute | 100 | tfĺ
+t_f | l | 100 | tfl
+f_f | uni1EC9 | 100 | ffỉ
+t_f | uni0237 | 100 | tfȷ
+
+### kerns modified: 9
+
+left | right | diff | string
+--- | --- | --- | --- | 
+f_f | icircumflex | -40.0 | ffî
+f | icircumflex | -40.0 | fî
+t_f | icircumflex | -40.0 | tfî
+t_f | jcircumflex | -24.0 | tfĵ
+f_f | jcircumflex | -24.0 | ffĵ
+f | jcircumflex | -24.0 | fĵ
+t_f | igrave | -20.0 | tfì
+f | igrave | -20.0 | fì
+f_f | igrave | -20.0 | ffì
+
+### metrics modified: 2
+
+glyph | diff_adv
+--- | --- | 
+uni06B6.medi | 532.0
+uni06B7.medi | 532.0
+
+### marks_new: 642
+
+base_glyph | base_x | base_y | mark_glyph | mark_x | mark_y
+--- | --- | --- | --- | --- | --- | 
+uni077A.fina.short3 | 180 | 400 | uni030C.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | hookabovecomb.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | acutecomb.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni0302.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni0304.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni0308.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni0311.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni030B.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni0306.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni030A.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni0307.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | gravecomb.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | tildecomb.case | 306 | 720
+uni077A.fina.short3 | 180 | 400 | uni030F.case | 306 | 720
+uni077A.fina.short3 | 167 | -256 | uni065F | 184 | 629
+uni077A.fina.short3 | 180 | 400 | uni030B | 357 | 544
+uni077A.fina.short3 | 180 | 400 | acutecomb | 355 | 544
+uni077A.fina.short3 | 180 | 400 | uni030F | 346 | 544
+uni077A.fina.short3 | 180 | 400 | uni03020303 | 312 | 544
+uni077A.fina.short3 | 180 | 400 | uni03020303.case | 299 | 552
+
+### marks_missing: 420
+
+base_glyph | base_x | base_y | mark_glyph | mark_x | mark_y
+--- | --- | --- | --- | --- | --- | 
+uni06B8.medi | 178 | 760 | gravecomb.case | 306 | 720
+uniFEE0 | 178 | 760 | acutecomb.case | 306 | 720
+uni076A.medi | 178 | 760 | gravecomb.case | 306 | 720
+uniFEE0 | 178 | 760 | gravecomb.case | 306 | 720
+uniFEE0 | 178 | 760 | uni030C.case | 306 | 720
+uni076A.medi | 178 | 760 | uni030A.case | 306 | 720
+uni06B8.medi | 178 | 760 | uni0311.case | 306 | 720
+uni076A.medi | 178 | 760 | acutecomb.case | 306 | 720
+uni06B8.medi | 178 | 760 | uni030A.case | 306 | 720
+uniFEE0 | 178 | 760 | uni030F.case | 306 | 720
+uniFEE0 | 178 | 760 | uni0302.case | 306 | 720
+uniFEE0 | 178 | 760 | uni0306.case | 306 | 720
+uni06B8.medi | 178 | 760 | uni0306.case | 306 | 720
+uni06B8.medi | 178 | 760 | uni030C.case | 306 | 720
+uniFEE0 | 178 | 760 | uni030B.case | 306 | 720
+uni076A.medi | 178 | 760 | uni0311.case | 306 | 720
+uni076A.medi | 178 | 760 | uni0302.case | 306 | 720
+uni076A.medi | 178 | 760 | uni0304.case | 306 | 720
+uni076A.medi | 178 | 760 | uni0306.case | 306 | 720
+uni076A.medi | 178 | 760 | uni030B.case | 306 | 720
+
+### marks_modified: 3262
+
+base_glyph | mark_glyph | diff_x | diff_y
+--- | --- | --- | --- | 
+uni06B6.fina | uni0653 | -49.0 | -250.0
+uni06B7 | uni03060300.case | -49.0 | -250.0
+uni06B7.fina | uni0306.case | -49.0 | -250.0
+uni06B8 | uni03020309 | -49.0 | -250.0
+uni076A.fina | hamzaabove_dammaar | -49.0 | -250.0
+uni06B6 | uni030F | -49.0 | -250.0
+uni06B5.fina | uni03060301.case | -49.0 | -250.0
+uni06B8.fina | uni0306.case | -49.0 | -250.0
+uni06B5.fina | uni064E | -49.0 | -250.0
+uni06B7 | uni03020303.case | -49.0 | -250.0
+uni06B5.fina | uni0307.case | -49.0 | -250.0
+uni06B8 | uniFC61 | -49.0 | -250.0
+uniFEDE | uni03020309.case | -49.0 | -250.0
+uni06B7.fina | uni0653 | -49.0 | -250.0
+uniFEDE | uni03060300 | -49.0 | -250.0
+uni06B5.fina | uni030A | -49.0 | -250.0
+uni076A | uni03020301 | -49.0 | -250.0
+uni076A.fina | uni064C | -49.0 | -250.0
+uni06B8.fina | uni03020309 | -49.0 | -250.0
+uni06B8 | hamzaabove_dammaar | -49.0 | -250.0
+
+### gdef_base new: 4
+
+glyph
+--- | 
+ffl
+ffi
+ff
+dotbelow_ar
+
+### gdef_mark new: 1
+
+glyph
+--- | 
+threedotsdowncenterar
