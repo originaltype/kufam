@@ -1,7 +1,8 @@
 {
 .appVersion = "1354";
 DisplayStrings = (
-"/dyeh-ar.medi.h2"
+"/dyeh-ar.medi.h2",
+"/_tahbarMEDI"
 );
 classes = (
 {
@@ -125018,7 +125019,7 @@ note = uni066E.medi;
 {
 color = 10;
 glyphname = _tahbarMEDI;
-lastChange = "2021-02-19 11:08:14 +0000";
+lastChange = "2021-03-11 09:22:52 +0000";
 layers = (
 {
 anchors = (
@@ -125066,14 +125067,6 @@ anchors = (
 {
 name = "*entry";
 position = "{240, 0}";
-},
-{
-name = bar;
-position = "{180, 424}";
-},
-{
-name = top;
-position = "{182, 760}";
 }
 );
 layerId = "5B01CDE3-ACDA-4D2B-9E53-A993574CFD15";

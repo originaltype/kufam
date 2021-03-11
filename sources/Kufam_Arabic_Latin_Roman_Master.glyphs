@@ -1,5 +1,8 @@
 {
 .appVersion = "1354";
+DisplayStrings = (
+"/_tahbarMEDI"
+);
 classes = (
 {
 code = "zero.osf\012one.osf\012two.osf\012three.osf\012four.osf\012five.osf\012six.osf\012seven.osf\012eight.osf\012nine.osf\012zero.osf.zero\012";
@@ -124603,7 +124606,7 @@ note = uni066E.medi;
 {
 color = 10;
 glyphname = _tahbarMEDI;
-lastChange = "2021-02-19 10:59:24 +0000";
+lastChange = "2021-03-11 09:22:32 +0000";
 layers = (
 {
 anchors = (
@@ -124651,14 +124654,6 @@ anchors = (
 {
 name = "*entry";
 position = "{240, 0}";
-},
-{
-name = bar;
-position = "{180, 424}";
-},
-{
-name = top;
-position = "{182, 760}";
 }
 );
 layerId = "3E005A84-7828-4122-B6E8-61930BD9836F";
