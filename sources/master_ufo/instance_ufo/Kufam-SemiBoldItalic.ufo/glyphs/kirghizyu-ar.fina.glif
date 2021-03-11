@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kirghizyu-ar.fina" format="2">
+  <advance width="656.8"/>
+  <unicode hex="FBE3"/>
+  <anchor x="617.8" y="-78.4" name="bar"/>
+  <anchor x="264.8" y="-260.4" name="bottom"/>
+  <anchor x="35.2" y="-19.2" name="center"/>
+  <anchor x="445.6" y="497.2" name="high"/>
+  <anchor x="264.8" y="-260.4" name="ring"/>
+  <anchor x="309.2" y="731.6" name="top"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="vinvertedabove-ar" xOffset="195.6" yOffset="415.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

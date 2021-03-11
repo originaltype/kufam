@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar.numr" format="2">
+  <advance width="397"/>
+  <note>
+dollar.numerator
+</note>
+  <outline>
+    <component base="dollar.inferior"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dollar.inferior</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dollar.inferior</string>
+    </dict>
+  </lib>
+</glyph>

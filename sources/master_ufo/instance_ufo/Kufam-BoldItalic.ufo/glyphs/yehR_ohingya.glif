@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehRohingya" format="2">
+  <advance width="960.7"/>
+  <unicode hex="08AC"/>
+  <anchor x="592.8" y="-259.0" name="bottom"/>
+  <anchor x="625.3" y="574.8" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.medi" xOffset="299.9"/>
+    <component base="twodotshorizontalbelow_ar" xOffset="384.79999999999995"/>
+    <component base="kashidaFina2-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

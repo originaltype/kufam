@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fathatan-ar.medi" format="2">
+  <advance width="173.33333333333334"/>
+  <unicode hex="FE71"/>
+  <outline>
+    <component base="kashida-ar"/>
+    <component base="fathatan-ar" xOffset="-99.16666666666667" yOffset="-147.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

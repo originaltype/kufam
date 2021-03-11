@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dul-ar.fina" format="2">
+  <advance width="806.8"/>
+  <unicode hex="FB87"/>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="480.0" y="0.0" name="*exit"/>
+  <anchor x="350.0" y="0.0" name="bottom"/>
+  <anchor x="332.0" y="0.0" name="ring"/>
+  <anchor x="379.4" y="804.4" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="threedotsupabove_ar" xOffset="274.8" yOffset="237.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

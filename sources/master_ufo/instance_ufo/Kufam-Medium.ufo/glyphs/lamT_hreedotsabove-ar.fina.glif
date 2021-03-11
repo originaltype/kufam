@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamThreedotsabove-ar.fina" format="2">
+  <advance width="599.3333333333334"/>
+  <anchor x="455.6666666666667" y="0.0" name="*entry"/>
+  <anchor x="455.6666666666667" y="0.0" name="*exit"/>
+  <anchor x="393.3333333333333" y="424.0" name="bar"/>
+  <anchor x="194.0" y="-256.6666666666667" name="bottom"/>
+  <anchor x="82.33333333333333" y="634.3333333333334" name="top"/>
+  <outline>
+    <component base="lam-ar.fina"/>
+    <component base="threedotsupabove_ar" xOffset="-20.166666666666664" yOffset="88.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.inferior" format="2">
+  <advance width="253.0"/>
+  <note>
+parenright.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="28.5" y="-209.66666666666666" type="line"/>
+      <point x="117.83333333333333" y="-209.66666666666666" type="line"/>
+      <point x="168.83333333333334" y="-162.83333333333334"/>
+      <point x="206.66666666666666" y="-73.0"/>
+      <point x="206.66666666666666" y="27.0" type="curve" smooth="yes"/>
+      <point x="206.66666666666666" y="127.0"/>
+      <point x="168.83333333333334" y="216.0"/>
+      <point x="117.83333333333333" y="262.0" type="curve"/>
+      <point x="28.5" y="262.0" type="line"/>
+      <point x="28.5" y="256.8333333333333" type="line"/>
+      <point x="82.83333333333333" y="199.0"/>
+      <point x="117.33333333333333" y="125.0"/>
+      <point x="117.33333333333333" y="27.0" type="curve" smooth="yes"/>
+      <point x="117.33333333333333" y="-70.16666666666667"/>
+      <point x="82.83333333333333" y="-146.66666666666666"/>
+      <point x="28.5" y="-203.66666666666666" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behThreedotsupbelow-ar" format="2">
+  <advance width="1128.0"/>
+  <unicode hex="0752"/>
+  <anchor x="864.8" y="0.0" name="*entry"/>
+  <anchor x="622.4" y="-327.7" name="bottom"/>
+  <anchor x="552.8" y="0.0" name="ring"/>
+  <anchor x="556.5" y="373.1" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="threedotsupbelow_ar" xOffset="419.9" yOffset="57.800000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

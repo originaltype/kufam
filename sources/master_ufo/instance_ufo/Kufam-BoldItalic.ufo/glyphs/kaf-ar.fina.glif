@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar.fina" format="2">
+  <advance width="1267.1"/>
+  <note>
+uni0643.fina
+</note>
+  <anchor x="947.2" y="0.0" name="*entry"/>
+  <anchor x="947.2" y="0.0" name="*exit"/>
+  <anchor x="550.4" y="0.0" name="bottom"/>
+  <anchor x="554.9" y="666.2" name="top"/>
+  <outline>
+    <component base="_baseline2" xOffset="947.2"/>
+    <component base="kaf-ar"/>
+  </outline>
+</glyph>

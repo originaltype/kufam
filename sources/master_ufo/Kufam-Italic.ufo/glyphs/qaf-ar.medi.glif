@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar.medi" format="2">
+  <advance width="616"/>
+  <note>
+uni0642.medi
+</note>
+  <anchor x="321" y="0" name="bottom"/>
+  <anchor x="307" y="714" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.medi"/>
+    <component base="twodotshorizontalabove_ar" xOffset="189" yOffset="302"/>
+  </outline>
+</glyph>

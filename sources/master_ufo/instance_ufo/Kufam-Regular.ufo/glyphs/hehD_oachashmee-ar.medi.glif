@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehDoachashmee-ar.medi" format="2">
+  <advance width="707"/>
+  <note>
+uni06BE.medi
+</note>
+  <anchor x="337" y="-142" name="bottom"/>
+  <anchor x="361" y="510" name="top"/>
+  <outline>
+    <component base="heh-ar.medi"/>
+  </outline>
+</glyph>

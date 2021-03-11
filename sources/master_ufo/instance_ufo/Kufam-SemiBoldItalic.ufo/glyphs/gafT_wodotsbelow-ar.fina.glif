@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gafTwodotsbelow-ar.fina" format="2">
+  <advance width="1460.4"/>
+  <anchor x="741.6" y="-247.0" name="bottom"/>
+  <anchor x="349.6" y="397.2" name="kafbar"/>
+  <anchor x="751.8" y="625.6" name="ring"/>
+  <anchor x="332.0" y="610.8" name="top"/>
+  <outline>
+    <component base="gaf-ar.fina"/>
+    <component base="twodotshorizontalbelow_ar" xOffset="506.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

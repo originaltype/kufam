@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahTahbelow-ar.fina.h2" format="2">
+  <advance width="431"/>
+  <anchor x="331" y="-256" name="bottom"/>
+  <anchor x="493" y="-173" name="center"/>
+  <anchor x="424" y="410" name="top"/>
+  <outline>
+    <component base="hah-ar.fina.short.h2"/>
+    <component base="tahcenter-ar" xOffset="374" yOffset="-342"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

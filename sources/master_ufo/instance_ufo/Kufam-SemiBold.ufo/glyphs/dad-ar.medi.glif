@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.medi" format="2">
+  <advance width="1235.6"/>
+  <note>
+uni0636.medi
+</note>
+  <anchor x="908.8" y="0.0" name="*entry_1"/>
+  <anchor x="264.6" y="0.0" name="*entry_2"/>
+  <anchor x="908.8" y="0.0" name="*exit_1"/>
+  <anchor x="264.6" y="0.0" name="*exit_2"/>
+  <anchor x="597.4" y="0.0" name="bottom"/>
+  <anchor x="587.6" y="647.4" name="top"/>
+  <anchor x="239.8" y="164.4" name="verticalbar"/>
+  <outline>
+    <component base="sad-ar.medi"/>
+    <component base="dotabove_ar" xOffset="361.6" yOffset="-117.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghainDotbelow-ar.fina" format="2">
+  <advance width="668.0"/>
+  <anchor x="242.8" y="-256.0" name="bottom"/>
+  <anchor x="443.4" y="-156.4" name="center"/>
+  <anchor x="340.8" y="762.4" name="top"/>
+  <outline>
+    <component base="ain-ar.fina.short"/>
+    <component base="dotabove_ar" xOffset="114.8" yOffset="-2.0"/>
+    <component base="dotcenter-ar" xOffset="257.8" yOffset="-330.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

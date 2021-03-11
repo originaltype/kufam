@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.sc" format="2">
+  <advance width="495.2"/>
+  <note>
+l.sc
+</note>
+  <anchor x="247.6" y="0.0" name="bottom"/>
+  <anchor x="182.0" y="320.4" name="center"/>
+  <anchor x="351.2" y="331.2" name="periodCAT"/>
+  <anchor x="152.4" y="572.0" name="top"/>
+  <anchor x="365.6" y="369.6" name="topright"/>
+  <outline>
+    <contour>
+      <point x="83.2" y="572.0" type="line"/>
+      <point x="83.2" y="0.0" type="line"/>
+      <point x="460.8" y="0.0" type="line"/>
+      <point x="460.8" y="112.0" type="line"/>
+      <point x="221.6" y="112.0" type="line"/>
+      <point x="221.6" y="572.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

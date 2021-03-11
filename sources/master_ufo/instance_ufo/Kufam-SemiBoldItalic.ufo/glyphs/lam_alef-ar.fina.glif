@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alef-ar.fina" format="2">
+  <advance width="806.0"/>
+  <note>
+uni06440627.fina
+</note>
+  <anchor x="580.4" y="0.0" name="bottom_1"/>
+  <anchor x="311.4" y="0.0" name="bottom_2"/>
+  <anchor x="597.4" y="760.0" name="top_1"/>
+  <anchor x="301.0" y="552.8" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="618.4" y="121.4" type="line"/>
+      <point x="664.8" y="61.2" type="line"/>
+      <point x="664.8" y="760.0" type="line"/>
+      <point x="655.2" y="760.0" type="line"/>
+      <point x="524.8" y="744.8" type="line"/>
+      <point x="524.8" y="201.6" type="line" smooth="yes"/>
+      <point x="524.8" y="152.0"/>
+      <point x="531.0" y="114.2"/>
+      <point x="542.0" y="97.2" type="curve"/>
+      <point x="582.8" y="121.4" type="line"/>
+      <point x="331.0" y="121.4" type="line"/>
+      <point x="379.2" y="61.2" type="line"/>
+      <point x="379.2" y="552.8" type="line"/>
+      <point x="369.6" y="552.8" type="line"/>
+      <point x="239.2" y="537.6" type="line"/>
+      <point x="239.2" y="201.6" type="line" smooth="yes"/>
+      <point x="239.2" y="152.0"/>
+      <point x="245.4" y="114.2"/>
+      <point x="256.4" y="97.2" type="curve"/>
+      <point x="299.0" y="121.4" type="line"/>
+      <point x="48.8" y="121.4" type="line"/>
+      <point x="7.199999999999999" y="9.6" type="line"/>
+      <point x="7.199999999999999" y="0.0" type="line"/>
+      <point x="786.0" y="0.0" type="line"/>
+      <point x="806.0" y="20.0" type="line"/>
+      <point x="806.0" y="121.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tah-ar</string>
+    </dict>
+  </lib>
+</glyph>

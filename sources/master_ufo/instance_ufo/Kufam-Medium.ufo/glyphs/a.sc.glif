@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.sc" format="2">
+  <advance width="626.3333333333334"/>
+  <note>
+a.sc
+</note>
+  <anchor x="311.5" y="0.0" name="bottom"/>
+  <anchor x="530.6666666666666" y="0.0" name="ogonek"/>
+  <anchor x="350.5" y="572.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="54.666666666666664" y="0.0" type="line"/>
+      <point x="166.0" y="0.0" type="line"/>
+      <point x="233.33333333333334" y="373.3333333333333" type="line" smooth="yes"/>
+      <point x="247.0" y="448.1666666666667"/>
+      <point x="281.1666666666667" y="486.6666666666667"/>
+      <point x="380.0" y="486.6666666666667" type="curve" smooth="yes"/>
+      <point x="403.3333333333333" y="486.6666666666667"/>
+      <point x="433.5" y="482.5"/>
+      <point x="456.3333333333333" y="471.1666666666667" type="curve"/>
+      <point x="427.0" y="511.1666666666667" type="line"/>
+      <point x="420.0" y="481.1666666666667"/>
+      <point x="419.3333333333333" y="450.8333333333333"/>
+      <point x="419.3333333333333" y="417.3333333333333" type="curve" smooth="yes"/>
+      <point x="419.3333333333333" y="0.0" type="line"/>
+      <point x="530.6666666666666" y="0.0" type="line"/>
+      <point x="530.6666666666666" y="428.6666666666667" type="line" smooth="yes"/>
+      <point x="530.6666666666666" y="465.3333333333333"/>
+      <point x="531.3333333333334" y="527.3333333333334"/>
+      <point x="535.6666666666666" y="558.6666666666666" type="curve"/>
+      <point x="533.6666666666666" y="566.6666666666666" type="line"/>
+      <point x="488.3333333333333" y="575.0"/>
+      <point x="438.5" y="580.0"/>
+      <point x="396.0" y="580.0" type="curve" smooth="yes"/>
+      <point x="225.5" y="580.0"/>
+      <point x="149.5" y="517.5"/>
+      <point x="122.66666666666667" y="371.3333333333333" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="159.16666666666666" y="158.0" type="line"/>
+      <point x="469.3333333333333" y="158.0" type="line"/>
+      <point x="469.3333333333333" y="251.33333333333334" type="line"/>
+      <point x="159.16666666666666" y="251.33333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sadTwodotsbelow-ar.medi" format="2">
+  <advance width="1223.0"/>
+  <anchor x="890.8333333333334" y="0.0" name="*entry_1"/>
+  <anchor x="246.16666666666666" y="0.0" name="*entry_2"/>
+  <anchor x="890.8333333333334" y="0.0" name="*exit_1"/>
+  <anchor x="246.16666666666666" y="0.0" name="*exit_2"/>
+  <anchor x="544.3333333333334" y="-237.66666666666666" name="bottom"/>
+  <anchor x="583.0" y="418.8333333333333" name="top"/>
+  <anchor x="286.0" y="171.16666666666666" name="verticalbar"/>
+  <outline>
+    <component base="_baseline2" xOffset="890.8333333333334"/>
+    <component base="_loopconn-ar" xOffset="190.66666666666666"/>
+    <component base="twodotshorizontalbelow_ar" xOffset="288.3333333333333"/>
+    <component base="_behDotlessshortnabirah-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

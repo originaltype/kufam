@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.fina" format="2">
+  <advance width="1446"/>
+  <note>
+uni0636.fina
+</note>
+  <anchor x="1110" y="0" name="*entry_1"/>
+  <anchor x="465" y="0" name="*entry_2"/>
+  <anchor x="1110" y="0" name="*exit_1"/>
+  <anchor x="465" y="0" name="*exit_2"/>
+  <anchor x="807" y="0" name="bottom_1"/>
+  <anchor x="190" y="-260" name="bottom_2"/>
+  <anchor x="806" y="405" name="top_1"/>
+  <anchor x="148" y="21" name="top_2"/>
+  <anchor x="551" y="176" name="verticalbar"/>
+  <outline>
+    <component base="_baseline2" xOffset="1110"/>
+    <component base="_loopconn-ar" xOffset="405"/>
+    <component base="dotabove_ar" xOffset="540" yOffset="-133"/>
+    <component base="_part.bowl-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

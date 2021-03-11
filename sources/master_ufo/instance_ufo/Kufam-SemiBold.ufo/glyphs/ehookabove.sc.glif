@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ehookabove.sc" format="2">
+  <advance width="547.2"/>
+  <anchor x="273.6" y="0.0" name="bottom"/>
+  <anchor x="498.4" y="0.0" name="ogonek"/>
+  <anchor x="281.6" y="849.0" name="top"/>
+  <anchor x="20.0" y="572.0" name="topleft"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="hookabovecomb" xOffset="-46.400000000000006" yOffset="26.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

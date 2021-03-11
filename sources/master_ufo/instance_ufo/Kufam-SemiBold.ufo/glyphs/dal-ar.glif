@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dal-ar" format="2">
+  <advance width="756.8"/>
+  <unicode hex="062F"/>
+  <note>
+uni062F
+</note>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="350.0" y="0.0" name="bottom"/>
+  <anchor x="332.0" y="0.0" name="ring"/>
+  <anchor x="388.8" y="464.8" name="top"/>
+  <outline>
+    <contour>
+      <point x="39.2" y="9.6" type="line"/>
+      <point x="39.2" y="0.0" type="line"/>
+      <point x="463.6" y="0.0" type="line" smooth="yes"/>
+      <point x="635.2" y="0.0"/>
+      <point x="700.0" y="89.6"/>
+      <point x="700.0" y="199.8" type="curve" smooth="yes"/>
+      <point x="700.0" y="294.0"/>
+      <point x="636.2" y="384.4"/>
+      <point x="586.4" y="434.0" type="curve"/>
+      <point x="574.4" y="434.0" type="line"/>
+      <point x="534.4" y="424.2"/>
+      <point x="471.2" y="422.0"/>
+      <point x="412.8" y="422.0" type="curve" smooth="yes"/>
+      <point x="380.8" y="422.0" type="line" smooth="yes"/>
+      <point x="313.6" y="422.0"/>
+      <point x="235.6" y="427.0"/>
+      <point x="176.8" y="446.8" type="curve"/>
+      <point x="167.2" y="446.8" type="line"/>
+      <point x="134.4" y="335.6" type="line"/>
+      <point x="205.0" y="310.0"/>
+      <point x="288.6" y="303.6"/>
+      <point x="357.6" y="303.6" type="curve" smooth="yes"/>
+      <point x="395.2" y="303.6" type="line" smooth="yes"/>
+      <point x="459.8" y="303.6"/>
+      <point x="491.4" y="306.6"/>
+      <point x="565.0" y="322.6" type="curve"/>
+      <point x="502.4" y="331.6" type="line"/>
+      <point x="538.2" y="295.4"/>
+      <point x="563.2" y="244.0"/>
+      <point x="563.2" y="199.4" type="curve" smooth="yes"/>
+      <point x="563.2" y="147.2"/>
+      <point x="529.8" y="121.4"/>
+      <point x="460.2" y="121.4" type="curve" smooth="yes"/>
+      <point x="81.6" y="121.4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghainDotbelow-ar.medi" format="2">
+  <advance width="700"/>
+  <anchor x="346" y="-262" name="bottom"/>
+  <anchor x="336" y="816" name="top"/>
+  <outline>
+    <component base="ghain-ar.medi"/>
+    <component base="dotbelow_ar" xOffset="160" yOffset="-346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

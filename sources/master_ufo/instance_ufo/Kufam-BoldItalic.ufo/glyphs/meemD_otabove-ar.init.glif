@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meemDotabove-ar.init" format="2">
+  <advance width="707.0"/>
+  <anchor x="370.7" y="-26.1" name="bottom"/>
+  <anchor x="331.3" y="714.7" name="top"/>
+  <outline>
+    <component base="meem-ar.init"/>
+    <component base="dotabove_ar" xOffset="135.3" yOffset="-62.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.sc" format="2">
+  <advance width="584.2"/>
+  <note>
+z.sc
+</note>
+  <anchor x="236.1" y="0.0" name="bottom"/>
+  <anchor x="348.1" y="572.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="110.8" y="572.0" type="line"/>
+      <point x="85.5" y="436.0" type="line"/>
+      <point x="410.4" y="436.0" type="line"/>
+      <point x="356.8" y="462.4" type="line"/>
+      <point x="38.0" y="120.6" type="line" smooth="yes"/>
+      <point x="8.1" y="88.8"/>
+      <point x="-12.5" y="48.8"/>
+      <point x="-8.0" y="9.4" type="curve"/>
+      <point x="2.1000000000000005" y="0.0" type="line"/>
+      <point x="487.3" y="0.0" type="line"/>
+      <point x="513.3" y="136.0" type="line"/>
+      <point x="178.0" y="136.0" type="line"/>
+      <point x="227.6" y="110.4" type="line"/>
+      <point x="546.2" y="451.4" type="line" smooth="yes"/>
+      <point x="578.9" y="486.0"/>
+      <point x="597.4" y="519.4"/>
+      <point x="592.2" y="561.9" type="curve"/>
+      <point x="584.9" y="572.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

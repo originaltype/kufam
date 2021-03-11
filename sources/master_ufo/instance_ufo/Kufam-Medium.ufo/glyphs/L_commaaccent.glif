@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="538.6666666666666"/>
+  <unicode hex="013B"/>
+  <note>
+Lcommaaccent
+</note>
+  <anchor x="269.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="195.33333333333334" y="384.0" name="center"/>
+  <anchor x="376.6666666666667" y="398.6666666666667" name="periodCAT"/>
+  <anchor x="269.3333333333333" y="720.0" name="top"/>
+  <anchor x="518.6666666666666" y="720.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="commaaccentcomb.case" xOffset="-41.666666666666664"/>
+  </outline>
+</glyph>

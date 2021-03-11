@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamBar-ar.medi" format="2">
+  <advance width="374"/>
+  <anchor x="240" y="0" name="*entry"/>
+  <anchor x="180" y="424" name="bar"/>
+  <anchor x="174" y="0" name="bottom"/>
+  <anchor x="182" y="760" name="top"/>
+  <outline>
+    <component base="lam-ar.medi"/>
+    <component base="_part.bar-ar" xOffset="39" yOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

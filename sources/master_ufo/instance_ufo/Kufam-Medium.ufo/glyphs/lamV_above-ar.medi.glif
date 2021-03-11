@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamVabove-ar.medi" format="2">
+  <advance width="385.8333333333333"/>
+  <anchor x="254.16666666666666" y="0.0" name="*entry"/>
+  <anchor x="187.0" y="424.0" name="bar"/>
+  <anchor x="180.83333333333334" y="0.0" name="bottom"/>
+  <anchor x="189.0" y="1051.8333333333333" name="top"/>
+  <outline>
+    <component base="lam-ar.medi"/>
+    <component base="vabove-ar" xOffset="84.83333333333333" yOffset="706.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

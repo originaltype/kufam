@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafDotabove-ar.init" format="2">
+  <advance width="1187"/>
+  <anchor x="509" y="0" name="bottom"/>
+  <anchor x="65" y="420" name="kafbar"/>
+  <anchor x="577" y="664" name="ring"/>
+  <anchor x="80" y="785" name="top"/>
+  <outline>
+    <component base="kaf-ar.init"/>
+    <component base="dotabove_ar" xOffset="-86" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

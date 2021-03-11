@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lj.sc" format="2">
+  <advance width="908"/>
+  <anchor x="242" y="0" name="bottom_1"/>
+  <anchor x="650" y="0" name="bottom_2"/>
+  <anchor x="186" y="318" name="center"/>
+  <anchor x="333" y="312" name="periodCAT"/>
+  <anchor x="242" y="572" name="top_1"/>
+  <anchor x="834" y="572" name="top_2"/>
+  <anchor x="356" y="368" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="j.sc" xOffset="504"/>
+  </outline>
+</glyph>

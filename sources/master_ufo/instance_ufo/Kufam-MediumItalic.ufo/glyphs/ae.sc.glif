@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.sc" format="2">
+  <advance width="878.6666666666666"/>
+  <note>
+ae.sc
+</note>
+  <anchor x="460.0" y="0.0" name="bottom"/>
+  <anchor x="571.1666666666666" y="572.0" name="top"/>
+  <anchor x="479.3333333333333" y="0.0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="428.6666666666667" y="0.0" type="line"/>
+      <point x="776.0" y="0.0" type="line"/>
+      <point x="794.6666666666666" y="93.33333333333333" type="line"/>
+      <point x="450.6666666666667" y="93.33333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="482.0" y="251.33333333333334" type="line"/>
+      <point x="768.6666666666666" y="251.33333333333334" type="line"/>
+      <point x="786.6666666666666" y="339.3333333333333" type="line"/>
+      <point x="500.0" y="339.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="524.6666666666666" y="478.6666666666667" type="line"/>
+      <point x="862.0" y="478.6666666666667" type="line"/>
+      <point x="880.6666666666666" y="572.0" type="line"/>
+      <point x="543.3333333333334" y="572.0" type="line"/>
+    </contour>
+    <component base="a.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e.sc</string>
+    </dict>
+  </lib>
+</glyph>

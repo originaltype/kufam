@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lj" format="2">
+  <advance width="588.6666666666666"/>
+  <unicode hex="01C9"/>
+  <anchor x="147.33333333333334" y="0.0" name="bottom"/>
+  <anchor x="157.33333333333334" y="388.3333333333333" name="center"/>
+  <anchor x="345.3333333333333" y="359.3333333333333" name="periodCAT"/>
+  <anchor x="147.33333333333334" y="760.0" name="top"/>
+  <anchor x="305.0" y="544.6666666666666" name="topright"/>
+  <outline>
+    <contour>
+      <point x="91.33333333333333" y="0.0" type="line"/>
+      <point x="203.33333333333334" y="0.0" type="line"/>
+      <point x="203.33333333333334" y="760.0" type="line"/>
+      <point x="85.0" y="760.0" type="line"/>
+      <point x="82.66666666666667" y="752.0" type="line"/>
+      <point x="90.83333333333333" y="716.0"/>
+      <point x="91.33333333333333" y="629.3333333333334"/>
+      <point x="91.33333333333333" y="589.3333333333334" type="curve" smooth="yes"/>
+    </contour>
+    <component base="jdotless" xOffset="294.6666666666667"/>
+    <component base="_part.dot" xOffset="295.6666666666667"/>
+  </outline>
+</glyph>

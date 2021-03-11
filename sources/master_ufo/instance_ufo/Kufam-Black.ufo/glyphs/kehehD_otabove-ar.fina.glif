@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kehehDotabove-ar.fina" format="2">
+  <advance width="1461"/>
+  <anchor x="736" y="0" name="bottom"/>
+  <anchor x="292" y="420" name="kafbar"/>
+  <anchor x="804" y="664" name="ring"/>
+  <anchor x="207" y="895" name="top"/>
+  <outline>
+    <component base="keheh-ar.fina"/>
+    <component base="dotabove_ar" xOffset="41" yOffset="106"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

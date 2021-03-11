@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonVabove-ar.fina" format="2">
+  <advance width="621.4"/>
+  <anchor x="483.8" y="0.0" name="*entry"/>
+  <anchor x="483.8" y="0.0" name="*exit"/>
+  <anchor x="193.2" y="-260.0" name="bottom"/>
+  <anchor x="127.6" y="546.0" name="top"/>
+  <outline>
+    <component base="noon-ar.fina"/>
+    <component base="vabove-ar" xOffset="17.599999999999998" yOffset="170.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

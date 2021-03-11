@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behVabove-ar.init.h1" format="2">
+  <advance width="394.2"/>
+  <anchor x="370.8" y="430.0" name="bottom"/>
+  <anchor x="260.0" y="377.0" name="ring"/>
+  <anchor x="235.4" y="960.2" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init.h1"/>
+    <component base="vabove-ar" xOffset="125.4" yOffset="585.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="714.8"/>
+  <unicode hex="20B2"/>
+  <anchor x="297.6" y="0.0" name="bottom"/>
+  <anchor x="437.6" y="720.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="421.6" y="800.0" type="line"/>
+      <point x="243.6" y="-112.0" type="line"/>
+      <point x="350.0" y="-112.0" type="line"/>
+      <point x="528.0" y="800.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="49.2" y="308.6" type="curve" smooth="yes"/>
+      <point x="49.2" y="104.0"/>
+      <point x="164.4" y="-12.0"/>
+      <point x="404.8" y="-12.0" type="curve" smooth="yes"/>
+      <point x="462.0" y="-12.0"/>
+      <point x="546.4" y="0.0"/>
+      <point x="595.2" y="21.2" type="curve"/>
+      <point x="661.2" y="366.8" type="line"/>
+      <point x="506.4" y="366.8" type="line"/>
+      <point x="449.2" y="70.2" type="line"/>
+      <point x="494.5" y="162.8" type="line"/>
+      <point x="478.6" y="143.1"/>
+      <point x="442.4" y="133.6"/>
+      <point x="396.0" y="133.6" type="curve" smooth="yes"/>
+      <point x="279.9" y="133.6"/>
+      <point x="230.39999999999998" y="201.6"/>
+      <point x="230.39999999999998" y="312.8" type="curve" smooth="yes"/>
+      <point x="230.39999999999998" y="464.4"/>
+      <point x="323.4" y="582.4"/>
+      <point x="502.4" y="582.4" type="curve" smooth="yes"/>
+      <point x="574.2" y="582.4"/>
+      <point x="631.0" y="564.7"/>
+      <point x="660.6" y="549.2" type="curve"/>
+      <point x="671.4" y="549.2" type="line"/>
+      <point x="700.6" y="702.8" type="line"/>
+      <point x="659.2" y="720.0"/>
+      <point x="589.8" y="732.0"/>
+      <point x="501.8" y="732.0" type="curve" smooth="yes"/>
+      <point x="214.8" y="732.0"/>
+      <point x="49.2" y="545.2"/>
+    </contour>
+  </outline>
+</glyph>

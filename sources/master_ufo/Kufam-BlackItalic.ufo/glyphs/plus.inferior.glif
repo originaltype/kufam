@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.inferior" format="2">
+  <advance width="398"/>
+  <note>
+plus.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="314" y="88" type="line"/>
+      <point x="-2" y="88" type="line"/>
+      <point x="-2" y="-6" type="line"/>
+      <point x="314" y="-6" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="-122" type="line"/>
+      <point x="203" y="204" type="line"/>
+      <point x="109" y="204" type="line"/>
+      <point x="109" y="-122" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

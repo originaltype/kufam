@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+      <map input="400" output="92"/>
+      <map input="500" output="112"/>
+      <map input="600" output="140"/>
+      <map input="700" output="176"/>
+      <map input="900" output="212"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Kufam-Regular.ufo" name="Kufam Regular" familyname="Kufam" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="92"/>
+      </location>
+    </source>
+    <source filename="Kufam-Black.ufo" name="Kufam Black" familyname="Kufam" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="212"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Kufam Regular" familyname="Kufam" stylename="Regular" filename="instance_ufo/Kufam-Regular.ufo" stylemapfamilyname="Kufam" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="92"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Kufam Medium" familyname="Kufam" stylename="Medium" filename="instance_ufo/Kufam-Medium.ufo" stylemapfamilyname="Kufam Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="112"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Kufam SemiBold" familyname="Kufam" stylename="SemiBold" filename="instance_ufo/Kufam-SemiBold.ufo" stylemapfamilyname="Kufam SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="140"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Kufam Bold" familyname="Kufam" stylename="Bold" filename="instance_ufo/Kufam-Bold.ufo" stylemapfamilyname="Kufam" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="176"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Kufam Black" familyname="Kufam" stylename="Black" filename="instance_ufo/Kufam-Black.ufo" stylemapfamilyname="Kufam Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="212"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>__twodotsvertical</string>
+        <string>_alefMaksura_hah-ar.2.init</string>
+        <string>_alefMaksura_hah-ar.init</string>
+        <string>_baseline</string>
+        <string>_baseline2</string>
+        <string>_baselineLEFT</string>
+        <string>_ending-ar</string>
+        <string>_foururdu-ar</string>
+        <string>_hamza-ar</string>
+        <string>_horizontalbar-ar</string>
+        <string>_loop-ar</string>
+        <string>_loopconn-ar</string>
+        <string>_part.bar-ar</string>
+        <string>_part.dot</string>
+        <string>_part.f.liga</string>
+        <string>_part.f.short</string>
+        <string>_part.reh-ar</string>
+        <string>_part.t.liga</string>
+        <string>_part.yehbarree-ar</string>
+        <string>_v-ar</string>
+        <string>_vinverted-ar</string>
+        <string>_wavyhamza-ar</string>
+        <string>dammahigh-ar</string>
+        <string>hamzahigh-ar</string>
+        <string>slashlongcomb</string>
+        <string>slashlongcomb.case</string>
+        <string>slashlongcomb.sc</string>
+        <string>slashshortcomb</string>
+        <string>slashshortcomb.case</string>
+        <string>slashshortcomb.sc</string>
+        <string>strokelongcomb.case</string>
+        <string>strokelongcomb.sc</string>
+        <string>strokeshortcomb</string>
+        <string>strokeshortcomb.case</string>
+        <string>strokeshortcomb.sc</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="highhamzaAlef-ar" format="2">
+  <advance width="455.0"/>
+  <unicode hex="0675"/>
+  <note>
+uni0675
+</note>
+  <anchor x="204.0" y="0.0" name="*entry"/>
+  <anchor x="148.5" y="0.0" name="bottom"/>
+  <anchor x="348.1666666666667" y="781.6666666666666" name="top"/>
+  <outline>
+    <component base="alef-ar"/>
+    <component base="hamzaabove-ar" xOffset="216.5" yOffset="529.6666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>alef-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>AUTO</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pagenumber-ar" format="2">
+  <advance width="1737.4"/>
+  <unicode hex="0603"/>
+  <outline>
+    <contour>
+      <point x="793.0" y="148.7" type="line"/>
+      <point x="793.0" y="0.0" type="line"/>
+      <point x="1422.2" y="0.0" type="line" smooth="yes"/>
+      <point x="1619.0" y="0.0"/>
+      <point x="1684.4" y="101.6"/>
+      <point x="1684.4" y="217.5" type="curve" smooth="yes"/>
+      <point x="1684.4" y="310.8"/>
+      <point x="1620.0" y="404.5"/>
+      <point x="1569.6" y="455.0" type="curve"/>
+      <point x="1557.6" y="455.0" type="line"/>
+      <point x="1517.6" y="446.1"/>
+      <point x="1452.0" y="443.0"/>
+      <point x="1388.8" y="443.0" type="curve" smooth="yes"/>
+      <point x="859.2" y="443.0" type="line"/>
+      <point x="801.4" y="294.3" type="line"/>
+      <point x="1358.0" y="294.3" type="line" smooth="yes"/>
+      <point x="1417.8" y="294.3"/>
+      <point x="1458.1" y="298.8"/>
+      <point x="1541.9" y="317.8" type="curve"/>
+      <point x="1469.1" y="323.8" type="line"/>
+      <point x="1492.0" y="299.0"/>
+      <point x="1514.0" y="260.8"/>
+      <point x="1514.0" y="221.3" type="curve" smooth="yes"/>
+      <point x="1514.0" y="178.8"/>
+      <point x="1484.8" y="148.7"/>
+      <point x="1400.5" y="148.7" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="20.9" y="148.7" type="line"/>
+      <point x="20.9" y="0.0" type="line"/>
+      <point x="928.3" y="0.0" type="line"/>
+      <point x="948.3" y="20.0" type="line"/>
+      <point x="948.3" y="148.7" type="line"/>
+      <point x="745.5" y="148.7" type="line"/>
+      <point x="817.1" y="75.6" type="line"/>
+      <point x="817.1" y="477.8" type="line"/>
+      <point x="806.3" y="477.8" type="line"/>
+      <point x="641.1" y="460.2" type="line"/>
+      <point x="641.1" y="232.8" type="line" smooth="yes"/>
+      <point x="641.1" y="177.5"/>
+      <point x="646.7" y="137.6"/>
+      <point x="662.2" y="122.1" type="curve"/>
+      <point x="720.7" y="148.7" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>sad-ar</string>
+    </dict>
+  </lib>
+</glyph>

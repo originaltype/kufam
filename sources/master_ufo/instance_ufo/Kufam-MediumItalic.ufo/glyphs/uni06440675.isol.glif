@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni06440675.isol" format="2">
+  <advance width="568.6666666666666"/>
+  <note>
+uni06440675.isol
+</note>
+  <anchor x="466.3333333333333" y="0.0" name="bottom_1"/>
+  <anchor x="130.16666666666666" y="0.0" name="bottom_2"/>
+  <anchor x="501.6666666666667" y="760.0" name="top_1"/>
+  <anchor x="278.5" y="955.0" name="top_2"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="146.83333333333334" yOffset="703.0"/>
+    <component base="lam_alef-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top_2</string>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lam_alef-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>lam_alef-ar</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

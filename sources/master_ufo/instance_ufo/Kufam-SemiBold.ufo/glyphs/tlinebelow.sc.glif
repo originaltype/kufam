@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tlinebelow.sc" format="2">
+  <advance width="546.4"/>
+  <note>
+uni1E6E.sc
+</note>
+  <anchor x="273.2" y="-180.0" name="bottom"/>
+  <anchor x="273.2" y="286.0" name="center"/>
+  <anchor x="273.2" y="572.0" name="top"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="macronbelowcomb" xOffset="-44.8"/>
+  </outline>
+</glyph>

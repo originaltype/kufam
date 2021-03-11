@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackCircle" format="2">
+  <advance width="674"/>
+  <unicode hex="25CF"/>
+  <note>
+uni25CF
+</note>
+  <outline>
+    <contour>
+      <point x="68" y="268" type="curve" smooth="yes"/>
+      <point x="68" y="99"/>
+      <point x="184" y="-12"/>
+      <point x="357" y="-12" type="curve" smooth="yes"/>
+      <point x="530" y="-12"/>
+      <point x="646" y="99"/>
+      <point x="646" y="268" type="curve" smooth="yes"/>
+      <point x="646" y="437"/>
+      <point x="530" y="548"/>
+      <point x="357" y="548" type="curve" smooth="yes"/>
+      <point x="184" y="548"/>
+      <point x="68" y="437"/>
+    </contour>
+  </outline>
+</glyph>

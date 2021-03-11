@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.inferior" format="2">
+  <advance width="441.5"/>
+  <note>
+z.inferior
+</note>
+  <guideline x="85.0" y="32.5" angle="222.93"/>
+  <outline>
+    <contour>
+      <point x="14.200000000000001" y="131.0" type="line"/>
+      <point x="259.3" y="131.0" type="line"/>
+      <point x="221.9" y="173.6" type="line"/>
+      <point x="210.8" y="151.5"/>
+      <point x="178.6" y="119.2"/>
+      <point x="154.1" y="96.7" type="curve" smooth="yes"/>
+      <point x="14.900000000000002" y="-32.0" type="line" smooth="yes"/>
+      <point x="-21.7" y="-66.6"/>
+      <point x="-44.4" y="-99.8"/>
+      <point x="-41.6" y="-151.6" type="curve"/>
+      <point x="-35.6" y="-160.0" type="line"/>
+      <point x="324.1" y="-160.0" type="line"/>
+      <point x="345.2" y="-51.800000000000004" type="line"/>
+      <point x="88.4" y="-51.800000000000004" type="line"/>
+      <point x="137.3" y="-87.7" type="line"/>
+      <point x="146.7" y="-65.0"/>
+      <point x="171.39999999999998" y="-39.8"/>
+      <point x="194.2" y="-17.3" type="curve" smooth="yes"/>
+      <point x="334.5" y="112.1" type="line" smooth="yes"/>
+      <point x="370.7" y="146.7"/>
+      <point x="392.7" y="179.2"/>
+      <point x="390.3" y="231.0" type="curve"/>
+      <point x="384.3" y="239.4" type="line"/>
+      <point x="35.2" y="239.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

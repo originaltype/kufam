@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beeh-ar.init.h1" format="2">
+  <advance width="414.6666666666667"/>
+  <anchor x="353.8333333333333" y="155.93333333333334" name="bottom"/>
+  <anchor x="248.33333333333334" y="363.0" name="ring"/>
+  <anchor x="227.0" y="638.5" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init.h1"/>
+    <component base="twodotsverticalbelow_ar" xScale="0.9666666666666667" yScale="0.9666666666666667" xOffset="241.66666666666666" yOffset="-181.83333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodotsverticalbelow_ar</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

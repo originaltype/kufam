@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl.sc" format="2">
+  <advance width="1026.4"/>
+  <note>
+fl.sc
+</note>
+  <anchor x="205.4" y="0.0" name="bottom_1"/>
+  <anchor x="774.6" y="0.0" name="bottom_2"/>
+  <anchor x="720.0" y="322.2" name="center"/>
+  <anchor x="910.4" y="345.6" name="periodCAT"/>
+  <anchor x="317.4" y="572.0" name="top_1"/>
+  <anchor x="774.6" y="572.0" name="top_2"/>
+  <anchor x="929.2" y="370.8" name="topright"/>
+  <outline>
+    <component base="f.sc"/>
+    <component base="l.sc" xOffset="522.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar.fina" format="2">
+  <advance width="613"/>
+  <note>
+uni0646.fina
+</note>
+  <anchor x="465" y="0" name="*entry"/>
+  <anchor x="465" y="0" name="*exit"/>
+  <anchor x="190" y="-260" name="bottom"/>
+  <anchor x="148" y="231" name="top"/>
+  <outline>
+    <component base="_baseline" xOffset="465"/>
+    <component base="noonghunna-ar"/>
+    <component base="dotabove_ar" xOffset="-118" yOffset="-517"/>
+  </outline>
+</glyph>

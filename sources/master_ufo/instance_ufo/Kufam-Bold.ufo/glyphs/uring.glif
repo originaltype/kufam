@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uring" format="2">
+  <advance width="674.0"/>
+  <unicode hex="016F"/>
+  <note>
+uring
+</note>
+  <anchor x="337.0" y="0.0" name="bottom"/>
+  <anchor x="605.0" y="40.8" name="ogonek"/>
+  <anchor x="337.0" y="837.4" name="top"/>
+  <anchor x="502.6" y="546.8" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="ringcomb" xOffset="10.0"/>
+  </outline>
+</glyph>

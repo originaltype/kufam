@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behVinvertedbelow-ar.init" format="2">
+  <advance width="341.6"/>
+  <anchor x="156.8" y="-244.8" name="bottom"/>
+  <anchor x="126.0" y="0.0" name="ring"/>
+  <anchor x="180.2" y="532.4" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="vinvertedbelow-ar" xOffset="41.2" yOffset="-366.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

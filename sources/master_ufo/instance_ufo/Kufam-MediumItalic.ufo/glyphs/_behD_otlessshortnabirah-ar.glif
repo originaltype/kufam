@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_behDotlessshortnabirah-ar" format="2">
+  <advance width="377.8333333333333"/>
+  <note>
+uni066E.medi
+</note>
+  <anchor x="246.16666666666666" y="0.0" name="*entry"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="100.16666666666667" type="line"/>
+      <point x="-20.0" y="80.16666666666667" type="line"/>
+      <point x="-20.0" y="0.0" type="line"/>
+      <point x="357.8333333333333" y="0.0" type="line"/>
+      <point x="377.8333333333333" y="20.0" type="line"/>
+      <point x="377.8333333333333" y="100.16666666666667" type="line"/>
+      <point x="187.83333333333334" y="100.16666666666667" type="line"/>
+      <point x="233.83333333333334" y="50.0" type="line"/>
+      <point x="233.83333333333334" y="449.0" type="line"/>
+      <point x="225.16666666666666" y="449.0" type="line"/>
+      <point x="121.83333333333333" y="435.6666666666667" type="line"/>
+      <point x="121.83333333333333" y="177.33333333333334" type="line" smooth="yes"/>
+      <point x="121.83333333333333" y="132.16666666666666"/>
+      <point x="128.5" y="96.0"/>
+      <point x="136.0" y="77.83333333333333" type="curve"/>
+      <point x="175.83333333333334" y="100.16666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash.sc" format="2">
+  <advance width="1000.0"/>
+  <note>
+emdash.sc
+</note>
+  <outline>
+    <contour>
+      <point x="16.0" y="338.6666666666667" type="line"/>
+      <point x="16.0" y="250.33333333333334" type="line"/>
+      <point x="984.0" y="250.33333333333334" type="line"/>
+      <point x="984.0" y="338.6666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

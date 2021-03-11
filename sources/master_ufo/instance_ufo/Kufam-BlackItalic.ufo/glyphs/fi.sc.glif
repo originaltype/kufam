@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi.sc" format="2">
+  <advance width="860"/>
+  <note>
+fi.sc
+</note>
+  <anchor x="206" y="0" name="bottom_1"/>
+  <anchor x="636" y="0" name="bottom_2"/>
+  <anchor x="748" y="0" name="ogonek"/>
+  <anchor x="318" y="572" name="top_1"/>
+  <anchor x="748" y="572" name="top_2"/>
+  <outline>
+    <component base="f.sc"/>
+    <component base="i.sc" xOffset="524"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

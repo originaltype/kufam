@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehbarreeHamzaabove-ar.fina" format="2">
+  <advance width="488"/>
+  <note>
+uni06D3.fina
+</note>
+  <anchor x="167" y="-256" name="bottom"/>
+  <anchor x="159" y="407" name="top"/>
+  <outline>
+    <component base="yehbarree-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="30" yOffset="155"/>
+  </outline>
+</glyph>

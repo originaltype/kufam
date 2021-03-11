@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_v-ar" format="2">
+  <advance width="219.4"/>
+  <outline>
+    <contour>
+      <point x="58.2" y="277.4" type="line"/>
+      <point x="-25.0" y="277.4" type="line"/>
+      <point x="-25.0" y="273.4" type="line"/>
+      <point x="60.6" y="121.4" type="line"/>
+      <point x="157.4" y="121.4" type="line"/>
+      <point x="251.0" y="273.4" type="line"/>
+      <point x="251.0" y="277.4" type="line"/>
+      <point x="169.4" y="277.4" type="line"/>
+      <point x="110.8" y="184.2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

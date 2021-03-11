@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar" format="2">
+  <advance width="1316.6"/>
+  <unicode hex="0637"/>
+  <note>
+uni0637
+</note>
+  <anchor x="1051.7" y="0.0" name="*entry_1"/>
+  <anchor x="403.3" y="0.0" name="*entry_2"/>
+  <anchor x="403.3" y="0.0" name="*exit"/>
+  <anchor x="729.2" y="0.0" name="bottom"/>
+  <anchor x="726.8" y="463.1" name="top"/>
+  <anchor x="261.5" y="116.1" name="verticalbar"/>
+  <outline>
+    <component base="_loop-ar" xOffset="362.2"/>
+    <component base="_tahbarfinal-ar"/>
+  </outline>
+</glyph>

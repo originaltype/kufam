@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="694.0"/>
+  <unicode hex="0052"/>
+  <note>
+R
+</note>
+  <anchor x="294.0" y="0.0" name="bottom"/>
+  <anchor x="434.0" y="720.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="168.0" y="190.4" type="line"/>
+      <point x="359.2" y="190.4" type="line"/>
+      <point x="495.2" y="190.4"/>
+      <point x="674.4" y="320.0"/>
+      <point x="674.4" y="506.4" type="curve" smooth="yes"/>
+      <point x="674.4" y="647.2"/>
+      <point x="591.2" y="720.0"/>
+      <point x="430.4" y="720.0" type="curve" smooth="yes"/>
+      <point x="270.4" y="720.0" type="line"/>
+      <point x="248.0" y="599.2" type="line"/>
+      <point x="420.8" y="599.2" type="line" smooth="yes"/>
+      <point x="486.4" y="599.2"/>
+      <point x="529.6" y="572.0"/>
+      <point x="529.6" y="501.6" type="curve" smooth="yes"/>
+      <point x="529.6" y="407.2"/>
+      <point x="458.4" y="310.4"/>
+      <point x="342.4" y="310.4" type="curve" smooth="yes"/>
+      <point x="192.0" y="310.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="34.4" y="0.0" type="line"/>
+      <point x="176.8" y="0.0" type="line"/>
+      <point x="316.8" y="720.0" type="line"/>
+      <point x="174.4" y="720.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="451.6" y="0.0" type="line"/>
+      <point x="607.2" y="0.0" type="line"/>
+      <point x="607.2" y="9.6" type="line"/>
+      <point x="459.2" y="262.4" type="line"/>
+      <point x="334.4" y="216.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

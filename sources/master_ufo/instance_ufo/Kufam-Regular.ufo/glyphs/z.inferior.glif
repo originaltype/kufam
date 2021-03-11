@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.inferior" format="2">
+  <advance width="403"/>
+  <note>
+z.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="43" y="170" type="line"/>
+      <point x="263" y="170" type="line"/>
+      <point x="256" y="155"/>
+      <point x="238" y="137"/>
+      <point x="226" y="123" type="curve"/>
+      <point x="87" y="-26" type="line"/>
+      <point x="68" y="-48"/>
+      <point x="35" y="-81"/>
+      <point x="35" y="-125" type="curve" smooth="yes"/>
+      <point x="35" y="-131"/>
+      <point x="37" y="-142"/>
+      <point x="39" y="-152" type="curve"/>
+      <point x="45" y="-160" type="line"/>
+      <point x="369" y="-160" type="line"/>
+      <point x="369" y="-91" type="line"/>
+      <point x="131" y="-91" type="line"/>
+      <point x="138" y="-77"/>
+      <point x="155" y="-59"/>
+      <point x="167" y="-44" type="curve"/>
+      <point x="306" y="104" type="line" smooth="yes"/>
+      <point x="326" y="126"/>
+      <point x="358" y="159"/>
+      <point x="358" y="203" type="curve" smooth="yes"/>
+      <point x="358" y="209"/>
+      <point x="356" y="220"/>
+      <point x="354" y="230" type="curve"/>
+      <point x="348" y="238" type="line"/>
+      <point x="43" y="238" type="line"/>
+    </contour>
+  </outline>
+</glyph>

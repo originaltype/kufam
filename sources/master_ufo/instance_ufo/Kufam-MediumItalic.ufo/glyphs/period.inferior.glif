@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.inferior" format="2">
+  <advance width="212.0"/>
+  <note>
+period.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="28.333333333333332" y="-166.33333333333334" type="curve" smooth="yes"/>
+      <point x="68.83333333333333" y="-166.33333333333334"/>
+      <point x="95.16666666666667" y="-132.83333333333334"/>
+      <point x="95.16666666666667" y="-96.33333333333333" type="curve" smooth="yes"/>
+      <point x="95.16666666666667" y="-66.0"/>
+      <point x="74.83333333333333" y="-46.0"/>
+      <point x="42.666666666666664" y="-46.0" type="curve" smooth="yes"/>
+      <point x="1.3333333333333335" y="-46.0"/>
+      <point x="-24.166666666666664" y="-80.33333333333333"/>
+      <point x="-24.166666666666664" y="-116.16666666666667" type="curve" smooth="yes"/>
+      <point x="-24.166666666666664" y="-147.16666666666666"/>
+      <point x="-4.5" y="-166.33333333333334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.inferior" format="2">
+  <advance width="241.33333333333334"/>
+  <note>
+l.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="-9.333333333333332" y="-160.0" type="line"/>
+      <point x="88.16666666666667" y="-160.0" type="line"/>
+      <point x="196.16666666666666" y="395.0" type="line"/>
+      <point x="93.0" y="395.0" type="line"/>
+      <point x="88.66666666666667" y="387.6666666666667" type="line"/>
+      <point x="89.66666666666667" y="357.6666666666667"/>
+      <point x="79.83333333333333" y="302.0"/>
+      <point x="73.83333333333333" y="271.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

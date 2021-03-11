@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTwodotsbelowHamzaabove-ar" format="2">
+  <advance width="740"/>
+  <unicode hex="08A8"/>
+  <anchor x="228" y="-264" name="bottom"/>
+  <anchor x="85" y="397" name="center"/>
+  <anchor x="540" y="508" name="high"/>
+  <anchor x="228" y="-264" name="ring"/>
+  <anchor x="51" y="-14" name="tail"/>
+  <anchor x="85" y="719" name="top"/>
+  <outline>
+    <component base="yeh-ar"/>
+    <component base="hamzaabove-ar" xOffset="-60" yOffset="467"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger.sc" format="2">
+  <advance width="516.5"/>
+  <note>
+dagger.sc
+</note>
+  <outline>
+    <contour>
+      <point x="451.3333333333333" y="274.0" type="line"/>
+      <point x="94.66666666666666" y="402.0" type="line"/>
+      <point x="62.666666666666664" y="342.0" type="line"/>
+      <point x="419.3333333333333" y="214.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="252.0" y="-120.66666666666667" type="line"/>
+      <point x="332.0" y="519.3333333333334" type="line"/>
+      <point x="262.0" y="543.3333333333334" type="line"/>
+      <point x="182.0" y="-96.66666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

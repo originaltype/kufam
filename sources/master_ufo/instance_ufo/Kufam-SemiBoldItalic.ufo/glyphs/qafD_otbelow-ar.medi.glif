@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qafDotbelow-ar.medi" format="2">
+  <advance width="641.6"/>
+  <anchor x="327.8" y="-256.0" name="bottom"/>
+  <anchor x="325.0" y="761.6" name="top"/>
+  <outline>
+    <component base="qaf-ar.medi"/>
+    <component base="dotbelow_ar" xOffset="141.8" yOffset="-340.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

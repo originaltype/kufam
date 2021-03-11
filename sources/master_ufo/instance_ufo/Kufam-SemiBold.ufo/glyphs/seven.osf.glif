@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance width="551.6"/>
+  <note>
+seven.oldstyle
+</note>
+  <outline>
+    <contour>
+      <point x="26.8" y="545.6" type="line"/>
+      <point x="26.8" y="428.8" type="line"/>
+      <point x="440.6" y="428.8" type="line"/>
+      <point x="408.6" y="480.0" type="line"/>
+      <point x="95.6" y="-166.0" type="line"/>
+      <point x="95.6" y="-174.4" type="line"/>
+      <point x="242.8" y="-174.4" type="line"/>
+      <point x="489.2" y="381.6" type="line" smooth="yes"/>
+      <point x="504.8" y="417.6"/>
+      <point x="517.2" y="457.2"/>
+      <point x="517.2" y="495.2" type="curve" smooth="yes"/>
+      <point x="517.2" y="507.2"/>
+      <point x="515.2" y="521.6"/>
+      <point x="513.2" y="535.6" type="curve"/>
+      <point x="501.2" y="545.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

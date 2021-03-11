@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peh-ar.fina" format="2">
+  <advance width="1184.1666666666667"/>
+  <note>
+uni067E.fina
+</note>
+  <anchor x="852.0" y="0.0" name="*entry"/>
+  <anchor x="852.0" y="0.0" name="*exit"/>
+  <anchor x="569.6666666666666" y="-315.3333333333333" name="bottom"/>
+  <anchor x="561.3333333333334" y="0.0" name="ring"/>
+  <anchor x="569.8333333333334" y="344.8333333333333" name="top"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="threedotsdownbelow_ar" xOffset="320.6666666666667" yOffset="-2.6666666666666665"/>
+  </outline>
+</glyph>

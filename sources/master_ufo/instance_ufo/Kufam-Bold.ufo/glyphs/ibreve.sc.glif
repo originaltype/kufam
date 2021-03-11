@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve.sc" format="2">
+  <advance width="320.4"/>
+  <note>
+ibreve.sc
+</note>
+  <anchor x="160.2" y="0.0" name="bottom"/>
+  <anchor x="246.8" y="0.0" name="ogonek"/>
+  <anchor x="160.2" y="785.2" name="top"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="brevecomb" xOffset="-166.8" yOffset="25.2"/>
+  </outline>
+</glyph>

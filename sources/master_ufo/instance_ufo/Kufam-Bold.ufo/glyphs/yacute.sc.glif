@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yacute.sc" format="2">
+  <advance width="578.4"/>
+  <note>
+yacute.sc
+</note>
+  <anchor x="289.2" y="0.0" name="bottom"/>
+  <anchor x="289.2" y="785.2" name="top"/>
+  <anchor x="20.0" y="572.0" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="acutecomb" xOffset="-69.3" yOffset="25.2"/>
+  </outline>
+</glyph>

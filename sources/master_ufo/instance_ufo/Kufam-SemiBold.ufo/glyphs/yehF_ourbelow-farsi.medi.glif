@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehFourbelow-farsi.medi" format="2">
+  <advance width="393.0"/>
+  <anchor x="269.0" y="0.0" name="*entry"/>
+  <anchor x="195.0" y="-318.8" name="bottom"/>
+  <anchor x="175.0" y="0.0" name="ring"/>
+  <anchor x="184.2" y="532.4" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar.medi"/>
+    <component base="foururdubelow-ar" xOffset="87.6" yOffset="-687.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

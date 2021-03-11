@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tosf.zero" format="2">
+  <advance width="616.0"/>
+  <note>
+zero.tosf.zero
+</note>
+  <outline>
+    <contour>
+      <point x="230.66666666666666" y="34.5" type="line"/>
+      <point x="444.1666666666667" y="474.6666666666667" type="line"/>
+      <point x="385.1666666666667" y="513.1666666666666" type="line"/>
+      <point x="171.66666666666666" y="73.0" type="line"/>
+    </contour>
+    <component base="zero.tosf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoalHamzaabove-ar.init" format="2">
+  <advance width="747.2"/>
+  <anchor x="404.8" y="-80.0" name="bottom"/>
+  <anchor x="364.8" y="853.2" name="top"/>
+  <outline>
+    <component base="heh-ar.init"/>
+    <component base="hamzaabove-ar" xOffset="229.4" yOffset="601.2"/>
+  </outline>
+</glyph>

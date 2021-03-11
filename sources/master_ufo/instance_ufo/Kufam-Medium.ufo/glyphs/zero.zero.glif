@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.zero" format="2">
+  <advance width="616.0"/>
+  <note>
+slashedzero
+</note>
+  <outline>
+    <contour>
+      <point x="144.83333333333334" y="85.66666666666667" type="line"/>
+      <point x="226.0" y="85.66666666666667" type="line"/>
+      <point x="474.6666666666667" y="641.0" type="line"/>
+      <point x="392.6666666666667" y="641.0" type="line"/>
+    </contour>
+    <component base="zero"/>
+  </outline>
+</glyph>

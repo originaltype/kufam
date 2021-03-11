@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ainThreedotsbelow-ar.fina.init" format="2">
+  <advance width="580.8"/>
+  <anchor x="238.0" y="-331.2" name="bottom"/>
+  <anchor x="191.2" y="481.2" name="top"/>
+  <outline>
+    <component base="ain-ar.init"/>
+    <component base="threedotsdownbelow_ar" xOffset="5.800000000000004" yOffset="-6.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

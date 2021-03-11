@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenVinvertedabove-ar.fina" format="2">
+  <advance width="1160.0"/>
+  <anchor x="193.2" y="-257.6" name="bottom"/>
+  <anchor x="686.0" y="-195.0" name="center"/>
+  <anchor x="686.4" y="740.2" name="top"/>
+  <outline>
+    <component base="seen-ar.fina"/>
+    <component base="vinvertedabove-ar" xOffset="572.8" yOffset="424.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

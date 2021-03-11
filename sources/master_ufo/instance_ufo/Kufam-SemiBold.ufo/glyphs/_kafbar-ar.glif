@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_kafbar-ar" format="2">
+  <advance width="436.2"/>
+  <anchor x="20.8" y="522.6" name="_kafbar"/>
+  <outline>
+    <contour>
+      <point x="4.4" y="671.0" type="line"/>
+      <point x="10.0" y="615.0" type="line"/>
+      <point x="22.0" y="615.0" type="line"/>
+      <point x="394.4" y="957.2" type="line"/>
+      <point x="366.4" y="1000.4" type="line"/>
+      <point x="354.4" y="1000.4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

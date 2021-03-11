@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefWasla-ar.fina" format="2">
+  <advance width="385.0"/>
+  <note>
+uni0671.fina
+</note>
+  <anchor x="255.2" y="0.0" name="*entry"/>
+  <anchor x="255.2" y="0.0" name="*exit"/>
+  <anchor x="168.2" y="0.0" name="bottom"/>
+  <anchor x="156.0" y="991.0" name="top"/>
+  <outline>
+    <component base="alef-ar.fina.short"/>
+    <component base="wasla-ar" xOffset="-47.5" yOffset="395.0"/>
+  </outline>
+</glyph>

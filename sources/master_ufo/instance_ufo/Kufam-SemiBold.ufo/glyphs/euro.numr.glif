@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro.numr" format="2">
+  <advance width="397.0"/>
+  <note>
+euro.numerator
+</note>
+  <outline>
+    <component base="euro.inferior"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro.inferior</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro.inferior</string>
+    </dict>
+  </lib>
+</glyph>

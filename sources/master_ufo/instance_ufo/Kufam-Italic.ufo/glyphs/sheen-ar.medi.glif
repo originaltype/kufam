@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen-ar.medi" format="2">
+  <advance width="892"/>
+  <note>
+uni0634.medi
+</note>
+  <anchor x="436" y="0" name="bottom"/>
+  <anchor x="432" y="-195" name="center"/>
+  <anchor x="431" y="799" name="top"/>
+  <outline>
+    <component base="seen-ar.medi"/>
+    <component base="threedotsupabove_ar" xOffset="330" yOffset="268"/>
+  </outline>
+</glyph>

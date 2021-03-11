@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT.sc" format="2">
+  <advance width="495.2"/>
+  <anchor x="259.2" y="331.2" name="_periodCAT"/>
+  <outline>
+    <contour>
+      <point x="250.4" y="264.8" type="curve" smooth="yes"/>
+      <point x="292.8" y="264.8"/>
+      <point x="326.4" y="297.6"/>
+      <point x="326.4" y="343.2" type="curve" smooth="yes"/>
+      <point x="326.4" y="376.0"/>
+      <point x="305.6" y="397.6"/>
+      <point x="268.0" y="397.6" type="curve" smooth="yes"/>
+      <point x="228.0" y="397.6"/>
+      <point x="192.0" y="364.8"/>
+      <point x="192.0" y="319.2" type="curve" smooth="yes"/>
+      <point x="192.0" y="286.4"/>
+      <point x="212.8" y="264.8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

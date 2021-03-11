@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dadDotbelow-ar.init" format="2">
+  <advance width="1170.6666666666667"/>
+  <anchor x="904.1666666666666" y="0.0" name="*entry_1"/>
+  <anchor x="246.16666666666666" y="0.0" name="*entry_2"/>
+  <anchor x="246.16666666666666" y="0.0" name="*exit"/>
+  <anchor x="584.3333333333334" y="-253.66666666666666" name="bottom"/>
+  <anchor x="579.6666666666666" y="628.5" name="top"/>
+  <anchor x="191.83333333333334" y="61.166666666666664" name="verticalbar"/>
+  <outline>
+    <component base="dad-ar.init"/>
+    <component base="dotbelow_ar" xOffset="398.3333333333333" yOffset="-337.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

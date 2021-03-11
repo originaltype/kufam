@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoal-ar.fina" format="2">
+  <advance width="750"/>
+  <note>
+uni06C1.fina
+</note>
+  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="443" y="483" name="top"/>
+  <outline>
+    <contour>
+      <point x="730" y="0" type="curve"/>
+      <point x="750" y="20" type="line"/>
+      <point x="750" y="176" type="line"/>
+      <point x="644" y="176"/>
+      <point x="604" y="239"/>
+      <point x="590" y="395" type="curve"/>
+      <point x="443" y="483" type="line"/>
+      <point x="329" y="464"/>
+      <point x="167" y="406"/>
+      <point x="40" y="331" type="curve"/>
+      <point x="87" y="146" type="line"/>
+      <point x="100" y="146" type="line"/>
+      <point x="212" y="215"/>
+      <point x="368" y="280"/>
+      <point x="485" y="296" type="curve"/>
+      <point x="434" y="375" type="line"/>
+      <point x="434" y="71"/>
+      <point x="587" y="0"/>
+    </contour>
+  </outline>
+</glyph>

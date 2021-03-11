@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonThreedotsabove-ar" format="2">
+  <advance width="560.8"/>
+  <unicode hex="06BD"/>
+  <anchor x="483.8" y="0.0" name="*entry"/>
+  <anchor x="193.2" y="-260.0" name="bottom"/>
+  <anchor x="106.2" y="376.6" name="top"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <component base="threedotsupabove_ar" xOffset="1.5999999999999979" yOffset="-190.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash.sc" format="2">
+  <advance width="500.0"/>
+  <note>
+endash.sc
+</note>
+  <outline>
+    <contour>
+      <point x="32.666666666666664" y="338.6666666666667" type="line"/>
+      <point x="14.666666666666666" y="248.66666666666666" type="line"/>
+      <point x="482.6666666666667" y="248.66666666666666" type="line"/>
+      <point x="500.6666666666667" y="338.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

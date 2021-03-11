@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="smallvbelow" format="2">
+  <note>
+smallvbelow
+</note>
+  <outline>
+    <contour>
+      <point x="-53.099999999999994" y="-66.1" type="line"/>
+      <point x="-147.9" y="-218.1" type="line"/>
+      <point x="-147.9" y="-222.1" type="line"/>
+      <point x="-53.1" y="-222.1" type="line"/>
+      <point x="0.0" y="-136.0" type="line"/>
+      <point x="48.5" y="-222.1" type="line"/>
+      <point x="146.1" y="-222.1" type="line"/>
+      <point x="146.1" y="-218.1" type="line"/>
+      <point x="59.3" y="-66.1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

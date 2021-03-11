@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.doublebar-ar" format="2">
+  <advance width="280"/>
+  <anchor x="140" y="400" name="_bar"/>
+  <outline>
+    <contour>
+      <point x="-70" y="285" type="line"/>
+      <point x="350" y="285" type="line"/>
+      <point x="350" y="369" type="line"/>
+      <point x="-70" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="-70" y="433" type="line"/>
+      <point x="350" y="433" type="line"/>
+      <point x="350" y="517" type="line"/>
+      <point x="-70" y="517" type="line"/>
+    </contour>
+  </outline>
+</glyph>

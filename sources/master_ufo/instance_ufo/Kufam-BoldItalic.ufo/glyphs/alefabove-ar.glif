@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefabove-ar" format="2">
+  <unicode hex="0670"/>
+  <note>
+uni0670
+</note>
+  <anchor x="187.8" y="558.8" name="_top"/>
+  <anchor x="187.1" y="815.4" name="top"/>
+  <outline>
+    <contour>
+      <point x="144.5" y="797.4" type="line"/>
+      <point x="144.5" y="611.4" type="line"/>
+      <point x="224.9" y="611.4" type="line"/>
+      <point x="224.9" y="635.4" type="line" smooth="yes"/>
+      <point x="224.9" y="675.4"/>
+      <point x="224.9" y="759.4"/>
+      <point x="232.9" y="795.4" type="curve"/>
+      <point x="230.9" y="803.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>350</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

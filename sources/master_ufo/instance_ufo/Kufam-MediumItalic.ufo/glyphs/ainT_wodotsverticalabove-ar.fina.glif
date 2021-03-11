@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ainTwodotsverticalabove-ar.fina" format="2">
+  <advance width="668.6666666666666"/>
+  <anchor x="238.83333333333334" y="-256.0" name="bottom"/>
+  <anchor x="329.1666666666667" y="858.0" name="top"/>
+  <outline>
+    <component base="ain-ar.fina"/>
+    <component base="twodotsverticalabove_ar" xOffset="231.66666666666666" yOffset="228.66666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

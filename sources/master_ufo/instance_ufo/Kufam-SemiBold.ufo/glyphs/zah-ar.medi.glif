@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zah-ar.medi" format="2">
+  <advance width="1254.6"/>
+  <note>
+uni0638.medi
+</note>
+  <anchor x="927.8" y="0.0" name="*entry_1"/>
+  <anchor x="274.0" y="0.0" name="*entry_2"/>
+  <anchor x="927.8" y="0.0" name="*exit_1"/>
+  <anchor x="274.0" y="0.0" name="*exit_2"/>
+  <anchor x="606.8" y="0.0" name="bottom"/>
+  <anchor x="181.4" y="85.2" name="verticalbar"/>
+  <outline>
+    <component base="_baseline2" xOffset="927.8"/>
+    <component base="_loop-ar" xOffset="224.8"/>
+    <component base="dotabove_ar" xOffset="371.0" yOffset="-117.0"/>
+    <component base="_tahbarMEDI"/>
+  </outline>
+</glyph>

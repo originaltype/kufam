@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one-persian" format="2">
+  <advance width="324.0"/>
+  <unicode hex="06F1"/>
+  <note>
+uni06F1
+</note>
+  <outline>
+    <contour>
+      <point x="92.0" y="744.8" type="line"/>
+      <point x="92.0" y="0.0" type="line"/>
+      <point x="232.0" y="0.0" type="line"/>
+      <point x="232.0" y="606.0" type="line" smooth="yes"/>
+      <point x="232.0" y="646.0"/>
+      <point x="232.0" y="716.0"/>
+      <point x="240.0" y="752.0" type="curve"/>
+      <point x="238.0" y="760.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

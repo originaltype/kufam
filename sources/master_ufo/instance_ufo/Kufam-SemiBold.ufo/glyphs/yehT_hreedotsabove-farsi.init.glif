@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehThreedotsabove-farsi.init" format="2">
+  <advance width="341.6"/>
+  <anchor x="116.8" y="-247.0" name="bottom"/>
+  <anchor x="126.0" y="0.0" name="ring"/>
+  <anchor x="170.8" y="872.0" name="top"/>
+  <outline>
+    <component base="yeh-farsi.init"/>
+    <component base="threedotsupabove_ar" xOffset="66.2" yOffset="305.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

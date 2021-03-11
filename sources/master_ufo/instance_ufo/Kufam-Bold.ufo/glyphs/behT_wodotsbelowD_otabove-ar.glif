@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behTwodotsbelowDotabove-ar" format="2">
+  <advance width="1128.0"/>
+  <unicode hex="0754"/>
+  <anchor x="864.8" y="0.0" name="*entry"/>
+  <anchor x="515.8" y="-259.0" name="bottom"/>
+  <anchor x="552.8" y="0.0" name="ring"/>
+  <anchor x="542.5" y="581.7" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="twodotshorizontalbelow_ar" xOffset="307.8"/>
+    <component base="dotabove_ar" xOffset="346.5" yOffset="-195.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

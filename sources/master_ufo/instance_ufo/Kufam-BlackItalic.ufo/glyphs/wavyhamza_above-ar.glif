@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wavyhamza_above-ar" format="2">
+  <advance width="397"/>
+  <anchor x="196" y="269" name="_top"/>
+  <anchor x="186" y="638" name="top"/>
+  <outline>
+    <component base="_wavyhamza-ar"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="462.4"/>
+  <unicode hex="0134"/>
+  <note>
+Jcircumflex
+</note>
+  <anchor x="231.2" y="0.0" name="bottom"/>
+  <anchor x="305.0" y="933.2" name="top"/>
+  <outline>
+    <component base="J"/>
+    <component base="circumflexcomb.case" xOffset="-22.0"/>
+  </outline>
+</glyph>

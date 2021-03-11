@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khah-ar" format="2">
+  <advance width="700"/>
+  <unicode hex="062E"/>
+  <note>
+uni062E
+</note>
+  <anchor x="331" y="-256" name="bottom"/>
+  <anchor x="520" y="559" name="top"/>
+  <outline>
+    <component base="hah-ar"/>
+    <component base="dotabove_ar" xOffset="254" yOffset="-189"/>
+  </outline>
+</glyph>

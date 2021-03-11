@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tahcenter-ar" format="2">
+  <anchor x="121.0" y="192.5" name="_center"/>
+  <outline>
+    <contour>
+      <point x="67.0" y="132.83333333333334" type="line"/>
+      <point x="67.0" y="341.0" type="line"/>
+      <point x="8.166666666666668" y="333.5" type="line"/>
+      <point x="8.166666666666668" y="132.83333333333334" type="line"/>
+      <point x="19.333333333333332" y="151.16666666666666" type="line"/>
+      <point x="-30.166666666666668" y="151.16666666666666" type="line"/>
+      <point x="-48.166666666666664" y="103.5" type="line"/>
+      <point x="-48.166666666666664" y="101.0" type="line"/>
+      <point x="148.33333333333334" y="101.0" type="line" smooth="yes"/>
+      <point x="234.33333333333334" y="101.0"/>
+      <point x="253.33333333333334" y="136.16666666666666"/>
+      <point x="253.33333333333334" y="178.66666666666666" type="curve" smooth="yes"/>
+      <point x="253.33333333333334" y="214.0"/>
+      <point x="226.83333333333334" y="245.83333333333334"/>
+      <point x="206.0" y="264.3333333333333" type="curve"/>
+      <point x="194.5" y="264.3333333333333" type="line"/>
+      <point x="179.16666666666666" y="258.0"/>
+      <point x="157.83333333333334" y="257.8333333333333"/>
+      <point x="133.66666666666666" y="257.8333333333333" type="curve" smooth="yes"/>
+      <point x="80.5" y="257.8333333333333" type="line"/>
+      <point x="58.833333333333336" y="206.66666666666666" type="line"/>
+      <point x="130.33333333333334" y="206.66666666666666" type="line" smooth="yes"/>
+      <point x="149.16666666666666" y="206.66666666666666"/>
+      <point x="167.16666666666666" y="207.66666666666666"/>
+      <point x="180.83333333333334" y="209.0" type="curve"/>
+      <point x="189.5" y="201.0"/>
+      <point x="194.66666666666666" y="188.33333333333334"/>
+      <point x="194.66666666666666" y="175.83333333333334" type="curve" smooth="yes"/>
+      <point x="194.66666666666666" y="156.5"/>
+      <point x="179.66666666666666" y="151.16666666666666"/>
+      <point x="153.16666666666666" y="151.16666666666666" type="curve" smooth="yes"/>
+      <point x="56.666666666666664" y="151.16666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>242</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

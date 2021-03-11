@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alef-ar.short" format="2">
+  <advance width="334.4"/>
+  <note>
+uni0627.short
+</note>
+  <anchor x="255.2" y="0.0" name="*entry"/>
+  <anchor x="168.2" y="0.0" name="bottom"/>
+  <anchor x="164.0" y="665.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="79.2" y="642.4" type="line"/>
+      <point x="79.2" y="0.0" type="line"/>
+      <point x="255.2" y="0.0" type="line"/>
+      <point x="255.2" y="504.0" type="line" smooth="yes"/>
+      <point x="255.2" y="544.0"/>
+      <point x="255.2" y="616.0"/>
+      <point x="263.2" y="652.0" type="curve"/>
+      <point x="260.4" y="660.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

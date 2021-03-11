@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hah-ar.medi.h2" format="2">
+  <advance width="383.0"/>
+  <note>
+uni062D.medi
+</note>
+  <anchor x="275.8333333333333" y="0.0" name="bottom"/>
+  <anchor x="369.6666666666667" y="430.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="624.5" y="100.16666666666667" type="line" smooth="yes"/>
+      <point x="531.6666666666666" y="100.16666666666667"/>
+      <point x="275.3333333333333" y="405.0"/>
+      <point x="158.0" y="563.3333333333334" type="curve"/>
+      <point x="149.33333333333334" y="563.3333333333334" type="line"/>
+      <point x="76.66666666666667" y="486.0" type="line"/>
+      <point x="228.5" y="282.8333333333333"/>
+      <point x="363.0" y="139.33333333333334"/>
+      <point x="462.3333333333333" y="86.16666666666667" type="curve"/>
+      <point x="490.3333333333333" y="100.16666666666667" type="line"/>
+      <point x="0.0" y="100.16666666666667" type="line"/>
+      <point x="-20.0" y="80.16666666666667" type="line"/>
+      <point x="-20.0" y="-0.16666666666666666" type="line"/>
+      <point x="704.5" y="0.0" type="line"/>
+      <point x="735.1666666666666" y="91.5" type="line"/>
+      <point x="735.1666666666666" y="100.16666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

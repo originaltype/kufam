@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrow" format="2">
+  <advance width="728"/>
+  <unicode hex="2193"/>
+  <note>
+uni2193
+</note>
+  <outline>
+    <contour>
+      <point x="408" y="604" type="line"/>
+      <point x="320" y="604" type="line"/>
+      <point x="324" y="196" type="line" smooth="yes"/>
+      <point x="324" y="145"/>
+      <point x="326" y="108"/>
+      <point x="327" y="82" type="curve"/>
+      <point x="314" y="99"/>
+      <point x="299" y="112"/>
+      <point x="284" y="126" type="curve" smooth="yes"/>
+      <point x="172" y="228" type="line"/>
+      <point x="120" y="168" type="line"/>
+      <point x="260" y="40" type="line" smooth="yes"/>
+      <point x="281" y="21"/>
+      <point x="316" y="-16"/>
+      <point x="344" y="-52" type="curve"/>
+      <point x="384" y="-52" type="line"/>
+      <point x="412" y="-16"/>
+      <point x="447" y="21"/>
+      <point x="468" y="40" type="curve" smooth="yes"/>
+      <point x="608" y="168" type="line"/>
+      <point x="556" y="228" type="line"/>
+      <point x="444" y="126" type="line" smooth="yes"/>
+      <point x="428" y="112"/>
+      <point x="413" y="99"/>
+      <point x="400" y="82" type="curve"/>
+      <point x="402" y="108"/>
+      <point x="403" y="144"/>
+      <point x="404" y="196" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

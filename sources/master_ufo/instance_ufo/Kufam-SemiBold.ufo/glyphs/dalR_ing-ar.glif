@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalRing-ar" format="2">
+  <advance width="756.8"/>
+  <unicode hex="0689"/>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="350.0" y="0.0" name="bottom"/>
+  <anchor x="332.0" y="0.0" name="ring"/>
+  <anchor x="388.8" y="464.8" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="ring_ar" xOffset="170.0" yOffset="104.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

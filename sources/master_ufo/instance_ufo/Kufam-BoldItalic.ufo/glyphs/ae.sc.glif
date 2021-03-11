@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.sc" format="2">
+  <advance width="874.4"/>
+  <note>
+ae.sc
+</note>
+  <anchor x="472.8" y="0.0" name="bottom"/>
+  <anchor x="584.5" y="572.0" name="top"/>
+  <anchor x="528.4" y="0.0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="456.4" y="0.0" type="line"/>
+      <point x="776.0" y="0.0" type="line"/>
+      <point x="803.2" y="136.0" type="line"/>
+      <point x="484.8" y="136.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="501.2" y="223.6" type="line"/>
+      <point x="770.8" y="223.6" type="line"/>
+      <point x="795.2" y="350.0" type="line"/>
+      <point x="525.6" y="350.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="539.6" y="436.0" type="line"/>
+      <point x="855.6" y="436.0" type="line"/>
+      <point x="882.8" y="572.0" type="line"/>
+      <point x="566.8" y="572.0" type="line"/>
+    </contour>
+    <component base="a.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e.sc</string>
+    </dict>
+  </lib>
+</glyph>

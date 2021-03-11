@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.sc" format="2">
+  <advance width="659.4"/>
+  <note>
+a.sc
+</note>
+  <anchor x="329.1" y="0.0" name="bottom"/>
+  <anchor x="577.6" y="0.0" name="ogonek"/>
+  <anchor x="361.7" y="572.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="37.6" y="0.0" type="line"/>
+      <point x="210.8" y="0.0" type="line"/>
+      <point x="276.0" y="364.8" type="line" smooth="yes"/>
+      <point x="285.4" y="416.7"/>
+      <point x="313.7" y="444.0"/>
+      <point x="380.0" y="444.0" type="curve" smooth="yes"/>
+      <point x="398.0" y="444.0"/>
+      <point x="447.9" y="442.5"/>
+      <point x="486.2" y="401.3" type="curve"/>
+      <point x="420.6" y="476.5" type="line"/>
+      <point x="407.2" y="456.1"/>
+      <point x="404.4" y="421.5"/>
+      <point x="404.4" y="383.2" type="curve" smooth="yes"/>
+      <point x="404.4" y="0.0" type="line"/>
+      <point x="577.6" y="0.0" type="line"/>
+      <point x="577.6" y="418.0" type="line" smooth="yes"/>
+      <point x="577.6" y="469.6"/>
+      <point x="580.4" y="525.2"/>
+      <point x="585.8" y="554.4" type="curve"/>
+      <point x="583.8" y="562.4" type="line"/>
+      <point x="537.4" y="571.8"/>
+      <point x="472.1" y="580.0"/>
+      <point x="421.6" y="580.0" type="curve" smooth="yes"/>
+      <point x="255.9" y="580.0"/>
+      <point x="138.3" y="547.9"/>
+      <point x="105.6" y="369.2" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="156.5" y="126.0" type="line"/>
+      <point x="486.4" y="126.0" type="line"/>
+      <point x="486.4" y="262.0" type="line"/>
+      <point x="156.5" y="262.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

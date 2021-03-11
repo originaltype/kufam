@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe.sc" format="2">
+  <advance width="932"/>
+  <note>
+oe.sc
+</note>
+  <anchor x="466" y="0" name="bottom"/>
+  <anchor x="466" y="572" name="top"/>
+  <anchor x="344" y="286" name="center"/>
+  <anchor x="437" y="0" name="ogonek"/>
+  <anchor x="20" y="572" name="topleft"/>
+  <anchor x="432" y="572" name="topright"/>
+  <outline>
+    <contour>
+      <point x="396" y="0" type="line"/>
+      <point x="880" y="0" type="line"/>
+      <point x="880" y="80" type="line"/>
+      <point x="552" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="572" y="260" type="line"/>
+      <point x="824" y="260" type="line"/>
+      <point x="824" y="336" type="line"/>
+      <point x="572" y="336" type="line"/>
+    </contour>
+    <contour>
+      <point x="552" y="492" type="line"/>
+      <point x="872" y="492" type="line"/>
+      <point x="872" y="572" type="line"/>
+      <point x="396" y="572" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e.sc</string>
+    </dict>
+  </lib>
+</glyph>

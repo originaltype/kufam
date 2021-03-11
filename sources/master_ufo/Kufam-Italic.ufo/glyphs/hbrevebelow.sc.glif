@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbrevebelow.sc" format="2">
+  <advance width="668"/>
+  <note>
+uni1E2A.sc
+</note>
+  <anchor x="233" y="-224" name="bottom"/>
+  <anchor x="372" y="456" name="center"/>
+  <anchor x="398" y="572" name="top"/>
+  <anchor x="84" y="572" name="topleft"/>
+  <outline>
+    <component base="h.sc"/>
+    <component base="brevebelowcomb" xOffset="23"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonghunna-ar.fina" format="2">
+  <advance width="616.5"/>
+  <note>
+uni06BA.fina
+</note>
+  <anchor x="472.8333333333333" y="0.0" name="*entry"/>
+  <anchor x="472.8333333333333" y="0.0" name="*exit"/>
+  <anchor x="191.33333333333334" y="-260.0" name="bottom"/>
+  <anchor x="141.16666666666666" y="29.333333333333332" name="top"/>
+  <outline>
+    <component base="_baseline" xOffset="474.5"/>
+    <component base="noonghunna-ar"/>
+  </outline>
+</glyph>

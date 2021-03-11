@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh-farsi.medi" format="2">
+  <advance width="367"/>
+  <note>
+uni06CC.medi
+</note>
+  <anchor x="233" y="0" name="*entry"/>
+  <anchor x="131" y="-231" name="bottom"/>
+  <anchor x="163" y="0" name="ring"/>
+  <anchor x="171" y="498" name="top"/>
+  <outline>
+    <component base="yeh-ar.medi"/>
+  </outline>
+</glyph>

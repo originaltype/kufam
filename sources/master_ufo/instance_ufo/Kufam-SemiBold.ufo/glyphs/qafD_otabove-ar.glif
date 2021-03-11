@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qafDotabove-ar" format="2">
+  <advance width="748.4"/>
+  <unicode hex="06A7"/>
+  <anchor x="340.8" y="-260.0" name="bottom"/>
+  <anchor x="403.6" y="714.4" name="top"/>
+  <outline>
+    <component base="qafDotless-ar"/>
+    <component base="dotabove_ar" xOffset="177.6" yOffset="-50.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

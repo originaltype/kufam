@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gaf-ar.medi" format="2">
+  <advance width="1234"/>
+  <note>
+uni06AF.medi
+</note>
+  <anchor x="509" y="0" name="bottom"/>
+  <anchor x="65" y="420" name="kafbar"/>
+  <anchor x="577" y="664" name="ring"/>
+  <anchor x="0" y="687" name="top"/>
+  <outline>
+    <component base="keheh-ar.medi"/>
+    <component base="_kafbar-ar" xOffset="43" yOffset="-93"/>
+  </outline>
+</glyph>

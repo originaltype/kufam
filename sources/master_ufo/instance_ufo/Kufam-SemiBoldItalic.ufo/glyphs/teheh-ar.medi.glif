@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teheh-ar.medi" format="2">
+  <advance width="393.0"/>
+  <unicode hex="FB65"/>
+  <anchor x="269.0" y="0.0" name="*entry"/>
+  <anchor x="184.2" y="0.0" name="bottom"/>
+  <anchor x="175.0" y="0.0" name="ring"/>
+  <anchor x="191.2" y="910.2" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="fourdotsabove_ar" xOffset="-67.6" yOffset="-50.599999999999994"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

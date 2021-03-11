@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenTwodotshorizontalabove-ar.init" format="2">
+  <advance width="996"/>
+  <anchor x="408" y="0" name="bottom"/>
+  <anchor x="502" y="-195" name="center"/>
+  <anchor x="84" y="-56" name="top"/>
+  <outline>
+    <component base="seen-ar.init"/>
+    <component base="twodotsverticalabove_ar" xOffset="-106" yOffset="-682"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodotsverticalabove_ar</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

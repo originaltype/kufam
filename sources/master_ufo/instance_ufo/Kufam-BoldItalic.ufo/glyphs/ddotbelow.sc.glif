@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddotbelow.sc" format="2">
+  <advance width="680.4"/>
+  <note>
+uni1E0C.sc
+</note>
+  <anchor x="243.5" y="-209.6" name="bottom"/>
+  <anchor x="171.8" y="287.2" name="center"/>
+  <anchor x="396.2" y="572.0" name="top"/>
+  <outline>
+    <component base="d.sc"/>
+    <component base="dotbelowcomb" xOffset="10.2"/>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenThreedotsbelow-ar" format="2">
+  <advance width="1128.0"/>
+  <unicode hex="069B"/>
+  <anchor x="193.2" y="-588.8" name="bottom"/>
+  <anchor x="686.0" y="-195.0" name="center"/>
+  <anchor x="686.4" y="505.8" name="top"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="threedotsdownbelow_ar" xOffset="-39.0" yOffset="-264.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

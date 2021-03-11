@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kashida-ar.001" format="2">
+  <advance width="98.66666666666667"/>
+  <anchor x="49.5" y="0.0" name="bottom"/>
+  <anchor x="49.5" y="249.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-11.666666666666666" y="0.0" type="line"/>
+      <point x="87.0" y="0.0" type="line"/>
+      <point x="98.66666666666667" y="11.666666666666666" type="line"/>
+      <point x="98.66666666666667" y="100.16666666666667" type="line"/>
+      <point x="0.0" y="100.16666666666667" type="line"/>
+      <point x="-11.666666666666666" y="88.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wawTwoabove-ar" format="2">
+  <advance width="616"/>
+  <unicode hex="0778"/>
+  <anchor x="601" y="-76" name="bar"/>
+  <anchor x="252" y="-260" name="bottom"/>
+  <anchor x="64" y="-32" name="center"/>
+  <anchor x="430" y="476" name="high"/>
+  <anchor x="252" y="-260" name="ring"/>
+  <anchor x="316" y="791" name="top"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="twoabove-ar" xOffset="210" yOffset="187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

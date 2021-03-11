@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar.fina" format="2">
+  <advance width="1354.2"/>
+  <note>
+uni0637.fina
+</note>
+  <anchor x="1027.4" y="0.0" name="*entry_1"/>
+  <anchor x="373.6" y="0.0" name="*entry_2"/>
+  <anchor x="1027.4" y="0.0" name="*exit_1"/>
+  <anchor x="373.6" y="0.0" name="*exit_2"/>
+  <anchor x="706.4" y="0.0" name="bottom"/>
+  <anchor x="704.6" y="438.2" name="top"/>
+  <anchor x="281.0" y="85.2" name="verticalbar"/>
+  <outline>
+    <component base="_baseline2" xOffset="1027.4"/>
+    <component base="_loop-ar" xOffset="324.4"/>
+    <component base="_tahbarfinal-ar"/>
+  </outline>
+</glyph>

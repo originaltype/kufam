@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llinebelow.sc" format="2">
+  <advance width="484"/>
+  <anchor x="242" y="-178" name="bottom"/>
+  <anchor x="178" y="318" name="center"/>
+  <anchor x="324" y="312" name="periodCAT"/>
+  <anchor x="142" y="572" name="top"/>
+  <anchor x="340" y="368" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="macronbelowcomb" xOffset="-64"/>
+  </outline>
+</glyph>

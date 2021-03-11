@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behVabove-ar" format="2">
+  <advance width="1128"/>
+  <unicode hex="0756"/>
+  <anchor x="848" y="0" name="*entry"/>
+  <anchor x="574" y="0" name="bottom"/>
+  <anchor x="564" y="0" name="ring"/>
+  <anchor x="574" y="625" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="vabove-ar" xOffset="474" yOffset="301"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="679.6"/>
+  <unicode hex="004B"/>
+  <note>
+K
+</note>
+  <anchor x="339.8" y="0.0" name="bottom"/>
+  <anchor x="339.8" y="720.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="286.0" y="260.8" type="line" smooth="yes"/>
+      <point x="408.2" y="260.8"/>
+      <point x="486.2" y="332.8"/>
+      <point x="523.6" y="426.4" type="curve" smooth="yes"/>
+      <point x="642.8" y="710.4" type="line"/>
+      <point x="642.8" y="720.0" type="line"/>
+      <point x="499.6" y="720.0" type="line"/>
+      <point x="395.6" y="464.0" type="line" smooth="yes"/>
+      <point x="376.4" y="414.4"/>
+      <point x="345.2" y="383.2"/>
+      <point x="278.8" y="383.2" type="curve" smooth="yes"/>
+      <point x="162.4" y="383.2" type="line"/>
+      <point x="162.4" y="260.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="85.2" y="0.0" type="line"/>
+      <point x="227.6" y="0.0" type="line"/>
+      <point x="227.6" y="720.0" type="line"/>
+      <point x="85.2" y="720.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="438.8" y="340.8" type="line"/>
+      <point x="324.4" y="283.2" type="line"/>
+      <point x="496.0" y="0.0" type="line"/>
+      <point x="650.4" y="0.0" type="line"/>
+      <point x="650.4" y="9.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

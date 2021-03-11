@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahTahTwodotshorizontalbelow-ar.fina.h2" format="2">
+  <advance width="431"/>
+  <anchor x="331" y="-256" name="bottom"/>
+  <anchor x="424" y="934" name="top"/>
+  <outline>
+    <component base="hah-ar.fina.h2"/>
+    <component base="twodotshorizontalabove_ar" xOffset="303" yOffset="196"/>
+    <component base="tahabove-ar" xOffset="273" yOffset="355"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenThreedotsbelow-ar.medi" format="2">
+  <advance width="1028"/>
+  <anchor x="502" y="-372" name="bottom"/>
+  <anchor x="502" y="-195" name="center"/>
+  <anchor x="510" y="549" name="top"/>
+  <outline>
+    <component base="seen-ar.medi"/>
+    <component base="threedotsdownbelow_ar" xOffset="313" yOffset="-16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

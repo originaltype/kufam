@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dyeh-ar.fina.h2" format="2">
+  <advance width="441.8"/>
+  <anchor x="331.0" y="-256.0" name="bottom"/>
+  <anchor x="505.4" y="-172.6" name="center"/>
+  <anchor x="419.6" y="458.0" name="top"/>
+  <outline>
+    <component base="hah-ar.fina.short.h2"/>
+    <component base="twodotsverticalcenter-ar" xOffset="81.19999999999999" yOffset="-661.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

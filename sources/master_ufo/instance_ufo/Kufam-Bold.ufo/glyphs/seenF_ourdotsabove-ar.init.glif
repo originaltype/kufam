@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenFourdotsabove-ar.init" format="2">
+  <advance width="955.2"/>
+  <anchor x="405.6" y="-6.0" name="bottom"/>
+  <anchor x="481.0" y="-195.0" name="center"/>
+  <anchor x="503.2" y="924.5" name="top"/>
+  <outline>
+    <component base="seen-ar.init"/>
+    <component base="fourdotsabove_ar" xOffset="240.8" yOffset="-48.900000000000006"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

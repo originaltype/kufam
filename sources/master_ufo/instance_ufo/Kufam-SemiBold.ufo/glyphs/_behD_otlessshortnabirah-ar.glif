@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_behDotlessshortnabirah-ar" format="2">
+  <advance width="393.0"/>
+  <note>
+uni066E.medi
+</note>
+  <anchor x="264.6" y="0.0" name="*entry"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="121.4" type="line"/>
+      <point x="-20.0" y="101.4" type="line"/>
+      <point x="-20.0" y="0.0" type="line"/>
+      <point x="373.0" y="0.0" type="line"/>
+      <point x="393.0" y="20.0" type="line"/>
+      <point x="393.0" y="121.4" type="line"/>
+      <point x="197.4" y="121.4" type="line"/>
+      <point x="254.6" y="61.2" type="line"/>
+      <point x="254.6" y="461.6" type="line"/>
+      <point x="245.0" y="461.6" type="line"/>
+      <point x="114.6" y="446.4" type="line"/>
+      <point x="114.6" y="201.6" type="line" smooth="yes"/>
+      <point x="114.6" y="152.0"/>
+      <point x="120.8" y="114.2"/>
+      <point x="131.8" y="97.2" type="curve"/>
+      <point x="179.8" y="121.4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

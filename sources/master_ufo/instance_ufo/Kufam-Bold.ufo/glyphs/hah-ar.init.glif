@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hah-ar.init" format="2">
+  <advance width="815.0"/>
+  <note>
+uni062D.init
+</note>
+  <anchor x="298.8" y="-0.30000000000000004" name="bottom"/>
+  <anchor x="511.6" y="409.9" name="top"/>
+  <outline>
+    <contour>
+      <point x="-20.0" y="0.0" type="line"/>
+      <point x="755.2" y="0.0" type="line"/>
+      <point x="807.2" y="137.9" type="line"/>
+      <point x="807.2" y="148.7" type="line"/>
+      <point x="730.4" y="148.7" type="line" smooth="yes"/>
+      <point x="651.3" y="148.7"/>
+      <point x="506.9" y="246.4"/>
+      <point x="185.6" y="586.8" type="curve"/>
+      <point x="174.8" y="586.8" type="line"/>
+      <point x="74.4" y="454.0" type="line"/>
+      <point x="203.3" y="307.9"/>
+      <point x="336.2" y="185.2"/>
+      <point x="446.2" y="128.3" type="curve"/>
+      <point x="483.8" y="148.7" type="line"/>
+      <point x="0.0" y="148.7" type="line"/>
+      <point x="-20.0" y="128.7" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

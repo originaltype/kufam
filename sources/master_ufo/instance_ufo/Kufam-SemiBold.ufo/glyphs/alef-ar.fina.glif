@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alef-ar.fina" format="2">
+  <advance width="364.0"/>
+  <note>
+uni0627.fina
+</note>
+  <anchor x="226.4" y="0.0" name="*entry"/>
+  <anchor x="226.4" y="0.0" name="*exit"/>
+  <anchor x="156.2" y="0.0" name="bottom"/>
+  <anchor x="156.2" y="798.0" name="top"/>
+  <outline>
+    <component base="_baseline" xOffset="230.4"/>
+    <component base="alef-ar"/>
+  </outline>
+</glyph>

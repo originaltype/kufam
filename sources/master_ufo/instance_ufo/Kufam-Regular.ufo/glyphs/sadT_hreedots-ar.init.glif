@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sadThreedots-ar.init" format="2">
+  <advance width="1161"/>
+  <anchor x="894" y="0" name="*entry_1"/>
+  <anchor x="233" y="0" name="*entry_2"/>
+  <anchor x="233" y="0" name="*exit"/>
+  <anchor x="575" y="0" name="bottom"/>
+  <anchor x="557" y="727" name="top"/>
+  <anchor x="206" y="44" name="verticalbar"/>
+  <outline>
+    <component base="sad-ar.init"/>
+    <component base="threedotsupabove_ar" xOffset="456" yOffset="196"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

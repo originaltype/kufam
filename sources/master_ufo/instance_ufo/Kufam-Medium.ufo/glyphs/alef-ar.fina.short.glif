@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alef-ar.fina.short" format="2">
+  <advance width="347.6666666666667"/>
+  <note>
+uni0627.fina.short
+</note>
+  <anchor x="204.0" y="0.0" name="*entry"/>
+  <anchor x="204.0" y="0.0" name="*exit"/>
+  <anchor x="149.0" y="0.0" name="bottom"/>
+  <anchor x="148.0" y="659.6666666666666" name="top"/>
+  <outline>
+    <component base="_baseline" xOffset="205.66666666666666"/>
+    <component base="alef-ar.short"/>
+  </outline>
+</glyph>

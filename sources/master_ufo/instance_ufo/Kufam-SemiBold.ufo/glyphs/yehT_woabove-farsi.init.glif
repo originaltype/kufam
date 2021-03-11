@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTwoabove-farsi.init" format="2">
+  <advance width="341.6"/>
+  <anchor x="156.8" y="0.0" name="bottom"/>
+  <anchor x="126.0" y="0.0" name="ring"/>
+  <anchor x="200.2" y="853.0" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar.init"/>
+    <component base="twoabove-ar" xOffset="80.6" yOffset="243.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

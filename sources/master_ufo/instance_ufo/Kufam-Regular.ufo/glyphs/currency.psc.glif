@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency.psc" format="2">
+  <advance width="497"/>
+  <note>
+currency.scppf
+</note>
+  <outline>
+    <component base="currency.sc" xOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

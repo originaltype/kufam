@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kashidaFina2-ar" format="2">
+  <advance width="347"/>
+  <outline>
+    <contour>
+      <point x="208" y="-132" type="line"/>
+      <point x="208" y="-68" type="line" smooth="yes"/>
+      <point x="208" y="-34"/>
+      <point x="234" y="0"/>
+      <point x="300" y="0" type="curve" smooth="yes"/>
+      <point x="327" y="0" type="line"/>
+      <point x="347" y="20" type="line"/>
+      <point x="347" y="176" type="line"/>
+      <point x="320" y="176" type="line" smooth="yes"/>
+      <point x="124" y="176"/>
+      <point x="30" y="74"/>
+      <point x="30" y="-53" type="curve"/>
+      <point x="30" y="-132" type="line"/>
+    </contour>
+  </outline>
+</glyph>

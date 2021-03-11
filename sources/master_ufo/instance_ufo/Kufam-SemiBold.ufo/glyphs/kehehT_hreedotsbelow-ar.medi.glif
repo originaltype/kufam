@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kehehThreedotsbelow-ar.medi" format="2">
+  <advance width="1250.8"/>
+  <anchor x="510.8" y="-331.2" name="bottom"/>
+  <anchor x="78.8" y="397.2" name="kafbar"/>
+  <anchor x="481.0" y="625.6" name="ring"/>
+  <anchor x="61.199999999999996" y="610.8" name="top"/>
+  <outline>
+    <component base="keheh-ar.medi"/>
+    <component base="threedotsdownbelow_ar" xOffset="278.6" yOffset="-6.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

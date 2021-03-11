@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda-ar" format="2">
+  <unicode hex="0651"/>
+  <note>
+uni0651
+</note>
+  <anchor x="182.8" y="519.8" name="_top"/>
+  <anchor x="182.8" y="790.6" name="top"/>
+  <outline>
+    <contour>
+      <point x="119.4" y="603.6" type="curve" smooth="yes"/>
+      <point x="150.6" y="603.6"/>
+      <point x="182.4" y="617.6"/>
+      <point x="199.4" y="662.8" type="curve"/>
+      <point x="180.0" y="658.0" type="line"/>
+      <point x="190.4" y="647.8"/>
+      <point x="213.2" y="630.4"/>
+      <point x="243.8" y="630.4" type="curve" smooth="yes"/>
+      <point x="295.6" y="630.4"/>
+      <point x="347.6" y="667.0"/>
+      <point x="347.6" y="822.0" type="curve" smooth="yes"/>
+      <point x="347.6" y="834.0" type="line"/>
+      <point x="338.6" y="834.0" type="line"/>
+      <point x="277.2" y="826.0" type="line"/>
+      <point x="277.2" y="806.0" type="line" smooth="yes"/>
+      <point x="277.2" y="726.2"/>
+      <point x="262.6" y="694.0"/>
+      <point x="254.6" y="680.0" type="curve"/>
+      <point x="282.0" y="693.8" type="line"/>
+      <point x="245.2" y="692.6"/>
+      <point x="215.4" y="695.4"/>
+      <point x="196.8" y="734.2" type="curve"/>
+      <point x="204.6" y="695.8" type="line"/>
+      <point x="212.0" y="710.0"/>
+      <point x="214.4" y="733.2"/>
+      <point x="214.4" y="761.4" type="curve" smooth="yes"/>
+      <point x="214.4" y="787.0" type="line"/>
+      <point x="205.4" y="787.0" type="line"/>
+      <point x="146.0" y="779.0" type="line"/>
+      <point x="146.0" y="748.2" type="line" smooth="yes"/>
+      <point x="146.0" y="702.4"/>
+      <point x="142.4" y="662.4"/>
+      <point x="128.4" y="645.8" type="curve"/>
+      <point x="152.2" y="658.6" type="line"/>
+      <point x="119.4" y="655.6"/>
+      <point x="92.8" y="658.8"/>
+      <point x="92.8" y="741.4" type="curve" smooth="yes"/>
+      <point x="92.8" y="794.0" type="line"/>
+      <point x="83.8" y="794.0" type="line"/>
+      <point x="22.4" y="786.0" type="line"/>
+      <point x="22.4" y="732.4" type="line" smooth="yes"/>
+      <point x="22.4" y="643.2"/>
+      <point x="67.6" y="603.6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>350</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

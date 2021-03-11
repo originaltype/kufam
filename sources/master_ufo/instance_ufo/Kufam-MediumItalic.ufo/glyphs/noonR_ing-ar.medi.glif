@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonRing-ar.medi" format="2">
+  <advance width="377.8333333333333"/>
+  <anchor x="248.0" y="0.0" name="*entry"/>
+  <anchor x="176.5" y="0.0" name="bottom"/>
+  <anchor x="168.0" y="0.0" name="ring"/>
+  <anchor x="173.16666666666666" y="722.0" name="top"/>
+  <outline>
+    <component base="noon-ar.medi"/>
+    <component base="ring_ar" xOffset="6.0" yOffset="100.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

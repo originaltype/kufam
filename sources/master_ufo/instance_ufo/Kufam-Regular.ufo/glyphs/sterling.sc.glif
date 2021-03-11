@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling.sc" format="2">
+  <advance width="568"/>
+  <note>
+sterling.sc
+</note>
+  <outline>
+    <contour>
+      <point x="172" y="40" type="line"/>
+      <point x="264" y="40" type="line"/>
+      <point x="264" y="376" type="line" smooth="yes"/>
+      <point x="264" y="460"/>
+      <point x="306" y="508"/>
+      <point x="396" y="508" type="curve" smooth="yes"/>
+      <point x="438" y="508"/>
+      <point x="461" y="501"/>
+      <point x="484" y="492" type="curve"/>
+      <point x="492" y="492" type="line"/>
+      <point x="492" y="568" type="line"/>
+      <point x="465" y="577"/>
+      <point x="436" y="584"/>
+      <point x="392" y="584" type="curve" smooth="yes"/>
+      <point x="248" y="584"/>
+      <point x="172" y="494"/>
+      <point x="172" y="376" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="72" type="line"/>
+      <point x="60" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="264" type="line"/>
+      <point x="432" y="264" type="line"/>
+      <point x="432" y="336" type="line"/>
+      <point x="68" y="336" type="line"/>
+    </contour>
+  </outline>
+</glyph>

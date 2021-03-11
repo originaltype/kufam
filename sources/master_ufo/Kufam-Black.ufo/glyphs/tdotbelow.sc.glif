@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow.sc" format="2">
+  <advance width="592"/>
+  <note>
+uni1E6C.sc
+</note>
+  <anchor x="296" y="-212" name="bottom"/>
+  <anchor x="296" y="286" name="center"/>
+  <anchor x="296" y="572" name="top"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="dotbelowcomb" xOffset="-40"/>
+  </outline>
+</glyph>

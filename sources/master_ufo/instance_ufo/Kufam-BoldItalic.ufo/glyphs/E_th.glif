@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="759.2"/>
+  <unicode hex="00D0"/>
+  <note>
+Eth
+</note>
+  <anchor x="321.6" y="0.0" name="bottom"/>
+  <anchor x="191.4" y="363.8" name="center"/>
+  <anchor x="474.6" y="720.0" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="strokeshortcomb.case" xOffset="-103.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>strokeshortcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

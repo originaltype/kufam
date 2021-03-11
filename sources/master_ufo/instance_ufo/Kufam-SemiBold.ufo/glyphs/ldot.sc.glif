@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.sc" format="2">
+  <advance width="495.2"/>
+  <note>
+ldot.sc
+</note>
+  <anchor x="247.6" y="0.0" name="bottom"/>
+  <anchor x="182.0" y="320.4" name="center"/>
+  <anchor x="351.2" y="331.2" name="periodCAT"/>
+  <anchor x="152.4" y="572.0" name="top"/>
+  <anchor x="365.6" y="369.6" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="periodcentered.loclCAT.sc" xOffset="103.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>periodcentered.loclCAT.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.sc</string>
+    </dict>
+  </lib>
+</glyph>

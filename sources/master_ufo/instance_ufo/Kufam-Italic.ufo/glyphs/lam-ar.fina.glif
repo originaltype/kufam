@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam-ar.fina" format="2">
+  <advance width="592"/>
+  <note>
+uni0644.fina
+</note>
+  <anchor x="444" y="0" name="*entry"/>
+  <anchor x="444" y="0" name="*exit"/>
+  <anchor x="391" y="424" name="bar"/>
+  <anchor x="200" y="-256" name="bottom"/>
+  <anchor x="103" y="304" name="top"/>
+  <outline>
+    <component base="_baseline" xOffset="444"/>
+    <component base="lam-ar"/>
+  </outline>
+</glyph>

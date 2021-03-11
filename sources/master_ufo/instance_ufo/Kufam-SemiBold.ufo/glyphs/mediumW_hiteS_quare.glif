@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mediumWhiteSquare" format="2">
+  <advance width="731.2"/>
+  <unicode hex="25FB"/>
+  <note>
+uni25FB
+</note>
+  <outline>
+    <contour>
+      <point x="96.0" y="536.0" type="line"/>
+      <point x="96.0" y="0.0" type="line"/>
+      <point x="635.2" y="0.0" type="line"/>
+      <point x="635.2" y="536.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="513.6" y="107.2" type="line"/>
+      <point x="217.6" y="107.2" type="line"/>
+      <point x="217.6" y="428.8" type="line"/>
+      <point x="513.6" y="428.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

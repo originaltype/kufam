@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dadDotbelow-ar.medi" format="2">
+  <advance width="1268"/>
+  <anchor x="955" y="0" name="*entry_1"/>
+  <anchor x="312" y="0" name="*entry_2"/>
+  <anchor x="955" y="0" name="*exit_1"/>
+  <anchor x="312" y="0" name="*exit_2"/>
+  <anchor x="631" y="-262" name="bottom"/>
+  <anchor x="608" y="696" name="top"/>
+  <anchor x="121" y="147" name="verticalbar"/>
+  <outline>
+    <component base="dad-ar.medi"/>
+    <component base="dotbelow_ar" xOffset="445" yOffset="-346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

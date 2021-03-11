@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamThreedotsbelow-ar" format="2">
+  <advance width="542.6666666666666"/>
+  <unicode hex="06B8"/>
+  <anchor x="455.6666666666667" y="0.0" name="*entry"/>
+  <anchor x="393.3333333333333" y="424.0" name="bar"/>
+  <anchor x="194.0" y="-256.6666666666667" name="bottom"/>
+  <anchor x="96.16666666666667" y="305.0" name="top"/>
+  <outline>
+    <component base="lam-ar"/>
+    <component base="_part.doublebar-ar" xOffset="270.0" yOffset="41.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

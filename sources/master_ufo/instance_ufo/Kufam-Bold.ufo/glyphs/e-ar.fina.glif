@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e-ar.fina" format="2">
+  <advance width="814.7"/>
+  <unicode hex="FBE5"/>
+  <anchor x="223.0" y="-649.8" name="bottom"/>
+  <anchor x="112.5" y="138.2" name="center"/>
+  <anchor x="223.7" y="-264.0" name="ring"/>
+  <anchor x="61.7" y="293.5" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="twodotsverticalbelow_ar" xOffset="45.7" yOffset="-919.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

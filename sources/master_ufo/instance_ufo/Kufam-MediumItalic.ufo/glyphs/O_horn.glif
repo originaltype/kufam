@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorn" format="2">
+  <advance width="792.1666666666666"/>
+  <unicode hex="01A0"/>
+  <anchor x="343.0" y="0.0" name="bottom"/>
+  <anchor x="413.0" y="360.0" name="center"/>
+  <anchor x="468.0" y="0.0" name="ogonek"/>
+  <anchor x="483.0" y="720.0" name="top"/>
+  <anchor x="107.0" y="720.0" name="topleft"/>
+  <anchor x="557.8333333333334" y="718.8333333333334" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="horncomb.case" xOffset="283.8333333333333" yOffset="-1.1666666666666665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla.sc" format="2">
+  <advance width="569.2"/>
+  <note>
+uni021B.sc
+</note>
+  <anchor x="281.0" y="-249.4" name="bottom"/>
+  <anchor x="284.6" y="286.0" name="center"/>
+  <anchor x="284.6" y="572.0" name="top"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="cedillacomb" xOffset="-46.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cedillacomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

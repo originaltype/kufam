@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc" format="2">
+  <advance width="495.3333333333333"/>
+  <note>
+lslash.sc
+</note>
+  <anchor x="251.0" y="0.0" name="bottom"/>
+  <anchor x="186.33333333333334" y="319.0" name="center"/>
+  <anchor x="342.0" y="320.0" name="periodCAT"/>
+  <anchor x="153.0" y="572.0" name="top"/>
+  <anchor x="357.3333333333333" y="368.6666666666667" name="topright"/>
+  <outline>
+    <component base="l.sc" xOffset="6.666666666666666"/>
+    <component base="slashshortcomb.sc" xOffset="-124.66666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.sc</string>
+    </dict>
+  </lib>
+</glyph>

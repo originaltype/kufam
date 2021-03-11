@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behDotless-ar.init.h1" format="2">
+  <advance width="408.6"/>
+  <note>
+uni066E.init
+</note>
+  <anchor x="398.4" y="452.5" name="bottom"/>
+  <anchor x="275.0" y="395.0" name="ring"/>
+  <anchor x="246.2" y="697.7" name="top"/>
+  <outline>
+    <contour>
+      <point x="-47.0" y="305.6" type="line"/>
+      <point x="-10.299999999999999" y="292.8"/>
+      <point x="24.6" y="286.1"/>
+      <point x="58.2" y="286.1" type="curve" smooth="yes"/>
+      <point x="229.6" y="286.1"/>
+      <point x="337.4" y="368.2"/>
+      <point x="337.4" y="567.6" type="curve" smooth="yes"/>
+      <point x="337.4" y="682.0" type="line"/>
+      <point x="326.6" y="682.0" type="line"/>
+      <point x="161.4" y="664.4" type="line"/>
+      <point x="161.4" y="526.0" type="line" smooth="yes"/>
+      <point x="161.4" y="466.3"/>
+      <point x="158.1" y="433.0"/>
+      <point x="135.1" y="409.5" type="curve"/>
+      <point x="187.6" y="466.2" type="line"/>
+      <point x="156.2" y="430.6"/>
+      <point x="99.5" y="413.6"/>
+      <point x="40.2" y="412.9" type="curve" smooth="yes"/>
+      <point x="-19.4" y="412.2"/>
+      <point x="-81.6" y="428.2"/>
+      <point x="-125.8" y="456.9" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

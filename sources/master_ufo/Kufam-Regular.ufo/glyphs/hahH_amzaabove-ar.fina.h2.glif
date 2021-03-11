@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahHamzaabove-ar.fina.h2" format="2">
+  <advance width="431"/>
+  <anchor x="331" y="-256" name="bottom"/>
+  <anchor x="423" y="732" name="top"/>
+  <outline>
+    <component base="hah-ar.fina.h2"/>
+    <component base="hamzaabove-ar" xOffset="294" yOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

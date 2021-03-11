@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehDoachashmee-ar.init" format="2">
+  <advance width="812"/>
+  <note>
+uni06BE.init
+</note>
+  <anchor x="436" y="-80" name="bottom"/>
+  <anchor x="372" y="560" name="top"/>
+  <outline>
+    <component base="heh-ar.init"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccircumflex.sc" format="2">
+  <advance width="556.6666666666666"/>
+  <note>
+ccircumflex.sc
+</note>
+  <anchor x="306.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="398.0" y="787.3333333333334" name="top"/>
+  <outline>
+    <component base="c.sc"/>
+    <component base="circumflexcomb" xOffset="-7.833333333333334" yOffset="27.333333333333332"/>
+  </outline>
+</glyph>

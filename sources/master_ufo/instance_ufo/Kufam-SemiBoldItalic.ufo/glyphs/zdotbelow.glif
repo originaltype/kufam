@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotbelow" format="2">
+  <advance width="548.8"/>
+  <unicode hex="1E93"/>
+  <note>
+uni1E93
+</note>
+  <anchor x="181.0" y="-207.2" name="bottom"/>
+  <anchor x="327.4" y="545.6" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotbelowcomb" xOffset="-43.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

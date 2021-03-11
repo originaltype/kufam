@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sadThreedots-ar" format="2">
+  <advance width="1411.2"/>
+  <unicode hex="069E"/>
+  <anchor x="1146.3" y="0.0" name="*entry_1"/>
+  <anchor x="497.9" y="0.0" name="*entry_2"/>
+  <anchor x="497.9" y="0.0" name="*exit"/>
+  <anchor x="823.8" y="0.0" name="bottom_1"/>
+  <anchor x="195.6" y="-260.0" name="bottom_2"/>
+  <anchor x="821.4" y="463.1" name="top_1"/>
+  <anchor x="119.3" y="56.0" name="top_2"/>
+  <anchor x="356.1" y="116.1" name="verticalbar"/>
+  <outline>
+    <component base="_loop-ar" xOffset="456.8"/>
+    <component base="threedotsupabove_ar" xOffset="710.4" yOffset="222.6"/>
+    <component base="_part.bowl-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_wavyhamza-ar" format="2">
+  <advance width="360.4"/>
+  <outline>
+    <contour>
+      <point x="165.0" y="435.4" type="line"/>
+      <point x="145.0" y="435.4" type="line" smooth="yes"/>
+      <point x="66.1" y="435.4"/>
+      <point x="30.7" y="390.1"/>
+      <point x="30.7" y="307.0" type="curve"/>
+      <point x="131.9" y="307.0" type="line"/>
+      <point x="131.9" y="339.3"/>
+      <point x="147.1" y="353.0"/>
+      <point x="195.7" y="353.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="116.0" y="491.2" type="curve" smooth="yes"/>
+      <point x="116.0" y="443.9"/>
+      <point x="137.8" y="416.8"/>
+      <point x="176.1" y="395.5" type="curve"/>
+      <point x="195.7" y="353.0" type="line"/>
+      <point x="310.7" y="353.0" type="line"/>
+      <point x="341.3" y="443.3" type="line"/>
+      <point x="341.3" y="452.4" type="line"/>
+      <point x="272.9" y="452.4" type="line" smooth="yes"/>
+      <point x="226.3" y="452.4"/>
+      <point x="200.0" y="477.1"/>
+      <point x="215.0" y="514.5" type="curve"/>
+      <point x="211.6" y="406.6" type="line"/>
+      <point x="194.2" y="499.5"/>
+      <point x="233.7" y="516.2"/>
+      <point x="284.8" y="516.2" type="curve" smooth="yes"/>
+      <point x="310.0" y="516.2" type="line"/>
+      <point x="340.5" y="607.6" type="line"/>
+      <point x="340.5" y="617.0" type="line"/>
+      <point x="283.9" y="617.0" type="line" smooth="yes"/>
+      <point x="179.7" y="617.0"/>
+      <point x="116.0" y="551.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>madda-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_hamza-ar</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

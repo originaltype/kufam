@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peh-ar.medi" format="2">
+  <advance width="393.0"/>
+  <note>
+uni067E.medi
+</note>
+  <anchor x="269.0" y="0.0" name="*entry"/>
+  <anchor x="184.2" y="-331.2" name="bottom"/>
+  <anchor x="175.0" y="0.0" name="ring"/>
+  <anchor x="184.2" y="532.4" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="threedotsdownbelow_ar" xOffset="-48.0" yOffset="-6.4"/>
+  </outline>
+</glyph>

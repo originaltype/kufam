@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar.init.h1" format="2">
+  <advance width="423"/>
+  <note>
+uni0646.init
+</note>
+  <anchor x="426" y="475" name="bottom"/>
+  <anchor x="290" y="413" name="ring"/>
+  <anchor x="237" y="939" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init.h1"/>
+    <component base="dotabove_ar" xOffset="71" yOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

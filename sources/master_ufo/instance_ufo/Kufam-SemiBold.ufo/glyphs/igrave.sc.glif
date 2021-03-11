@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave.sc" format="2">
+  <advance width="304.8"/>
+  <note>
+igrave.sc
+</note>
+  <anchor x="152.4" y="0.0" name="bottom"/>
+  <anchor x="221.6" y="0.0" name="ogonek"/>
+  <anchor x="152.4" y="786.4" name="top"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="gravecomb" xOffset="-124.2" yOffset="26.4"/>
+  </outline>
+</glyph>

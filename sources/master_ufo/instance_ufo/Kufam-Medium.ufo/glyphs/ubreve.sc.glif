@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubreve.sc" format="2">
+  <advance width="641.3333333333334"/>
+  <note>
+ubreve.sc
+</note>
+  <anchor x="320.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="413.8333333333333" y="0.0" name="ogonek"/>
+  <anchor x="320.6666666666667" y="787.3333333333334" name="top"/>
+  <anchor x="534.0" y="572.0" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="brevecomb" xOffset="9.666666666666666" yOffset="27.333333333333332"/>
+  </outline>
+</glyph>

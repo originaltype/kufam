@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenDotbelowDotabove-ar.init" format="2">
+  <advance width="882.6666666666666"/>
+  <anchor x="401.3333333333333" y="-270.3333333333333" name="bottom"/>
+  <anchor x="443.6666666666667" y="-195.0" name="center"/>
+  <anchor x="451.6666666666667" y="698.8333333333334" name="top"/>
+  <outline>
+    <component base="seen-ar.init"/>
+    <component base="dotbelow_ar" xOffset="215.33333333333334" yOffset="-354.3333333333333"/>
+    <component base="dotabove_ar" xOffset="202.33333333333334" yOffset="-56.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

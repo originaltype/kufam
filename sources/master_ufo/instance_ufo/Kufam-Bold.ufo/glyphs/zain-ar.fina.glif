@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zain-ar.fina" format="2">
+  <advance width="547.4"/>
+  <note>
+uni0632.fina
+</note>
+  <anchor x="417.6" y="0.0" name="*entry"/>
+  <anchor x="417.6" y="0.0" name="*exit"/>
+  <anchor x="269.6" y="26.199999999999996" name="bar"/>
+  <anchor x="78.4" y="-260.0" name="bottom"/>
+  <anchor x="78.4" y="-260.0" name="ring"/>
+  <anchor x="271.0" y="727.7" name="top"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="dotabove_ar" xOffset="75.0" yOffset="-49.0"/>
+  </outline>
+</glyph>

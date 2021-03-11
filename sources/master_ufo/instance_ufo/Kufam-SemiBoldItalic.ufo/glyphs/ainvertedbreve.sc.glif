@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ainvertedbreve.sc" format="2">
+  <advance width="634.4"/>
+  <anchor x="261.2" y="0.0" name="bottom"/>
+  <anchor x="500.8" y="0.0" name="ogonek"/>
+  <anchor x="441.2" y="786.4" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="breveinvertedcomb" xOffset="58.6" yOffset="26.4"/>
+  </outline>
+</glyph>

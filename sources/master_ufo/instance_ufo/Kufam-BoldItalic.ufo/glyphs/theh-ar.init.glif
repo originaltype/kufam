@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theh-ar.init" format="2">
+  <advance width="360.8"/>
+  <note>
+uni062B.init
+</note>
+  <anchor x="160.4" y="0.0" name="bottom"/>
+  <anchor x="129.0" y="0.0" name="ring"/>
+  <anchor x="183.4" y="911.0" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="threedotsupabove_ar" xOffset="76.1" yOffset="317.7"/>
+  </outline>
+</glyph>

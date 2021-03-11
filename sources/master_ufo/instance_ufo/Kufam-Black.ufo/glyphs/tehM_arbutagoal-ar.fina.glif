@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbutagoal-ar.fina" format="2">
+  <advance width="750"/>
+  <note>
+uni06C3.fina
+</note>
+  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="463" y="716" name="top"/>
+  <outline>
+    <component base="hehgoal-ar.fina"/>
+    <component base="twodotshorizontalabove_ar" xOffset="345" yOffset="234"/>
+  </outline>
+</glyph>

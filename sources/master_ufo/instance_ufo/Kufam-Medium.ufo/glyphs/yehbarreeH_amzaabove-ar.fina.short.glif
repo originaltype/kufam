@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehbarreeHamzaabove-ar.fina.short" format="2">
+  <advance width="498.5"/>
+  <anchor x="172.83333333333334" y="-256.0" name="bottom"/>
+  <anchor x="165.0" y="422.1666666666667" name="top"/>
+  <outline>
+    <component base="yehbarree-ar.fina.short"/>
+    <component base="hamzaabove-ar" xOffset="33.333333333333336" yOffset="170.16666666666666"/>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="624"/>
+  <unicode hex="0141"/>
+  <note>
+Lslash
+</note>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="262" y="392" name="center"/>
+  <anchor x="506" y="432" name="periodCAT"/>
+  <anchor x="433" y="720" name="top"/>
+  <anchor x="566" y="520" name="topright"/>
+  <outline>
+    <component base="L" xOffset="52"/>
+    <component base="slashshortcomb.case" xOffset="-72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+52</string>
+    </dict>
+  </lib>
+</glyph>

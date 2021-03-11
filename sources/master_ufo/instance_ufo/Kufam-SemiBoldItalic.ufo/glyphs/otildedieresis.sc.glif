@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildedieresis.sc" format="2">
+  <advance width="707.2"/>
+  <anchor x="297.6" y="0.0" name="bottom"/>
+  <anchor x="353.6" y="286.0" name="center"/>
+  <anchor x="423.6" y="0.0" name="ogonek"/>
+  <anchor x="494.6" y="989.6" name="top"/>
+  <anchor x="76.0" y="572.0" name="topleft"/>
+  <anchor x="493.8" y="572.0" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="tildecomb" xOffset="38.6" yOffset="26.4"/>
+    <component base="dieresiscomb" xOffset="77.2" yOffset="240.8"/>
+  </outline>
+</glyph>

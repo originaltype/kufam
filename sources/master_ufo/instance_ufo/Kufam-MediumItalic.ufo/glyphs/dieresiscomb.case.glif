@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="398.0" y="720.0" name="_top"/>
+  <anchor x="437.1666666666667" y="921.3333333333334" name="top"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="29.166666666666668" yOffset="175.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>612</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

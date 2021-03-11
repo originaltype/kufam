@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevehookabove" format="2">
+  <advance width="674.3333333333334"/>
+  <unicode hex="1EB2"/>
+  <anchor x="284.1666666666667" y="0.0" name="bottom"/>
+  <anchor x="534.8333333333334" y="0.0" name="ogonek"/>
+  <anchor x="521.1633333333334" y="1090.003333333333" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb_hookabovecomb.case" xOffset="138.66666666666666" yOffset="165.83333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

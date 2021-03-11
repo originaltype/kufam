@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tchehDotabove-ar.medi" format="2">
+  <advance width="644.0"/>
+  <anchor x="279.5" y="-315.3333333333333" name="bottom"/>
+  <anchor x="472.0" y="573.1666666666666" name="top"/>
+  <outline>
+    <component base="tcheh-ar.medi"/>
+    <component base="dotabove_ar" xOffset="222.66666666666666" yOffset="-181.66666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

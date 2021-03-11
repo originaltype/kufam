@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.osf.zero" format="2">
+  <advance width="647.3333333333334"/>
+  <note>
+zero.osf.zero
+</note>
+  <outline>
+    <contour>
+      <point x="178.66666666666666" y="64.0" type="line"/>
+      <point x="259.3333333333333" y="64.0" type="line"/>
+      <point x="473.6666666666667" y="504.0" type="line"/>
+      <point x="393.0" y="504.0" type="line"/>
+    </contour>
+    <component base="zero.osf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

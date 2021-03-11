@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl.sc" format="2">
+  <advance width="1036"/>
+  <note>
+fl.sc
+</note>
+  <anchor x="780" y="0" name="bottom"/>
+  <anchor x="712" y="324" name="center"/>
+  <anchor x="916" y="360" name="periodCAT"/>
+  <anchor x="692" y="572" name="top"/>
+  <anchor x="928" y="372" name="topright"/>
+  <outline>
+    <component base="f.sc"/>
+    <component base="l.sc" xOffset="524"/>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth.sc" format="2">
+  <advance width="652.6666666666666"/>
+  <note>
+eth.sc
+</note>
+  <anchor x="326.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="158.66666666666666" y="289.3333333333333" name="center"/>
+  <anchor x="326.3333333333333" y="572.0" name="top"/>
+  <outline>
+    <component base="d.sc"/>
+    <component base="strokeshortcomb.sc" xOffset="-152.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>d.sc</string>
+    </dict>
+  </lib>
+</glyph>

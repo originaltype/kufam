@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhookabove.sc" format="2">
+  <advance width="577.8"/>
+  <anchor x="232.9" y="0.0" name="bottom"/>
+  <anchor x="399.7" y="853.5" name="top"/>
+  <anchor x="76.0" y="572.0" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="hookabovecomb" xOffset="-15.5" yOffset="25.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

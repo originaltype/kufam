@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbuta-ar.fina" format="2">
+  <advance width="616"/>
+  <note>
+uni0629.fina
+</note>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="293" y="730" name="top"/>
+  <outline>
+    <component base="heh-ar.fina"/>
+    <component base="twodotshorizontalabove_ar" xOffset="175" yOffset="318"/>
+  </outline>
+</glyph>

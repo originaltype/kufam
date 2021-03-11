@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTwoabove-farsi" format="2">
+  <advance width="740"/>
+  <unicode hex="0775"/>
+  <anchor x="228" y="-264" name="bottom"/>
+  <anchor x="104" y="188" name="center"/>
+  <anchor x="540" y="508" name="high"/>
+  <anchor x="228" y="-264" name="ring"/>
+  <anchor x="51" y="-14" name="tail"/>
+  <anchor x="82" y="654" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="twoabove-ar" xOffset="-58" yOffset="36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalVinvertedabove-ar.fina" format="2">
+  <advance width="806.8"/>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="480.0" y="0.0" name="*exit"/>
+  <anchor x="350.0" y="0.0" name="bottom"/>
+  <anchor x="332.0" y="0.0" name="ring"/>
+  <anchor x="388.8" y="699.2" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="vinvertedabove-ar" xOffset="275.2" yOffset="383.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

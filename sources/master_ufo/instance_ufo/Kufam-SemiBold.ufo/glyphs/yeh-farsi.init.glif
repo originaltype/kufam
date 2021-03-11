@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh-farsi.init" format="2">
+  <advance width="341.6"/>
+  <note>
+uni06CC.init
+</note>
+  <anchor x="116.8" y="-247.0" name="bottom"/>
+  <anchor x="126.0" y="0.0" name="ring"/>
+  <anchor x="180.2" y="532.4" name="top"/>
+  <outline>
+    <component base="yeh-ar.init"/>
+  </outline>
+</glyph>

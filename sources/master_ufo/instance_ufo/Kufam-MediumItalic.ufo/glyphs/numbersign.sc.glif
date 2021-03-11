@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.sc" format="2">
+  <advance width="568.0"/>
+  <note>
+numbersign.sc
+</note>
+  <outline>
+    <contour>
+      <point x="311.0" y="0.0" type="line"/>
+      <point x="391.0" y="0.0" type="line"/>
+      <point x="495.8333333333333" y="572.0" type="line"/>
+      <point x="415.1666666666667" y="572.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="88.33333333333333" y="0.0" type="line"/>
+      <point x="168.33333333333334" y="0.0" type="line"/>
+      <point x="273.1666666666667" y="572.0" type="line"/>
+      <point x="193.33333333333334" y="572.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="42.0" y="156.66666666666666" type="line"/>
+      <point x="522.3333333333334" y="156.66666666666666" type="line"/>
+      <point x="522.3333333333334" y="233.5" type="line"/>
+      <point x="42.0" y="233.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="61.0" y="337.8333333333333" type="line"/>
+      <point x="542.3333333333334" y="337.8333333333333" type="line"/>
+      <point x="542.3333333333334" y="414.6666666666667" type="line"/>
+      <point x="61.0" y="414.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

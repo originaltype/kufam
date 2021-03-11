@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.yehbarree-ar" format="2">
+  <advance width="484"/>
+  <anchor x="202" y="-256" name="bottom"/>
+  <anchor x="195" y="176" name="top"/>
+  <outline>
+    <contour>
+      <point x="324" y="-256" type="curve" smooth="yes"/>
+      <point x="996" y="-256" type="line"/>
+      <point x="1056" y="-96" type="line"/>
+      <point x="1056" y="-84" type="line"/>
+      <point x="330" y="-84" type="line" smooth="yes"/>
+      <point x="257" y="-84"/>
+      <point x="185" y="-62"/>
+      <point x="168" y="-45" type="curve"/>
+      <point x="202" y="-83" type="line"/>
+      <point x="202" y="-45"/>
+      <point x="233" y="0"/>
+      <point x="364" y="0" type="curve" smooth="yes"/>
+      <point x="464" y="0" type="line"/>
+      <point x="484" y="20" type="line"/>
+      <point x="484" y="176" type="line"/>
+      <point x="384" y="176" type="line" smooth="yes"/>
+      <point x="141" y="176"/>
+      <point x="24" y="74"/>
+      <point x="24" y="-53" type="curve" smooth="yes"/>
+      <point x="24" y="-177"/>
+      <point x="136" y="-256"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Tail length</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Tail length</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

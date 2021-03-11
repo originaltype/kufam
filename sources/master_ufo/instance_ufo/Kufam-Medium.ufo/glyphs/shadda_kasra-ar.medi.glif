@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda_kasra-ar.medi" format="2">
+  <advance width="294.1666666666667"/>
+  <unicode hex="FCF4"/>
+  <anchor x="146.16666666666666" y="0.0" name="bottom"/>
+  <anchor x="136.16666666666666" y="705.0" name="top"/>
+  <outline>
+    <component base="kashida-ar.long"/>
+    <component base="shadda_kasra-ar" xOffset="-33.833333333333336" yOffset="-264.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

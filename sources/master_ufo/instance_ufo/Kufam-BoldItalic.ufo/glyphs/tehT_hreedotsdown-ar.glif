@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehThreedotsdown-ar" format="2">
+  <advance width="1128.0"/>
+  <unicode hex="067D"/>
+  <anchor x="864.8" y="0.0" name="*entry"/>
+  <anchor x="555.8" y="0.0" name="bottom"/>
+  <anchor x="552.8" y="0.0" name="ring"/>
+  <anchor x="550.5" y="731.9" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="threedotsdownabove_ar" xOffset="327.2" yOffset="-208.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

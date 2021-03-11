@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehbarreeTwoabove-ar.fina.short3" format="2">
+  <advance width="488"/>
+  <anchor x="167" y="-256" name="bottom"/>
+  <anchor x="180" y="400" name="top"/>
+  <outline>
+    <component base="yehbarree-ar.fina.short4"/>
+    <component base="twoabove-ar" xOffset="74" yOffset="-204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

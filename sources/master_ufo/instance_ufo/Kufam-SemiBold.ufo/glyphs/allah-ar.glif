@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="allah-ar" format="2">
+  <advance width="1466.4"/>
+  <unicode hex="FDF2"/>
+  <outline>
+    <contour>
+      <point x="1240.0" y="744.8" type="line"/>
+      <point x="1240.0" y="0.0" type="line"/>
+      <point x="1380.0" y="0.0" type="line"/>
+      <point x="1380.0" y="604.0" type="line" smooth="yes"/>
+      <point x="1380.0" y="645.2"/>
+      <point x="1380.0" y="716.0"/>
+      <point x="1388.0" y="752.0" type="curve"/>
+      <point x="1386.4" y="760.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="725.2" y="121.4" type="line"/>
+      <point x="470.8" y="121.4" type="line"/>
+      <point x="528.0" y="64.2" type="line"/>
+      <point x="528.0" y="563.2" type="line"/>
+      <point x="518.4" y="563.2" type="line"/>
+      <point x="388.0" y="548.0" type="line"/>
+      <point x="388.0" y="99.8" type="line"/>
+      <point x="408.0" y="128.2" type="line"/>
+      <point x="408.0" y="0.0" type="line"/>
+      <point x="934.4" y="0.0" type="line" smooth="yes"/>
+      <point x="1018.4" y="0.0"/>
+      <point x="1075.2" y="8.0"/>
+      <point x="1115.2" y="24.0" type="curve"/>
+      <point x="1115.2" y="32.0" type="line"/>
+      <point x="1107.2" y="68.0"/>
+      <point x="1107.2" y="140.0"/>
+      <point x="1107.2" y="180.0" type="curve" smooth="yes"/>
+      <point x="1107.2" y="688.6" type="line"/>
+      <point x="1097.6" y="688.6" type="line"/>
+      <point x="967.2" y="673.4" type="line"/>
+      <point x="967.2" y="201.6" type="line" smooth="yes"/>
+      <point x="967.2" y="152.0"/>
+      <point x="973.4" y="114.2"/>
+      <point x="984.4" y="97.2" type="curve"/>
+      <point x="1032.4" y="121.4" type="line"/>
+      <point x="760.4" y="121.4" type="line"/>
+      <point x="817.6" y="61.2" type="line"/>
+      <point x="817.6" y="622.2" type="line"/>
+      <point x="808.0" y="622.2" type="line"/>
+      <point x="677.6" y="607.0" type="line"/>
+      <point x="677.6" y="201.6" type="line" smooth="yes"/>
+      <point x="677.6" y="152.0"/>
+      <point x="683.8" y="114.2"/>
+      <point x="694.8" y="97.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="425.0" y="187.2" type="line"/>
+      <point x="377.8" y="146.4"/>
+      <point x="330.0" y="116.6"/>
+      <point x="279.2" y="116.6" type="curve" smooth="yes"/>
+      <point x="225.4" y="116.6"/>
+      <point x="183.2" y="149.6"/>
+      <point x="183.2" y="214.4" type="curve" smooth="yes"/>
+      <point x="183.2" y="248.8"/>
+      <point x="190.8" y="282.4"/>
+      <point x="209.8" y="314.8" type="curve"/>
+      <point x="159.8" y="259.4" type="line"/>
+      <point x="242.2" y="323.4"/>
+      <point x="321.0" y="358.2"/>
+      <point x="424.8" y="397.2" type="curve"/>
+      <point x="456.4" y="518.4" type="line"/>
+      <point x="114.0" y="401.2"/>
+      <point x="52.0" y="306.0"/>
+      <point x="52.0" y="188.6" type="curve" smooth="yes"/>
+      <point x="52.0" y="74.4"/>
+      <point x="133.4" y="0.0"/>
+      <point x="237.6" y="0.0" type="curve" smooth="yes"/>
+      <point x="330.6" y="0.0"/>
+      <point x="396.8" y="54.4"/>
+      <point x="424.0" y="92.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="666.6" y="692.8" type="curve" smooth="yes"/>
+      <point x="697.8" y="692.8"/>
+      <point x="729.6" y="706.8"/>
+      <point x="746.6" y="752.0" type="curve"/>
+      <point x="727.2" y="747.2" type="line"/>
+      <point x="737.6" y="737.0"/>
+      <point x="760.4" y="719.6"/>
+      <point x="791.0" y="719.6" type="curve" smooth="yes"/>
+      <point x="842.8" y="719.6"/>
+      <point x="894.8" y="756.2"/>
+      <point x="894.8" y="911.2" type="curve" smooth="yes"/>
+      <point x="894.8" y="923.2" type="line"/>
+      <point x="885.8" y="923.2" type="line"/>
+      <point x="824.4" y="915.2" type="line"/>
+      <point x="824.4" y="895.2" type="line" smooth="yes"/>
+      <point x="824.4" y="815.4"/>
+      <point x="809.8" y="783.2"/>
+      <point x="801.8" y="769.2" type="curve"/>
+      <point x="829.2" y="783.0" type="line"/>
+      <point x="792.4" y="781.8"/>
+      <point x="762.6" y="784.6"/>
+      <point x="744.0" y="823.4" type="curve"/>
+      <point x="751.8" y="785.0" type="line"/>
+      <point x="759.2" y="799.2"/>
+      <point x="761.6" y="822.4"/>
+      <point x="761.6" y="850.6" type="curve" smooth="yes"/>
+      <point x="761.6" y="876.2" type="line"/>
+      <point x="752.6" y="876.2" type="line"/>
+      <point x="693.2" y="868.2" type="line"/>
+      <point x="693.2" y="837.4" type="line" smooth="yes"/>
+      <point x="693.2" y="791.6"/>
+      <point x="689.6" y="751.6"/>
+      <point x="675.6" y="735.0" type="curve"/>
+      <point x="699.4" y="747.8" type="line"/>
+      <point x="666.6" y="744.8"/>
+      <point x="640.0" y="748.0"/>
+      <point x="640.0" y="830.6" type="curve" smooth="yes"/>
+      <point x="640.0" y="883.2" type="line"/>
+      <point x="631.0" y="883.2" type="line"/>
+      <point x="569.6" y="875.2" type="line"/>
+      <point x="569.6" y="821.6" type="line" smooth="yes"/>
+      <point x="569.6" y="732.4"/>
+      <point x="614.8" y="692.8"/>
+    </contour>
+    <contour>
+      <point x="698.2" y="1104.8" type="line"/>
+      <point x="698.2" y="932.8" type="line"/>
+      <point x="755.0" y="932.8" type="line"/>
+      <point x="755.0" y="956.8" type="line" smooth="yes"/>
+      <point x="755.0" y="996.8"/>
+      <point x="755.0" y="1066.8"/>
+      <point x="763.0" y="1102.8" type="curve"/>
+      <point x="761.0" y="1110.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>heh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alef-ar</string>
+    </dict>
+  </lib>
+</glyph>

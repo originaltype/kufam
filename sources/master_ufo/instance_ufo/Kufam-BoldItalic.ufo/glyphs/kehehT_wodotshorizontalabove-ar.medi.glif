@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kehehTwodotshorizontalabove-ar.medi" format="2">
+  <advance width="1242.4"/>
+  <anchor x="509.9" y="0.0" name="bottom"/>
+  <anchor x="71.9" y="408.6" name="kafbar"/>
+  <anchor x="529.0" y="644.8" name="ring"/>
+  <anchor x="43.7" y="871.4" name="top"/>
+  <outline>
+    <component base="keheh-ar.medi"/>
+    <component base="twodotshorizontalabove_ar" xOffset="-74.3" yOffset="410.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

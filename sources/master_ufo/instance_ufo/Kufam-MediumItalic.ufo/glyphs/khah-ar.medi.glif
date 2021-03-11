@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khah-ar.medi" format="2">
+  <advance width="644.0"/>
+  <note>
+uni062E.medi
+</note>
+  <anchor x="279.5" y="0.0" name="bottom"/>
+  <anchor x="472.0" y="573.1666666666666" name="top"/>
+  <outline>
+    <component base="hah-ar.medi"/>
+    <component base="dotabove_ar" xOffset="222.66666666666666" yOffset="-181.66666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adotbelow.sc" format="2">
+  <advance width="621.3333333333334"/>
+  <anchor x="214.5" y="-205.33333333333334" name="bottom"/>
+  <anchor x="479.3333333333333" y="0.0" name="ogonek"/>
+  <anchor x="385.8333333333333" y="572.0" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="dotbelowcomb" xOffset="-3.3333333333333335"/>
+  </outline>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.bowl-ar" format="2">
+  <advance width="499.2"/>
+  <anchor x="497.9" y="0.0" name="*entry"/>
+  <anchor x="195.6" y="-260.0" name="bottom"/>
+  <anchor x="119.3" y="56.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="28.0" y="-12.0" type="curve"/>
+      <point x="17.2" y="-12.0" type="line"/>
+      <point x="-38.8" y="-154.0" type="line"/>
+      <point x="-24.699999999999996" y="-172.3"/>
+      <point x="61.2" y="-260.0"/>
+      <point x="195.6" y="-260.0" type="curve" smooth="yes"/>
+      <point x="371.5" y="-260.0"/>
+      <point x="499.2" y="-136.4"/>
+      <point x="499.2" y="162.0" type="curve" smooth="yes"/>
+      <point x="499.2" y="244.2"/>
+      <point x="490.9" y="350.7"/>
+      <point x="472.8" y="477.8" type="curve"/>
+      <point x="462.0" y="477.8" type="line"/>
+      <point x="294.0" y="460.2" type="line"/>
+      <point x="310.5" y="369.2"/>
+      <point x="323.2" y="242.1"/>
+      <point x="323.2" y="135.2" type="curve" smooth="yes"/>
+      <point x="323.2" y="28.9"/>
+      <point x="304.9" y="-77.2"/>
+      <point x="272.3" y="-124.6" type="curve"/>
+      <point x="314.6" y="-84.6" type="line"/>
+      <point x="295.9" y="-89.80000000000001"/>
+      <point x="266.9" y="-108.5"/>
+      <point x="227.8" y="-108.5" type="curve" smooth="yes"/>
+      <point x="164.2" y="-108.5"/>
+      <point x="87.0" y="-83.60000000000001"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>noonghunna-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>behDotless-ar.medi</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

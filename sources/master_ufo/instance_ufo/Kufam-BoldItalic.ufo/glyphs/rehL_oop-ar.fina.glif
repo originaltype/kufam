@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehLoop-ar.fina" format="2">
+  <advance width="734.4"/>
+  <anchor x="604.6" y="0.0" name="*entry"/>
+  <anchor x="604.6" y="0.0" name="*exit"/>
+  <anchor x="456.6" y="26.199999999999996" name="bar"/>
+  <anchor x="284.9" y="-257.2" name="bottom"/>
+  <anchor x="284.9" y="-257.2" name="ring"/>
+  <anchor x="472.0" y="519.1" name="top"/>
+  <outline>
+    <component base="_baseline" xOffset="611.6"/>
+    <component base="rehLoop-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_baseline</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonDotbelow-ar.init.h1" format="2">
+  <advance width="423"/>
+  <anchor x="426" y="213" name="bottom"/>
+  <anchor x="290" y="413" name="ring"/>
+  <anchor x="237" y="939" name="top"/>
+  <outline>
+    <component base="noon-ar.init.h1"/>
+    <component base="dotbelow_ar" xOffset="240" yOffset="129"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

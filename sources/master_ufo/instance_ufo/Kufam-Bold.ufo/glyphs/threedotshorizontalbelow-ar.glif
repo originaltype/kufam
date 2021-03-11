@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotshorizontalbelow-ar" format="2">
+  <anchor x="202.0" y="412.2" name="_bottom"/>
+  <anchor x="202.0" y="183.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-12.299999999999997" y="255.2" type="curve" smooth="yes"/>
+      <point x="-3.0" y="214.6"/>
+      <point x="31.900000000000006" y="198.8"/>
+      <point x="66.9" y="208.4" type="curve" smooth="yes"/>
+      <point x="101.9" y="218.0"/>
+      <point x="123.0" y="247.0"/>
+      <point x="113.69999999999999" y="287.6" type="curve" smooth="yes"/>
+      <point x="104.39999999999999" y="328.2"/>
+      <point x="69.5" y="344.0"/>
+      <point x="34.5" y="334.4" type="curve" smooth="yes"/>
+      <point x="-0.5" y="324.8"/>
+      <point x="-21.599999999999994" y="295.8"/>
+    </contour>
+    <contour>
+      <point x="168.2" y="276.6" type="curve" smooth="yes"/>
+      <point x="177.5" y="236.0"/>
+      <point x="212.4" y="220.2"/>
+      <point x="247.4" y="229.8" type="curve" smooth="yes"/>
+      <point x="282.4" y="239.4"/>
+      <point x="303.5" y="268.4"/>
+      <point x="294.2" y="309.0" type="curve" smooth="yes"/>
+      <point x="284.9" y="349.6"/>
+      <point x="250.0" y="365.4"/>
+      <point x="215.0" y="355.8" type="curve" smooth="yes"/>
+      <point x="180.0" y="346.2"/>
+      <point x="158.9" y="317.2"/>
+    </contour>
+    <contour>
+      <point x="348.7" y="298.0" type="curve" smooth="yes"/>
+      <point x="358.0" y="257.4"/>
+      <point x="392.9" y="241.6"/>
+      <point x="427.9" y="251.2" type="curve" smooth="yes"/>
+      <point x="462.9" y="260.8"/>
+      <point x="484.0" y="289.8"/>
+      <point x="474.7" y="330.4" type="curve" smooth="yes"/>
+      <point x="465.4" y="371.0"/>
+      <point x="430.5" y="386.8"/>
+      <point x="395.5" y="377.2" type="curve" smooth="yes"/>
+      <point x="360.5" y="367.6"/>
+      <point x="339.4" y="338.6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>350</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

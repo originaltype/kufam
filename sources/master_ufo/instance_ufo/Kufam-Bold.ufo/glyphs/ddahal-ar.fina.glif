@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddahal-ar.fina" format="2">
+  <advance width="799.9"/>
+  <unicode hex="FB83"/>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="480.0" y="0.0" name="*exit"/>
+  <anchor x="313.0" y="-259.0" name="bottom"/>
+  <anchor x="329.0" y="0.0" name="ring"/>
+  <anchor x="392.4" y="486.4" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="twodotshorizontalbelow_ar" xOffset="105.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

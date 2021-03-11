@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qafThreedotsabove-ar.medi" format="2">
+  <advance width="660.8"/>
+  <anchor x="332.9" y="0.0" name="bottom"/>
+  <anchor x="321.7" y="927.6" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.medi"/>
+    <component base="threedotsupabove_ar" xOffset="214.4" yOffset="334.3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

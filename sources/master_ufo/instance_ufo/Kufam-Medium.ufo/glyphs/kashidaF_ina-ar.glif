@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kashidaFina-ar" format="2">
+  <advance width="205.66666666666666"/>
+  <unicode hex="FE73"/>
+  <outline>
+    <contour>
+      <point x="205.66666666666666" y="100.16666666666667" type="line"/>
+      <point x="33.666666666666664" y="100.16666666666667" type="line"/>
+      <point x="0.0" y="8.666666666666666" type="line"/>
+      <point x="0.0" y="0.0" type="line"/>
+      <point x="185.66666666666666" y="0.0" type="line"/>
+      <point x="205.66666666666666" y="20.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

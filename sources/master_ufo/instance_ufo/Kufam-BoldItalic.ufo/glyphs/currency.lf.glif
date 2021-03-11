@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency.lf" format="2">
+  <advance width="498.4"/>
+  <note>
+currency.PPF
+</note>
+  <outline>
+    <component base="currency" xOffset="-58.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

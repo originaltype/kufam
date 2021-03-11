@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehTwodotshorizontalaboveTahabove-ar.fina" format="2">
+  <advance width="547.4"/>
+  <anchor x="417.6" y="0.0" name="*entry"/>
+  <anchor x="417.6" y="0.0" name="*exit"/>
+  <anchor x="269.6" y="26.199999999999996" name="bar"/>
+  <anchor x="78.4" y="-260.0" name="bottom"/>
+  <anchor x="78.4" y="-260.0" name="ring"/>
+  <anchor x="301.1" y="1059.9" name="top"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="twodotshorizontalabove_ar" xOffset="180.1" yOffset="280.6"/>
+    <component base="tahabove-ar" xOffset="108.1" yOffset="473.9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

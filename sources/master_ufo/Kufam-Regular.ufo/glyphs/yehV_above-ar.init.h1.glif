@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehVabove-ar.init.h1" format="2">
+  <advance width="395"/>
+  <anchor x="338" y="151" name="bottom"/>
+  <anchor x="240" y="353" name="ring"/>
+  <anchor x="221" y="909" name="top"/>
+  <outline>
+    <component base="yeh-ar.init.h1"/>
+    <component base="vabove-ar" xOffset="121" yOffset="585"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

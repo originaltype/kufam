@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright.sc" format="2">
+  <advance width="283.3333333333333"/>
+  <note>
+quoteright.sc
+</note>
+  <outline>
+    <contour>
+      <point x="153.33333333333334" y="438.0" type="curve"/>
+      <point x="50.0" y="298.6666666666667" type="line"/>
+      <point x="50.0" y="290.6666666666667" type="line"/>
+      <point x="138.0" y="290.6666666666667" type="line"/>
+      <point x="220.66666666666666" y="412.0" type="line" smooth="yes"/>
+      <point x="242.33333333333334" y="444.0"/>
+      <point x="264.0" y="479.6666666666667"/>
+      <point x="264.0" y="516.6666666666666" type="curve" smooth="yes"/>
+      <point x="264.0" y="556.0"/>
+      <point x="240.0" y="582.0"/>
+      <point x="200.66666666666666" y="582.0" type="curve" smooth="yes"/>
+      <point x="154.33333333333334" y="582.0"/>
+      <point x="119.33333333333333" y="543.0"/>
+      <point x="119.33333333333333" y="497.3333333333333" type="curve" smooth="yes"/>
+      <point x="119.33333333333333" y="460.8333333333333"/>
+      <point x="137.16666666666666" y="445.8333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

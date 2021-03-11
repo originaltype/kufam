@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe.sc" format="2">
+  <advance width="942.6666666666666"/>
+  <note>
+oe.sc
+</note>
+  <anchor x="471.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="471.3333333333333" y="572.0" name="top"/>
+  <anchor x="348.0" y="286.0" name="center"/>
+  <anchor x="443.8333333333333" y="0.0" name="ogonek"/>
+  <anchor x="20.0" y="572.0" name="topleft"/>
+  <anchor x="438.6666666666667" y="572.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="405.0" y="0.0" type="line"/>
+      <point x="892.0" y="0.0" type="line"/>
+      <point x="892.0" y="93.33333333333333" type="line"/>
+      <point x="564.6666666666666" y="93.33333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="581.3333333333334" y="251.33333333333334" type="line"/>
+      <point x="837.3333333333334" y="251.33333333333334" type="line"/>
+      <point x="837.3333333333334" y="339.3333333333333" type="line"/>
+      <point x="581.3333333333334" y="339.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="564.6666666666666" y="478.6666666666667" type="line"/>
+      <point x="884.6666666666666" y="478.6666666666667" type="line"/>
+      <point x="884.6666666666666" y="572.0" type="line"/>
+      <point x="405.0" y="572.0" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e.sc</string>
+    </dict>
+  </lib>
+</glyph>

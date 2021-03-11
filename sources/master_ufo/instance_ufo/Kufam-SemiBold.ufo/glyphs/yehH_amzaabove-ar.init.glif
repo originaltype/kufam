@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehHamzaabove-ar.init" format="2">
+  <advance width="341.6"/>
+  <note>
+uni0626.init
+</note>
+  <anchor x="156.8" y="0.0" name="bottom"/>
+  <anchor x="126.0" y="0.0" name="ring"/>
+  <anchor x="179.6" y="854.4" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="hamzaabove-ar" xOffset="44.2" yOffset="602.4"/>
+  </outline>
+</glyph>

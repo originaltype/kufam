@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="652.6666666666666"/>
+  <unicode hex="00B5"/>
+  <note>
+mu
+</note>
+  <anchor x="331.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="567.6666666666666" y="28.0" name="ogonek"/>
+  <anchor x="331.6666666666667" y="544.6666666666666" name="top"/>
+  <anchor x="487.6666666666667" y="544.6666666666666" name="topright"/>
+  <outline>
+    <component base="mu"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

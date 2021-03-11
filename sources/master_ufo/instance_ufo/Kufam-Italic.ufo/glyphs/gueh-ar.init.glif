@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gueh-ar.init" format="2">
+  <advance width="1196"/>
+  <unicode hex="FB98"/>
+  <anchor x="512" y="-285" name="bottom"/>
+  <anchor x="88" y="382" name="kafbar"/>
+  <anchor x="417" y="600" name="ring"/>
+  <anchor x="102" y="560" name="top"/>
+  <outline>
+    <component base="gaf-ar.init"/>
+    <component base="twodotsverticalbelow_ar" xOffset="411" yOffset="-654"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

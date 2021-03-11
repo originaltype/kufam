@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="362.0"/>
+  <unicode hex="0029"/>
+  <note>
+parenright
+</note>
+  <outline>
+    <contour>
+      <point x="-40.5" y="-83.33333333333333" type="curve"/>
+      <point x="-40.5" y="-88.0" type="line"/>
+      <point x="74.16666666666667" y="-88.0" type="line"/>
+      <point x="228.83333333333334" y="58.0"/>
+      <point x="312.1666666666667" y="257.6666666666667"/>
+      <point x="312.1666666666667" y="473.3333333333333" type="curve" smooth="yes"/>
+      <point x="312.1666666666667" y="590.8333333333334"/>
+      <point x="276.0" y="700.3333333333334"/>
+      <point x="229.5" y="760.0" type="curve"/>
+      <point x="123.5" y="760.0" type="line"/>
+      <point x="123.5" y="755.3333333333334" type="line"/>
+      <point x="178.16666666666666" y="679.6666666666666"/>
+      <point x="209.5" y="588.3333333333334"/>
+      <point x="209.5" y="473.3333333333333" type="curve" smooth="yes"/>
+      <point x="209.5" y="251.0"/>
+      <point x="111.5" y="58.666666666666664"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|parenleft</string>
+    </dict>
+  </lib>
+</glyph>

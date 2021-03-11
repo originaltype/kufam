@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ngoeh-ar.init" format="2">
+  <advance width="1194.5"/>
+  <unicode hex="FB9C"/>
+  <anchor x="511.5" y="0.0" name="bottom"/>
+  <anchor x="84.16666666666667" y="388.3333333333333" name="kafbar"/>
+  <anchor x="443.6666666666667" y="610.6666666666666" name="ring"/>
+  <anchor x="85.83333333333333" y="785.0" name="top"/>
+  <outline>
+    <component base="gaf-ar.init"/>
+    <component base="twodotshorizontalabove_ar" xOffset="-32.166666666666664" yOffset="361.3333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

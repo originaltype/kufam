@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro.inferior" format="2">
+  <advance width="397"/>
+  <note>
+euro.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="284" y="-168" type="curve" smooth="yes"/>
+      <point x="305" y="-168"/>
+      <point x="333" y="-166"/>
+      <point x="354" y="-158" type="curve"/>
+      <point x="354" y="-89" type="line"/>
+      <point x="348" y="-89" type="line"/>
+      <point x="329" y="-98"/>
+      <point x="308" y="-102"/>
+      <point x="287" y="-102" type="curve" smooth="yes"/>
+      <point x="233" y="-102"/>
+      <point x="200" y="-79"/>
+      <point x="184" y="-37" type="curve"/>
+      <point x="277" y="-37" type="line"/>
+      <point x="277" y="14" type="line"/>
+      <point x="173" y="14" type="line"/>
+      <point x="173" y="65" type="line"/>
+      <point x="277" y="65" type="line"/>
+      <point x="277" y="116" type="line"/>
+      <point x="184" y="116" type="line"/>
+      <point x="200" y="159"/>
+      <point x="233" y="184"/>
+      <point x="287" y="184" type="curve" smooth="yes"/>
+      <point x="308" y="184"/>
+      <point x="329" y="181"/>
+      <point x="348" y="171" type="curve"/>
+      <point x="354" y="171" type="line"/>
+      <point x="354" y="238" type="line"/>
+      <point x="333" y="246"/>
+      <point x="305" y="248"/>
+      <point x="284" y="248" type="curve" smooth="yes"/>
+      <point x="181" y="248"/>
+      <point x="120" y="197"/>
+      <point x="98" y="116" type="curve"/>
+      <point x="33" y="116" type="line"/>
+      <point x="33" y="65" type="line"/>
+      <point x="90" y="65" type="line"/>
+      <point x="90" y="14" type="line"/>
+      <point x="33" y="14" type="line"/>
+      <point x="33" y="-37" type="line"/>
+      <point x="98" y="-37" type="line"/>
+      <point x="120" y="-119"/>
+      <point x="181" y="-168"/>
+    </contour>
+  </outline>
+</glyph>

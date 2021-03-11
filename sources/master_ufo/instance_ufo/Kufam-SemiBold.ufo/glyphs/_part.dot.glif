@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.dot" format="2">
+  <advance width="309.6"/>
+  <anchor x="154.4" y="545.6" name="_top"/>
+  <outline>
+    <contour>
+      <point x="154.4" y="632.0" type="curve" smooth="yes"/>
+      <point x="200.4" y="632.0"/>
+      <point x="233.6" y="660.8"/>
+      <point x="233.6" y="709.6" type="curve" smooth="yes"/>
+      <point x="233.6" y="758.4"/>
+      <point x="200.4" y="787.2"/>
+      <point x="154.4" y="787.2" type="curve" smooth="yes"/>
+      <point x="108.4" y="787.2"/>
+      <point x="75.2" y="758.4"/>
+      <point x="75.2" y="709.6" type="curve" smooth="yes"/>
+      <point x="75.2" y="660.8"/>
+      <point x="108.4" y="632.0"/>
+    </contour>
+  </outline>
+</glyph>

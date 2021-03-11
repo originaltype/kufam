@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehVinvertedabove-ar.init" format="2">
+  <advance width="722.0"/>
+  <anchor x="392.6666666666667" y="-80.0" name="bottom"/>
+  <anchor x="362.8333333333333" y="757.6666666666666" name="top"/>
+  <outline>
+    <component base="hehDoachashmee-ar.init"/>
+    <component base="vinvertedabove-ar" xOffset="253.66666666666666" yOffset="459.8333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

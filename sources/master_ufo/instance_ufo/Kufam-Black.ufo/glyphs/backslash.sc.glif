@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash.sc" format="2">
+  <advance width="504"/>
+  <note>
+backslash.sc
+</note>
+  <outline>
+    <contour>
+      <point x="484" y="0" type="line"/>
+      <point x="200" y="572" type="line"/>
+      <point x="20" y="572" type="line"/>
+      <point x="304" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tteheh-ar.init.h1" format="2">
+  <advance width="423"/>
+  <anchor x="426" y="475" name="bottom"/>
+  <anchor x="290" y="413" name="ring"/>
+  <anchor x="238" y="1150" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init.h1"/>
+    <component base="twodotsverticalabove_ar" xOffset="48" yOffset="524"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

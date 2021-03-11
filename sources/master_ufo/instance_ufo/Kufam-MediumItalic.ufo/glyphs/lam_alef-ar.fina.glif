@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alef-ar.fina" format="2">
+  <advance width="789.6666666666666"/>
+  <note>
+uni06440627.fina
+</note>
+  <anchor x="572.0" y="0.0" name="bottom_1"/>
+  <anchor x="314.6666666666667" y="0.0" name="bottom_2"/>
+  <anchor x="589.0" y="760.0" name="top_1"/>
+  <anchor x="309.1666666666667" y="554.6666666666666" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="612.3333333333334" y="100.16666666666667" type="line"/>
+      <point x="643.3333333333334" y="50.0" type="line"/>
+      <point x="643.3333333333334" y="760.0" type="line"/>
+      <point x="634.6666666666666" y="760.0" type="line"/>
+      <point x="531.3333333333334" y="746.6666666666666" type="line"/>
+      <point x="531.3333333333334" y="177.33333333333334" type="line" smooth="yes"/>
+      <point x="531.3333333333334" y="132.16666666666666"/>
+      <point x="538.0" y="96.0"/>
+      <point x="545.5" y="77.83333333333333" type="curve"/>
+      <point x="575.3333333333334" y="100.16666666666667" type="line"/>
+      <point x="334.5" y="100.16666666666667" type="line"/>
+      <point x="368.0" y="50.0" type="line"/>
+      <point x="368.0" y="554.6666666666666" type="line"/>
+      <point x="359.3333333333333" y="554.6666666666666" type="line"/>
+      <point x="256.0" y="541.3333333333334" type="line"/>
+      <point x="256.0" y="177.33333333333334" type="line" smooth="yes"/>
+      <point x="256.0" y="132.16666666666666"/>
+      <point x="262.6666666666667" y="96.0"/>
+      <point x="270.1666666666667" y="77.83333333333333" type="curve"/>
+      <point x="302.5" y="100.16666666666667" type="line"/>
+      <point x="43.666666666666664" y="100.16666666666667" type="line"/>
+      <point x="10.0" y="8.666666666666666" type="line"/>
+      <point x="10.0" y="0.0" type="line"/>
+      <point x="769.6666666666666" y="0.0" type="line"/>
+      <point x="789.6666666666666" y="20.0" type="line"/>
+      <point x="789.6666666666666" y="100.16666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tah-ar</string>
+    </dict>
+  </lib>
+</glyph>

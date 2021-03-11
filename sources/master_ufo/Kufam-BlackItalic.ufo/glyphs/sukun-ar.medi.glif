@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sukun-ar.medi" format="2">
+  <advance width="305"/>
+  <unicode hex="FE7F"/>
+  <anchor x="147" y="0" name="bottom"/>
+  <anchor x="147" y="550" name="top"/>
+  <outline>
+    <component base="kashida-ar.long"/>
+    <component base="sukun-ar" xOffset="-50" yOffset="-268"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij.sc" format="2">
+  <advance width="694.6666666666666"/>
+  <note>
+ij.sc
+</note>
+  <anchor x="146.33333333333334" y="0.0" name="bottom_1"/>
+  <anchor x="489.6666666666667" y="0.0" name="bottom_2"/>
+  <anchor x="202.0" y="0.0" name="ogonek"/>
+  <anchor x="146.33333333333334" y="572.0" name="top_1"/>
+  <anchor x="556.3333333333334" y="572.0" name="top_2"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="j.sc" xOffset="284.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>j.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>i.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j.sc</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kcommaaccent" format="2">
+  <advance width="692.8"/>
+  <unicode hex="0136"/>
+  <note>
+Kcommaaccent
+</note>
+  <anchor x="245.8" y="-245.6" name="bottom"/>
+  <anchor x="433.4" y="720.0" name="top"/>
+  <outline>
+    <component base="K"/>
+    <component base="commaaccentcomb.case" xOffset="32.2"/>
+  </outline>
+</glyph>

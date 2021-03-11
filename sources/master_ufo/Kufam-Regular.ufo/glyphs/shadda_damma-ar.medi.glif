@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda_damma-ar.medi" format="2">
+  <advance width="292"/>
+  <unicode hex="FCF3"/>
+  <anchor x="146" y="0" name="bottom"/>
+  <anchor x="154" y="800" name="top"/>
+  <outline>
+    <component base="kashida-ar.long"/>
+    <component base="shadda_damma-ar" xOffset="-24" yOffset="-272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis.sc" format="2">
+  <advance width="577.8"/>
+  <note>
+ydieresis.sc
+</note>
+  <anchor x="232.9" y="0.0" name="bottom"/>
+  <anchor x="388.6" y="777.6" name="top"/>
+  <anchor x="76.0" y="572.0" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="dieresiscomb" xOffset="-39.6" yOffset="25.2"/>
+  </outline>
+</glyph>

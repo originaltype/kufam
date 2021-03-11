@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghain-ar.init" format="2">
+  <advance width="576"/>
+  <note>
+uni063A.init
+</note>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="208" y="652" name="top"/>
+  <outline>
+    <component base="ain-ar.init"/>
+    <component base="dotabove_ar" xOffset="-58" yOffset="-96"/>
+  </outline>
+</glyph>

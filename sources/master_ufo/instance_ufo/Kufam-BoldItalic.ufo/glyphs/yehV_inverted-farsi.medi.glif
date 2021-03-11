@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehVinverted-farsi.medi" format="2">
+  <advance width="412.5"/>
+  <anchor x="296.0" y="0.0" name="*entry"/>
+  <anchor x="154.1" y="-259.0" name="bottom"/>
+  <anchor x="184.0" y="0.0" name="ring"/>
+  <anchor x="194.1" y="788.4" name="top"/>
+  <outline>
+    <component base="yeh-ar.medi"/>
+    <component base="vinvertedabove-ar" xOffset="74.8" yOffset="449.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

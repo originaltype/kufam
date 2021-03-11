@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohungarumlaut.sc" format="2">
+  <advance width="721.6"/>
+  <note>
+ohungarumlaut.sc
+</note>
+  <anchor x="304.8" y="0.0" name="bottom"/>
+  <anchor x="360.8" y="286.0" name="center"/>
+  <anchor x="436.8" y="0.0" name="ogonek"/>
+  <anchor x="462.1" y="785.2" name="top"/>
+  <anchor x="76.0" y="572.0" name="topleft"/>
+  <anchor x="504.9" y="572.0" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="hungarumlautcomb" xOffset="-7.7" yOffset="25.2"/>
+  </outline>
+</glyph>

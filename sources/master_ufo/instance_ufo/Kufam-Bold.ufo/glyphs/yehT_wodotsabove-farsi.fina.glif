@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTwodotsabove-farsi.fina" format="2">
+  <advance width="814.7"/>
+  <anchor x="223.7" y="-264.0" name="bottom"/>
+  <anchor x="112.5" y="138.2" name="center"/>
+  <anchor x="223.7" y="-264.0" name="ring"/>
+  <anchor x="92.9" y="325.0" name="top"/>
+  <outline>
+    <component base="yeh-farsi.fina"/>
+    <component base="twodotsverticalabove_ar" xOffset="-63.8" yOffset="-302.20000000000005"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

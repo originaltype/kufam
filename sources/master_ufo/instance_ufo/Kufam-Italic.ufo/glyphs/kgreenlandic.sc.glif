@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic.sc" format="2">
+  <advance width="531"/>
+  <anchor x="266" y="0" name="bottom"/>
+  <anchor x="266" y="572" name="top"/>
+  <outline>
+    <contour>
+      <point x="364" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="468" y="12" type="line"/>
+      <point x="454" y="28"/>
+      <point x="427" y="69"/>
+      <point x="408" y="100" type="curve" smooth="yes"/>
+      <point x="264" y="332" type="line"/>
+      <point x="272" y="284" type="line"/>
+      <point x="486" y="480" type="line" smooth="yes"/>
+      <point x="518" y="509"/>
+      <point x="556" y="544"/>
+      <point x="579" y="560" type="curve"/>
+      <point x="582" y="572" type="line"/>
+      <point x="468" y="572" type="line"/>
+      <point x="183" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="248" y="572" type="line"/>
+      <point x="156" y="572" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k</string>
+    </dict>
+  </lib>
+</glyph>

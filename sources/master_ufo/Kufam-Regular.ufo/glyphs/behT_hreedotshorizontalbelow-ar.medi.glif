@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behThreedotshorizontalbelow-ar.medi" format="2">
+  <advance width="691"/>
+  <anchor x="395" y="0" name="*entry"/>
+  <anchor x="333" y="-204" name="bottom"/>
+  <anchor x="325" y="0" name="ring"/>
+  <anchor x="333" y="498" name="top"/>
+  <outline>
+    <component base="kashida-ar" xOffset="529"/>
+    <component base="behDotless-ar.medi" xOffset="162"/>
+    <component base="threedotshorizontalbelow-ar" xOffset="152" yOffset="-394"/>
+    <component base="kashida-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

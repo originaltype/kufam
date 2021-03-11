@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehThreedotsupbelow-ar.fina" format="2">
+  <advance width="1185"/>
+  <anchor x="872" y="0" name="*entry"/>
+  <anchor x="872" y="0" name="*exit"/>
+  <anchor x="635" y="-346" name="bottom"/>
+  <anchor x="548" y="0" name="ring"/>
+  <anchor x="569" y="622" name="top"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="threedotsupbelow_ar" xOffset="461" yOffset="38"/>
+    <component base="twodotshorizontalabove_ar" xOffset="451" yOffset="140"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

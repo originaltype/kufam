@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotbelowThreedotsabove-ar.medi" format="2">
+  <advance width="626.6666666666666"/>
+  <anchor x="323.8333333333333" y="-253.66666666666666" name="bottom"/>
+  <anchor x="299.8333333333333" y="859.3333333333334" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.medi"/>
+    <component base="dotbelow_ar" xOffset="137.83333333333334" yOffset="-337.6666666666667"/>
+    <component base="threedotsupabove_ar" xOffset="197.33333333333334" yOffset="313.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

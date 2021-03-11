@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reh-ar" format="2">
+  <advance width="464.0"/>
+  <unicode hex="0631"/>
+  <note>
+uni0631
+</note>
+  <anchor x="391.2" y="0.0" name="*entry"/>
+  <anchor x="276.2" y="0.3999999999999986" name="bar"/>
+  <anchor x="68.8" y="-260.0" name="bottom"/>
+  <anchor x="68.8" y="-260.0" name="ring"/>
+  <anchor x="282.0" y="485.2" name="top"/>
+  <outline>
+    <component base="_part.reh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.reh-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

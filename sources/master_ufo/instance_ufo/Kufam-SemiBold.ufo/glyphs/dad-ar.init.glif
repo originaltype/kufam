@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.init" format="2">
+  <advance width="1184.2"/>
+  <note>
+uni0636.init
+</note>
+  <anchor x="918.4" y="0.0" name="*entry_1"/>
+  <anchor x="264.6" y="0.0" name="*entry_2"/>
+  <anchor x="264.6" y="0.0" name="*exit"/>
+  <anchor x="597.4" y="0.0" name="bottom"/>
+  <anchor x="587.6" y="647.4" name="top"/>
+  <anchor x="172.0" y="85.2" name="verticalbar"/>
+  <outline>
+    <component base="sad-ar.init"/>
+    <component base="dotabove_ar" xOffset="361.6" yOffset="-117.0"/>
+  </outline>
+</glyph>

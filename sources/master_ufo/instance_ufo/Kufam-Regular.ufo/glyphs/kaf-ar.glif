@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar" format="2">
+  <advance width="1068"/>
+  <unicode hex="0643"/>
+  <note>
+uni0643
+</note>
+  <anchor x="880" y="0" name="*entry"/>
+  <anchor x="556" y="0" name="bottom"/>
+  <anchor x="571" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="972" y="-1" type="line"/>
+      <point x="972" y="604" type="line" smooth="yes"/>
+      <point x="972" y="644"/>
+      <point x="972" y="716"/>
+      <point x="980" y="752" type="curve"/>
+      <point x="980" y="760" type="line"/>
+      <point x="880" y="748" type="line"/>
+      <point x="880" y="69" type="line"/>
+      <point x="908" y="85" type="line"/>
+      <point x="556" y="85" type="line" smooth="yes"/>
+      <point x="417" y="85"/>
+      <point x="273" y="86"/>
+      <point x="176" y="115" type="curve" smooth="yes"/>
+      <point x="153" y="122"/>
+      <point x="96" y="139"/>
+      <point x="74" y="150" type="curve"/>
+      <point x="66" y="150" type="line"/>
+      <point x="48" y="69" type="line"/>
+      <point x="73" y="58"/>
+      <point x="108" y="46"/>
+      <point x="147" y="35" type="curve" smooth="yes"/>
+      <point x="259" y="3"/>
+      <point x="386" y="0"/>
+      <point x="508" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="636" y="450" type="curve" smooth="yes"/>
+      <point x="596" y="468" type="line" smooth="yes"/>
+      <point x="573" y="478"/>
+      <point x="560" y="485"/>
+      <point x="559" y="496" type="curve"/>
+      <point x="551" y="481" type="line"/>
+      <point x="563" y="493"/>
+      <point x="578" y="498"/>
+      <point x="601" y="506" type="curve" smooth="yes"/>
+      <point x="655" y="524" type="line"/>
+      <point x="659" y="582" type="line"/>
+      <point x="655" y="589" type="line"/>
+      <point x="601" y="571" type="line" smooth="yes"/>
+      <point x="536" y="549"/>
+      <point x="502" y="523"/>
+      <point x="502" y="481" type="curve" smooth="yes"/>
+      <point x="502" y="452"/>
+      <point x="517" y="433"/>
+      <point x="549" y="418" type="curve" smooth="yes"/>
+      <point x="584" y="401" type="line" smooth="yes"/>
+      <point x="598" y="394"/>
+      <point x="605" y="391"/>
+      <point x="605" y="383" type="curve" smooth="yes"/>
+      <point x="605" y="374"/>
+      <point x="599" y="368"/>
+      <point x="583" y="368" type="curve" smooth="yes"/>
+      <point x="480" y="368" type="line"/>
+      <point x="461" y="309" type="line"/>
+      <point x="461" y="297" type="line"/>
+      <point x="556" y="297" type="line" smooth="yes"/>
+      <point x="641" y="297"/>
+      <point x="686" y="331"/>
+      <point x="686" y="384" type="curve" smooth="yes"/>
+      <point x="686" y="420"/>
+      <point x="666" y="437"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alef-ar</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_b" format="2">
+  <advance width="1140"/>
+  <note>
+f_b
+</note>
+  <anchor x="476" y="0" name="caret_1"/>
+  <anchor x="745" y="0" name="bottom"/>
+  <anchor x="892" y="760" name="top"/>
+  <outline>
+    <component base="_part.f.short"/>
+    <component base="b" xOffset="456"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.f.short</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dammahigh-ar" format="2">
+  <advance width="244.6"/>
+  <anchor x="486.4" y="667.2" name="_top"/>
+  <anchor x="237.8" y="716.8" name="top"/>
+  <outline>
+    <component base="damma-ar" xOffset="-8.0" yOffset="-167.0"/>
+  </outline>
+</glyph>

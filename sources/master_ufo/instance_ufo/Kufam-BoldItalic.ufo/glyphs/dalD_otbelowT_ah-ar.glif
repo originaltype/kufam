@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalDotbelowTah-ar" format="2">
+  <advance width="760.4"/>
+  <unicode hex="068B"/>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="353.0" y="-259.0" name="bottom"/>
+  <anchor x="329.0" y="0.0" name="ring"/>
+  <anchor x="395.4" y="804.7" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="dotbelow_ar" xOffset="167.0" yOffset="-343.0"/>
+    <component base="tahabove-ar" xOffset="202.4" yOffset="218.7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

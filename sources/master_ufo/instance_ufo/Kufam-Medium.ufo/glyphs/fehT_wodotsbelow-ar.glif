@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehTwodotsbelow-ar" format="2">
+  <advance width="1208.6666666666667"/>
+  <unicode hex="0760"/>
+  <anchor x="511.3333333333333" y="-237.66666666666666" name="bottom"/>
+  <anchor x="910.0" y="525.1666666666666" name="top"/>
+  <outline>
+    <component base="fehDotless-ar"/>
+    <component base="twodotshorizontalbelow_ar" xOffset="255.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

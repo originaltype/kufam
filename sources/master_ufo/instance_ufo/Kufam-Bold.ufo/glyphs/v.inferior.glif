@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.inferior" format="2">
+  <advance width="455.9"/>
+  <note>
+v.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="3.6" y="231.4" type="line"/>
+      <point x="136.3" y="-161.4" type="line"/>
+      <point x="313.6" y="-161.4" type="line"/>
+      <point x="453.0" y="231.4" type="line"/>
+      <point x="453.0" y="239.4" type="line"/>
+      <point x="302.6" y="239.4" type="line"/>
+      <point x="229.0" y="-34.400000000000006" type="line"/>
+      <point x="156.3" y="239.4" type="line"/>
+      <point x="3.6" y="239.4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

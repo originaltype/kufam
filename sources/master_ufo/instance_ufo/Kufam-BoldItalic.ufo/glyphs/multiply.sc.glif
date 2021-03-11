@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply.sc" format="2">
+  <advance width="568.0"/>
+  <note>
+multiply.sc
+</note>
+  <outline>
+    <contour>
+      <point x="76.7" y="155.6" type="line"/>
+      <point x="156.2" y="76.1" type="line"/>
+      <point x="292.0" y="209.8" type="line"/>
+      <point x="427.8" y="76.1" type="line"/>
+      <point x="507.3" y="155.6" type="line"/>
+      <point x="372.2" y="288.6" type="line"/>
+      <point x="506.7" y="421.0" type="line"/>
+      <point x="427.2" y="500.5" type="line"/>
+      <point x="292.0" y="367.4" type="line"/>
+      <point x="156.8" y="500.5" type="line"/>
+      <point x="77.3" y="421.0" type="line"/>
+      <point x="211.8" y="288.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

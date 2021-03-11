@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar" format="2">
+  <advance width="1089.7"/>
+  <unicode hex="0643"/>
+  <note>
+uni0643
+</note>
+  <anchor x="947.2" y="0.0" name="*entry"/>
+  <anchor x="550.4" y="0.0" name="bottom"/>
+  <anchor x="554.9" y="666.2" name="top"/>
+  <outline>
+    <contour>
+      <point x="1010.5" y="0.3999999999999999" type="line"/>
+      <point x="1010.5" y="599.8" type="line" smooth="yes"/>
+      <point x="1010.5" y="639.8"/>
+      <point x="1010.5" y="711.8"/>
+      <point x="1018.5" y="747.8" type="curve"/>
+      <point x="1015.7" y="755.8" type="line"/>
+      <point x="840.1" y="738.2" type="line"/>
+      <point x="840.1" y="113.1" type="line"/>
+      <point x="896.8" y="148.7" type="line"/>
+      <point x="550.4" y="148.7" type="line" smooth="yes"/>
+      <point x="448.5" y="148.7"/>
+      <point x="294.7" y="149.0"/>
+      <point x="192.8" y="180.1" type="curve" smooth="yes"/>
+      <point x="169.8" y="187.1"/>
+      <point x="114.2" y="204.8"/>
+      <point x="92.2" y="215.8" type="curve"/>
+      <point x="81.4" y="215.8" type="line"/>
+      <point x="45.2" y="73.9" type="line"/>
+      <point x="70.9" y="62.2"/>
+      <point x="125.5" y="45.3"/>
+      <point x="164.5" y="35.7" type="curve" smooth="yes"/>
+      <point x="299.6" y="3.0"/>
+      <point x="415.4" y="0.0"/>
+      <point x="536.0" y="0.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="629.0" y="494.1" type="curve" smooth="yes"/>
+      <point x="591.8" y="509.3" type="line" smooth="yes"/>
+      <point x="566.0" y="518.6"/>
+      <point x="545.3" y="527.7"/>
+      <point x="531.7" y="541.5" type="curve"/>
+      <point x="533.5" y="518.1" type="line"/>
+      <point x="546.9" y="530.1"/>
+      <point x="564.0" y="535.8"/>
+      <point x="596.1" y="546.6" type="curve" smooth="yes"/>
+      <point x="659.9" y="568.1" type="line"/>
+      <point x="666.7" y="657.6" type="line"/>
+      <point x="661.3" y="666.7" type="line"/>
+      <point x="577.9" y="638.2" type="line" smooth="yes"/>
+      <point x="491.9" y="608.5"/>
+      <point x="451.6" y="574.1"/>
+      <point x="451.6" y="523.0" type="curve" smooth="yes"/>
+      <point x="451.6" y="485.6"/>
+      <point x="468.7" y="462.4"/>
+      <point x="506.3" y="443.9" type="curve" smooth="yes"/>
+      <point x="553.9" y="420.6" type="line" smooth="yes"/>
+      <point x="565.8" y="415.0"/>
+      <point x="573.5" y="411.3"/>
+      <point x="573.5" y="404.7" type="curve" smooth="yes"/>
+      <point x="573.5" y="397.8"/>
+      <point x="567.5" y="394.6"/>
+      <point x="552.9" y="394.6" type="curve" smooth="yes"/>
+      <point x="429.6" y="394.6" type="line"/>
+      <point x="402.2" y="306.9" type="line"/>
+      <point x="402.2" y="294.9" type="line"/>
+      <point x="528.7" y="294.9" type="line" smooth="yes"/>
+      <point x="634.0" y="294.9"/>
+      <point x="697.2" y="338.0"/>
+      <point x="697.2" y="407.1" type="curve" smooth="yes"/>
+      <point x="697.2" y="449.4"/>
+      <point x="676.5" y="475.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alef-ar</string>
+    </dict>
+  </lib>
+</glyph>

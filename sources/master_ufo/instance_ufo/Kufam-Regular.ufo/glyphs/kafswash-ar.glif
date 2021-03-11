@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafswash-ar" format="2">
+  <advance width="1396"/>
+  <unicode hex="06AA"/>
+  <anchor x="1034" y="0" name="*entry"/>
+  <anchor x="812" y="0" name="bottom"/>
+  <anchor x="388" y="382" name="kafbar"/>
+  <anchor x="717" y="600" name="ring"/>
+  <anchor x="402" y="560" name="top"/>
+  <outline>
+    <component base="keheh-ar"/>
+  </outline>
+</glyph>

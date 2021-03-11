@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kasra-ar" format="2">
+  <unicode hex="0650"/>
+  <note>
+uni0650
+</note>
+  <anchor x="210" y="25" name="_bottom"/>
+  <anchor x="210" y="-209" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="63" y="-215" type="line"/>
+      <point x="75" y="-215" type="line"/>
+      <point x="330" y="-132" type="line"/>
+      <point x="330" y="-61" type="line"/>
+      <point x="318" y="-61" type="line"/>
+      <point x="63" y="-144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>400</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehDotbelow-ar.fina" format="2">
+  <advance width="514.3333333333334"/>
+  <anchor x="370.6666666666667" y="0.0" name="*entry"/>
+  <anchor x="370.6666666666667" y="0.0" name="*exit"/>
+  <anchor x="281.3333333333333" y="-19.666666666666668" name="bar"/>
+  <anchor x="61.333333333333336" y="-513.6666666666666" name="bottom"/>
+  <anchor x="61.333333333333336" y="-260.0" name="ring"/>
+  <anchor x="279.6666666666667" y="458.8333333333333" name="top"/>
+  <outline>
+    <component base="_baseline" xOffset="372.3333333333333"/>
+    <component base="_part.reh-ar"/>
+    <component base="dotbelow_ar" xOffset="-124.66666666666667" yOffset="-597.6666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_baseline</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

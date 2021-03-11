@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand-ar" format="2">
+  <advance width="694.5"/>
+  <unicode hex="0609"/>
+  <outline>
+    <contour>
+      <point x="33.166666666666664" y="12.0" type="line"/>
+      <point x="33.166666666666664" y="0.0" type="line"/>
+      <point x="135.16666666666666" y="0.0" type="line"/>
+      <point x="533.1666666666666" y="708.0" type="line"/>
+      <point x="533.1666666666666" y="720.0" type="line"/>
+      <point x="431.1666666666667" y="720.0" type="line"/>
+    </contour>
+    <component base="zero-ar" xOffset="-56.333333333333336" yOffset="216.66666666666666"/>
+    <component base="zero-ar" xOffset="425.6666666666667" yOffset="-188.66666666666666"/>
+    <component base="zero-ar" xOffset="236.5" yOffset="-189.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>percent-ar</string>
+    </dict>
+  </lib>
+</glyph>

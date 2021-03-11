@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen-ar.fina" format="2">
+  <advance width="1132.0"/>
+  <note>
+uni0634.fina
+</note>
+  <anchor x="191.33333333333334" y="-256.6666666666667" name="bottom"/>
+  <anchor x="672.0" y="-195.0" name="center"/>
+  <anchor x="661.8333333333334" y="818.3333333333334" name="top"/>
+  <outline>
+    <component base="seen-ar.fina"/>
+    <component base="threedotsupabove_ar" xOffset="559.3333333333334" yOffset="272.5"/>
+  </outline>
+</glyph>

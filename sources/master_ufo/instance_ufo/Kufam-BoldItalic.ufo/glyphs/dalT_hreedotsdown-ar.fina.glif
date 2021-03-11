@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalThreedotsdown-ar.fina" format="2">
+  <advance width="799.9"/>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="480.0" y="0.0" name="*exit"/>
+  <anchor x="353.0" y="0.0" name="bottom"/>
+  <anchor x="329.0" y="0.0" name="ring"/>
+  <anchor x="386.4" y="845.2" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="threedotsdownabove_ar" xOffset="163.1" yOffset="-94.7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

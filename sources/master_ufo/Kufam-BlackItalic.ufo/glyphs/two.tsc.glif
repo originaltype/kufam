@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tsc" format="2">
+  <advance width="568"/>
+  <note>
+two.sc
+</note>
+  <guideline x="240" y="428" angle="0"/>
+  <outline>
+    <contour>
+      <point x="4" y="0" type="curve"/>
+      <point x="456" y="0" type="line"/>
+      <point x="488" y="152" type="line"/>
+      <point x="144" y="152" type="line"/>
+      <point x="208" y="84" type="line"/>
+      <point x="208" y="144"/>
+      <point x="233" y="170"/>
+      <point x="276" y="180" type="curve" smooth="yes"/>
+      <point x="308" y="188" type="line" smooth="yes"/>
+      <point x="464" y="227"/>
+      <point x="532" y="280"/>
+      <point x="532" y="396" type="curve" smooth="yes"/>
+      <point x="532" y="496"/>
+      <point x="448" y="580"/>
+      <point x="300" y="580" type="curve" smooth="yes"/>
+      <point x="229" y="580"/>
+      <point x="179" y="572"/>
+      <point x="132" y="556" type="curve"/>
+      <point x="100" y="400" type="line"/>
+      <point x="112" y="400" type="line"/>
+      <point x="136" y="412"/>
+      <point x="192" y="428"/>
+      <point x="240" y="428" type="curve" smooth="yes"/>
+      <point x="304" y="428"/>
+      <point x="328" y="412"/>
+      <point x="328" y="380" type="curve" smooth="yes"/>
+      <point x="328" y="356"/>
+      <point x="314" y="337"/>
+      <point x="264" y="324" type="curve" smooth="yes"/>
+      <point x="232" y="316" type="line" smooth="yes"/>
+      <point x="66" y="274"/>
+      <point x="0" y="184"/>
+      <point x="0" y="32" type="curve" smooth="yes"/>
+      <point x="0" y="24"/>
+      <point x="2" y="6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

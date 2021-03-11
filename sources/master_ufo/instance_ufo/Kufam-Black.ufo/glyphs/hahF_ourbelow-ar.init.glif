@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahFourbelow-ar.init" format="2">
+  <advance width="854"/>
+  <anchor x="324" y="-329" name="bottom"/>
+  <anchor x="532" y="436" name="top"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="foururdubelow-ar" xOffset="207" yOffset="-698"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

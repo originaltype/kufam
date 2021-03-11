@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehAlefabove-ar" format="2">
+  <advance width="464.0"/>
+  <unicode hex="FC5C"/>
+  <anchor x="391.2" y="0.0" name="*entry"/>
+  <anchor x="276.2" y="0.3999999999999986" name="bar"/>
+  <anchor x="68.8" y="-260.0" name="bottom"/>
+  <anchor x="68.8" y="-260.0" name="ring"/>
+  <anchor x="281.6" y="754.4" name="top"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="alefabove-ar" xOffset="104.4" yOffset="-75.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

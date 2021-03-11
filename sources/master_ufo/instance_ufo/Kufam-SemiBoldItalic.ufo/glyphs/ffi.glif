@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ffi" format="2">
+  <advance width="1038.6"/>
+  <unicode hex="FB03"/>
+  <note>
+ffi
+</note>
+  <anchor x="317.2" y="0.0" name="caret_1"/>
+  <anchor x="669.4" y="0.0" name="caret_2"/>
+  <outline>
+    <component base="_part.f.liga"/>
+    <component base="fi" xOffset="354.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.f.liga</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

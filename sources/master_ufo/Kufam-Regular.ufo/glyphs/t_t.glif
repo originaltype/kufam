@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_t" format="2">
+  <advance width="808"/>
+  <note>
+t_t
+</note>
+  <anchor x="414" y="0" name="caret_1"/>
+  <anchor x="606" y="0" name="bottom"/>
+  <anchor x="606" y="272" name="center"/>
+  <anchor x="554" y="692" name="top"/>
+  <anchor x="705" y="567" name="topright"/>
+  <outline>
+    <component base="_part.t.liga"/>
+    <component base="t" xOffset="404"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.t.liga</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

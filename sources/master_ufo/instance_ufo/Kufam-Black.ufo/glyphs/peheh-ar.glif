@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peheh-ar" format="2">
+  <advance width="1212"/>
+  <unicode hex="06A6"/>
+  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="899" y="1016" name="top"/>
+  <outline>
+    <component base="fehDotless-ar"/>
+    <component base="fourdotsabove_ar" xOffset="633" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

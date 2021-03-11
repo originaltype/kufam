@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_ending-ar" format="2">
+  <advance width="600"/>
+  <anchor x="237" y="0" name="*entry"/>
+  <outline>
+    <contour>
+      <point x="467" y="0" type="line"/>
+      <point x="467" y="176" type="line"/>
+      <point x="62" y="176" type="line"/>
+      <point x="0" y="12" type="line"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

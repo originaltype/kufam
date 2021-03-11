@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.osf.zero" format="2">
+  <advance width="663.2"/>
+  <note>
+slashedzero.oldstyle
+</note>
+  <outline>
+    <contour>
+      <point x="154.2" y="71.2" type="line"/>
+      <point x="240.6" y="71.2" type="line"/>
+      <point x="530.0" y="494.4" type="line"/>
+      <point x="443.6" y="494.4" type="line"/>
+    </contour>
+    <component base="zero.osf"/>
+  </outline>
+</glyph>

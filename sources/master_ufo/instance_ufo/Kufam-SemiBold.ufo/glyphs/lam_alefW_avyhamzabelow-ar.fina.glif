@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alefWavyhamzabelow-ar.fina" format="2">
+  <advance width="806.0"/>
+  <anchor x="580.4" y="0.0" name="bottom_1"/>
+  <anchor x="311.4" y="-351.0" name="bottom_2"/>
+  <anchor x="597.4" y="760.0" name="top_1"/>
+  <anchor x="301.0" y="552.8" name="top_2"/>
+  <outline>
+    <component base="lam_alef-ar.fina"/>
+    <component base="wavyhamzabelow-ar" xOffset="123.0" yOffset="-651.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom_2</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>wavyhamzabelow-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

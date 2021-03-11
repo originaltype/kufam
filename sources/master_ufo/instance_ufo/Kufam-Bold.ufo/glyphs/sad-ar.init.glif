@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad-ar.init" format="2">
+  <advance width="1201.6"/>
+  <note>
+uni0635.init
+</note>
+  <anchor x="936.7" y="0.0" name="*entry_1"/>
+  <anchor x="288.3" y="0.0" name="*entry_2"/>
+  <anchor x="288.3" y="0.0" name="*exit"/>
+  <anchor x="614.2" y="0.0" name="bottom"/>
+  <anchor x="611.8" y="463.1" name="top"/>
+  <anchor x="146.5" y="116.1" name="verticalbar"/>
+  <outline>
+    <component base="_loop-ar" xOffset="247.2"/>
+    <component base="_behDotlessshortnabirah-ar"/>
+  </outline>
+</glyph>

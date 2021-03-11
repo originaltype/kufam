@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thalAlefabove-ar" format="2">
+  <advance width="754.0"/>
+  <unicode hex="FC5B"/>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="347.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="334.3333333333333" y="0.0" name="ring"/>
+  <anchor x="382.5" y="936.6666666666666" name="top"/>
+  <outline>
+    <component base="thal-ar"/>
+    <component base="alefabove-ar" xOffset="213.0" yOffset="95.66666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

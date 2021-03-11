@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.sc" format="2">
+  <advance width="688"/>
+  <note>
+oslash.sc
+</note>
+  <anchor x="344" y="0" name="bottom"/>
+  <anchor x="344" y="286" name="center"/>
+  <anchor x="437" y="0" name="ogonek"/>
+  <anchor x="344" y="572" name="top"/>
+  <anchor x="20" y="572" name="topleft"/>
+  <anchor x="432" y="572" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="slashlongcomb.sc" xOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o.sc</string>
+    </dict>
+  </lib>
+</glyph>

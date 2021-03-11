@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.f.liga" format="2">
+  <advance width="351.3333333333333"/>
+  <outline>
+    <contour>
+      <point x="100.0" y="0.0" type="line"/>
+      <point x="212.0" y="0.0" type="line"/>
+      <point x="212.0" y="570.6666666666666" type="line" smooth="yes"/>
+      <point x="212.0" y="638.6666666666666"/>
+      <point x="236.5" y="670.6666666666666"/>
+      <point x="305.3333333333333" y="670.6666666666666" type="curve" smooth="yes"/>
+      <point x="321.3333333333333" y="670.6666666666666"/>
+      <point x="335.6666666666667" y="668.5"/>
+      <point x="354.3333333333333" y="662.6666666666666" type="curve"/>
+      <point x="363.0" y="662.6666666666666" type="line"/>
+      <point x="363.0" y="754.6666666666666" type="line"/>
+      <point x="343.0" y="760.3333333333334"/>
+      <point x="321.3333333333333" y="762.6666666666666"/>
+      <point x="301.3333333333333" y="762.6666666666666" type="curve" smooth="yes"/>
+      <point x="171.16666666666666" y="762.6666666666666"/>
+      <point x="100.0" y="690.5"/>
+      <point x="100.0" y="569.3333333333334" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="14.666666666666666" y="451.3333333333333" type="line"/>
+      <point x="498.6666666666667" y="451.3333333333333" type="line"/>
+      <point x="498.6666666666667" y="544.6666666666666" type="line"/>
+      <point x="14.666666666666666" y="544.6666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+    </dict>
+  </lib>
+</glyph>

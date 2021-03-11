@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehRing-ar.fina" format="2">
+  <advance width="1184.1666666666667"/>
+  <anchor x="852.0" y="0.0" name="*entry"/>
+  <anchor x="852.0" y="0.0" name="*exit"/>
+  <anchor x="569.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="561.3333333333334" y="0.0" name="ring"/>
+  <anchor x="570.6666666666666" y="548.6666666666666" name="top"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="twodotshorizontalabove_ar" xOffset="452.6666666666667" yOffset="125.0"/>
+    <component base="ring_ar" xOffset="399.3333333333333" yOffset="100.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

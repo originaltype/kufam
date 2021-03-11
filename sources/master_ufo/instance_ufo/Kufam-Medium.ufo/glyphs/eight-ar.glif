@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight-ar" format="2">
+  <advance width="604.5"/>
+  <unicode hex="0668"/>
+  <note>
+uni0668
+</note>
+  <outline>
+    <component base="seven-ar" xScale="-1.0" yScale="-1.0" xOffset="604.5" yOffset="750.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seven-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seven-ar</string>
+    </dict>
+  </lib>
+</glyph>

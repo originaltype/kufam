@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright.sc" format="2">
+  <advance width="344"/>
+  <note>
+guilsinglright.sc
+</note>
+  <outline>
+    <contour>
+      <point x="20" y="60" type="line"/>
+      <point x="28" y="60" type="line"/>
+      <point x="312" y="280" type="line"/>
+      <point x="320" y="312" type="line"/>
+      <point x="124" y="532" type="line"/>
+      <point x="116" y="532" type="line"/>
+      <point x="98" y="444" type="line"/>
+      <point x="224" y="302" type="line"/>
+      <point x="40" y="164" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

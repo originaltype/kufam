@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four-persian.urdu" format="2">
+  <advance width="612"/>
+  <note>
+uni06F4.urdu
+</note>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="236" y="4" type="line"/>
+      <point x="136" y="408" type="line" smooth="yes"/>
+      <point x="117" y="485"/>
+      <point x="108" y="540"/>
+      <point x="108" y="580" type="curve" smooth="yes"/>
+      <point x="108" y="642"/>
+      <point x="130" y="677"/>
+      <point x="169" y="713" type="curve"/>
+      <point x="132" y="707" type="line"/>
+      <point x="231" y="648"/>
+      <point x="270" y="549"/>
+      <point x="304" y="380" type="curve"/>
+      <point x="404" y="364" type="line"/>
+      <point x="439" y="477"/>
+      <point x="488" y="596"/>
+      <point x="572" y="700" type="curve"/>
+      <point x="520" y="752" type="line"/>
+      <point x="518" y="752" type="line"/>
+      <point x="423" y="645"/>
+      <point x="381" y="532"/>
+      <point x="360" y="446" type="curve"/>
+      <point x="373" y="428" type="line"/>
+      <point x="360" y="488" type="line" smooth="yes"/>
+      <point x="331" y="631"/>
+      <point x="261" y="760"/>
+      <point x="164" y="760" type="curve" smooth="yes"/>
+      <point x="69" y="760"/>
+      <point x="24" y="677"/>
+      <point x="24" y="560" type="curve" smooth="yes"/>
+      <point x="24" y="512"/>
+      <point x="34" y="459"/>
+      <point x="48" y="396" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seven-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>two-ar</string>
+    </dict>
+  </lib>
+</glyph>

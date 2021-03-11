@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>_part.bowl-ar</key>
+    <string>_part.bowl-ar.glif</string>
+    <key>_wavyhamza-ar</key>
+    <string>_wavyhamza-ar.glif</string>
+    <key>behDotless-ar.init.h1</key>
+    <string>behD_otless-ar.init.h1.glif</string>
+    <key>d</key>
+    <string>d.glif</string>
+    <key>doubleverticalbarbelowSymbol-ar</key>
+    <string>doubleverticalbarbelowS_ymbol-ar.glif</string>
+    <key>hah-ar.fina.h2</key>
+    <string>hah-ar.fina.h2.glif</string>
+    <key>hah-ar.fina.short.h2</key>
+    <string>hah-ar.fina.short.h2.glif</string>
+    <key>hamza-ar</key>
+    <string>hamza-ar.glif</string>
+    <key>lam_hah-ar</key>
+    <string>lam_hah-ar.glif</string>
+    <key>one</key>
+    <string>one.glif</string>
+    <key>one.osf</key>
+    <string>one.osf.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
+    <key>q</key>
+    <string>q.glif</string>
+    <key>shadda_fatha-ar</key>
+    <string>shadda_fatha-ar.glif</string>
+  </dict>
+</plist>

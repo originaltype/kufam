@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tteh-ar" format="2">
+  <advance width="1128.0"/>
+  <unicode hex="0679"/>
+  <note>
+uni0679
+</note>
+  <anchor x="864.8" y="0.0" name="*entry"/>
+  <anchor x="555.8" y="0.0" name="bottom"/>
+  <anchor x="552.8" y="0.0" name="ring"/>
+  <anchor x="559.5" y="691.4" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="tahabove-ar" xOffset="366.5" yOffset="105.4"/>
+  </outline>
+</glyph>

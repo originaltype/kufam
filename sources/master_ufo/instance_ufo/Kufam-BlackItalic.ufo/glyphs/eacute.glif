@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eacute" format="2">
+  <advance width="638"/>
+  <unicode hex="00E9"/>
+  <note>
+eacute
+</note>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="514" y="12" name="ogonek"/>
+  <anchor x="425" y="760" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="acutecomb" xOffset="-36"/>
+  </outline>
+</glyph>

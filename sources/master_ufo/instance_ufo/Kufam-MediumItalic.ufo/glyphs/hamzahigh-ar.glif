@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzahigh-ar" format="2">
+  <advance width="234.33333333333334"/>
+  <anchor x="118.0" y="-30.0" name="_high"/>
+  <anchor x="111.33333333333333" y="233.83333333333334" name="top"/>
+  <outline>
+    <component base="hamzaabove-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

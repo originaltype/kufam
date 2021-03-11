@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ograve.sc" format="2">
+  <advance width="707.2"/>
+  <note>
+ograve.sc
+</note>
+  <anchor x="353.6" y="0.0" name="bottom"/>
+  <anchor x="353.6" y="286.0" name="center"/>
+  <anchor x="453.4" y="0.0" name="ogonek"/>
+  <anchor x="353.6" y="786.4" name="top"/>
+  <anchor x="20.0" y="572.0" name="topleft"/>
+  <anchor x="448.0" y="572.0" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="gravecomb" xOffset="77.0" yOffset="26.4"/>
+  </outline>
+</glyph>

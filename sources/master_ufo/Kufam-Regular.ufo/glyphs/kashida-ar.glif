@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kashida-ar" format="2">
+  <advance width="162"/>
+  <unicode hex="0640"/>
+  <note>
+uni0640
+</note>
+  <outline>
+    <contour>
+      <point x="162" y="85" type="line"/>
+      <point x="0" y="85" type="line"/>
+      <point x="-20" y="65" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="162" y="20" type="line"/>
+    </contour>
+  </outline>
+</glyph>

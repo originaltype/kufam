@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llinebelow" format="2">
+  <advance width="309.6"/>
+  <unicode hex="1E3B"/>
+  <anchor x="62.0" y="-178.8" name="bottom"/>
+  <anchor x="189.6" y="386.0" name="center"/>
+  <anchor x="385.0" y="358.4" name="periodCAT"/>
+  <anchor x="258.4" y="760.0" name="top"/>
+  <anchor x="410.0" y="545.6" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="macronbelowcomb" xOffset="-170.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

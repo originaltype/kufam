@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utildeacute" format="2">
+  <advance width="772"/>
+  <unicode hex="1E78"/>
+  <anchor x="386" y="0" name="bottom"/>
+  <anchor x="478" y="10" name="ogonek"/>
+  <anchor x="386" y="1144" name="top"/>
+  <anchor x="648" y="720" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildecomb.case" xOffset="50"/>
+    <component base="acutecomb.case" xOffset="50" yOffset="212"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

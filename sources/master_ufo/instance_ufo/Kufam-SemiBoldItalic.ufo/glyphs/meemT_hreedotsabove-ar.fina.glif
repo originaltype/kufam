@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meemThreedotsabove-ar.fina" format="2">
+  <advance width="742.0"/>
+  <anchor x="361.6" y="-44.0" name="bottom"/>
+  <anchor x="354.2" y="838.8" name="top"/>
+  <outline>
+    <component base="meem-ar.fina"/>
+    <component base="threedotsupabove_ar" xOffset="249.6" yOffset="272.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

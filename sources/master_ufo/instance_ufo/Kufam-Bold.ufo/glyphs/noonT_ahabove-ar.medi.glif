@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonTahabove-ar.medi" format="2">
+  <advance width="412.5"/>
+  <anchor x="296.0" y="0.0" name="*entry"/>
+  <anchor x="194.1" y="0.0" name="bottom"/>
+  <anchor x="184.0" y="0.0" name="ring"/>
+  <anchor x="183.1" y="1085.1" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="dotabove_ar" xOffset="-15.900000000000006" yOffset="-9.900000000000002"/>
+    <component base="tahabove-ar" xOffset="-9.899999999999999" yOffset="499.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

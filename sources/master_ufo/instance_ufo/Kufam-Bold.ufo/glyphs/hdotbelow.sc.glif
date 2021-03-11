@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hdotbelow.sc" format="2">
+  <advance width="693.2"/>
+  <note>
+uni1E24.sc
+</note>
+  <anchor x="346.6" y="-209.6" name="bottom"/>
+  <anchor x="346.6" y="465.8" name="center"/>
+  <anchor x="346.6" y="572.0" name="top"/>
+  <anchor x="20.0" y="572.0" name="topleft"/>
+  <outline>
+    <component base="h.sc"/>
+    <component base="dotbelowcomb" xOffset="19.6"/>
+  </outline>
+</glyph>

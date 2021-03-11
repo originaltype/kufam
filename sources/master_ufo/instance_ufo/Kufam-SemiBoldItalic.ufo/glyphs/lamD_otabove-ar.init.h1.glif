@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamDotabove-ar.init.h1" format="2">
+  <advance width="379.0"/>
+  <anchor x="248.0" y="559.8" name="bar"/>
+  <anchor x="381.6" y="416.0" name="bottom"/>
+  <anchor x="234.2" y="969.2" name="top"/>
+  <outline>
+    <component base="lam-ar.init.h1"/>
+    <component base="dotabove_ar" xOffset="8.200000000000003" yOffset="204.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

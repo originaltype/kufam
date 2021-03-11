@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenTahTwodotshorizontalabove-ar" format="2">
+  <advance width="1080"/>
+  <unicode hex="0770"/>
+  <anchor x="190" y="-256" name="bottom"/>
+  <anchor x="662" y="-195" name="center"/>
+  <anchor x="668" y="1001" name="top"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="twodotshorizontalabove_ar" xOffset="547" yOffset="263"/>
+    <component base="tahabove-ar" xOffset="517" yOffset="422"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

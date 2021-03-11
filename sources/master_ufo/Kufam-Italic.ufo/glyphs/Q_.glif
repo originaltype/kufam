@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="784"/>
+  <unicode hex="0051"/>
+  <note>
+Q
+</note>
+  <anchor x="339" y="0" name="bottom"/>
+  <anchor x="479" y="720" name="top"/>
+  <anchor x="409" y="360" name="center"/>
+  <anchor x="461" y="0" name="ogonek"/>
+  <anchor x="107" y="720" name="topleft"/>
+  <anchor x="552" y="720" name="topright"/>
+  <outline>
+    <contour>
+      <point x="520" y="84" type="line"/>
+      <point x="424" y="48" type="line"/>
+      <point x="628" y="-160" type="line"/>
+      <point x="760" y="-160" type="line"/>
+      <point x="760" y="-152" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>

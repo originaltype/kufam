@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMaksura-ar.init.h1" format="2">
+  <advance width="408.6"/>
+  <note>
+uni0649.init
+</note>
+  <anchor x="398.4" y="452.5" name="bottom"/>
+  <anchor x="275.0" y="395.0" name="ring"/>
+  <anchor x="246.2" y="697.7" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init.h1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

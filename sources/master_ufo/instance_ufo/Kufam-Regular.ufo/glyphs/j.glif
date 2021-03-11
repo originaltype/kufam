@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="284"/>
+  <unicode hex="006A"/>
+  <note>
+j
+</note>
+  <anchor x="142" y="-240" name="bottom"/>
+  <anchor x="142" y="544" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="_part.dot" xOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

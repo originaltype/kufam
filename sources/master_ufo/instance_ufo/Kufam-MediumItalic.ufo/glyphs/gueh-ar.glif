@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gueh-ar" format="2">
+  <advance width="1399.0"/>
+  <unicode hex="06B3"/>
+  <anchor x="1024.3333333333333" y="0.0" name="*entry"/>
+  <anchor x="799.1666666666666" y="-309.0" name="bottom"/>
+  <anchor x="372.0" y="388.3333333333333" name="kafbar"/>
+  <anchor x="731.5" y="610.6666666666666" name="ring"/>
+  <anchor x="372.8333333333333" y="581.1666666666666" name="top"/>
+  <outline>
+    <component base="gaf-ar"/>
+    <component base="twodotsverticalbelow_ar" xOffset="680.0" yOffset="-654.3333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <note>
+acute
+</note>
+  <anchor x="407" y="544" name="_top"/>
+  <anchor x="453" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="316" y="604" type="line"/>
+      <point x="396" y="604" type="line"/>
+      <point x="556" y="756" type="line"/>
+      <point x="556" y="760" type="line"/>
+      <point x="436" y="760" type="line"/>
+      <point x="316" y="608" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>612</integer>
+    </dict>
+  </lib>
+</glyph>

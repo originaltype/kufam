@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro.psc" format="2">
+  <advance width="526.4"/>
+  <note>
+Euro.scppf
+</note>
+  <outline>
+    <component base="euro.sc" xOffset="-12.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

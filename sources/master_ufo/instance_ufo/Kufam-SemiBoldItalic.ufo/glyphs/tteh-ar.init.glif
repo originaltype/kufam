@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tteh-ar.init" format="2">
+  <advance width="341.6"/>
+  <note>
+uni0679.init
+</note>
+  <anchor x="156.8" y="0.0" name="bottom"/>
+  <anchor x="126.0" y="0.0" name="ring"/>
+  <anchor x="183.2" y="854.0" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="tahabove-ar" xOffset="8.2" yOffset="271.0"/>
+  </outline>
+</glyph>

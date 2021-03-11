@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehbarreeThreeabove-ar" format="2">
+  <advance width="776.8333333333334"/>
+  <unicode hex="077B"/>
+  <anchor x="352.1666666666667" y="0.0" name="bottom"/>
+  <anchor x="181.16666666666666" y="707.8333333333334" name="top"/>
+  <outline>
+    <component base="yehbarree-ar"/>
+    <component base="threeabove-ar" xOffset="45.166666666666664" yOffset="101.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behTwodotsbelowDotabove-ar.medi" format="2">
+  <advance width="432"/>
+  <anchor x="323" y="0" name="*entry"/>
+  <anchor x="164" y="-271" name="bottom"/>
+  <anchor x="193" y="0" name="ring"/>
+  <anchor x="184" y="792" name="top"/>
+  <outline>
+    <component base="yeh-ar.medi"/>
+    <component base="dotabove_ar" xOffset="18" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

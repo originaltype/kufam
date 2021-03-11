@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="814"/>
+  <unicode hex="FB01"/>
+  <note>
+fi
+</note>
+  <anchor x="435" y="1" name="caret_1"/>
+  <outline>
+    <contour>
+      <point x="532" y="0" type="line"/>
+      <point x="744" y="0" type="line"/>
+      <point x="744" y="548" type="line"/>
+      <point x="532" y="548" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="620" type="curve" smooth="yes"/>
+      <point x="704" y="620"/>
+      <point x="748" y="656"/>
+      <point x="748" y="724" type="curve" smooth="yes"/>
+      <point x="748" y="792"/>
+      <point x="704" y="828"/>
+      <point x="640" y="828" type="curve" smooth="yes"/>
+      <point x="576" y="828"/>
+      <point x="532" y="792"/>
+      <point x="532" y="724" type="curve" smooth="yes"/>
+      <point x="532" y="656"/>
+      <point x="576" y="620"/>
+    </contour>
+    <component base="_part.f.liga"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_horizontalbar-ar" format="2">
+  <advance width="432"/>
+  <anchor x="138" y="147" name="_verticalbar"/>
+  <outline>
+    <contour>
+      <point x="138" y="147" type="curve"/>
+      <point x="325" y="90" type="line"/>
+      <point x="325" y="760" type="line"/>
+      <point x="313" y="760" type="line"/>
+      <point x="113" y="740" type="line"/>
+      <point x="113" y="264" type="line" smooth="yes"/>
+      <point x="113" y="203"/>
+      <point x="118" y="161"/>
+    </contour>
+  </outline>
+</glyph>

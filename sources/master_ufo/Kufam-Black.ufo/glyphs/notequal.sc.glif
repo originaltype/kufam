@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.sc" format="2">
+  <advance width="568"/>
+  <note>
+notequal.sc
+</note>
+  <outline>
+    <contour>
+      <point x="96" y="16" type="line"/>
+      <point x="196" y="16" type="line"/>
+      <point x="472" y="560" type="line"/>
+      <point x="372" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="112" type="line"/>
+      <point x="508" y="112" type="line"/>
+      <point x="508" y="240" type="line"/>
+      <point x="60" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="336" type="line"/>
+      <point x="508" y="336" type="line"/>
+      <point x="508" y="464" type="line"/>
+      <point x="60" y="464" type="line"/>
+    </contour>
+  </outline>
+</glyph>

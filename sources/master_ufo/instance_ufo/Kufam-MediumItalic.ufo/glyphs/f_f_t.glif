@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_t" format="2">
+  <advance width="1093.3333333333333"/>
+  <note>
+f_f_t
+</note>
+  <anchor x="342.0" y="0.0" name="caret_1"/>
+  <anchor x="682.3333333333334" y="0.0" name="caret_2"/>
+  <anchor x="834.1666666666666" y="0.0" name="bottom"/>
+  <anchor x="866.6666666666666" y="279.0" name="center"/>
+  <anchor x="919.3333333333334" y="690.0" name="top"/>
+  <anchor x="1087.6666666666667" y="576.0" name="topright"/>
+  <outline>
+    <component base="_part.f.liga"/>
+    <component base="f_t" xOffset="336.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.f.liga</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

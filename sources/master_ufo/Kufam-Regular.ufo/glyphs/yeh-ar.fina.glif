@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh-ar.fina" format="2">
+  <advance width="751"/>
+  <note>
+uni064A.fina
+</note>
+  <anchor x="181" y="-264" name="bottom"/>
+  <anchor x="137" y="50" name="center"/>
+  <anchor x="181" y="-264" name="ring"/>
+  <anchor x="116" y="185" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="twodotsverticalabove_ar" xOffset="37" yOffset="-445"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ng-ar.fina" format="2">
+  <advance width="1228.1666666666667"/>
+  <unicode hex="FBD4"/>
+  <anchor x="896.0" y="0.0" name="*entry"/>
+  <anchor x="896.0" y="0.0" name="*exit"/>
+  <anchor x="554.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="553.3333333333334" y="923.0" name="top"/>
+  <outline>
+    <component base="kaf-ar.fina"/>
+    <component base="threedotsupabove_ar" xOffset="450.8333333333333" yOffset="377.1666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

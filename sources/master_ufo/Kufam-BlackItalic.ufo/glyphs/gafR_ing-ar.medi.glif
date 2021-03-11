@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gafRing-ar.medi" format="2">
+  <advance width="1234"/>
+  <anchor x="509" y="0" name="bottom"/>
+  <anchor x="65" y="420" name="kafbar"/>
+  <anchor x="577" y="664" name="ring"/>
+  <anchor x="100" y="577" name="top"/>
+  <outline>
+    <component base="kaf-ar.medi"/>
+    <component base="_kafbar-ar" xOffset="43" yOffset="-93"/>
+    <component base="ring_ar" xOffset="415" yOffset="777"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

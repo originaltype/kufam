@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheh-ar.fina" format="2">
+  <advance width="755.3"/>
+  <note>
+uni0686.fina
+</note>
+  <anchor x="331.0" y="-256.0" name="bottom"/>
+  <anchor x="514.7" y="-172.3" name="center"/>
+  <anchor x="545.2" y="409.9" name="top"/>
+  <outline>
+    <component base="hah-ar.fina.short"/>
+    <component base="threedotsdowncenter-ar" xOffset="284.1" yOffset="-319.5"/>
+  </outline>
+</glyph>

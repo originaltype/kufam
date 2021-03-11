@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nineinferior" format="2">
+  <advance width="397.4"/>
+  <unicode hex="2089"/>
+  <note>
+uni2089
+</note>
+  <outline>
+    <contour>
+      <point x="69.4" y="-74.0" type="line"/>
+      <point x="69.4" y="-160.4" type="line"/>
+      <point x="88.0" y="-165.6"/>
+      <point x="111.4" y="-168.0"/>
+      <point x="139.2" y="-168.0" type="curve" smooth="yes"/>
+      <point x="304.4" y="-168.0"/>
+      <point x="364.2" y="-68.6"/>
+      <point x="364.2" y="50.0" type="curve" smooth="yes"/>
+      <point x="364.2" y="157.0"/>
+      <point x="331.6" y="248.0"/>
+      <point x="192.2" y="248.0" type="curve" smooth="yes"/>
+      <point x="96.8" y="248.0"/>
+      <point x="32.4" y="198.2"/>
+      <point x="32.4" y="106.2" type="curve" smooth="yes"/>
+      <point x="32.4" y="34.4"/>
+      <point x="75.8" y="-20.4"/>
+      <point x="170.8" y="-20.4" type="curve" smooth="yes"/>
+      <point x="210.2" y="-20.4"/>
+      <point x="234.8" y="-10.4"/>
+      <point x="251.4" y="-1.200000000000001" type="curve"/>
+      <point x="243.6" y="-50.0"/>
+      <point x="215.8" y="-84.2"/>
+      <point x="143.4" y="-84.2" type="curve" smooth="yes"/>
+      <point x="112.6" y="-84.2"/>
+      <point x="91.0" y="-79.2"/>
+      <point x="77.0" y="-74.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="193.4" y="168.0" type="curve" smooth="yes"/>
+      <point x="238.8" y="168.0"/>
+      <point x="252.6" y="133.8"/>
+      <point x="254.4" y="73.2" type="curve"/>
+      <point x="242.0" y="61.6"/>
+      <point x="222.6" y="53.4"/>
+      <point x="196.4" y="53.4" type="curve" smooth="yes"/>
+      <point x="151.8" y="53.4"/>
+      <point x="137.4" y="77.6"/>
+      <point x="137.4" y="111.0" type="curve" smooth="yes"/>
+      <point x="137.4" y="143.0"/>
+      <point x="154.0" y="168.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

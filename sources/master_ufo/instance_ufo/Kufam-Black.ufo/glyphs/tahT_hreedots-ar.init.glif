@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tahThreedots-ar.init" format="2">
+  <advance width="1232"/>
+  <anchor x="968" y="0" name="*entry_1"/>
+  <anchor x="325" y="0" name="*entry_2"/>
+  <anchor x="325" y="0" name="*exit"/>
+  <anchor x="222" y="424" name="bar"/>
+  <anchor x="644" y="0" name="bottom"/>
+  <anchor x="641" y="488" name="top_1"/>
+  <anchor x="224" y="760" name="top_2"/>
+  <anchor x="134" y="147" name="verticalbar"/>
+  <outline>
+    <component base="_loop-ar" xOffset="292"/>
+    <component base="threedotsupabove_ar" xOffset="533" yOffset="234"/>
+    <component base="_tahbarMEDI"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

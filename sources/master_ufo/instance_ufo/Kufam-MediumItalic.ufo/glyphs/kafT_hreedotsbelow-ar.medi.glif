@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafThreedotsbelow-ar.medi" format="2">
+  <advance width="1257.3333333333333"/>
+  <anchor x="511.5" y="-315.3333333333333" name="bottom"/>
+  <anchor x="84.16666666666667" y="388.3333333333333" name="kafbar"/>
+  <anchor x="440.3333333333333" y="610.6666666666666" name="ring"/>
+  <anchor x="101.66666666666667" y="562.8333333333334" name="top"/>
+  <outline>
+    <component base="kaf-ar.medi"/>
+    <component base="threedotsdownbelow_ar" xOffset="262.5" yOffset="-2.6666666666666665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

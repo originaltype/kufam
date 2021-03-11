@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tsc.zero" format="2">
+  <advance width="568.0"/>
+  <outline>
+    <contour>
+      <point x="399.6" y="419.6" type="line"/>
+      <point x="361.5" y="525.9" type="line"/>
+      <point x="179.6" y="154.5" type="line"/>
+      <point x="217.0" y="46.1" type="line"/>
+    </contour>
+    <component base="zero.tsc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

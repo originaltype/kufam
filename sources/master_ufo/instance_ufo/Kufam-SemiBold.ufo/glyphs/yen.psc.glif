@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.psc" format="2">
+  <advance width="529.6"/>
+  <note>
+yen.scppf
+</note>
+  <outline>
+    <component base="yen.sc" xOffset="-19.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kasratan-ar" format="2">
+  <unicode hex="064D"/>
+  <note>
+uni064D
+</note>
+  <anchor x="191.6" y="-12.8" name="_bottom"/>
+  <anchor x="191.6" y="-283.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="54.4" y="-323.8" type="line"/>
+      <point x="64.0" y="-323.8" type="line"/>
+      <point x="320.8" y="-240.2" type="line"/>
+      <point x="320.8" y="-178.2" type="line"/>
+      <point x="311.2" y="-178.2" type="line"/>
+      <point x="54.4" y="-261.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="54.4" y="-217.2" type="line"/>
+      <point x="64.0" y="-217.2" type="line"/>
+      <point x="320.8" y="-133.6" type="line"/>
+      <point x="320.8" y="-71.6" type="line"/>
+      <point x="311.2" y="-71.6" type="line"/>
+      <point x="54.4" y="-155.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>350</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

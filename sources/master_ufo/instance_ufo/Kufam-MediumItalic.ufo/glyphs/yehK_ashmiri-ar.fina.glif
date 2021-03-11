@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehKashmiri-ar.fina" format="2">
+  <advance width="766.1666666666666"/>
+  <anchor x="191.16666666666666" y="-264.0" name="bottom"/>
+  <anchor x="131.16666666666666" y="71.0" name="center"/>
+  <anchor x="191.16666666666666" y="-264.0" name="ring"/>
+  <anchor x="61.166666666666664" y="237.5" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="ring_ar" xOffset="29.166666666666664" yOffset="-163.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

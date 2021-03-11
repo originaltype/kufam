@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dadDotbelow-ar.fina" format="2">
+  <advance width="1461.4"/>
+  <anchor x="1141.5" y="0.0" name="*entry_1"/>
+  <anchor x="497.9" y="0.0" name="*entry_2"/>
+  <anchor x="1141.5" y="0.0" name="*exit_1"/>
+  <anchor x="497.9" y="0.0" name="*exit_2"/>
+  <anchor x="823.8" y="0.0" name="bottom_1"/>
+  <anchor x="195.6" y="-260.0" name="bottom_2"/>
+  <anchor x="821.4" y="463.1" name="top_1"/>
+  <anchor x="119.3" y="56.0" name="top_2"/>
+  <anchor x="390.0" y="155.7" name="verticalbar"/>
+  <outline>
+    <component base="_baseline2" xOffset="1141.5"/>
+    <component base="_loopconn-ar" xOffset="456.8"/>
+    <component base="dotbelow_ar" xOffset="637.8" yOffset="-343.0"/>
+    <component base="dotabove_ar" xOffset="611.4" yOffset="-105.0"/>
+    <component base="_part.bowl-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

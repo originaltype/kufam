@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen.sc" format="2">
+  <advance width="494.6666666666667"/>
+  <note>
+hyphen.sc
+</note>
+  <outline>
+    <contour>
+      <point x="75.33333333333333" y="344.0" type="line"/>
+      <point x="75.33333333333333" y="245.0" type="line"/>
+      <point x="419.3333333333333" y="245.0" type="line"/>
+      <point x="419.3333333333333" y="344.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

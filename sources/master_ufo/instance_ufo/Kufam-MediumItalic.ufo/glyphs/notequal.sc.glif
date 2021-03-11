@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.sc" format="2">
+  <advance width="568.0"/>
+  <note>
+notequal.sc
+</note>
+  <outline>
+    <contour>
+      <point x="78.0" y="434.0" type="line"/>
+      <point x="78.0" y="346.0" type="line"/>
+      <point x="280.1666666666667" y="346.0" type="line"/>
+      <point x="217.0" y="230.0" type="line"/>
+      <point x="78.0" y="230.0" type="line"/>
+      <point x="78.0" y="142.0" type="line"/>
+      <point x="169.5" y="142.0" type="line"/>
+      <point x="110.66666666666667" y="32.666666666666664" type="line"/>
+      <point x="197.33333333333334" y="32.666666666666664" type="line"/>
+      <point x="256.1666666666667" y="142.0" type="line"/>
+      <point x="506.0" y="142.0" type="line"/>
+      <point x="506.0" y="230.0" type="line"/>
+      <point x="303.6666666666667" y="230.0" type="line"/>
+      <point x="366.8333333333333" y="346.0" type="line"/>
+      <point x="506.0" y="346.0" type="line"/>
+      <point x="506.0" y="434.0" type="line"/>
+      <point x="413.5" y="434.0" type="line"/>
+      <point x="473.3333333333333" y="543.3333333333334" type="line"/>
+      <point x="386.6666666666667" y="543.3333333333334" type="line"/>
+      <point x="326.8333333333333" y="434.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

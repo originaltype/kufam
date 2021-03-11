@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="feh-ar" format="2">
+  <advance width="1208.6666666666667"/>
+  <unicode hex="0641"/>
+  <note>
+uni0641
+</note>
+  <anchor x="551.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="906.6666666666666" y="734.8333333333334" name="top"/>
+  <outline>
+    <component base="fehDotless-ar"/>
+    <component base="dotabove_ar" xOffset="657.3333333333334" yOffset="-20.0"/>
+  </outline>
+</glyph>

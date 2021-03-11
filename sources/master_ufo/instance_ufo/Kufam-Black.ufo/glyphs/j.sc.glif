@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.sc" format="2">
+  <advance width="440"/>
+  <note>
+j.sc
+</note>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="280" y="572" name="top"/>
+  <outline>
+    <contour>
+      <point x="28" y="156" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="53" y="-7"/>
+      <point x="92" y="-12"/>
+      <point x="128" y="-12" type="curve" smooth="yes"/>
+      <point x="265" y="-12"/>
+      <point x="384" y="39"/>
+      <point x="384" y="200" type="curve" smooth="yes"/>
+      <point x="384" y="572" type="line"/>
+      <point x="176" y="572" type="line"/>
+      <point x="176" y="220" type="line" smooth="yes"/>
+      <point x="176" y="164"/>
+      <point x="147" y="144"/>
+      <point x="96" y="144" type="curve" smooth="yes"/>
+      <point x="76" y="144"/>
+      <point x="58" y="149"/>
+      <point x="40" y="156" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kehehThreedotsupbelow-ar" format="2">
+  <advance width="1408.6"/>
+  <unicode hex="0764"/>
+  <anchor x="993.4" y="0.0" name="*entry"/>
+  <anchor x="825.4" y="-327.7" name="bottom"/>
+  <anchor x="320.8" y="408.6" name="kafbar"/>
+  <anchor x="777.9" y="644.8" name="ring"/>
+  <anchor x="279.5" y="648.9" name="top"/>
+  <outline>
+    <component base="keheh-ar"/>
+    <component base="threedotsupbelow_ar" xOffset="622.9" yOffset="57.800000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

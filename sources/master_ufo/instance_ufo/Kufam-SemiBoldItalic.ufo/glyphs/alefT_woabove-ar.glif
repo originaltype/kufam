@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefTwoabove-ar" format="2">
+  <advance width="312.8"/>
+  <unicode hex="0773"/>
+  <anchor x="226.4" y="0.0" name="*entry"/>
+  <anchor x="157.4" y="0.0" name="bottom"/>
+  <anchor x="175.0" y="982.6" name="top"/>
+  <outline>
+    <component base="alef-ar.short"/>
+    <component base="twoabove-ar" xOffset="55.4" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

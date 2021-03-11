@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peh-ar" format="2">
+  <advance width="1128.0"/>
+  <unicode hex="067E"/>
+  <note>
+uni067E
+</note>
+  <anchor x="864.8" y="0.0" name="*entry"/>
+  <anchor x="555.8" y="-351.6" name="bottom"/>
+  <anchor x="552.8" y="0.0" name="ring"/>
+  <anchor x="556.5" y="373.1" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="threedotsdownbelow_ar" xOffset="345.2" yOffset="-11.2"/>
+  </outline>
+</glyph>

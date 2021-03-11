@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae-ar.fina" format="2">
+  <advance width="642"/>
+  <note>
+uni06D5.fina
+</note>
+  <anchor x="358" y="0" name="bottom"/>
+  <anchor x="371" y="390" name="top"/>
+  <outline>
+    <component base="hehgoal-ar.fina"/>
+  </outline>
+</glyph>

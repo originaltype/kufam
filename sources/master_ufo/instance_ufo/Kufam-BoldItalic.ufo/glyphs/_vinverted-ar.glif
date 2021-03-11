@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_vinverted-ar" format="2">
+  <advance width="234.7"/>
+  <outline>
+    <contour>
+      <point x="169.9" y="148.7" type="line"/>
+      <point x="267.5" y="148.7" type="line"/>
+      <point x="267.5" y="152.7" type="line"/>
+      <point x="180.7" y="304.7" type="line"/>
+      <point x="68.3" y="304.7" type="line"/>
+      <point x="-26.5" y="152.7" type="line"/>
+      <point x="-26.5" y="148.7" type="line"/>
+      <point x="68.3" y="148.7" type="line"/>
+      <point x="122.1" y="233.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

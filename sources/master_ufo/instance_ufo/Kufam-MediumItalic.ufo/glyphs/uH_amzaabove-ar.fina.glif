@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uHamzaabove-ar.fina" format="2">
+  <advance width="651.6666666666666"/>
+  <anchor x="608.0" y="-77.0" name="bar"/>
+  <anchor x="257.3333333333333" y="-260.1666666666667" name="bottom"/>
+  <anchor x="52.0" y="-26.666666666666668" name="center"/>
+  <anchor x="436.5" y="484.8333333333333" name="high"/>
+  <anchor x="257.3333333333333" y="-260.1666666666667" name="ring"/>
+  <anchor x="185.66666666666666" y="795.0" name="top"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="hamzahigh-ar" xOffset="318.5" yOffset="514.8333333333334"/>
+    <component base="dammahigh-ar" xOffset="-40.0" yOffset="88.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

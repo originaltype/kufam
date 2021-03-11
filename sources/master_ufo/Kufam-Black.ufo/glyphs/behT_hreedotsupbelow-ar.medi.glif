@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behThreedotsupbelow-ar.medi" format="2">
+  <advance width="432"/>
+  <anchor x="323" y="0" name="*entry"/>
+  <anchor x="291" y="-346" name="bottom"/>
+  <anchor x="193" y="0" name="ring"/>
+  <anchor x="204" y="584" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="threedotsupbelow_ar" xOffset="117" yOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

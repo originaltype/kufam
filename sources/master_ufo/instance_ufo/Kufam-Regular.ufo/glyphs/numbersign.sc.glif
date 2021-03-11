@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.sc" format="2">
+  <advance width="568"/>
+  <note>
+numbersign.sc
+</note>
+  <outline>
+    <contour>
+      <point x="304" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="484" y="572" type="line"/>
+      <point x="408" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="264" y="572" type="line"/>
+      <point x="188" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="160" type="line"/>
+      <point x="516" y="160" type="line"/>
+      <point x="516" y="232" type="line"/>
+      <point x="36" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="340" type="line"/>
+      <point x="536" y="340" type="line"/>
+      <point x="536" y="412" type="line"/>
+      <point x="56" y="412" type="line"/>
+    </contour>
+  </outline>
+</glyph>

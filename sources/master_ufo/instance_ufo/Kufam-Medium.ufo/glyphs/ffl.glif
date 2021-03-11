@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ffl" format="2">
+  <advance width="1003.3333333333334"/>
+  <unicode hex="FB04"/>
+  <anchor x="856.0" y="0.0" name="bottom"/>
+  <anchor x="866.0" y="388.3333333333333" name="center"/>
+  <anchor x="1054.0" y="359.3333333333333" name="periodCAT"/>
+  <anchor x="856.0" y="760.0" name="top"/>
+  <anchor x="1013.6666666666666" y="544.6666666666666" name="topright"/>
+  <outline>
+    <component base="_part.f.liga"/>
+    <component base="_part.f.short" xOffset="351.3333333333333"/>
+    <component base="l" xOffset="708.6666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.f.liga</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.f.short</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
+</glyph>

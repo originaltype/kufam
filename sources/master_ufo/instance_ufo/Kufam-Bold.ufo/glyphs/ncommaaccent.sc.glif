@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncommaaccent.sc" format="2">
+  <advance width="696.0"/>
+  <note>
+ncommaaccent.sc
+</note>
+  <anchor x="348.0" y="-252.8" name="bottom"/>
+  <anchor x="348.0" y="572.0" name="top"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="commaaccentcomb" xOffset="21.0"/>
+  </outline>
+</glyph>

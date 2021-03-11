@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTail-ar" format="2">
+  <advance width="709.4"/>
+  <unicode hex="06CD"/>
+  <anchor x="195.0" y="-264.0" name="bottom"/>
+  <anchor x="107.6" y="105.2" name="center"/>
+  <anchor x="511.8" y="479.2" name="high"/>
+  <anchor x="195.0" y="-264.0" name="ring"/>
+  <anchor x="25.8" y="-90.8" name="tail"/>
+  <anchor x="61.4" y="262.0" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="_part.bar-ar" xScale="0.24941000000000002" xyScale="0.968382" yxScale="-0.968382" yScale="0.24941000000000002" xOffset="394.8" yOffset="-262.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.bar-ar</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

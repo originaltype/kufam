@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheh-ar.init" format="2">
+  <advance width="745.6666666666666"/>
+  <note>
+uni0686.init
+</note>
+  <anchor x="275.3333333333333" y="-316.1666666666667" name="bottom"/>
+  <anchor x="475.3333333333333" y="363.5" name="top"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="threedotsdownbelow_ar" xOffset="26.333333333333332" yOffset="-3.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

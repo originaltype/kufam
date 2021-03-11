@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.inferior" format="2">
+  <advance width="398"/>
+  <note>
+equal.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="41" y="167" type="line"/>
+      <point x="41" y="74" type="line"/>
+      <point x="357" y="74" type="line"/>
+      <point x="357" y="167" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="8" type="line"/>
+      <point x="41" y="-85" type="line"/>
+      <point x="357" y="-85" type="line"/>
+      <point x="357" y="8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

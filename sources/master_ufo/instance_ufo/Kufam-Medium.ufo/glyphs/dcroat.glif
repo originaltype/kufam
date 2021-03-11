@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="629.0"/>
+  <unicode hex="0111"/>
+  <note>
+dcroat
+</note>
+  <anchor x="314.5" y="0.0" name="bottom"/>
+  <anchor x="455.6666666666667" y="655.0" name="center"/>
+  <anchor x="314.5" y="760.0" name="top"/>
+  <anchor x="659.3333333333334" y="544.6666666666666" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="strokeshortcomb" xOffset="144.66666666666666" yOffset="376.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
+</glyph>

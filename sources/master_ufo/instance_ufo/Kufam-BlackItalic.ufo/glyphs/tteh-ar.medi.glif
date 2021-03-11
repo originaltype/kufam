@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tteh-ar.medi" format="2">
+  <advance width="432"/>
+  <note>
+uni0679.medi
+</note>
+  <anchor x="323" y="0" name="*entry"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="193" y="0" name="ring"/>
+  <anchor x="297" y="884" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="tahabove-ar" xOffset="86" yOffset="295"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>behDotless-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tahabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

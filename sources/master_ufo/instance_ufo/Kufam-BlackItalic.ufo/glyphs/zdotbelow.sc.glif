@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotbelow.sc" format="2">
+  <advance width="604"/>
+  <note>
+uni1E92.sc
+</note>
+  <anchor x="205" y="-212" name="bottom"/>
+  <anchor x="358" y="572" name="top"/>
+  <outline>
+    <component base="z.sc"/>
+    <component base="dotbelowcomb" xOffset="-37"/>
+  </outline>
+</glyph>

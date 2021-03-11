@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.sc" format="2">
+  <advance width="516"/>
+  <note>
+tbar.sc
+</note>
+  <anchor x="258" y="0" name="bottom"/>
+  <anchor x="258" y="286" name="center"/>
+  <anchor x="258" y="572" name="top"/>
+  <outline>
+    <contour>
+      <point x="68" y="248" type="line"/>
+      <point x="448" y="248" type="line"/>
+      <point x="448" y="320" type="line"/>
+      <point x="68" y="320" type="line"/>
+    </contour>
+    <component base="t.sc"/>
+  </outline>
+</glyph>

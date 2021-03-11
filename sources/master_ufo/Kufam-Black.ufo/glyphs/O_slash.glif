@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="832"/>
+  <unicode hex="00D8"/>
+  <note>
+Oslash
+</note>
+  <anchor x="416" y="0" name="bottom"/>
+  <anchor x="416" y="360" name="center"/>
+  <anchor x="498" y="10" name="ogonek"/>
+  <anchor x="416" y="720" name="top"/>
+  <anchor x="20" y="720" name="topleft"/>
+  <anchor x="525" y="720" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="slashlongcomb.case" xOffset="80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

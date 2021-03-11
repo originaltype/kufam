@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_tahbarfinal-ar" format="2">
+  <advance width="553"/>
+  <note>
+uni066E.medi
+</note>
+  <anchor x="433" y="0" name="*entry"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="553" y="20" type="line"/>
+      <point x="553" y="176" type="line"/>
+      <point x="343" y="176" type="line"/>
+      <point x="429" y="90" type="line"/>
+      <point x="429" y="760" type="line"/>
+      <point x="417" y="760" type="line"/>
+      <point x="217" y="740" type="line"/>
+      <point x="217" y="264" type="line" smooth="yes"/>
+      <point x="217" y="203"/>
+      <point x="222" y="161"/>
+      <point x="242" y="147" type="curve"/>
+      <point x="311" y="176" type="line"/>
+      <point x="62" y="176" type="line"/>
+      <point x="0" y="12" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sukun-ar" format="2">
+  <unicode hex="0652"/>
+  <note>
+uni0652
+</note>
+  <anchor x="191.6" y="526.3" name="_top"/>
+  <anchor x="191.6" y="820.1" name="top"/>
+  <outline>
+    <contour>
+      <point x="189.8" y="611.1" type="curve" smooth="yes"/>
+      <point x="258.1" y="611.1"/>
+      <point x="310.0" y="669.7"/>
+      <point x="310.0" y="733.0" type="curve" smooth="yes"/>
+      <point x="310.0" y="806.4"/>
+      <point x="256.1" y="851.2"/>
+      <point x="201.9" y="851.2" type="curve" smooth="yes"/>
+      <point x="129.5" y="851.2"/>
+      <point x="74.6" y="789.9"/>
+      <point x="74.6" y="721.2" type="curve" smooth="yes"/>
+      <point x="74.6" y="663.3"/>
+      <point x="117.4" y="611.1"/>
+    </contour>
+    <contour>
+      <point x="191.8" y="675.8" type="curve" smooth="yes"/>
+      <point x="167.0" y="675.8"/>
+      <point x="147.9" y="696.2"/>
+      <point x="147.9" y="724.0" type="curve" smooth="yes"/>
+      <point x="147.9" y="761.4"/>
+      <point x="186.6" y="813.7"/>
+      <point x="255.4" y="791.4" type="curve"/>
+      <point x="201.5" y="822.8" type="line"/>
+      <point x="148.2" y="803.7" type="line"/>
+      <point x="203.5" y="806.4"/>
+      <point x="237.2" y="746.7"/>
+      <point x="243.0" y="706.3" type="curve"/>
+      <point x="228.3" y="687.2"/>
+      <point x="211.1" y="675.8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>350</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddal-ar.fina.001" format="2">
+  <advance width="812.1666666666666"/>
+  <anchor x="480.0" y="0.0" name="*entry"/>
+  <anchor x="480.0" y="0.0" name="*exit"/>
+  <anchor x="347.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="334.3333333333333" y="0.0" name="ring"/>
+  <anchor x="389.0" y="772.1666666666666" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="tahabove-ar" xOffset="228.0" yOffset="191.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

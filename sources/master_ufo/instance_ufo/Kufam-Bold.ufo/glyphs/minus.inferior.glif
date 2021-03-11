@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus.inferior" format="2">
+  <advance width="398.0"/>
+  <note>
+minus.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="43.4" y="83.5" type="line"/>
+      <point x="43.4" y="-1.5" type="line"/>
+      <point x="354.6" y="-1.5" type="line"/>
+      <point x="354.6" y="83.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

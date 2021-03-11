@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alefHamzabelow-ar" format="2">
+  <advance width="632"/>
+  <note>
+uni06440625
+</note>
+  <anchor x="518" y="0" name="bottom_1"/>
+  <anchor x="161" y="-308" name="bottom_2"/>
+  <anchor x="535" y="760" name="top_1"/>
+  <anchor x="98" y="760" name="top_2"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="hamzabelow-ar" xOffset="-4" yOffset="-335"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom_2</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzabelow-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

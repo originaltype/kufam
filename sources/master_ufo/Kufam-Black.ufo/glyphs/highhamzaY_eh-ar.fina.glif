@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="highhamzaYeh-ar.fina" format="2">
+  <advance width="1128"/>
+  <anchor x="242" y="-264" name="bottom"/>
+  <anchor x="102" y="176" name="center"/>
+  <anchor x="242" y="-264" name="ring"/>
+  <anchor x="62" y="325" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="hamzahigh-ar" xOffset="-63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzahigh-ar</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

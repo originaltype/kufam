@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve.sc" format="2">
+  <advance width="634.4"/>
+  <note>
+aacute.sc
+</note>
+  <anchor x="261.2" y="0.0" name="bottom"/>
+  <anchor x="500.8" y="0.0" name="ogonek"/>
+  <anchor x="445.2" y="786.4" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="brevecomb" xOffset="15.4" yOffset="26.4"/>
+  </outline>
+</glyph>

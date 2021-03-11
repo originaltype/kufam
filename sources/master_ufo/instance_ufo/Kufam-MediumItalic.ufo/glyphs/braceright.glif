@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="391.1666666666667"/>
+  <unicode hex="007D"/>
+  <note>
+braceright
+</note>
+  <outline>
+    <contour>
+      <point x="-51.5" y="-88.0" type="line"/>
+      <point x="38.166666666666664" y="-88.0" type="line" smooth="yes"/>
+      <point x="143.0" y="-88.0"/>
+      <point x="199.5" y="-34.0"/>
+      <point x="219.5" y="67.33333333333333" type="curve" smooth="yes"/>
+      <point x="248.83333333333334" y="214.0" type="line" smooth="yes"/>
+      <point x="256.8333333333333" y="254.0"/>
+      <point x="280.8333333333333" y="286.0"/>
+      <point x="328.8333333333333" y="286.0" type="curve" smooth="yes"/>
+      <point x="376.0" y="286.0" type="line"/>
+      <point x="395.5" y="386.0" type="line"/>
+      <point x="347.5" y="386.0" type="line" smooth="yes"/>
+      <point x="296.5" y="386.0"/>
+      <point x="287.8333333333333" y="418.0"/>
+      <point x="295.5" y="458.0" type="curve" smooth="yes"/>
+      <point x="324.8333333333333" y="604.6666666666666" type="line" smooth="yes"/>
+      <point x="344.0" y="702.8333333333334"/>
+      <point x="301.3333333333333" y="760.0"/>
+      <point x="195.5" y="760.0" type="curve" smooth="yes"/>
+      <point x="116.16666666666667" y="760.0" type="line"/>
+      <point x="99.5" y="672.6666666666666" type="line"/>
+      <point x="173.5" y="672.6666666666666" type="line" smooth="yes"/>
+      <point x="213.5" y="672.6666666666666"/>
+      <point x="230.33333333333334" y="651.5"/>
+      <point x="222.16666666666666" y="608.0" type="curve" smooth="yes"/>
+      <point x="192.83333333333334" y="458.0" type="line" smooth="yes"/>
+      <point x="179.16666666666666" y="387.3333333333333"/>
+      <point x="210.16666666666666" y="346.0"/>
+      <point x="264.1666666666667" y="336.0" type="curve"/>
+      <point x="207.0" y="326.5"/>
+      <point x="158.16666666666666" y="286.0"/>
+      <point x="144.16666666666666" y="214.0" type="curve" smooth="yes"/>
+      <point x="116.5" y="70.66666666666667" type="line" smooth="yes"/>
+      <point x="106.5" y="19.333333333333332"/>
+      <point x="83.0" y="-0.6666666666666679"/>
+      <point x="42.166666666666664" y="-0.6666666666666679" type="curve" smooth="yes"/>
+      <point x="-33.166666666666664" y="-0.6666666666666679" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|braceleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|braceleft</string>
+    </dict>
+  </lib>
+</glyph>

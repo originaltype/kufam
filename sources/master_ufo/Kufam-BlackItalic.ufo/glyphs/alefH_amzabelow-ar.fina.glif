@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefHamzabelow-ar.fina" format="2">
+  <advance width="406"/>
+  <note>
+uni0625.fina
+</note>
+  <anchor x="284" y="0" name="*entry"/>
+  <anchor x="284" y="0" name="*exit"/>
+  <anchor x="176" y="-308" name="bottom"/>
+  <anchor x="176" y="798" name="top"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="hamzabelow-ar" xOffset="11" yOffset="-335"/>
+  </outline>
+</glyph>

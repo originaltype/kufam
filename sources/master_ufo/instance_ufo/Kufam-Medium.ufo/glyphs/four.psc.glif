@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.psc" format="2">
+  <advance width="561.3333333333334"/>
+  <note>
+four.scppf
+</note>
+  <outline>
+    <component base="four.tsc" xOffset="-7.333333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

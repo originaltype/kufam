@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fatha-ar" format="2">
+  <unicode hex="064E"/>
+  <note>
+uni064E
+</note>
+  <anchor x="199.2" y="516.2" name="_top"/>
+  <anchor x="189.2" y="714.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="63.7" y="601.7" type="line"/>
+      <point x="74.5" y="601.7" type="line"/>
+      <point x="330.4" y="685.0" type="line"/>
+      <point x="330.4" y="751.5" type="line"/>
+      <point x="319.6" y="751.5" type="line"/>
+      <point x="63.7" y="668.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>350</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

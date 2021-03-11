@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth.sc" format="2">
+  <advance width="680.4"/>
+  <note>
+eth.sc
+</note>
+  <anchor x="284.2" y="0.0" name="bottom"/>
+  <anchor x="171.8" y="287.2" name="center"/>
+  <anchor x="396.2" y="572.0" name="top"/>
+  <outline>
+    <component base="d.sc"/>
+    <component base="strokeshortcomb.sc" xOffset="-95.0"/>
+  </outline>
+</glyph>

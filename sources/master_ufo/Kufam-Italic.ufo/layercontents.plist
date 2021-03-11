@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>new Layer</string>
+      <string>glyphs.new L_ayer</string>
+    </array>
+    <array>
+      <string>right</string>
+      <string>glyphs.right</string>
+    </array>
+    <array>
+      <string>left</string>
+      <string>glyphs.left</string>
+    </array>
+    <array>
+      <string>right #1</string>
+      <string>glyphs.right #1</string>
+    </array>
+    <array>
+      <string>left #1</string>
+      <string>glyphs.left #1</string>
+    </array>
+    <array>
+      <string>thickness</string>
+      <string>glyphs.thickness</string>
+    </array>
+    <array>
+      <string>Cut</string>
+      <string>glyphs.C_ut</string>
+    </array>
+    <array>
+      <string>Cut #1</string>
+      <string>glyphs.C_ut #1</string>
+    </array>
+    <array>
+      <string>Shorter</string>
+      <string>glyphs.S_horter</string>
+    </array>
+    <array>
+      <string>Shorter #1</string>
+      <string>glyphs.S_horter #1</string>
+    </array>
+    <array>
+      <string>Short</string>
+      <string>glyphs.S_hort</string>
+    </array>
+    <array>
+      <string>Bold</string>
+      <string>glyphs.B_old</string>
+    </array>
+    <array>
+      <string>Bold.background</string>
+      <string>glyphs.B_old.background</string>
+    </array>
+  </array>
+</plist>

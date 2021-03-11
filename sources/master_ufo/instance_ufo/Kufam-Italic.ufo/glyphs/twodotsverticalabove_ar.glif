@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotsverticalabove_ar" format="2">
+  <advance width="400"/>
+  <note>
+uniFBBD
+</note>
+  <anchor x="100" y="495" name="_center"/>
+  <anchor x="101" y="322" name="_top"/>
+  <anchor x="79" y="630" name="top"/>
+  <outline>
+    <component base="__twodotsvertical"/>
+  </outline>
+</glyph>

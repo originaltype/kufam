@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kirghizoe-ar" format="2">
+  <advance width="616"/>
+  <unicode hex="06C5"/>
+  <guideline x="40" y="-217" angle="90"/>
+  <anchor x="601" y="-76" name="bar"/>
+  <anchor x="252" y="-260" name="bottom"/>
+  <anchor x="64" y="-32" name="center"/>
+  <anchor x="430" y="476" name="high"/>
+  <anchor x="252" y="-260" name="ring"/>
+  <anchor x="296" y="476" name="top"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="_part.bar-ar" xOffset="280" yOffset="-470"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict/>
+        <dict>
+          <key>Left</key>
+          <integer>125</integer>
+          <key>Right</key>
+          <integer>-70</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

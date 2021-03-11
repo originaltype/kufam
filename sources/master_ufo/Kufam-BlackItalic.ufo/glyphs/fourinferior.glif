@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourinferior" format="2">
+  <advance width="397"/>
+  <unicode hex="2084"/>
+  <note>
+uni2084
+</note>
+  <outline>
+    <contour>
+      <point x="122" y="-160" type="line"/>
+      <point x="265" y="-160" type="line"/>
+      <point x="324" y="145" type="line" smooth="yes"/>
+      <point x="328" y="167"/>
+      <point x="341" y="206"/>
+      <point x="350" y="226" type="curve"/>
+      <point x="350" y="231" type="line"/>
+      <point x="330" y="237"/>
+      <point x="304" y="243"/>
+      <point x="265" y="243" type="curve" smooth="yes"/>
+      <point x="167" y="243"/>
+      <point x="72" y="241"/>
+      <point x="15" y="106" type="curve" smooth="yes"/>
+      <point x="-24" y="10" type="line"/>
+      <point x="-43" y="-89" type="line"/>
+      <point x="309" y="-89" type="line"/>
+      <point x="332" y="25" type="line"/>
+      <point x="118" y="25" type="line"/>
+      <point x="146" y="91" type="line" smooth="yes"/>
+      <point x="154" y="108"/>
+      <point x="158" y="123"/>
+      <point x="196" y="123" type="curve"/>
+      <point x="182" y="136" type="line"/>
+      <point x="179" y="132"/>
+      <point x="172" y="116"/>
+      <point x="170" y="101" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

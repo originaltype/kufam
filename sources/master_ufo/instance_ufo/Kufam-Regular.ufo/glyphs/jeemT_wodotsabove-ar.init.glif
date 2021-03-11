@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeemTwodotsabove-ar.init" format="2">
+  <advance width="724"/>
+  <anchor x="268" y="-253" name="bottom"/>
+  <anchor x="461" y="547" name="top"/>
+  <outline>
+    <component base="jeem-ar.init"/>
+    <component base="twodotshorizontalabove_ar" xOffset="343" yOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wawDotcenter-ar.fina" format="2">
+  <advance width="648"/>
+  <anchor x="601" y="-76" name="bar"/>
+  <anchor x="252" y="-260" name="bottom"/>
+  <anchor x="64" y="-32" name="center"/>
+  <anchor x="430" y="476" name="high"/>
+  <anchor x="252" y="-260" name="ring"/>
+  <anchor x="296" y="476" name="top"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="dotcenter-ar" xOffset="-122" yOffset="-206"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dammatan-ar" format="2">
+  <unicode hex="064C"/>
+  <note>
+uni064C
+</note>
+  <anchor x="194.0" y="518.9" name="_top"/>
+  <anchor x="193.4" y="851.8" name="top"/>
+  <outline>
+    <contour>
+      <point x="200.7" y="638.0" type="line"/>
+      <point x="169.2" y="663.5"/>
+      <point x="160.2" y="693.9"/>
+      <point x="160.2" y="720.0" type="curve" smooth="yes"/>
+      <point x="160.2" y="784.9"/>
+      <point x="216.4" y="836.0"/>
+      <point x="277.2" y="836.0" type="curve" smooth="yes"/>
+      <point x="339.4" y="836.0"/>
+      <point x="373.2" y="791.7"/>
+      <point x="373.2" y="742.8" type="curve" smooth="yes"/>
+      <point x="373.2" y="664.7"/>
+      <point x="301.1" y="610.4"/>
+      <point x="210.8" y="610.4" type="curve" smooth="yes"/>
+      <point x="168.7" y="610.4"/>
+      <point x="131.7" y="624.3"/>
+      <point x="104.6" y="649.2" type="curve"/>
+      <point x="56.0" y="594.5" type="line"/>
+      <point x="3.0" y="643.2" type="line"/>
+      <point x="93.1" y="738.6" type="line"/>
+      <point x="98.0" y="738.6" type="line"/>
+      <point x="128.7" y="704.4"/>
+      <point x="158.5" y="678.8"/>
+      <point x="203.2" y="678.8" type="curve" smooth="yes"/>
+      <point x="253.2" y="678.8"/>
+      <point x="298.6" y="700.8"/>
+      <point x="298.6" y="737.9" type="curve" smooth="yes"/>
+      <point x="298.6" y="759.7"/>
+      <point x="282.3" y="775.2"/>
+      <point x="261.3" y="776.6" type="curve"/>
+      <point x="279.0" y="779.2" type="line"/>
+      <point x="250.1" y="767.3"/>
+      <point x="236.8" y="742.5"/>
+      <point x="236.1" y="718.1" type="curve" smooth="yes"/>
+      <point x="236.1" y="699.4"/>
+      <point x="241.6" y="683.9"/>
+      <point x="250.4" y="670.8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>350</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

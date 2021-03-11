@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rreh-ar" format="2">
+  <advance width="500"/>
+  <unicode hex="0691"/>
+  <note>
+uni0691
+</note>
+  <anchor x="444" y="0" name="*entry"/>
+  <anchor x="263" y="52" name="bar"/>
+  <anchor x="88" y="-260" name="bottom"/>
+  <anchor x="88" y="-260" name="ring"/>
+  <anchor x="291" y="868" name="top"/>
+  <outline>
+    <component base="_part.reh-ar"/>
+    <component base="tahabove-ar" xOffset="80" yOffset="279"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.reh-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

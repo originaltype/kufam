@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tsc" format="2">
+  <advance width="568.0"/>
+  <note>
+seven.sc
+</note>
+  <outline>
+    <contour>
+      <point x="140.66666666666666" y="572.0" type="line"/>
+      <point x="122.66666666666667" y="479.3333333333333" type="line"/>
+      <point x="472.0" y="479.3333333333333" type="line"/>
+      <point x="460.0" y="522.0" type="line"/>
+      <point x="90.66666666666667" y="8.0" type="line"/>
+      <point x="90.66666666666667" y="0.0" type="line"/>
+      <point x="206.0" y="0.0" type="line"/>
+      <point x="510.6666666666667" y="440.0" type="line" smooth="yes"/>
+      <point x="538.0" y="480.0"/>
+      <point x="553.3333333333334" y="512.0"/>
+      <point x="553.3333333333334" y="550.0" type="curve"/>
+      <point x="553.3333333333334" y="553.8333333333334"/>
+      <point x="553.3333333333334" y="556.8333333333334"/>
+      <point x="552.6666666666666" y="560.6666666666666" type="curve"/>
+      <point x="544.6666666666666" y="572.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

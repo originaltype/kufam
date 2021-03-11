@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behDotless-ar.fina" format="2">
+  <advance width="1185"/>
+  <note>
+uni066E.fina
+</note>
+  <anchor x="872" y="0" name="*entry"/>
+  <anchor x="872" y="0" name="*exit"/>
+  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="548" y="0" name="ring"/>
+  <anchor x="549" y="389" name="top"/>
+  <outline>
+    <component base="_baseline2" xOffset="872"/>
+    <component base="behDotless-ar"/>
+  </outline>
+</glyph>

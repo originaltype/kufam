@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis.sc" format="2">
+  <advance width="641.3333333333334"/>
+  <note>
+udieresis.sc
+</note>
+  <anchor x="264.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="379.6666666666667" y="0.0" name="ogonek"/>
+  <anchor x="419.8333333333333" y="773.3333333333334" name="top"/>
+  <anchor x="597.3333333333334" y="572.0" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="dieresiscomb" xOffset="10.833333333333334" yOffset="27.333333333333332"/>
+  </outline>
+</glyph>

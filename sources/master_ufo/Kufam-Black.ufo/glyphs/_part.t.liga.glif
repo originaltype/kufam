@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.t.liga" format="2">
+  <advance width="448"/>
+  <outline>
+    <contour>
+      <point x="364" y="-8" type="curve" smooth="yes"/>
+      <point x="410" y="-8"/>
+      <point x="440" y="-4"/>
+      <point x="472" y="4" type="curve"/>
+      <point x="472" y="168" type="line"/>
+      <point x="460" y="168" type="line"/>
+      <point x="444" y="162"/>
+      <point x="422" y="156"/>
+      <point x="400" y="156" type="curve" smooth="yes"/>
+      <point x="340" y="156"/>
+      <point x="312" y="176"/>
+      <point x="312" y="232" type="curve" smooth="yes"/>
+      <point x="312" y="680" type="line"/>
+      <point x="100" y="680" type="line"/>
+      <point x="100" y="216" type="line" smooth="yes"/>
+      <point x="100" y="36"/>
+      <point x="216" y="-8"/>
+    </contour>
+    <contour>
+      <point x="8" y="388" type="line"/>
+      <point x="516" y="388" type="line"/>
+      <point x="516" y="548" type="line"/>
+      <point x="8" y="548" type="line"/>
+    </contour>
+  </outline>
+</glyph>

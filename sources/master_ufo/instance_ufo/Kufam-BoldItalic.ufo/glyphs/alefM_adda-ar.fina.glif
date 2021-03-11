@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMadda-ar.fina" format="2">
+  <advance width="385.0"/>
+  <note>
+uni0622.fina
+</note>
+  <anchor x="255.2" y="0.0" name="*entry"/>
+  <anchor x="255.2" y="0.0" name="*exit"/>
+  <anchor x="168.2" y="0.0" name="bottom"/>
+  <anchor x="164.0" y="855.0" name="top"/>
+  <outline>
+    <component base="alef-ar.fina.short"/>
+    <component base="madda-ar" xOffset="-25.7" yOffset="708.0"/>
+  </outline>
+</glyph>

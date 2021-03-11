@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="veh-ar" format="2">
+  <advance width="1208"/>
+  <unicode hex="06A4"/>
+  <note>
+uni06A4
+</note>
+  <anchor x="552" y="0" name="bottom"/>
+  <anchor x="899" y="832" name="top"/>
+  <outline>
+    <component base="fehDotless-ar"/>
+    <component base="threedotsupabove_ar" xOffset="798" yOffset="301"/>
+  </outline>
+</glyph>

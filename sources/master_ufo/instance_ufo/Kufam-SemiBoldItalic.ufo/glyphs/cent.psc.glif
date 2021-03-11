@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent.psc" format="2">
+  <advance width="473.6"/>
+  <note>
+cent.scppf
+</note>
+  <outline>
+    <component base="cent.sc" xOffset="-35.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

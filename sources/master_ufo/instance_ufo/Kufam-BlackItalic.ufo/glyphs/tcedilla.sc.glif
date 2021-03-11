@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla.sc" format="2">
+  <advance width="592"/>
+  <note>
+uni021B.sc
+</note>
+  <anchor x="191" y="-252" name="bottom"/>
+  <anchor x="296" y="286" name="center"/>
+  <anchor x="352" y="572" name="top"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="cedillacomb" xOffset="-43"/>
+  </outline>
+</glyph>

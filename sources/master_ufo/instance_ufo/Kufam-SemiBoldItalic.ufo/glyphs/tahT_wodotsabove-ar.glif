@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tahTwodotsabove-ar" format="2">
+  <advance width="1293.2"/>
+  <unicode hex="08A3"/>
+  <anchor x="1027.4" y="0.0" name="*entry_1"/>
+  <anchor x="373.6" y="0.0" name="*entry_2"/>
+  <anchor x="373.6" y="0.0" name="*exit"/>
+  <anchor x="706.4" y="0.0" name="bottom"/>
+  <anchor x="710.8" y="650.2" name="top"/>
+  <anchor x="281.0" y="85.2" name="verticalbar"/>
+  <outline>
+    <component base="tah-ar"/>
+    <component base="twodotshorizontalabove_ar" xOffset="592.8" yOffset="210.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

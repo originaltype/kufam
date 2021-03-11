@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar" format="2">
+  <advance width="1403.4"/>
+  <unicode hex="0636"/>
+  <note>
+uni0636
+</note>
+  <anchor x="1137.6" y="0.0" name="*entry_1"/>
+  <anchor x="483.8" y="0.0" name="*entry_2"/>
+  <anchor x="483.8" y="0.0" name="*exit"/>
+  <anchor x="816.6" y="0.0" name="bottom_1"/>
+  <anchor x="193.2" y="-260.0" name="bottom_2"/>
+  <anchor x="814.8" y="438.2" name="top_1"/>
+  <anchor x="131.6" y="41.0" name="top_2"/>
+  <anchor x="391.2" y="85.2" name="verticalbar"/>
+  <outline>
+    <component base="_loop-ar" xOffset="434.6"/>
+    <component base="dotabove_ar" xOffset="580.8" yOffset="-117.0"/>
+    <component base="_part.bowl-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

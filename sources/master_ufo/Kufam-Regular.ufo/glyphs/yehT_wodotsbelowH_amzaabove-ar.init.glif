@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTwodotsbelowHamzaabove-ar.init" format="2">
+  <advance width="316"/>
+  <anchor x="112" y="-231" name="bottom"/>
+  <anchor x="122" y="0" name="ring"/>
+  <anchor x="170" y="820" name="top"/>
+  <outline>
+    <component base="yeh-ar.init"/>
+    <component base="hamzaabove-ar" xOffset="41" yOffset="568"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one-ar" format="2">
+  <advance width="372"/>
+  <unicode hex="0661"/>
+  <note>
+uni0661
+</note>
+  <outline>
+    <contour>
+      <point x="80" y="740" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="292" y="606" type="line" smooth="yes"/>
+      <point x="292" y="646"/>
+      <point x="292" y="716"/>
+      <point x="300" y="752" type="curve"/>
+      <point x="298" y="760" type="line"/>
+    </contour>
+  </outline>
+</glyph>

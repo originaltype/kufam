@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotbelowThreedotsabove-ar" format="2">
+  <advance width="1210.8"/>
+  <unicode hex="08A4"/>
+  <anchor x="549.2" y="-259.0" name="bottom"/>
+  <anchor x="887.1" y="926.5" name="top"/>
+  <outline>
+    <component base="fehDotless-ar"/>
+    <component base="dotbelow_ar" xOffset="363.2" yOffset="-343.0"/>
+    <component base="threedotsupabove_ar" xOffset="779.8" yOffset="333.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

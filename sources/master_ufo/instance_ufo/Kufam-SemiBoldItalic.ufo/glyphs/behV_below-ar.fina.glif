@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behVbelow-ar.fina" format="2">
+  <advance width="1184.4"/>
+  <anchor x="857.6" y="0.0" name="*entry"/>
+  <anchor x="857.6" y="0.0" name="*exit"/>
+  <anchor x="563.6" y="-244.8" name="bottom"/>
+  <anchor x="557.6" y="0.0" name="ring"/>
+  <anchor x="564.0" y="357.2" name="top"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="vbelow-ar" xOffset="453.6" yOffset="-366.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

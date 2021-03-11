@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four-persian" format="2">
+  <advance width="725"/>
+  <unicode hex="06F4"/>
+  <note>
+uni06F4
+</note>
+  <outline>
+    <contour>
+      <point x="694" y="486" type="line"/>
+      <point x="694" y="497" type="line"/>
+      <point x="605" y="497" type="line" smooth="yes"/>
+      <point x="532" y="497"/>
+      <point x="497" y="533"/>
+      <point x="478" y="615" type="curve"/>
+      <point x="484" y="472" type="line"/>
+      <point x="511" y="597"/>
+      <point x="557" y="601"/>
+      <point x="620" y="601" type="curve" smooth="yes"/>
+      <point x="645" y="601" type="line"/>
+      <point x="701" y="749" type="line"/>
+      <point x="701" y="760" type="line"/>
+      <point x="635" y="760" type="line" smooth="yes"/>
+      <point x="451" y="760"/>
+      <point x="360" y="667"/>
+      <point x="360" y="580" type="curve" smooth="yes"/>
+      <point x="360" y="496"/>
+      <point x="460" y="446"/>
+      <point x="562" y="429" type="curve"/>
+      <point x="451" y="494" type="line"/>
+      <point x="360" y="493"/>
+      <point x="287" y="572"/>
+      <point x="276" y="615" type="curve"/>
+      <point x="292" y="500" type="line"/>
+      <point x="292" y="661"/>
+      <point x="293" y="719"/>
+      <point x="300" y="752" type="curve"/>
+      <point x="298" y="760" type="line"/>
+      <point x="80" y="740" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="292" y="488" type="line"/>
+      <point x="248" y="453" type="line"/>
+      <point x="316" y="349"/>
+      <point x="426" y="332"/>
+      <point x="515" y="332" type="curve" smooth="yes"/>
+      <point x="576" y="332"/>
+      <point x="640" y="347"/>
+      <point x="640" y="347" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>two-ar</string>
+    </dict>
+  </lib>
+</glyph>

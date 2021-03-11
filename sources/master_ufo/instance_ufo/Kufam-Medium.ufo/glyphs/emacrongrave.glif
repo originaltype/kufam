@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacrongrave" format="2">
+  <advance width="603.5"/>
+  <unicode hex="1E15"/>
+  <anchor x="302.1666666666667" y="0.0" name="bottom"/>
+  <anchor x="516.6666666666666" y="20.333333333333332" name="ogonek"/>
+  <anchor x="302.1666666666667" y="935.3333333333334" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="macroncomb" xOffset="-8.833333333333334"/>
+    <component base="gravecomb" xOffset="39.333333333333336" yOffset="175.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kasratan-ar" format="2">
+  <unicode hex="064D"/>
+  <note>
+uni064D
+</note>
+  <anchor x="182.5" y="-11.166666666666666" name="_bottom"/>
+  <anchor x="182.5" y="-274.8333333333333" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="47.166666666666664" y="-317.5" type="line"/>
+      <point x="55.833333333333336" y="-317.5" type="line"/>
+      <point x="313.3333333333333" y="-233.66666666666666" type="line"/>
+      <point x="313.3333333333333" y="-175.16666666666666" type="line"/>
+      <point x="304.6666666666667" y="-175.16666666666666" type="line"/>
+      <point x="47.166666666666664" y="-259.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="47.166666666666664" y="-214.16666666666666" type="line"/>
+      <point x="55.833333333333336" y="-214.16666666666666" type="line"/>
+      <point x="313.3333333333333" y="-130.33333333333334" type="line"/>
+      <point x="313.3333333333333" y="-71.83333333333333" type="line"/>
+      <point x="304.6666666666667" y="-71.83333333333333" type="line"/>
+      <point x="47.166666666666664" y="-155.66666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>350</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

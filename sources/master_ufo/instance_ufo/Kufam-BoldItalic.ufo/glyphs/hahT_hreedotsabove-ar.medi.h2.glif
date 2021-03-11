@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahThreedotsabove-ar.medi.h2" format="2">
+  <advance width="408.6"/>
+  <anchor x="281.7" y="0.0" name="bottom"/>
+  <anchor x="364.3" y="841.9" name="top"/>
+  <outline>
+    <component base="hah-ar.medi.h2"/>
+    <component base="threedotsupabove_ar" xScale="0.93" yScale="0.93" xOffset="264.7" yOffset="292.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

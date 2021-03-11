@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="294.6666666666667"/>
+  <unicode hex="0069"/>
+  <note>
+i
+</note>
+  <anchor x="94.5" y="0.0" name="bottom"/>
+  <anchor x="151.33333333333334" y="0.0" name="ogonek"/>
+  <anchor x="202.16666666666666" y="544.6666666666666" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="_part.dot" xOffset="-3.1666666666666665"/>
+  </outline>
+</glyph>

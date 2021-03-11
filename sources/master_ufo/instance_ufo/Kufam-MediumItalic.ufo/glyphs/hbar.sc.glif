@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar.sc" format="2">
+  <advance width="674.0"/>
+  <note>
+hbar.sc
+</note>
+  <anchor x="279.0" y="0.0" name="bottom"/>
+  <anchor x="375.3333333333333" y="458.3333333333333" name="center"/>
+  <anchor x="400.8333333333333" y="572.0" name="top"/>
+  <anchor x="83.83333333333333" y="572.0" name="topleft"/>
+  <outline>
+    <component base="h.sc"/>
+    <component base="strokelongcomb.sc" xOffset="38.0"/>
+  </outline>
+</glyph>

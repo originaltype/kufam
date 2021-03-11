@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behDotless-ar.init" format="2">
+  <advance width="360.8"/>
+  <note>
+uni066E.init
+</note>
+  <anchor x="160.4" y="0.0" name="bottom"/>
+  <anchor x="129.0" y="0.0" name="ring"/>
+  <anchor x="187.1" y="558.2" name="top"/>
+  <outline>
+    <contour>
+      <point x="-20.0" y="0.0" type="line"/>
+      <point x="111.19999999999999" y="0.0" type="line" smooth="yes"/>
+      <point x="195.2" y="0.0"/>
+      <point x="249.6" y="8.0"/>
+      <point x="289.6" y="24.0" type="curve"/>
+      <point x="289.6" y="32.0" type="line"/>
+      <point x="281.6" y="68.0"/>
+      <point x="281.6" y="146.0"/>
+      <point x="281.6" y="186.0" type="curve" smooth="yes"/>
+      <point x="281.6" y="534.8" type="line"/>
+      <point x="270.8" y="534.8" type="line"/>
+      <point x="105.6" y="517.2" type="line"/>
+      <point x="105.6" y="235.6" type="line" smooth="yes"/>
+      <point x="105.6" y="180.3"/>
+      <point x="111.2" y="137.6"/>
+      <point x="126.7" y="122.1" type="curve"/>
+      <point x="185.2" y="148.7" type="line"/>
+      <point x="0.0" y="148.7" type="line"/>
+      <point x="-20.0" y="128.7" type="line"/>
+    </contour>
+  </outline>
+</glyph>

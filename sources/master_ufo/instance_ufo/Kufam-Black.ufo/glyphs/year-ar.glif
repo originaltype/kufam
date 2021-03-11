@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="year-ar" format="2">
+  <advance width="2344"/>
+  <unicode hex="0601"/>
+  <outline>
+    <contour>
+      <point x="730" y="0" type="curve"/>
+      <point x="1870" y="0" type="line"/>
+      <point x="2028" y="0"/>
+      <point x="2096" y="-19"/>
+      <point x="2174" y="-91" type="curve"/>
+      <point x="2280" y="46" type="line"/>
+      <point x="2164" y="156"/>
+      <point x="2058" y="176"/>
+      <point x="1918" y="176" type="curve"/>
+      <point x="969" y="176" type="line"/>
+      <point x="1055" y="90" type="line"/>
+      <point x="1055" y="494" type="line"/>
+      <point x="1043" y="494" type="line"/>
+      <point x="843" y="474" type="line"/>
+      <point x="843" y="264" type="line" smooth="yes"/>
+      <point x="843" y="203"/>
+      <point x="848" y="161"/>
+      <point x="868" y="147" type="curve"/>
+      <point x="937" y="176" type="line"/>
+      <point x="750" y="176" type="line" smooth="yes"/>
+      <point x="644" y="176"/>
+      <point x="604" y="239"/>
+      <point x="590" y="395" type="curve"/>
+      <point x="443" y="483" type="line"/>
+      <point x="329" y="464"/>
+      <point x="167" y="406"/>
+      <point x="40" y="331" type="curve"/>
+      <point x="87" y="146" type="line"/>
+      <point x="100" y="146" type="line"/>
+      <point x="212" y="215"/>
+      <point x="368" y="280"/>
+      <point x="485" y="296" type="curve"/>
+      <point x="434" y="375" type="line"/>
+      <point x="434" y="71"/>
+      <point x="587" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hehgoal-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seen-ar.init</string>
+    </dict>
+  </lib>
+</glyph>

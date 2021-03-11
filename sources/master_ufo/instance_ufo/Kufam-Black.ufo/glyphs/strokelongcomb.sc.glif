@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokelongcomb.sc" format="2">
+  <anchor x="336" y="470" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-16" y="416" type="line"/>
+      <point x="688" y="416" type="line"/>
+      <point x="688" y="524" type="line"/>
+      <point x="-16" y="524" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>672</integer>
+    </dict>
+  </lib>
+</glyph>

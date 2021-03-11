@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.sc" format="2">
+  <advance width="569.2"/>
+  <note>
+tbar.sc
+</note>
+  <anchor x="228.6" y="0.0" name="bottom"/>
+  <anchor x="284.6" y="286.0" name="center"/>
+  <anchor x="340.6" y="572.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="63.3" y="208.8" type="line"/>
+      <point x="485.6" y="208.8" type="line"/>
+      <point x="508.0" y="314.4" type="line"/>
+      <point x="86.3" y="314.4" type="line"/>
+    </contour>
+    <component base="t.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t.sc</string>
+    </dict>
+  </lib>
+</glyph>

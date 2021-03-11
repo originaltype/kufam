@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeem-ar.init" format="2">
+  <advance width="776.0"/>
+  <note>
+uni062C.init
+</note>
+  <anchor x="285.6" y="-256.6" name="bottom"/>
+  <anchor x="491.2" y="383.8" name="top"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="dotbelow_ar" xOffset="99.6" yOffset="-340.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

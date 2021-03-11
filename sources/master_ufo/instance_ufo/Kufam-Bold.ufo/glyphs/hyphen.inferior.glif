@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen.inferior" format="2">
+  <advance width="377.7"/>
+  <note>
+hyphen.inferior
+</note>
+  <outline>
+    <contour>
+      <point x="51.6" y="91.8" type="line"/>
+      <point x="51.6" y="-14.799999999999997" type="line"/>
+      <point x="326.8" y="-14.799999999999997" type="line"/>
+      <point x="326.8" y="91.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

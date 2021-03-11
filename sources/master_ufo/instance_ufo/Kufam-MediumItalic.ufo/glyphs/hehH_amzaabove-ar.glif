@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehHamzaabove-ar" format="2">
+  <advance width="562.0"/>
+  <unicode hex="06C0"/>
+  <note>
+uni06C0
+</note>
+  <anchor x="273.3333333333333" y="-8.666666666666666" name="bottom"/>
+  <anchor x="291.3333333333333" y="854.6666666666666" name="top"/>
+  <outline>
+    <component base="heh-ar"/>
+    <component base="hamzaabove-ar" xOffset="159.66666666666666" yOffset="602.6666666666666"/>
+  </outline>
+</glyph>
