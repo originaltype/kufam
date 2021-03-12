@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="foururducenter-ar" format="2">
-  <advance width="197.33333333333334"/>
-  <anchor x="113.33333333333333" y="517.6666666666666" name="_center"/>
-  <outline>
-    <component base="_foururdu-ar"/>
-  </outline>
-</glyph>

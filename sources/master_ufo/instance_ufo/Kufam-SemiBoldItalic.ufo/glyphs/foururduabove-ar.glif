@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="foururduabove-ar" format="2">
-  <advance width="204.8"/>
-  <anchor x="105.0" y="289.0" name="_top"/>
-  <anchor x="105.0" y="610.8" name="top"/>
-  <outline>
-    <component base="_foururdu-ar"/>
-  </outline>
-</glyph>
